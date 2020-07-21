@@ -22,6 +22,12 @@ I like to do project that has relation to anime. :ghost:
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//moepoi/TeleDart/pull/1) in [moepoi/TeleDart](https://github.com//moepoi/TeleDart)
+2. 💪 Opened PR [#1](https://github.com//moepoi/TeleDart/pull/1) in [moepoi/TeleDart](https://github.com//moepoi/TeleDart)
+3. 💪 Opened PR [#110](https://github.com//DinoLeung/TeleDart/pull/110) in [DinoLeung/TeleDart](https://github.com//DinoLeung/TeleDart)
+4. ❗️ Opened issue [#289](https://github.com//jikan-me/jikan/issues/289) in [jikan-me/jikan](https://github.com//jikan-me/jikan)
+5. ❗️ Opened issue [#1](https://github.com//javoeria/jikan-dart/issues/1) in [javoeria/jikan-dart](https://github.com//javoeria/jikan-dart)
+<!--END_SECTION:activity-->
 
 </details>
 
