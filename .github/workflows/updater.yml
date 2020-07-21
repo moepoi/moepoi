@@ -31,7 +31,7 @@ jobs:
         env:
           ANILIST_TOKEN: ${{ secrets.ANILIST_TOKEN }}
         run: |-
-          python build_readme.py
+          python favorites_updater.py
           cat README.md
       - name: Commit and push if changed
         run: |-
