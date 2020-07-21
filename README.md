@@ -64,6 +64,22 @@ I like to do project that has relation to anime. :ghost:
 
 </details>
 
+<details>
+<summary>:book: List Favorites Manga</summary>
+  
+<!-- favorites_manga starts -->
+<!-- favorites_manga ends -->
+
+</details>
+
+<details>
+<summary>:girl: List Favorites Characters</summary>
+  
+<!-- favorites_characters starts -->
+<!-- favorites_characters ends -->
+
+</details>
+
 Feel free to contact me :yum:
 <br>
 [<img src="https://img.icons8.com/cute-clipart/100/000000/telegram-app.png" width="40px">](https://t.me/moepoi)
