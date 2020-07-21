@@ -75,7 +75,7 @@ query($favPage: Int) {
 }
 """
 
-def fetch_favorites(oauth_token):
+def fetch_favorites(oauth_token, types='anime'):
     results = []
     variables = {"favPage": 1}
     data = client.execute(
@@ -83,10 +83,10 @@ def fetch_favorites(oauth_token):
         variables=variables,
         headers={"Authorization": "Bearer {}".format(oauth_token)},
     )
-    for x in data['data']['Viewer']['favourites']['anime']['nodes']:
+    for x in data['data']['Viewer']['favourites'][types]['nodes']:
         results.append(
             {
-                'title': x['title']['romaji'],
+                'title': x['title']['romaji'] if types != 'characters' else x['name']['full'],
                 'url': x['siteUrl']
             }
         )
@@ -94,13 +94,33 @@ def fetch_favorites(oauth_token):
 
 if __name__ == "__main__":
     readme = root / "README.md"
-    data = fetch_favorites(TOKEN)
+    readme_contents = readme.open().read()
+    # Favorites Anime
+    data = fetch_favorites(TOKEN, types='anime')
     res = "\n".join(
         [
             "* [{title}]({url})".format(**x)
             for x in data
         ]
     )
-    readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "favorites_anime", res)
+    # Favorites Manga
+    data = fetch_favorites(TOKEN, types='manga')
+    res = "\n".join(
+        [
+            "* [{title}]({url})".format(**x)
+            for x in data
+        ]
+    )
+    rewritten = replace_chunk(readme_contents, "favorites_manga", res)
+    # Favorites Characters
+    data = fetch_favorites(TOKEN, types='characters')
+    res = "\n".join(
+        [
+            "* [{title}]({url})".format(**x)
+            for x in data
+        ]
+    )
+    rewritten = replace_chunk(readme_contents, "favorites_characters", res)
+    
     readme.open("w").write(rewritten)
