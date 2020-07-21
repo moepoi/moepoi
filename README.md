@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Moepoi (17) ! :sunglasses:
+I'm [Moepoi](https://moepoi.dev) (17) ! :sunglasses:
 
 I like to do project that has relation to anime. :ghost:
 
@@ -11,9 +11,9 @@ I like to do project that has relation to anime. :ghost:
 - GraphQL
 
 :star: Here are some projects that I'm working on:
-- Nepgear
-- WhoisBot
-- Moe API
+- [Nepgear](https://t.me/NepgearBot)
+- [WhoisBot](https://t.me/WhoisBot)
+- [Moe API](https://beta.moe.team)
 - etc.
 
 ![Moepoi's github stats](https://github-readme-stats.vercel.app/api?username=moepoi&show_icons=true)
