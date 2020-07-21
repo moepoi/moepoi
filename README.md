@@ -31,6 +31,14 @@ I like to do project that has relation to anime. :ghost:
 
 </details>
 
+<details>
+<summary>:tv: List Favorites Anime</summary>
+  
+<!-- favorites_anime starts -->
+<!-- favorites_anime ends -->
+
+</details>
+
 Feel free to contact me :yum:
 <br>
 [<img src="https://img.icons8.com/cute-clipart/100/000000/telegram-app.png" width="40px">](https://t.me/moepoi)
