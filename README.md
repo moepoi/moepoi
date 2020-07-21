@@ -22,7 +22,6 @@ I like to do project that has relation to anime. :ghost:
 <summary>:zap: Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 </details>
 
