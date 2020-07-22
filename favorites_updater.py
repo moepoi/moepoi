@@ -114,7 +114,7 @@ if __name__ == "__main__":
         ]
     )
     print (res)
-    rewritten = replace_chunk(readme_contents, "favorites_mangas", res)
+    rewritten = replace_chunk(readme_contents, "favorites_manga", res)
     # Favorites Characters
     data = fetch_favorites(TOKEN, types='characters')
     res = "\n".join(
