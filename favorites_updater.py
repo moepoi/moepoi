@@ -103,6 +103,7 @@ if __name__ == "__main__":
             for x in data
         ]
     )
+    print (res)
     rewritten = replace_chunk(readme_contents, "favorites_anime", res)
     # Favorites Manga
     data = fetch_favorites(TOKEN, types='manga')
@@ -112,6 +113,7 @@ if __name__ == "__main__":
             for x in data
         ]
     )
+    print (res)
     rewritten = replace_chunk(readme_contents, "favorites_manga", res)
     # Favorites Characters
     data = fetch_favorites(TOKEN, types='characters')
@@ -121,6 +123,7 @@ if __name__ == "__main__":
             for x in data
         ]
     )
+    print (res)
     rewritten = replace_chunk(readme_contents, "favorites_characters", res)
     
     readme.open("w").write(rewritten)
