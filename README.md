@@ -19,7 +19,7 @@ I like to do project that has relation to anime. :ghost:
 ![Moepoi's github stats](https://github-readme-stats.vercel.app/api?username=moepoi&show_icons=true)
 
 <details>
-<summary>:zap: Recent Activity</summary>
+<summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#136](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/136) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
@@ -28,6 +28,14 @@ I like to do project that has relation to anime. :ghost:
 4. 💪 Opened PR [#110](https://github.com//DinoLeung/TeleDart/pull/110) in [DinoLeung/TeleDart](https://github.com//DinoLeung/TeleDart)
 5. ❗️ Opened issue [#289](https://github.com//jikan-me/jikan/issues/289) in [jikan-me/jikan](https://github.com//jikan-me/jikan)
 <!--END_SECTION:activity-->
+
+</details>
+
+<details>
+<summary>:bar_chart: Recent Anilist Activity</summary>
+  
+<!-- anilist_activity starts -->
+<!-- anilist_activity ends -->
 
 </details>
 
