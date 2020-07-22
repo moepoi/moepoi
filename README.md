@@ -85,8 +85,8 @@ I like to do project that has relation to anime. :ghost:
 <details>
 <summary>:book: List Favorites Manga</summary>
   
-<!-- favorites_mangas starts -->
-<!-- favorites_mangas ends -->
+<!-- favorites_manga starts -->
+<!-- favorites_manga ends -->
 
 </details>
 
