@@ -256,7 +256,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
     # List Activity
-    data = fetch_favorites(TOKEN, userId=161753)
+    data = fetch_activity(TOKEN, userId=161753)
     res = "\n".join(
         [
             "* [{status}]({activity_url}) {progress} of [{title}]({url})".format(**x)
