@@ -259,7 +259,7 @@ if __name__ == "__main__":
     data = fetch_activity(TOKEN, userId=161753)
     res = "\n".join(
         [
-            "* [{status}]({activity_url}) {progress} of [{title}]({url})".format(**x)
+            "* [{status} {progress}]({activity_url}) of [{title}]({url})".format(**x)
             for x in data
         ]
     )
