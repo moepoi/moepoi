@@ -32,6 +32,7 @@ jobs:
           ANILIST_TOKEN: ${{ secrets.ANILIST_TOKEN }}
         run: |-
           python favorites_updater.py
+          python activity_updater.py
           cat README.md
       - name: Commit and push if changed
         run: |-
