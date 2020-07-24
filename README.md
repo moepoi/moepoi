@@ -35,6 +35,8 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 22](https://anilist.co/activity/101798606) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
+* [watched episode 14](https://anilist.co/activity/101798547) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 4](https://anilist.co/activity/101185481) of [Shouxi Yu Ling Shi](https://anilist.co/anime/119928)
 * [watched episode 33](https://anilist.co/activity/101185367) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 135](https://anilist.co/activity/101029399) of [Black Clover](https://anilist.co/anime/97940)
@@ -43,8 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 25](https://anilist.co/activity/101013488) of [Yi Shijie Zhongyao Pu](https://anilist.co/anime/119929)
 * [watched episode 42](https://anilist.co/activity/101013476) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 2](https://anilist.co/activity/100718547) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
-* [watched episode 3](https://anilist.co/activity/100718448) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
-* [watched episode 3](https://anilist.co/activity/100718321) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
 <!-- anilist_activity ends -->
 
 </details>
