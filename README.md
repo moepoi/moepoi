@@ -35,6 +35,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/102468694) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
 * [watched episode 43](https://anilist.co/activity/102465040) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 4](https://anilist.co/activity/102464948) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 * [watched episode 34](https://anilist.co/activity/102359776) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
@@ -44,7 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/102193474) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 * [watched episode 4](https://anilist.co/activity/102186003) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [watched episode 31](https://anilist.co/activity/101866057) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
-* [watched episode 22](https://anilist.co/activity/101798606) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 <!-- anilist_activity ends -->
 
 </details>
