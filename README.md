@@ -35,6 +35,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/103014883) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
 * [watched episode 15](https://anilist.co/activity/103010189) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 23](https://anilist.co/activity/103008461) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 44](https://anilist.co/activity/103007197) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -44,7 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 34](https://anilist.co/activity/102359776) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 6](https://anilist.co/activity/102359731) of [Yuanlong](https://anilist.co/anime/120320)
 * [watched episode 114](https://anilist.co/activity/102359671) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
-* [watched episode 4](https://anilist.co/activity/102359583) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
 <!-- anilist_activity ends -->
 
 </details>
