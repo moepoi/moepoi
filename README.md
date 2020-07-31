@@ -102,6 +102,7 @@ I like to do project that has relation to anime. :ghost:
 * [Miyuki Shiba](https://anilist.co/character/55741)
 * [Myucel Foaran](https://anilist.co/character/87640)
 * [Holo](https://anilist.co/character/7373)
+* [Chizuru Ichinose](https://anilist.co/character/128106)
 <!-- favorites_characters ends -->
 
 </details>
