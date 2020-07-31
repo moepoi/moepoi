@@ -22,11 +22,11 @@ I like to do project that has relation to anime. :ghost:
 <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/136) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🎉 Merged PR [#1](https://github.com//moepoi/TeleDart/pull/1) in [moepoi/TeleDart](https://github.com//moepoi/TeleDart)
-3. 💪 Opened PR [#1](https://github.com//moepoi/TeleDart/pull/1) in [moepoi/TeleDart](https://github.com//moepoi/TeleDart)
-4. 💪 Opened PR [#110](https://github.com//DinoLeung/TeleDart/pull/110) in [DinoLeung/TeleDart](https://github.com//DinoLeung/TeleDart)
-5. ❗️ Opened issue [#289](https://github.com//jikan-me/jikan/issues/289) in [jikan-me/jikan](https://github.com//jikan-me/jikan)
+1. 💪 Opened PR [#117](https://github.com//DinoLeung/TeleDart/pull/117) in [DinoLeung/TeleDart](https://github.com//DinoLeung/TeleDart)
+2. 💪 Opened PR [#136](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/136) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+3. 🎉 Merged PR [#1](https://github.com//moepoi/TeleDart/pull/1) in [moepoi/TeleDart](https://github.com//moepoi/TeleDart)
+4. 💪 Opened PR [#1](https://github.com//moepoi/TeleDart/pull/1) in [moepoi/TeleDart](https://github.com//moepoi/TeleDart)
+5. 💪 Opened PR [#110](https://github.com//DinoLeung/TeleDart/pull/110) in [DinoLeung/TeleDart](https://github.com//DinoLeung/TeleDart)
 <!--END_SECTION:activity-->
 
 </details>
