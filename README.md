@@ -35,6 +35,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [dropped None](https://anilist.co/activity/104515795) of [Boogiepop wa Warawanai: Boogiepop Phantom](https://anilist.co/anime/369)
 * [paused watching None](https://anilist.co/activity/104504958) of [Boogiepop wa Warawanai: Boogiepop Phantom](https://anilist.co/anime/369)
 * [watched episode 36](https://anilist.co/activity/104476215) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 5](https://anilist.co/activity/104474837) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
@@ -44,7 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 17](https://anilist.co/activity/104235012) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
 * [watched episode 4](https://anilist.co/activity/104230233) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
 * [watched episode 32](https://anilist.co/activity/103939466) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
-* [watched episode 2 - 3](https://anilist.co/activity/103882415) of [Strike the Blood IV](https://anilist.co/anime/112296)
 <!-- anilist_activity ends -->
 
 </details>
