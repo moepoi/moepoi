@@ -35,6 +35,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/104673459) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [watched episode 1](https://anilist.co/activity/104667510) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
 * [plans to read None](https://anilist.co/activity/104617603) of [Kanojo, Okarishimasu](https://anilist.co/manga/99943)
 * [plans to watch None](https://anilist.co/activity/104608156) of [Boku Dake ga Inai Machi](https://anilist.co/anime/21234)
@@ -44,7 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [paused watching None](https://anilist.co/activity/104504958) of [Boogiepop wa Warawanai: Boogiepop Phantom](https://anilist.co/anime/369)
 * [watched episode 36](https://anilist.co/activity/104476215) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 5](https://anilist.co/activity/104474837) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
-* [watched episode 4](https://anilist.co/activity/104373871) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 <!-- anilist_activity ends -->
 
 </details>
