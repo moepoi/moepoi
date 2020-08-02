@@ -35,6 +35,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 45](https://anilist.co/activity/104535341) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 5](https://anilist.co/activity/104533364) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 * [dropped None](https://anilist.co/activity/104515795) of [Boogiepop wa Warawanai: Boogiepop Phantom](https://anilist.co/anime/369)
 * [paused watching None](https://anilist.co/activity/104504958) of [Boogiepop wa Warawanai: Boogiepop Phantom](https://anilist.co/anime/369)
@@ -44,7 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 115](https://anilist.co/activity/104316085) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 7](https://anilist.co/activity/104250216) of [Yuanlong](https://anilist.co/anime/120320)
 * [watched episode 17](https://anilist.co/activity/104235012) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
-* [watched episode 4](https://anilist.co/activity/104230233) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
 <!-- anilist_activity ends -->
 
 </details>
