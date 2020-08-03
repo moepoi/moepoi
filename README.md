@@ -35,6 +35,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/104944968) of [Xian Feng Jian Yu Lu](https://anilist.co/anime/120301)
 * [watched episode 17](https://anilist.co/activity/104939923) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 25](https://anilist.co/activity/104939872) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 4](https://anilist.co/activity/104869311) of [Strike the Blood IV](https://anilist.co/anime/112296)
@@ -44,7 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/104608156) of [Boku Dake ga Inai Machi](https://anilist.co/anime/21234)
 * [watched episode 45](https://anilist.co/activity/104535341) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 5](https://anilist.co/activity/104533364) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
-* [dropped None](https://anilist.co/activity/104515795) of [Boogiepop wa Warawanai: Boogiepop Phantom](https://anilist.co/anime/369)
 <!-- anilist_activity ends -->
 
 </details>
