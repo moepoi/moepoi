@@ -35,6 +35,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/105117386) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
 * [watched episode 2](https://anilist.co/activity/105062460) of [Xian Feng Jian Yu Lu](https://anilist.co/anime/120301)
 * [watched episode 3](https://anilist.co/activity/105062278) of [Fanren Xiu Xian Chuan](https://anilist.co/anime/115844)
 * [watched episode 2](https://anilist.co/activity/105061664) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
@@ -44,7 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/104673459) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [watched episode 1](https://anilist.co/activity/104667510) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
 * [plans to read None](https://anilist.co/activity/104617603) of [Kanojo, Okarishimasu](https://anilist.co/manga/99943)
-* [plans to watch None](https://anilist.co/activity/104608156) of [Boku Dake ga Inai Machi](https://anilist.co/anime/21234)
 <!-- anilist_activity ends -->
 
 </details>
