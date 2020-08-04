@@ -35,6 +35,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/105216638) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 46](https://anilist.co/activity/105211512) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 5](https://anilist.co/activity/105117386) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
 * [watched episode 2](https://anilist.co/activity/105062460) of [Xian Feng Jian Yu Lu](https://anilist.co/anime/120301)
@@ -44,7 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 25](https://anilist.co/activity/104939872) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 4](https://anilist.co/activity/104869311) of [Strike the Blood IV](https://anilist.co/anime/112296)
 * [watched episode 5](https://anilist.co/activity/104673459) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
-* [watched episode 1](https://anilist.co/activity/104667510) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
 <!-- anilist_activity ends -->
 
 </details>
