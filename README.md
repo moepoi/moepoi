@@ -35,7 +35,9 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 3](https://anilist.co/activity/104944968) of [Xian Feng Jian Yu Lu](https://anilist.co/anime/120301)
+* [watched episode 2](https://anilist.co/activity/105062460) of [Xian Feng Jian Yu Lu](https://anilist.co/anime/120301)
+* [watched episode 3](https://anilist.co/activity/105062278) of [Fanren Xiu Xian Chuan](https://anilist.co/anime/115844)
+* [watched episode 2](https://anilist.co/activity/105061664) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
 * [watched episode 17](https://anilist.co/activity/104939923) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 25](https://anilist.co/activity/104939872) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 4](https://anilist.co/activity/104869311) of [Strike the Blood IV](https://anilist.co/anime/112296)
@@ -43,8 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/104667510) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
 * [plans to read None](https://anilist.co/activity/104617603) of [Kanojo, Okarishimasu](https://anilist.co/manga/99943)
 * [plans to watch None](https://anilist.co/activity/104608156) of [Boku Dake ga Inai Machi](https://anilist.co/anime/21234)
-* [watched episode 45](https://anilist.co/activity/104535341) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 5](https://anilist.co/activity/104533364) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 <!-- anilist_activity ends -->
 
 </details>
