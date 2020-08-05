@@ -35,6 +35,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 37](https://anilist.co/activity/105435666) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 137](https://anilist.co/activity/105230725) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 5](https://anilist.co/activity/105216638) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 46](https://anilist.co/activity/105211512) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -44,7 +45,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/105061664) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
 * [watched episode 17](https://anilist.co/activity/104939923) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 25](https://anilist.co/activity/104939872) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
-* [watched episode 4](https://anilist.co/activity/104869311) of [Strike the Blood IV](https://anilist.co/anime/112296)
 <!-- anilist_activity ends -->
 
 </details>
