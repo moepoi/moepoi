@@ -22,16 +22,16 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/106412778) of [Yuanlong](https://anilist.co/anime/120320)
+* [watched episode 18](https://anilist.co/activity/106408054) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
+* [watched episode 5](https://anilist.co/activity/106345540) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
+* [watched episode 116](https://anilist.co/activity/106344029) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
+* [watched episode 33](https://anilist.co/activity/106091565) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
+* [watched episode 26](https://anilist.co/activity/106038227) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 18](https://anilist.co/activity/105778288) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 4 - 5](https://anilist.co/activity/105738839) of [Fanren Xiu Xian Chuan](https://anilist.co/anime/115844)
 * [watched episode 3 - 4](https://anilist.co/activity/105443579) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
 * [watched episode 37](https://anilist.co/activity/105435666) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
-* [watched episode 137](https://anilist.co/activity/105230725) of [Black Clover](https://anilist.co/anime/97940)
-* [watched episode 5](https://anilist.co/activity/105216638) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
-* [watched episode 46](https://anilist.co/activity/105211512) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 5](https://anilist.co/activity/105117386) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
-* [watched episode 2](https://anilist.co/activity/105062460) of [Xian Feng Jian Yu Lu](https://anilist.co/anime/120301)
-* [watched episode 3](https://anilist.co/activity/105062278) of [Fanren Xiu Xian Chuan](https://anilist.co/anime/115844)
 <!-- anilist_activity ends -->
 
 </details>
