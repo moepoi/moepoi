@@ -22,6 +22,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 117](https://anilist.co/activity/107012445) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 19](https://anilist.co/activity/107009187) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 27](https://anilist.co/activity/107007795) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 38](https://anilist.co/activity/106700239) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
@@ -31,7 +32,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/106631106) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
 * [watched episode 8](https://anilist.co/activity/106412778) of [Yuanlong](https://anilist.co/anime/120320)
 * [watched episode 18](https://anilist.co/activity/106408054) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
-* [watched episode 5](https://anilist.co/activity/106345540) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
 <!-- anilist_activity ends -->
 
 </details>
