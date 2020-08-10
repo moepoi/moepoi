@@ -11,6 +11,7 @@ I like to do project that has relation to anime. :ghost:
 - GraphQL
 
 :star: Here are some projects that I'm working on:
+- [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
 - [Nepgear](https://t.me/NepgearBot)
 - [WhoisBot](https://t.me/WhoisBot)
 - [Moe API](https://beta.moe.team)
