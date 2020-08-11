@@ -23,6 +23,7 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/107286048) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
 * [watched episode 6](https://anilist.co/activity/107282052) of [Fanren Xiu Xian Chuan](https://anilist.co/anime/115844)
 * [watched episode 2](https://anilist.co/activity/107278937) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
 * [watched episode 48](https://anilist.co/activity/107278841) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -32,7 +33,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 38](https://anilist.co/activity/106700239) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 6](https://anilist.co/activity/106698926) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 * [watched episode 47](https://anilist.co/activity/106694734) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 5](https://anilist.co/activity/106637881) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 <!-- anilist_activity ends -->
 
 </details>
