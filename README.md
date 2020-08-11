@@ -23,6 +23,8 @@ I like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/107278937) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
+* [watched episode 48](https://anilist.co/activity/107278841) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 117](https://anilist.co/activity/107012445) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 19](https://anilist.co/activity/107009187) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 27](https://anilist.co/activity/107007795) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
@@ -31,8 +33,6 @@ I like to do project that has relation to anime. :ghost:
 * [watched episode 47](https://anilist.co/activity/106694734) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 5](https://anilist.co/activity/106637881) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 * [watched episode 6](https://anilist.co/activity/106631106) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
-* [watched episode 8](https://anilist.co/activity/106412778) of [Yuanlong](https://anilist.co/anime/120320)
-* [watched episode 18](https://anilist.co/activity/106408054) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
 <!-- anilist_activity ends -->
 
 </details>
