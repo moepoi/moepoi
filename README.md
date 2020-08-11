@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm [Moepoi](https://moepoi.dev) (17) ! :sunglasses:
+I'm [Moepoi](https://moepoi.dev) (17 y.o) ! :sunglasses:
 
-I like to do project that has relation to anime. :ghost:
+I'd like to do project that has relation to anime. :ghost:
 
 :page_with_curl: I'm currently learning:
 - Dart 
@@ -15,7 +15,6 @@ I like to do project that has relation to anime. :ghost:
 - [Nepgear](https://t.me/NepgearBot)
 - [WhoisBot](https://t.me/WhoisBot)
 - [Moe API](https://beta.moe.team)
-- etc.
 
 ![Moepoi's github stats](https://github-readme-stats.vercel.app/api?username=moepoi&show_icons=true)
 
