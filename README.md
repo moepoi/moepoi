@@ -82,14 +82,16 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- favorites_characters starts -->
 * [Nepgear](https://anilist.co/character/49927)
-* [Nagi Sanzenin](https://anilist.co/character/2078)
-* [Kiriha](https://anilist.co/character/126355)
 * [Jibril](https://anilist.co/character/87887)
 * [Karen Kujou](https://anilist.co/character/50223)
 * [Miyuki Shiba](https://anilist.co/character/55741)
 * [Myucel Foaran](https://anilist.co/character/87640)
 * [Holo](https://anilist.co/character/7373)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
+* [Misaki Shokuhou](https://anilist.co/character/40136)
+* [Haruno Yukinoshita](https://anilist.co/character/79589)
+* [Ravel Phenex](https://anilist.co/character/58341)
+* [Iroha Isshiki](https://anilist.co/character/88727)
 <!-- favorites_characters ends -->
 
 </details>
