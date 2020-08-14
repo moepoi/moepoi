@@ -81,17 +81,18 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:girl: List Favorites Characters</summary>
   
 <!-- favorites_characters starts -->
-* [Nepgear](https://anilist.co/character/49927)
-* [Jibril](https://anilist.co/character/87887)
-* [Karen Kujou](https://anilist.co/character/50223)
-* [Miyuki Shiba](https://anilist.co/character/55741)
-* [Myucel Foaran](https://anilist.co/character/87640)
-* [Holo](https://anilist.co/character/7373)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
-* [Haruno Yukinoshita](https://anilist.co/character/79589)
 * [Ravel Phenex](https://anilist.co/character/58341)
+* [Haruno Yukinoshita](https://anilist.co/character/79589)
+* [Sumi Sakurasawa](https://anilist.co/character/144665)
 * [Iroha Isshiki](https://anilist.co/character/88727)
+* [Jibril](https://anilist.co/character/87887)
+* [Holo](https://anilist.co/character/7373)
+* [Miyuki Shiba](https://anilist.co/character/55741)
+* [Nepgear](https://anilist.co/character/49927)
+* [Karen Kujou](https://anilist.co/character/50223)
+* [Myucel Foaran](https://anilist.co/character/87640)
 <!-- favorites_characters ends -->
 
 </details>
