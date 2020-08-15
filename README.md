@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 19](https://anilist.co/activity/108556227) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
 * [watched episode 6](https://anilist.co/activity/108548952) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
 * [watched episode 6](https://anilist.co/activity/107984582) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [watched episode 138](https://anilist.co/activity/107979533) of [Black Clover](https://anilist.co/anime/97940)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/107290998) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 5](https://anilist.co/activity/107286048) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
 * [watched episode 6](https://anilist.co/activity/107282052) of [Fanren Xiu Xian Chuan](https://anilist.co/anime/115844)
-* [watched episode 2](https://anilist.co/activity/107278937) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
 <!-- anilist_activity ends -->
 
 </details>
