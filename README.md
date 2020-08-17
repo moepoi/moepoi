@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/109126227) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [watched episode 6](https://anilist.co/activity/109121708) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 * [watched episode 6](https://anilist.co/activity/109119049) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
 * [watched episode 7](https://anilist.co/activity/108715554) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/107984582) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [watched episode 138](https://anilist.co/activity/107979533) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 3 - 6](https://anilist.co/activity/107956269) of [Xian Feng Jian Yu Lu](https://anilist.co/anime/120301)
-* [watched episode 20](https://anilist.co/activity/107947163) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
