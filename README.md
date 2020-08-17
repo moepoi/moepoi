@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/109212309) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 * [watched episode 49](https://anilist.co/activity/109207772) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 28 - 29](https://anilist.co/activity/109188646) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 7](https://anilist.co/activity/109126227) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 9](https://anilist.co/activity/108560495) of [Yuanlong](https://anilist.co/anime/120320)
 * [watched episode 19](https://anilist.co/activity/108556227) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
 * [watched episode 6](https://anilist.co/activity/108548952) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
-* [watched episode 6](https://anilist.co/activity/107984582) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 <!-- anilist_activity ends -->
 
 </details>
