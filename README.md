@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 21](https://anilist.co/activity/109512943) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 40](https://anilist.co/activity/109511602) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 50](https://anilist.co/activity/109510469) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/109248561) of [Wanjie Shenzhu 2](https://anilist.co/anime/115178)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/109126227) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [watched episode 6](https://anilist.co/activity/109121708) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 * [watched episode 6](https://anilist.co/activity/109119049) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
-* [watched episode 7](https://anilist.co/activity/108715554) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
 <!-- anilist_activity ends -->
 
 </details>
