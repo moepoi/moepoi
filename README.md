@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6 - 7](https://anilist.co/activity/110061161) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
 * [watched episode 139](https://anilist.co/activity/109884214) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 41](https://anilist.co/activity/109817507) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 7](https://anilist.co/activity/109740444) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 40](https://anilist.co/activity/109511602) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 50](https://anilist.co/activity/109510469) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/109248561) of [Wanjie Shenzhu 2](https://anilist.co/anime/115178)
-* [watched episode 7](https://anilist.co/activity/109212309) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 <!-- anilist_activity ends -->
 
 </details>
