@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/110684602) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
 * [watched episode 30](https://anilist.co/activity/110540721) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 22](https://anilist.co/activity/110133433) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 6 - 7](https://anilist.co/activity/110061161) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 34](https://anilist.co/activity/109734829) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
 * [watched episode 7](https://anilist.co/activity/109731438) of [Fanren Xiu Xian Chuan](https://anilist.co/anime/115844)
 * [watched episode 21](https://anilist.co/activity/109512943) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 40](https://anilist.co/activity/109511602) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 <!-- anilist_activity ends -->
 
 </details>
