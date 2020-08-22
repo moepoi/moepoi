@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/110849698) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 * [watched episode 20](https://anilist.co/activity/110694754) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
 * [watched episode 92](https://anilist.co/activity/110689993) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 7](https://anilist.co/activity/110684602) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 139](https://anilist.co/activity/109884214) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 41](https://anilist.co/activity/109817507) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 7](https://anilist.co/activity/109740444) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
-* [watched episode 34](https://anilist.co/activity/109734829) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
 <!-- anilist_activity ends -->
 
 </details>
