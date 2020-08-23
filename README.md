@@ -83,6 +83,7 @@ I'd like to do project that has relation to anime. :ghost:
 <!-- favorites_characters starts -->
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
+* [Ruka Sarashina](https://anilist.co/character/147005)
 * [Ravel Phenex](https://anilist.co/character/58341)
 * [Haruno Yukinoshita](https://anilist.co/character/79589)
 * [Sumi Sakurasawa](https://anilist.co/character/144665)
@@ -93,7 +94,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Nepgear](https://anilist.co/character/49927)
 * [Karen Kujou](https://anilist.co/character/50223)
 * [Myucel Foaran](https://anilist.co/character/87640)
-* [Ruka Sarashina](https://anilist.co/character/147005)
 <!-- favorites_characters ends -->
 
 </details>
