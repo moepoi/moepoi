@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/111299118) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 * [watched episode 51](https://anilist.co/activity/111043033) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 7](https://anilist.co/activity/110849698) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 * [watched episode 20](https://anilist.co/activity/110694754) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 22](https://anilist.co/activity/110133433) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 6 - 7](https://anilist.co/activity/110061161) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
 * [watched episode 139](https://anilist.co/activity/109884214) of [Black Clover](https://anilist.co/anime/97940)
-* [watched episode 41](https://anilist.co/activity/109817507) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 <!-- anilist_activity ends -->
 
 </details>
