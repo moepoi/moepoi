@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 140](https://anilist.co/activity/111701609) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 8](https://anilist.co/activity/111661999) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 7](https://anilist.co/activity/111658795) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
 * [watched episode 8](https://anilist.co/activity/111654563) of [Fanren Xiu Xian Chuan](https://anilist.co/anime/115844)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/111363342) of [Yuanlong](https://anilist.co/anime/120320)
 * [watched episode 23](https://anilist.co/activity/111360630) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 8](https://anilist.co/activity/111356291) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
-* [watched episode 42](https://anilist.co/activity/111300640) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 <!-- anilist_activity ends -->
 
 </details>
