@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 36](https://anilist.co/activity/112586484) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
 * [watched episode 32](https://anilist.co/activity/112583950) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 24](https://anilist.co/activity/112303401) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 43](https://anilist.co/activity/112000945) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/111654563) of [Fanren Xiu Xian Chuan](https://anilist.co/anime/115844)
 * [watched episode 35](https://anilist.co/activity/111651784) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
 * [watched episode 52](https://anilist.co/activity/111649657) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 31](https://anilist.co/activity/111647979) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 <!-- anilist_activity ends -->
 
 </details>
