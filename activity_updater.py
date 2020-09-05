@@ -241,15 +241,18 @@ def fetch_activity(oauth_token, userId):
         headers={"Authorization": "Bearer {}".format(oauth_token)},
     )
     for x in data['data']['Page']['activities']:
-        results.append(
-            {
-                'status': x['status'],
-                'progress': x['progress'],
-                'activity_url': x['siteUrl'],
-                'title': x['media']['title']['userPreferred'],
-                'url': f"https://anilist.co/{x['media']['type'].lower()}/{str(x['media']['id'])}"
-            }
-        )
+        try:
+            results.append(
+                {
+                    'status': x['status'],
+                    'progress': x['progress'],
+                    'activity_url': x['siteUrl'],
+                    'title': x['media']['title']['userPreferred'],
+                    'url': f"https://anilist.co/{x['media']['type'].lower()}/{str(x['media']['id'])}"
+                }
+            )
+        except:
+            pass
     return results   
 
 if __name__ == "__main__":
