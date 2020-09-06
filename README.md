@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 46](https://anilist.co/activity/115244279) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 10](https://anilist.co/activity/115242924) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 * [watched episode 12](https://anilist.co/activity/115195608) of [Yuan Long](https://anilist.co/anime/120320)
 * [watched episode 10](https://anilist.co/activity/115192084) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
