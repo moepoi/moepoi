@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 27](https://anilist.co/activity/115569293) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 1 - 2](https://anilist.co/activity/115516005) of [Shen Qi Huan Qi Tan](https://anilist.co/anime/103130)
 * [watched episode 10](https://anilist.co/activity/115283011) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 9](https://anilist.co/activity/115250947) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 12](https://anilist.co/activity/115195608) of [Yuan Long](https://anilist.co/anime/120320)
 * [watched episode 10](https://anilist.co/activity/115192084) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
 * [watched episode 94](https://anilist.co/activity/114906825) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
-* [watched episode 22](https://anilist.co/activity/114902254) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
 <!-- anilist_activity ends -->
 
 </details>
