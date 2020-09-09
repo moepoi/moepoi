@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/116147459) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 56](https://anilist.co/activity/115901364) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 9](https://anilist.co/activity/115847488) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 * [watched episode 10](https://anilist.co/activity/115840676) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 2](https://anilist.co/activity/115516005) of [Shen Qi Huan Qi Tan](https://anilist.co/anime/103130)
 * [watched episode 10](https://anilist.co/activity/115283011) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 9](https://anilist.co/activity/115250947) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
-* [watched episode 55](https://anilist.co/activity/115245991) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
