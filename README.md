@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Moepoi](https://moepoi.dev) (17 y.o) ! :sunglasses:
+I'm [Moepoi](https://moepoi.dev) (18 y.o) ! :sunglasses:
 
 I'd like to do project that has relation to anime. :ghost:
 
