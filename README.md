@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 13](https://anilist.co/activity/117067342) of [Yuan Long](https://anilist.co/anime/120320)
 * [watched episode 23](https://anilist.co/activity/117015749) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
 * [watched episode 95](https://anilist.co/activity/117011054) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 5](https://anilist.co/activity/116950609) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 36](https://anilist.co/activity/116709586) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 28](https://anilist.co/activity/116519586) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 3](https://anilist.co/activity/116424010) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 142](https://anilist.co/activity/116212238) of [Black Clover](https://anilist.co/anime/97940)
 <!-- anilist_activity ends -->
 
 </details>
