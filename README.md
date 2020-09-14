@@ -22,8 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1 - 3](https://anilist.co/activity/117688455) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 29](https://anilist.co/activity/117688399) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 10](https://anilist.co/activity/117636793) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
-* [watched episode 1](https://anilist.co/activity/117629775) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 37](https://anilist.co/activity/117627859) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 10](https://anilist.co/activity/117369662) of [Sword Art Online: Alicization - War of Underworld Part 2](https://anilist.co/anime/114308)
 * [watched episode 57](https://anilist.co/activity/117345940) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/117342510) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 * [watched episode 11](https://anilist.co/activity/117285398) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
 * [watched episode 13](https://anilist.co/activity/117067342) of [Yuan Long](https://anilist.co/anime/120320)
-* [watched episode 23](https://anilist.co/activity/117015749) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
 <!-- anilist_activity ends -->
 
 </details>
