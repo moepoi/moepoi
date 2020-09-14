@@ -94,6 +94,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Nepgear](https://anilist.co/character/49927)
 * [Karen Kujou](https://anilist.co/character/50223)
 * [Myucel Foaran](https://anilist.co/character/87640)
+* [Yoshino Koiwai](https://anilist.co/character/121008)
 <!-- favorites_characters ends -->
 
 </details>
