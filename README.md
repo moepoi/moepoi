@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 58](https://anilist.co/activity/117925636) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1 - 3](https://anilist.co/activity/117688455) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 29](https://anilist.co/activity/117688399) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 10](https://anilist.co/activity/117636793) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 48](https://anilist.co/activity/117343818) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 11](https://anilist.co/activity/117342510) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 * [watched episode 11](https://anilist.co/activity/117285398) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
-* [watched episode 13](https://anilist.co/activity/117067342) of [Yuan Long](https://anilist.co/anime/120320)
 <!-- anilist_activity ends -->
 
 </details>
