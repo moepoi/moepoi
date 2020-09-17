@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 143](https://anilist.co/activity/118474192) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 49](https://anilist.co/activity/118316235) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 10](https://anilist.co/activity/118158676) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [plans to watch None](https://anilist.co/activity/117990921) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 58](https://anilist.co/activity/117925636) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1 - 3](https://anilist.co/activity/117688455) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 29](https://anilist.co/activity/117688399) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 10](https://anilist.co/activity/117636793) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 <!-- anilist_activity ends -->
 
 </details>
