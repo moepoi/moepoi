@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 96](https://anilist.co/activity/119037956) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 11](https://anilist.co/activity/119008406) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
 * [watched episode 39](https://anilist.co/activity/118810950) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
 * [watched episode 7](https://anilist.co/activity/118804014) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 143](https://anilist.co/activity/118474192) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 49](https://anilist.co/activity/118316235) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 10](https://anilist.co/activity/118158676) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
-* [plans to watch None](https://anilist.co/activity/117990921) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
 <!-- anilist_activity ends -->
 
 </details>
