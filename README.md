@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/119833784) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [watched episode 5](https://anilist.co/activity/119750004) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 31](https://anilist.co/activity/119748135) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 39](https://anilist.co/activity/119686958) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/119403857) of [Wu Dong Qiankun 2](https://anilist.co/anime/121177)
 * [watched episode 12](https://anilist.co/activity/119341098) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
 * [watched episode 12](https://anilist.co/activity/119116333) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
-* [watched episode 14](https://anilist.co/activity/119111264) of [Yuan Long](https://anilist.co/anime/120320)
 <!-- anilist_activity ends -->
 
 </details>
