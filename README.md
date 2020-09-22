@@ -86,18 +86,18 @@ I'd like to do project that has relation to anime. :ghost:
 * [Ruka Sarashina](https://anilist.co/character/147005)
 * [Sumi Sakurasawa](https://anilist.co/character/144665)
 * [Ravel Phenex](https://anilist.co/character/58341)
+* [Angelina Kudou Shields](https://anilist.co/character/128377)
 * [Haruno Yukinoshita](https://anilist.co/character/79589)
 * [Iroha Isshiki](https://anilist.co/character/88727)
+* [Sasha Necron](https://anilist.co/character/139562)
+* [Misha Necron](https://anilist.co/character/138596)
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
 * [Miyuki Shiba](https://anilist.co/character/55741)
 * [Nepgear](https://anilist.co/character/49927)
+* [Yoshino Koiwai](https://anilist.co/character/121008)
 * [Karen Kujou](https://anilist.co/character/50223)
 * [Myucel Foaran](https://anilist.co/character/87640)
-* [Yoshino Koiwai](https://anilist.co/character/121008)
-* [Sasha Necron](https://anilist.co/character/139562)
-* [Misha Necron](https://anilist.co/character/138596)
-* [Angelina Kudou Shields](https://anilist.co/character/128377)
 <!-- favorites_characters ends -->
 
 </details>
