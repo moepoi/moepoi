@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 16](https://anilist.co/activity/121523450) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
+* [watched episode 13](https://anilist.co/activity/121523178) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [completed None](https://anilist.co/activity/121517147) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
 * [watched episode 1 - 2](https://anilist.co/activity/121387072) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [watched episode 1 - 15](https://anilist.co/activity/121273229) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 97](https://anilist.co/activity/121203651) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [completed None](https://anilist.co/activity/121202499) of [Kanojo, Okarishimasu](https://anilist.co/anime/113813)
 * [plans to watch None](https://anilist.co/activity/121170076) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
-* [watched episode 40](https://anilist.co/activity/120946656) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
-* [watched episode 9](https://anilist.co/activity/120943930) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
