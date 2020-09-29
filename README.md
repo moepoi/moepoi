@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 17 - 18](https://anilist.co/activity/122126100) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
+* [watched episode 41](https://anilist.co/activity/122125999) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
+* [watched episode 33](https://anilist.co/activity/122125962) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/121585386) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
 * [watched episode 61](https://anilist.co/activity/121585356) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 16](https://anilist.co/activity/121523450) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/121517147) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
 * [watched episode 1 - 2](https://anilist.co/activity/121387072) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [watched episode 1 - 15](https://anilist.co/activity/121273229) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
-* [watched episode 15](https://anilist.co/activity/121271951) of [Yuan Long](https://anilist.co/anime/120320)
-* [completed None](https://anilist.co/activity/121210777) of [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
-* [watched episode 97](https://anilist.co/activity/121203651) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 <!-- anilist_activity ends -->
 
 </details>
