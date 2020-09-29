@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/122200170) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 10](https://anilist.co/activity/122200146) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 62](https://anilist.co/activity/122200122) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 17 - 18](https://anilist.co/activity/122126100) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
 * [watched episode 41](https://anilist.co/activity/122125999) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 33](https://anilist.co/activity/122125962) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 61](https://anilist.co/activity/121585356) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 16](https://anilist.co/activity/121523450) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
 * [watched episode 13](https://anilist.co/activity/121523178) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
-* [completed None](https://anilist.co/activity/121517147) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou](https://anilist.co/anime/112301)
-* [watched episode 1 - 2](https://anilist.co/activity/121387072) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
-* [watched episode 1 - 15](https://anilist.co/activity/121273229) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
 <!-- anilist_activity ends -->
 
 </details>
