@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/122825007) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 34](https://anilist.co/activity/122824959) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/122249491) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
 * [watched episode 7](https://anilist.co/activity/122200170) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 10](https://anilist.co/activity/122200146) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 41](https://anilist.co/activity/122125999) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 33](https://anilist.co/activity/122125962) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/121585386) of [Yao Shen Ji: Hei Yu Pian](https://anilist.co/anime/116964)
-* [watched episode 61](https://anilist.co/activity/121585356) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 16](https://anilist.co/activity/121523450) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
 <!-- anilist_activity ends -->
 
 </details>
