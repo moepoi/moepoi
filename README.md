@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 14](https://anilist.co/activity/123416907) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 98](https://anilist.co/activity/123411538) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 41](https://anilist.co/activity/123338077) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
 * [watched episode 1](https://anilist.co/activity/123334587) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 34](https://anilist.co/activity/122824959) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/122249491) of [THE GOD OF HIGH SCHOOL](https://anilist.co/anime/116006)
 * [watched episode 7](https://anilist.co/activity/122200170) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 10](https://anilist.co/activity/122200146) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
