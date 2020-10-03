@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 41](https://anilist.co/activity/123338077) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
 * [watched episode 1](https://anilist.co/activity/123334587) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 * [watched episode 11](https://anilist.co/activity/123334549) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 42](https://anilist.co/activity/123334512) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/122200170) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 10](https://anilist.co/activity/122200146) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 62](https://anilist.co/activity/122200122) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 17 - 18](https://anilist.co/activity/122126100) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
 <!-- anilist_activity ends -->
 
 </details>
