@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 9](https://anilist.co/activity/124013360) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 43](https://anilist.co/activity/124013307) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 63](https://anilist.co/activity/123674612) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1](https://anilist.co/activity/123672629) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 14](https://anilist.co/activity/123416907) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/123334587) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 * [watched episode 11](https://anilist.co/activity/123334549) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 42](https://anilist.co/activity/123334512) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
-* [watched episode 8](https://anilist.co/activity/122825007) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 34](https://anilist.co/activity/122824959) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
