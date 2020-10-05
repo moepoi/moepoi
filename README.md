@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/124078584) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [watched episode 35](https://anilist.co/activity/124074320) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 1](https://anilist.co/activity/124019029) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 9](https://anilist.co/activity/124013360) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 14](https://anilist.co/activity/123416907) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 98](https://anilist.co/activity/123411538) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 41](https://anilist.co/activity/123338077) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
-* [watched episode 1](https://anilist.co/activity/123334587) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 <!-- anilist_activity ends -->
 
 </details>
