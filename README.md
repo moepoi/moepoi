@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 145](https://anilist.co/activity/124382050) of [Black Clover](https://anilist.co/anime/97940)
+* [watched episode 12](https://anilist.co/activity/124382011) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 1](https://anilist.co/activity/124381966) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
+* [watched episode 64](https://anilist.co/activity/124381945) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1](https://anilist.co/activity/124078584) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [watched episode 35](https://anilist.co/activity/124074320) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 1](https://anilist.co/activity/124019029) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 9](https://anilist.co/activity/124013360) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 43](https://anilist.co/activity/124013307) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 63](https://anilist.co/activity/123674612) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 1](https://anilist.co/activity/123672629) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
-* [watched episode 14](https://anilist.co/activity/123416907) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
-* [watched episode 98](https://anilist.co/activity/123411538) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
-* [watched episode 41](https://anilist.co/activity/123338077) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
 <!-- anilist_activity ends -->
 
 </details>
