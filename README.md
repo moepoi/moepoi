@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 146](https://anilist.co/activity/124609970) of [Black Clover](https://anilist.co/anime/97940)
 * [completed None](https://anilist.co/activity/124609703) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 * [completed None](https://anilist.co/activity/124609679) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
 * [completed None](https://anilist.co/activity/124609640) of [Yuan Long](https://anilist.co/anime/120320)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 64](https://anilist.co/activity/124381945) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1](https://anilist.co/activity/124078584) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [watched episode 35](https://anilist.co/activity/124074320) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 1](https://anilist.co/activity/124019029) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 <!-- anilist_activity ends -->
 
 </details>
