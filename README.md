@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/124963793) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 1](https://anilist.co/activity/124913958) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 3](https://anilist.co/activity/124766211) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [watched episode 1](https://anilist.co/activity/124619240) of [Senyoku no Sigrdrifa](https://anilist.co/anime/116173)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/124609640) of [Yuan Long](https://anilist.co/anime/120320)
 * [watched episode 145](https://anilist.co/activity/124382050) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 12](https://anilist.co/activity/124382011) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 1](https://anilist.co/activity/124381966) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 <!-- anilist_activity ends -->
 
 </details>
