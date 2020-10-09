@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/125249445) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
+* [watched episode 44](https://anilist.co/activity/125249428) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
+* [watched episode 36](https://anilist.co/activity/125249402) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 10](https://anilist.co/activity/124963793) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 1](https://anilist.co/activity/124913958) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 3](https://anilist.co/activity/124766211) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 146](https://anilist.co/activity/124609970) of [Black Clover](https://anilist.co/anime/97940)
 * [completed None](https://anilist.co/activity/124609703) of [Peter Grill to Kenja no Jikan](https://anilist.co/anime/111965)
 * [completed None](https://anilist.co/activity/124609679) of [Dokyuu Hentai HxEros](https://anilist.co/anime/112818)
-* [completed None](https://anilist.co/activity/124609640) of [Yuan Long](https://anilist.co/anime/120320)
-* [watched episode 145](https://anilist.co/activity/124382050) of [Black Clover](https://anilist.co/anime/97940)
-* [watched episode 12](https://anilist.co/activity/124382011) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
