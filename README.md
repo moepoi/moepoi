@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/125502478) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
+* [watched episode 2](https://anilist.co/activity/125502190) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 * [watched episode 1 - 2](https://anilist.co/activity/125502115) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
 * [watched episode 13](https://anilist.co/activity/125258784) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 4](https://anilist.co/activity/125249445) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/124963793) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 1](https://anilist.co/activity/124913958) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 3](https://anilist.co/activity/124766211) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
-* [watched episode 1](https://anilist.co/activity/124619240) of [Senyoku no Sigrdrifa](https://anilist.co/anime/116173)
-* [watched episode 146](https://anilist.co/activity/124609970) of [Black Clover](https://anilist.co/anime/97940)
 <!-- anilist_activity ends -->
 
 </details>
