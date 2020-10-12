@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4 - 5](https://anilist.co/activity/126391213) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [watched episode 1 - 3](https://anilist.co/activity/126185791) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [completed None](https://anilist.co/activity/126170911) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
 * [watched episode 19 - 25](https://anilist.co/activity/126170883) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 99](https://anilist.co/activity/125564465) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [completed None](https://anilist.co/activity/125564447) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
 * [watched episode 2](https://anilist.co/activity/125502478) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
-* [watched episode 2](https://anilist.co/activity/125502190) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 <!-- anilist_activity ends -->
 
 </details>
