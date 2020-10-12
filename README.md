@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/126170911) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
+* [watched episode 19 - 25](https://anilist.co/activity/126170883) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
 * [watched episode 65](https://anilist.co/activity/125837995) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 2](https://anilist.co/activity/125837932) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 1 - 2](https://anilist.co/activity/125600922) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/125502478) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 * [watched episode 2](https://anilist.co/activity/125502190) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 * [watched episode 1 - 2](https://anilist.co/activity/125502115) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
-* [watched episode 13](https://anilist.co/activity/125258784) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 4](https://anilist.co/activity/125249445) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 <!-- anilist_activity ends -->
 
 </details>
