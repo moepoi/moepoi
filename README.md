@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/126514324) of [Strike the Blood IV](https://anilist.co/anime/112296)
+* [watched episode 14](https://anilist.co/activity/126514258) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 66](https://anilist.co/activity/126514217) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 4 - 6](https://anilist.co/activity/126439022) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [watched episode 2](https://anilist.co/activity/126435449) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 11](https://anilist.co/activity/126435357) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 37](https://anilist.co/activity/126435294) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 1 - 3](https://anilist.co/activity/126185791) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [completed None](https://anilist.co/activity/126170911) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
-* [watched episode 19 - 25](https://anilist.co/activity/126170883) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
-* [watched episode 65](https://anilist.co/activity/125837995) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 2](https://anilist.co/activity/125837932) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 <!-- anilist_activity ends -->
 
 </details>
