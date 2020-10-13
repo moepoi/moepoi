@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 4 - 5](https://anilist.co/activity/126391213) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
+* [watched episode 4 - 6](https://anilist.co/activity/126439022) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
+* [watched episode 2](https://anilist.co/activity/126435449) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
+* [watched episode 11](https://anilist.co/activity/126435357) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 45](https://anilist.co/activity/126435322) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
+* [watched episode 37](https://anilist.co/activity/126435294) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 1 - 3](https://anilist.co/activity/126185791) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [completed None](https://anilist.co/activity/126170911) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
 * [watched episode 19 - 25](https://anilist.co/activity/126170883) of [Mahou Sensei Negima!](https://anilist.co/anime/157)
 * [watched episode 65](https://anilist.co/activity/125837995) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 2](https://anilist.co/activity/125837932) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
-* [watched episode 1 - 2](https://anilist.co/activity/125600922) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
-* [watched episode 99](https://anilist.co/activity/125564465) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
-* [completed None](https://anilist.co/activity/125564447) of [Wu Geng Ji 3](https://anilist.co/anime/104868)
-* [watched episode 2](https://anilist.co/activity/125502478) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 <!-- anilist_activity ends -->
 
 </details>
