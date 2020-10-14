@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 147](https://anilist.co/activity/126864373) of [Black Clover](https://anilist.co/anime/97940)
 * [completed None](https://anilist.co/activity/126840378) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [watched episode 7 - 11](https://anilist.co/activity/126840362) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [watched episode 9 - 10](https://anilist.co/activity/126572625) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4 - 6](https://anilist.co/activity/126439022) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [watched episode 2](https://anilist.co/activity/126435449) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 11](https://anilist.co/activity/126435357) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 45](https://anilist.co/activity/126435322) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 <!-- anilist_activity ends -->
 
 </details>
