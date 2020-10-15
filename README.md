@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/127169601) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [watched episode 2](https://anilist.co/activity/126964062) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 2](https://anilist.co/activity/126871297) of [Senyoku no Sigrdrifa](https://anilist.co/anime/116173)
 * [watched episode 15](https://anilist.co/activity/126867631) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 9 - 10](https://anilist.co/activity/126572625) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 5 - 6](https://anilist.co/activity/126572573) of [Strike the Blood IV](https://anilist.co/anime/112296)
 * [watched episode 14](https://anilist.co/activity/126514258) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 66](https://anilist.co/activity/126514217) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
