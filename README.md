@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 12](https://anilist.co/activity/127172623) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 38](https://anilist.co/activity/127171014) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 2](https://anilist.co/activity/127169601) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [watched episode 2](https://anilist.co/activity/126964062) of [Noblesse](https://anilist.co/anime/116005)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/126840378) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [watched episode 7 - 11](https://anilist.co/activity/126840362) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
 * [watched episode 9 - 10](https://anilist.co/activity/126572625) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
-* [watched episode 5 - 6](https://anilist.co/activity/126572573) of [Strike the Blood IV](https://anilist.co/anime/112296)
 <!-- anilist_activity ends -->
 
 </details>
