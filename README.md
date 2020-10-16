@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/127484226) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
+* [watched episode 15](https://anilist.co/activity/127484196) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 46](https://anilist.co/activity/127484166) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 12](https://anilist.co/activity/127172623) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 38](https://anilist.co/activity/127171014) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 2](https://anilist.co/activity/127169601) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/126871297) of [Senyoku no Sigrdrifa](https://anilist.co/anime/116173)
 * [watched episode 15](https://anilist.co/activity/126867631) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 147](https://anilist.co/activity/126864373) of [Black Clover](https://anilist.co/anime/97940)
-* [completed None](https://anilist.co/activity/126840378) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
-* [watched episode 7 - 11](https://anilist.co/activity/126840362) of [UQ Holder!: Mahou Sensei Negima! 2](https://anilist.co/anime/21855)
-* [watched episode 9 - 10](https://anilist.co/activity/126572625) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 <!-- anilist_activity ends -->
 
 </details>
