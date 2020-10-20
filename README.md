@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/128785800) of [Senyoku no Sigrdrifa](https://anilist.co/anime/116173)
+* [watched episode 16](https://anilist.co/activity/128785779) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 68](https://anilist.co/activity/128785759) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 1 - 4](https://anilist.co/activity/128785731) of [ReLife](https://anilist.co/anime/21049)
 * [completed None](https://anilist.co/activity/128634017) of [Daitoshokan no Hitsujikai](https://anilist.co/anime/17827)
 * [watched episode 1 - 11](https://anilist.co/activity/128633980) of [Daitoshokan no Hitsujikai](https://anilist.co/anime/17827)
 * [watched episode 16](https://anilist.co/activity/128514371) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 39](https://anilist.co/activity/128514308) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 47](https://anilist.co/activity/128514215) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 3](https://anilist.co/activity/128446190) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
-* [watched episode 13](https://anilist.co/activity/128445918) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 3](https://anilist.co/activity/128445863) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
-* [watched episode 11](https://anilist.co/activity/128139818) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
-* [watched episode 3](https://anilist.co/activity/128063149) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 <!-- anilist_activity ends -->
 
 </details>
