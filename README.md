@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 148](https://anilist.co/activity/129076677) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 1 - 6](https://anilist.co/activity/128843226) of [ReLife](https://anilist.co/anime/21049)
 * [watched episode 3](https://anilist.co/activity/128785800) of [Senyoku no Sigrdrifa](https://anilist.co/anime/116173)
 * [watched episode 16](https://anilist.co/activity/128785779) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 16](https://anilist.co/activity/128514371) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 39](https://anilist.co/activity/128514308) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 47](https://anilist.co/activity/128514215) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
-* [watched episode 3](https://anilist.co/activity/128446190) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 <!-- anilist_activity ends -->
 
 </details>
