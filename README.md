@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/129477926) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 3](https://anilist.co/activity/129422726) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [watched episode 3](https://anilist.co/activity/129422705) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 7 - 9](https://anilist.co/activity/129091937) of [ReLife](https://anilist.co/anime/21049)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 16](https://anilist.co/activity/128785779) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 68](https://anilist.co/activity/128785759) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/128634017) of [Daitoshokan no Hitsujikai](https://anilist.co/anime/17827)
-* [watched episode 1 - 11](https://anilist.co/activity/128633980) of [Daitoshokan no Hitsujikai](https://anilist.co/anime/17827)
 <!-- anilist_activity ends -->
 
 </details>
