@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 69](https://anilist.co/activity/130376718) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 4](https://anilist.co/activity/130340025) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 4](https://anilist.co/activity/130339958) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 * [watched episode 4](https://anilist.co/activity/130339880) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/129714128) of [ReLife](https://anilist.co/anime/21049)
 * [watched episode 12](https://anilist.co/activity/129714091) of [ReLife](https://anilist.co/anime/21049)
 * [watched episode 48](https://anilist.co/activity/129714067) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
-* [watched episode 10 - 11](https://anilist.co/activity/129485275) of [ReLife](https://anilist.co/anime/21049)
 <!-- anilist_activity ends -->
 
 </details>
