@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 17](https://anilist.co/activity/130379937) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 14](https://anilist.co/activity/130378233) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 69](https://anilist.co/activity/130376718) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 4](https://anilist.co/activity/130340025) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 101](https://anilist.co/activity/130339693) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 6](https://anilist.co/activity/129800253) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [completed None](https://anilist.co/activity/129714128) of [ReLife](https://anilist.co/anime/21049)
-* [watched episode 12](https://anilist.co/activity/129714091) of [ReLife](https://anilist.co/anime/21049)
 <!-- anilist_activity ends -->
 
 </details>
