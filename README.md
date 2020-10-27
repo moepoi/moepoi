@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 17](https://anilist.co/activity/131077800) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
+* [watched episode 70](https://anilist.co/activity/131077755) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 41](https://anilist.co/activity/130819765) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 15](https://anilist.co/activity/130819740) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 49](https://anilist.co/activity/130819524) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 17](https://anilist.co/activity/130379937) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 14](https://anilist.co/activity/130378233) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 69](https://anilist.co/activity/130376718) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 4](https://anilist.co/activity/130340025) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
-* [watched episode 4](https://anilist.co/activity/130339958) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 <!-- anilist_activity ends -->
 
 </details>
