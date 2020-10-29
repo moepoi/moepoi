@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2 - 5](https://anilist.co/activity/131716142) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 16](https://anilist.co/activity/131714707) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 42](https://anilist.co/activity/131714675) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 4](https://anilist.co/activity/131712305) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [watched episode 4](https://anilist.co/activity/131712265) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 149](https://anilist.co/activity/131452490) of [Black Clover](https://anilist.co/anime/97940)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 18](https://anilist.co/activity/131137739) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 12](https://anilist.co/activity/131135834) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 17](https://anilist.co/activity/131077800) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
-* [watched episode 70](https://anilist.co/activity/131077755) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 41](https://anilist.co/activity/130819765) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 15](https://anilist.co/activity/130819740) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 <!-- anilist_activity ends -->
 
 </details>
