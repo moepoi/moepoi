@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 19](https://anilist.co/activity/132000757) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 4](https://anilist.co/activity/131762490) of [Senyoku no Sigrdrifa](https://anilist.co/anime/116173)
 * [watched episode 2 - 5](https://anilist.co/activity/131716142) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 16](https://anilist.co/activity/131714707) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 149](https://anilist.co/activity/131452490) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 1](https://anilist.co/activity/131139844) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 18](https://anilist.co/activity/131137739) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 12](https://anilist.co/activity/131135834) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 <!-- anilist_activity ends -->
 
 </details>
