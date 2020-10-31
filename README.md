@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 102](https://anilist.co/activity/132304419) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
+* [watched episode 5](https://anilist.co/activity/132304393) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
 * [watched episode 7](https://anilist.co/activity/132058723) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [watched episode 50](https://anilist.co/activity/132001897) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 19](https://anilist.co/activity/132000757) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 16](https://anilist.co/activity/131714707) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 42](https://anilist.co/activity/131714675) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 4](https://anilist.co/activity/131712305) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
-* [watched episode 4](https://anilist.co/activity/131712265) of [Noblesse](https://anilist.co/anime/116005)
-* [watched episode 149](https://anilist.co/activity/131452490) of [Black Clover](https://anilist.co/anime/97940)
 <!-- anilist_activity ends -->
 
 </details>
