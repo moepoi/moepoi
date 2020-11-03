@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 20](https://anilist.co/activity/133329350) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 17](https://anilist.co/activity/133329317) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 6](https://anilist.co/activity/133329273) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 51](https://anilist.co/activity/133329222) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
+* [watched episode 72](https://anilist.co/activity/133329191) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 43](https://anilist.co/activity/133329153) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [watched episode 5](https://anilist.co/activity/133329130) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 71](https://anilist.co/activity/132617961) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 5](https://anilist.co/activity/132587593) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 5](https://anilist.co/activity/132386239) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
-* [watched episode 5](https://anilist.co/activity/132380040) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
-* [watched episode 5](https://anilist.co/activity/132309696) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
-* [watched episode 102](https://anilist.co/activity/132304419) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
-* [watched episode 5](https://anilist.co/activity/132304393) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
-* [watched episode 7](https://anilist.co/activity/132058723) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
-* [watched episode 50](https://anilist.co/activity/132001897) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
-* [watched episode 19](https://anilist.co/activity/132000757) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
