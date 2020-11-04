@@ -22,7 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 1 - 6](https://anilist.co/activity/133795572) of [Hajimete no Gal](https://anilist.co/anime/97863)
+* [watched episode 1 - 7](https://anilist.co/activity/133804536) of [Hajimete no Gal](https://anilist.co/anime/97863)
 * [watched episode 7](https://anilist.co/activity/133684686) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 150](https://anilist.co/activity/133646630) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 13](https://anilist.co/activity/133390170) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
