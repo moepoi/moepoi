@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [paused watching None](https://anilist.co/activity/133990544) of [Shen Qi Huan Qi Tan](https://anilist.co/anime/103130)
+* [paused watching None](https://anilist.co/activity/133990521) of [Yichang Shengwu Jianwen Lu](https://anilist.co/anime/108146)
 * [completed None](https://anilist.co/activity/133988410) of [Hajimete no Gal](https://anilist.co/anime/97863)
 * [watched episode 8 - 9](https://anilist.co/activity/133988396) of [Hajimete no Gal](https://anilist.co/anime/97863)
 * [watched episode 1 - 7](https://anilist.co/activity/133804536) of [Hajimete no Gal](https://anilist.co/anime/97863)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 13](https://anilist.co/activity/133390170) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 20](https://anilist.co/activity/133329350) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 17](https://anilist.co/activity/133329317) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 6](https://anilist.co/activity/133329273) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 51](https://anilist.co/activity/133329222) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 <!-- anilist_activity ends -->
 
 </details>
