@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 18](https://anilist.co/activity/134241863) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 44](https://anilist.co/activity/134240003) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 52](https://anilist.co/activity/134237910) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 5](https://anilist.co/activity/134234768) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/133988410) of [Hajimete no Gal](https://anilist.co/anime/97863)
 * [watched episode 8 - 9](https://anilist.co/activity/133988396) of [Hajimete no Gal](https://anilist.co/anime/97863)
 * [watched episode 1 - 7](https://anilist.co/activity/133804536) of [Hajimete no Gal](https://anilist.co/anime/97863)
-* [watched episode 7](https://anilist.co/activity/133684686) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
