@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/134762623) of [Princess Lover!](https://anilist.co/anime/6201)
+* [watched episode 1 - 11](https://anilist.co/activity/134762617) of [Princess Lover!](https://anilist.co/anime/6201)
 * [watched episode 19](https://anilist.co/activity/134654863) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 103](https://anilist.co/activity/134649287) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 6](https://anilist.co/activity/134583804) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/134327567) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [watched episode 18](https://anilist.co/activity/134249653) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 21](https://anilist.co/activity/134244338) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 18](https://anilist.co/activity/134241863) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 44](https://anilist.co/activity/134240003) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
