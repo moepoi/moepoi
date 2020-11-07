@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/134583804) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 6](https://anilist.co/activity/134577641) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 * [watched episode 6](https://anilist.co/activity/134571828) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
 * [watched episode 8](https://anilist.co/activity/134327567) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 44](https://anilist.co/activity/134240003) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 52](https://anilist.co/activity/134237910) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 5](https://anilist.co/activity/134234768) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
-* [watched episode 5](https://anilist.co/activity/134234753) of [Noblesse](https://anilist.co/anime/116005)
 <!-- anilist_activity ends -->
 
 </details>
