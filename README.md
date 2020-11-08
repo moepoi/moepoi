@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/134928503) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
+* [watched episode 73](https://anilist.co/activity/134928441) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/134762623) of [Princess Lover!](https://anilist.co/anime/6201)
 * [watched episode 1 - 11](https://anilist.co/activity/134762617) of [Princess Lover!](https://anilist.co/anime/6201)
 * [watched episode 19](https://anilist.co/activity/134654863) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/134577641) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 * [watched episode 6](https://anilist.co/activity/134571828) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
 * [watched episode 8](https://anilist.co/activity/134327567) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
-* [watched episode 18](https://anilist.co/activity/134249653) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
-* [watched episode 21](https://anilist.co/activity/134244338) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
