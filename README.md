@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 19](https://anilist.co/activity/135623886) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 14](https://anilist.co/activity/135622494) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 53](https://anilist.co/activity/135618835) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 45](https://anilist.co/activity/135617708) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 8](https://anilist.co/activity/135616107) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/134928503) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 73](https://anilist.co/activity/134928441) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/134762623) of [Princess Lover!](https://anilist.co/anime/6201)
-* [watched episode 1 - 11](https://anilist.co/activity/134762617) of [Princess Lover!](https://anilist.co/anime/6201)
-* [watched episode 19](https://anilist.co/activity/134654863) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 <!-- anilist_activity ends -->
 
 </details>
