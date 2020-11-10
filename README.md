@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 22](https://anilist.co/activity/135625363) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 19](https://anilist.co/activity/135623886) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 14](https://anilist.co/activity/135622494) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 53](https://anilist.co/activity/135618835) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 8](https://anilist.co/activity/135332960) of [Walkure Romanze](https://anilist.co/anime/19151)
 * [watched episode 6](https://anilist.co/activity/134928503) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 73](https://anilist.co/activity/134928441) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [completed None](https://anilist.co/activity/134762623) of [Princess Lover!](https://anilist.co/anime/6201)
 <!-- anilist_activity ends -->
 
 </details>
