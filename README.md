@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 53](https://anilist.co/activity/135618835) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 45](https://anilist.co/activity/135617708) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 8](https://anilist.co/activity/135616107) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 74](https://anilist.co/activity/135614286) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/134762623) of [Princess Lover!](https://anilist.co/anime/6201)
 * [watched episode 1 - 11](https://anilist.co/activity/134762617) of [Princess Lover!](https://anilist.co/anime/6201)
 * [watched episode 19](https://anilist.co/activity/134654863) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
-* [watched episode 103](https://anilist.co/activity/134649287) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 <!-- anilist_activity ends -->
 
 </details>
