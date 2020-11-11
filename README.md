@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/135991540) of [Walkure Romanze](https://anilist.co/anime/19151)
+* [watched episode 9 - 11](https://anilist.co/activity/135991535) of [Walkure Romanze](https://anilist.co/anime/19151)
 * [watched episode 151](https://anilist.co/activity/135941642) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 9](https://anilist.co/activity/135941568) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 6](https://anilist.co/activity/135680539) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 14](https://anilist.co/activity/135622494) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 53](https://anilist.co/activity/135618835) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 45](https://anilist.co/activity/135617708) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 8](https://anilist.co/activity/135616107) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 74](https://anilist.co/activity/135614286) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
