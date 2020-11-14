@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/136877090) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
 * [watched episode 104](https://anilist.co/activity/136869859) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 6](https://anilist.co/activity/136556064) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 20](https://anilist.co/activity/136551126) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/136079786) of [Noblesse](https://anilist.co/anime/116005)
 * [completed None](https://anilist.co/activity/135991540) of [Walkure Romanze](https://anilist.co/anime/19151)
 * [watched episode 9 - 11](https://anilist.co/activity/135991535) of [Walkure Romanze](https://anilist.co/anime/19151)
-* [watched episode 151](https://anilist.co/activity/135941642) of [Black Clover](https://anilist.co/anime/97940)
 <!-- anilist_activity ends -->
 
 </details>
