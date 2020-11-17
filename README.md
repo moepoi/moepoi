@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/137988027) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 * [watched episode 7](https://anilist.co/activity/137983048) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 7](https://anilist.co/activity/137978762) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 24](https://anilist.co/activity/137978477) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 21](https://anilist.co/activity/137615135) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 55](https://anilist.co/activity/137614209) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 47](https://anilist.co/activity/137613244) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 10](https://anilist.co/activity/137611607) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
