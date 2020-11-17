@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/137978762) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
+* [watched episode 24](https://anilist.co/activity/137978477) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 9](https://anilist.co/activity/137975627) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [watched episode 76](https://anilist.co/activity/137968845) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 15](https://anilist.co/activity/137617885) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 47](https://anilist.co/activity/137613244) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 10](https://anilist.co/activity/137611607) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 75](https://anilist.co/activity/137355187) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 7](https://anilist.co/activity/137271454) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
-* [watched episode 23](https://anilist.co/activity/136882683) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
