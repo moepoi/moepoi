@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 76](https://anilist.co/activity/137968845) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 15](https://anilist.co/activity/137617885) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 21](https://anilist.co/activity/137615135) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 55](https://anilist.co/activity/137614209) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/137271454) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 23](https://anilist.co/activity/136882683) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 7](https://anilist.co/activity/136881333) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
-* [watched episode 7](https://anilist.co/activity/136877090) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
 <!-- anilist_activity ends -->
 
 </details>
