@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/140799920) of [Shinmai Maou no Testament: DEPARTURES](https://anilist.co/anime/100451)
 * [watched episode 8](https://anilist.co/activity/140640583) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 13](https://anilist.co/activity/140554378) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 26](https://anilist.co/activity/140227716) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 57](https://anilist.co/activity/139903035) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 49](https://anilist.co/activity/139901899) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 12](https://anilist.co/activity/139551141) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 20 - 21](https://anilist.co/activity/139545704) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 <!-- anilist_activity ends -->
 
 </details>
@@ -98,6 +98,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Yoshino Koiwai](https://anilist.co/character/121008)
 * [Karen Kujou](https://anilist.co/character/50223)
 * [Myucel Foaran](https://anilist.co/character/87640)
+* [Mio Naruse](https://anilist.co/character/89158)
 <!-- favorites_characters ends -->
 
 </details>
