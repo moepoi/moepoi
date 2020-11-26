@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/140823462) of [Noblesse](https://anilist.co/anime/116005)
+* [watched episode 24](https://anilist.co/activity/140823364) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 8](https://anilist.co/activity/140821742) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [completed None](https://anilist.co/activity/140799920) of [Shinmai Maou no Testament: DEPARTURES](https://anilist.co/anime/100451)
-* [watched episode 8](https://anilist.co/activity/140640583) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 13](https://anilist.co/activity/140554378) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 26](https://anilist.co/activity/140227716) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 8](https://anilist.co/activity/140166456) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 78](https://anilist.co/activity/140154997) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 23](https://anilist.co/activity/139904677) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 57](https://anilist.co/activity/139903035) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
-* [watched episode 49](https://anilist.co/activity/139901899) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
