@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/142633512) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 25](https://anilist.co/activity/142631032) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 59](https://anilist.co/activity/142630122) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 28](https://anilist.co/activity/142629070) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 50](https://anilist.co/activity/141909928) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 14](https://anilist.co/activity/141907968) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 79](https://anilist.co/activity/141832246) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 9](https://anilist.co/activity/141829231) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 <!-- anilist_activity ends -->
 
 </details>
