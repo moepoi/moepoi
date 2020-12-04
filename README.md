@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 60](https://anilist.co/activity/143541232) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 9](https://anilist.co/activity/143300029) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 51 - 52](https://anilist.co/activity/143299189) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 26](https://anilist.co/activity/143297747) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 15](https://anilist.co/activity/142898176) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [completed None](https://anilist.co/activity/142633512) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 25](https://anilist.co/activity/142631032) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 59](https://anilist.co/activity/142630122) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 <!-- anilist_activity ends -->
 
 </details>
