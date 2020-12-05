@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/143940022) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [watched episode 107](https://anilist.co/activity/143935238) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 10](https://anilist.co/activity/143842337) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
 * [watched episode 10](https://anilist.co/activity/143836143) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 51 - 52](https://anilist.co/activity/143299189) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 26](https://anilist.co/activity/143297747) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 9](https://anilist.co/activity/143272594) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
-* [watched episode 9](https://anilist.co/activity/143272575) of [Noblesse](https://anilist.co/anime/116005)
 <!-- anilist_activity ends -->
 
 </details>
