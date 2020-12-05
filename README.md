@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/143836143) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 * [watched episode 29](https://anilist.co/activity/143542318) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 60](https://anilist.co/activity/143541232) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 9](https://anilist.co/activity/143300029) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 9](https://anilist.co/activity/143272575) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 154](https://anilist.co/activity/142970258) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 15](https://anilist.co/activity/142898176) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [completed None](https://anilist.co/activity/142633512) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 <!-- anilist_activity ends -->
 
 </details>
