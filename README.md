@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 81](https://anilist.co/activity/144215860) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 10](https://anilist.co/activity/144213344) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 10](https://anilist.co/activity/143944739) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [completed None](https://anilist.co/activity/143940022) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [watched episode 107](https://anilist.co/activity/143935238) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 29](https://anilist.co/activity/143542318) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 60](https://anilist.co/activity/143541232) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 9](https://anilist.co/activity/143300029) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
-* [watched episode 51 - 52](https://anilist.co/activity/143299189) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 26](https://anilist.co/activity/143297747) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 <!-- anilist_activity ends -->
 
 </details>
