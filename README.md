@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 27](https://anilist.co/activity/144702559) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 53](https://anilist.co/activity/144702468) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [watched episode 61](https://anilist.co/activity/144702408) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 23](https://anilist.co/activity/144279592) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 10](https://anilist.co/activity/144274770) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 * [watched episode 16](https://anilist.co/activity/144274728) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/144213344) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 10](https://anilist.co/activity/143944739) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [completed None](https://anilist.co/activity/143940022) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
-* [watched episode 107](https://anilist.co/activity/143935238) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
-* [watched episode 10](https://anilist.co/activity/143842337) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
-* [watched episode 10](https://anilist.co/activity/143836143) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 <!-- anilist_activity ends -->
 
 </details>
