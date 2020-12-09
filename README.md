@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 17](https://anilist.co/activity/145341101) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 10](https://anilist.co/activity/144989450) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 82](https://anilist.co/activity/144982803) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 27](https://anilist.co/activity/144702559) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/144274770) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 * [watched episode 16](https://anilist.co/activity/144274728) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 81](https://anilist.co/activity/144215860) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 10](https://anilist.co/activity/144213344) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 <!-- anilist_activity ends -->
 
 </details>
