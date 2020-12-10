@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/145738253) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 155](https://anilist.co/activity/145347235) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 17](https://anilist.co/activity/145341101) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 10](https://anilist.co/activity/144989450) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 61](https://anilist.co/activity/144702408) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 23](https://anilist.co/activity/144279592) of [Enen no Shouboutai: Ni no Shou](https://anilist.co/anime/114236)
 * [watched episode 10](https://anilist.co/activity/144274770) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
-* [watched episode 16](https://anilist.co/activity/144274728) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
