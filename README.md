@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [plans to watch None](https://anilist.co/activity/146481358) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
-* [plans to watch None](https://anilist.co/activity/146481048) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
-* [plans to watch None](https://anilist.co/activity/146480761) of [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… 2](https://anilist.co/anime/120209)
-* [plans to watch None](https://anilist.co/activity/146480287) of [Seirei Gensouki](https://anilist.co/anime/126546)
-* [watched episode 11](https://anilist.co/activity/146392118) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
-* [watched episode 108](https://anilist.co/activity/146387675) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
-* [watched episode 62](https://anilist.co/activity/146122685) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
-* [watched episode 28](https://anilist.co/activity/145961709) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 54](https://anilist.co/activity/145961682) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 10](https://anilist.co/activity/145742081) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
+* [plans to watch None](https://anilist.co/activity/146483434) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
+* [plans to watch None](https://anilist.co/activity/146483267) of [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://anilist.co/anime/119661)
+* [plans to watch None](https://anilist.co/activity/146483102) of [Yakusoku no Neverland 2nd Season](https://anilist.co/anime/108725)
+* [plans to watch None](https://anilist.co/activity/146482934) of [Dr. STONE: STONE WARS](https://anilist.co/anime/113936)
+* [plans to watch None](https://anilist.co/activity/146482839) of [Boku no Hero Academia 4](https://anilist.co/anime/104276)
+* [plans to watch None](https://anilist.co/activity/146482813) of [Boku no Hero Academia 5](https://anilist.co/anime/117193)
+* [plans to watch None](https://anilist.co/activity/146482637) of [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 3](https://anilist.co/anime/125367)
+* [plans to watch None](https://anilist.co/activity/146482286) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
+* [plans to watch None](https://anilist.co/activity/146482122) of [Tate no Yuusha no Nariagari 3](https://anilist.co/anime/111322)
+* [plans to watch None](https://anilist.co/activity/146481992) of [Tate no Yuusha no Nariagari 2](https://anilist.co/anime/111321)
 <!-- anilist_activity ends -->
 
 </details>
