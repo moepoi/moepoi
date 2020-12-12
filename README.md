@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/146481358) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
+* [plans to watch None](https://anilist.co/activity/146481048) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
+* [plans to watch None](https://anilist.co/activity/146480761) of [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… 2](https://anilist.co/anime/120209)
+* [plans to watch None](https://anilist.co/activity/146480287) of [Seirei Gensouki](https://anilist.co/anime/126546)
 * [watched episode 11](https://anilist.co/activity/146392118) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
 * [watched episode 108](https://anilist.co/activity/146387675) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 62](https://anilist.co/activity/146122685) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [watched episode 28](https://anilist.co/activity/145961709) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 54](https://anilist.co/activity/145961682) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 10](https://anilist.co/activity/145742081) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
-* [watched episode 10](https://anilist.co/activity/145738253) of [Noblesse](https://anilist.co/anime/116005)
-* [watched episode 155](https://anilist.co/activity/145347235) of [Black Clover](https://anilist.co/anime/97940)
-* [watched episode 17](https://anilist.co/activity/145341101) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 10](https://anilist.co/activity/144989450) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 <!-- anilist_activity ends -->
 
 </details>
