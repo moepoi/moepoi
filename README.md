@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 83](https://anilist.co/activity/146645980) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 11](https://anilist.co/activity/146644151) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [plans to watch None](https://anilist.co/activity/146483434) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
 * [plans to watch None](https://anilist.co/activity/146483267) of [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://anilist.co/anime/119661)
 * [plans to watch None](https://anilist.co/activity/146483102) of [Yakusoku no Neverland 2nd Season](https://anilist.co/anime/108725)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/146482813) of [Boku no Hero Academia 5](https://anilist.co/anime/117193)
 * [plans to watch None](https://anilist.co/activity/146482637) of [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 3](https://anilist.co/anime/125367)
 * [plans to watch None](https://anilist.co/activity/146482286) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
-* [plans to watch None](https://anilist.co/activity/146482122) of [Tate no Yuusha no Nariagari 3](https://anilist.co/anime/111322)
-* [plans to watch None](https://anilist.co/activity/146481992) of [Tate no Yuusha no Nariagari 2](https://anilist.co/anime/111321)
 <!-- anilist_activity ends -->
 
 </details>
