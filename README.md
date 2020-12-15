@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 84](https://anilist.co/activity/147437862) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 29](https://anilist.co/activity/147160610) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 55](https://anilist.co/activity/147159360) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 63](https://anilist.co/activity/147159331) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 83](https://anilist.co/activity/146645980) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 11](https://anilist.co/activity/146644151) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [plans to watch None](https://anilist.co/activity/146483434) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
-* [plans to watch None](https://anilist.co/activity/146483267) of [Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2](https://anilist.co/anime/119661)
 <!-- anilist_activity ends -->
 
 </details>
