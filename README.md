@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/148514433) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
+* [watched episode 156](https://anilist.co/activity/148514252) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 11](https://anilist.co/activity/148459721) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [watched episode 30](https://anilist.co/activity/148454246) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 56](https://anilist.co/activity/148454221) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/147443040) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
 * [watched episode 84](https://anilist.co/activity/147437862) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 29](https://anilist.co/activity/147160610) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 55](https://anilist.co/activity/147159360) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 63](https://anilist.co/activity/147159331) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 <!-- anilist_activity ends -->
 
 </details>
