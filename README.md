@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/149272299) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [completed None](https://anilist.co/activity/149272131) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
 * [watched episode 20](https://anilist.co/activity/149271559) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 12](https://anilist.co/activity/149269879) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 12](https://anilist.co/activity/149197543) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 85](https://anilist.co/activity/149190194) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/149001644) of [Tonikaku Kawaii](https://anilist.co/anime/116267)
-* [watched episode 109](https://anilist.co/activity/149001486) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 <!-- anilist_activity ends -->
 
 </details>
