@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 12](https://anilist.co/activity/149269879) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [plans to watch None](https://anilist.co/activity/149219904) of [100-man no Inochi no Ue ni Ore wa Tatteiru 2](https://anilist.co/anime/127366)
 * [completed None](https://anilist.co/activity/149210693) of [100-man no Inochi no Ue ni Ore wa Tatteiru](https://anilist.co/anime/116242)
 * [completed None](https://anilist.co/activity/149204646) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://anilist.co/anime/112124)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 109](https://anilist.co/activity/149001486) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 18 - 19](https://anilist.co/activity/148517784) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 11](https://anilist.co/activity/148514433) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
-* [watched episode 156](https://anilist.co/activity/148514252) of [Black Clover](https://anilist.co/anime/97940)
 <!-- anilist_activity ends -->
 
 </details>
