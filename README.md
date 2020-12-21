@@ -99,6 +99,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Karen Kujou](https://anilist.co/character/50223)
 * [Myucel Foaran](https://anilist.co/character/87640)
 * [Mio Naruse](https://anilist.co/character/89158)
+* [Ayako Kuroba](https://anilist.co/character/200612)
 <!-- favorites_characters ends -->
 
 </details>
