@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/149660050) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
+* [plans to watch None](https://anilist.co/activity/149659755) of [Xie Wang Zhui Qi 2](https://anilist.co/anime/115846)
 * [watched episode 57](https://anilist.co/activity/149627307) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/149624193) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
 * [paused watching None](https://anilist.co/activity/149623814) of [Senyoku no Sigrdrifa](https://anilist.co/anime/116173)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 31](https://anilist.co/activity/149613065) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [completed None](https://anilist.co/activity/149272299) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 * [completed None](https://anilist.co/activity/149272131) of [Fanren Xiu Xian Zhuan](https://anilist.co/anime/115844)
-* [watched episode 20](https://anilist.co/activity/149271559) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 12](https://anilist.co/activity/149269879) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 <!-- anilist_activity ends -->
 
 </details>
