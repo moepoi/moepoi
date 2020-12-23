@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 21](https://anilist.co/activity/150466870) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 157](https://anilist.co/activity/150369648) of [Black Clover](https://anilist.co/anime/97940)
 * [plans to watch None](https://anilist.co/activity/149660050) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [plans to watch None](https://anilist.co/activity/149659755) of [Xie Wang Zhui Qi 2](https://anilist.co/anime/115846)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [paused watching None](https://anilist.co/activity/149623747) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [completed None](https://anilist.co/activity/149623681) of [Kami-tachi ni Hirowareta Otoko](https://anilist.co/anime/115740)
 * [watched episode 31](https://anilist.co/activity/149613065) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [completed None](https://anilist.co/activity/149272299) of [Quanzhi Gaoshou 2](https://anilist.co/anime/102997)
 <!-- anilist_activity ends -->
 
 </details>
