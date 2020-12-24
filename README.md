@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 32](https://anilist.co/activity/150810200) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 58](https://anilist.co/activity/150810190) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/150742671) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 * [watched episode 12](https://anilist.co/activity/150735635) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 21](https://anilist.co/activity/150466870) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/149659755) of [Xie Wang Zhui Qi 2](https://anilist.co/anime/115846)
 * [watched episode 57](https://anilist.co/activity/149627307) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/149624193) of [Wu Shang Shen Di](https://anilist.co/anime/119924)
-* [paused watching None](https://anilist.co/activity/149623814) of [Senyoku no Sigrdrifa](https://anilist.co/anime/116173)
-* [paused watching None](https://anilist.co/activity/149623747) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
