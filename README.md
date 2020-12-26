@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 110](https://anilist.co/activity/151414443) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 13 - 14](https://anilist.co/activity/151410313) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 32](https://anilist.co/activity/150810200) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 58](https://anilist.co/activity/150810190) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 157](https://anilist.co/activity/150369648) of [Black Clover](https://anilist.co/anime/97940)
 * [plans to watch None](https://anilist.co/activity/149660050) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [plans to watch None](https://anilist.co/activity/149659755) of [Xie Wang Zhui Qi 2](https://anilist.co/anime/115846)
-* [watched episode 57](https://anilist.co/activity/149627307) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
