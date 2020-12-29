@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 22](https://anilist.co/activity/152633479) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 33](https://anilist.co/activity/152633430) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 59](https://anilist.co/activity/152633391) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [watched episode 86 - 88](https://anilist.co/activity/152633258) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/151788226) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 110](https://anilist.co/activity/151414443) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 13 - 14](https://anilist.co/activity/151410313) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 32](https://anilist.co/activity/150810200) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 58](https://anilist.co/activity/150810190) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/150742671) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
-* [watched episode 12](https://anilist.co/activity/150735635) of [Noblesse](https://anilist.co/anime/116005)
-* [watched episode 21](https://anilist.co/activity/150466870) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 157](https://anilist.co/activity/150369648) of [Black Clover](https://anilist.co/anime/97940)
-* [plans to watch None](https://anilist.co/activity/149660050) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 <!-- anilist_activity ends -->
 
 </details>
