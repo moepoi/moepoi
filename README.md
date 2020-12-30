@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 23](https://anilist.co/activity/153049802) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 22](https://anilist.co/activity/152633479) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 33](https://anilist.co/activity/152633430) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 59](https://anilist.co/activity/152633391) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 13 - 14](https://anilist.co/activity/151410313) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 32](https://anilist.co/activity/150810200) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 58](https://anilist.co/activity/150810190) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [completed None](https://anilist.co/activity/150742671) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen](https://anilist.co/anime/112667)
 <!-- anilist_activity ends -->
 
 </details>
