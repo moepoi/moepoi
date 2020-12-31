@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7 - 8](https://anilist.co/activity/153446171) of [Strike the Blood IV](https://anilist.co/anime/112296)
 * [completed None](https://anilist.co/activity/153430360) of [Noblesse](https://anilist.co/anime/116005)
 * [watched episode 23](https://anilist.co/activity/153049802) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 22](https://anilist.co/activity/152633479) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/151788226) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
 * [watched episode 110](https://anilist.co/activity/151414443) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 13 - 14](https://anilist.co/activity/151410313) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
-* [watched episode 32](https://anilist.co/activity/150810200) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 <!-- anilist_activity ends -->
 
 </details>
