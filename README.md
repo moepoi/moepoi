@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8 - 10](https://anilist.co/activity/153779836) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [watched episode 1 - 7](https://anilist.co/activity/153523349) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [watched episode 7 - 8](https://anilist.co/activity/153446171) of [Strike the Blood IV](https://anilist.co/anime/112296)
 * [completed None](https://anilist.co/activity/153430360) of [Noblesse](https://anilist.co/anime/116005)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 59](https://anilist.co/activity/152633391) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 86 - 88](https://anilist.co/activity/152633258) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/151788226) of [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
-* [watched episode 110](https://anilist.co/activity/151414443) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 <!-- anilist_activity ends -->
 
 </details>
