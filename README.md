@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 111](https://anilist.co/activity/154209011) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 34](https://anilist.co/activity/153783121) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 60](https://anilist.co/activity/153783107) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 8 - 10](https://anilist.co/activity/153779836) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 23](https://anilist.co/activity/153049802) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 22](https://anilist.co/activity/152633479) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 33](https://anilist.co/activity/152633430) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 59](https://anilist.co/activity/152633391) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
