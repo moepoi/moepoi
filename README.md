@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 90](https://anilist.co/activity/156683734) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 35](https://anilist.co/activity/155036196) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 61](https://anilist.co/activity/155036176) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 24](https://anilist.co/activity/154605020) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 60](https://anilist.co/activity/153783107) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 8 - 10](https://anilist.co/activity/153779836) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [watched episode 1 - 7](https://anilist.co/activity/153523349) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
-* [watched episode 7 - 8](https://anilist.co/activity/153446171) of [Strike the Blood IV](https://anilist.co/anime/112296)
 <!-- anilist_activity ends -->
 
 </details>
