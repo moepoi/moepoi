@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 36](https://anilist.co/activity/157643347) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 15](https://anilist.co/activity/157641213) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
+* [watched episode 158](https://anilist.co/activity/157641174) of [Black Clover](https://anilist.co/anime/97940)
 * [completed None](https://anilist.co/activity/157627411) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [watched episode 11](https://anilist.co/activity/157627397) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [watched episode 26](https://anilist.co/activity/157624121) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/157624048) of [World Trigger 2](https://anilist.co/anime/114087)
 * [watched episode 1](https://anilist.co/activity/157069459) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
 * [watched episode 1](https://anilist.co/activity/157069434) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
-* [watched episode 112](https://anilist.co/activity/157068791) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
-* [watched episode 62](https://anilist.co/activity/156689019) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 25](https://anilist.co/activity/156686328) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
