@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/157627411) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
+* [watched episode 11](https://anilist.co/activity/157627397) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [watched episode 26](https://anilist.co/activity/157624121) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 91](https://anilist.co/activity/157624066) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1](https://anilist.co/activity/157624048) of [World Trigger 2](https://anilist.co/anime/114087)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 112](https://anilist.co/activity/157068791) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 62](https://anilist.co/activity/156689019) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 25](https://anilist.co/activity/156686328) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 90](https://anilist.co/activity/156683734) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 35](https://anilist.co/activity/155036196) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 <!-- anilist_activity ends -->
 
 </details>
