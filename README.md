@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 37](https://anilist.co/activity/158141495) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 63](https://anilist.co/activity/158141471) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 1 - 5](https://anilist.co/activity/158130531) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
 * [watched episode 9](https://anilist.co/activity/158104101) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [watched episode 36](https://anilist.co/activity/157643347) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/157627411) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [watched episode 11](https://anilist.co/activity/157627397) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 * [watched episode 26](https://anilist.co/activity/157624121) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 91](https://anilist.co/activity/157624066) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 1](https://anilist.co/activity/157624048) of [World Trigger 2](https://anilist.co/anime/114087)
 <!-- anilist_activity ends -->
 
 </details>
