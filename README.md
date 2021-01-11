@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/157968880) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
 * [watched episode 36](https://anilist.co/activity/157643347) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 15](https://anilist.co/activity/157641213) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 158](https://anilist.co/activity/157641174) of [Black Clover](https://anilist.co/anime/97940)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 91](https://anilist.co/activity/157624066) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1](https://anilist.co/activity/157624048) of [World Trigger 2](https://anilist.co/anime/114087)
 * [watched episode 1](https://anilist.co/activity/157069459) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
-* [watched episode 1](https://anilist.co/activity/157069434) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 <!-- anilist_activity ends -->
 
 </details>
