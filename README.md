@@ -22,7 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 1](https://anilist.co/activity/157968880) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
+* [watched episode 1 - 2](https://anilist.co/activity/157976634) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
 * [watched episode 36](https://anilist.co/activity/157643347) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 15](https://anilist.co/activity/157641213) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 158](https://anilist.co/activity/157641174) of [Black Clover](https://anilist.co/anime/97940)
