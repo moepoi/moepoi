@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/159133734) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
 * [watched episode 92](https://anilist.co/activity/158445851) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1 - 2](https://anilist.co/activity/158394024) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
 * [watched episode 37](https://anilist.co/activity/158141495) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 36](https://anilist.co/activity/157643347) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 15](https://anilist.co/activity/157641213) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 158](https://anilist.co/activity/157641174) of [Black Clover](https://anilist.co/anime/97940)
-* [completed None](https://anilist.co/activity/157627411) of [Huyao Xiao Hongniang: Mu Tiancheng Ding Dang](https://anilist.co/anime/122672)
 <!-- anilist_activity ends -->
 
 </details>
