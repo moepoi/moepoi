@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 159](https://anilist.co/activity/159738971) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 1](https://anilist.co/activity/159315904) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
 * [watched episode 1](https://anilist.co/activity/159315876) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 * [watched episode 1](https://anilist.co/activity/159133734) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 63](https://anilist.co/activity/158141471) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 1 - 5](https://anilist.co/activity/158130531) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
 * [watched episode 9](https://anilist.co/activity/158104101) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 36](https://anilist.co/activity/157643347) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 <!-- anilist_activity ends -->
 
 </details>
