@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/160171732) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
+* [watched episode 2](https://anilist.co/activity/160171687) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
+* [watched episode 16](https://anilist.co/activity/160171636) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
+* [watched episode 1](https://anilist.co/activity/160171585) of [Dr. STONE: STONE WARS](https://anilist.co/anime/113936)
+* [watched episode 1](https://anilist.co/activity/160171563) of [Vlad Love](https://anilist.co/anime/110200)
+* [watched episode 1](https://anilist.co/activity/160171508) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
 * [watched episode 159](https://anilist.co/activity/159738971) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 1](https://anilist.co/activity/159315904) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
 * [watched episode 1](https://anilist.co/activity/159315876) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 * [watched episode 1](https://anilist.co/activity/159133734) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
-* [watched episode 92](https://anilist.co/activity/158445851) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 1 - 2](https://anilist.co/activity/158394024) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
-* [watched episode 37](https://anilist.co/activity/158141495) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 63](https://anilist.co/activity/158141471) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 1 - 5](https://anilist.co/activity/158130531) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
-* [watched episode 9](https://anilist.co/activity/158104101) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 <!-- anilist_activity ends -->
 
 </details>
