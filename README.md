@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1 - 2](https://anilist.co/activity/160684333) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
+* [watched episode 113](https://anilist.co/activity/160684217) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
+* [watched episode 93](https://anilist.co/activity/160684190) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 2](https://anilist.co/activity/160684177) of [World Trigger 2](https://anilist.co/anime/114087)
 * [watched episode 10](https://anilist.co/activity/160171732) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [watched episode 2](https://anilist.co/activity/160171687) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
 * [watched episode 16](https://anilist.co/activity/160171636) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 1](https://anilist.co/activity/160171585) of [Dr. STONE: STONE WARS](https://anilist.co/anime/113936)
 * [watched episode 1](https://anilist.co/activity/160171563) of [Vlad Love](https://anilist.co/anime/110200)
 * [watched episode 1](https://anilist.co/activity/160171508) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
-* [watched episode 159](https://anilist.co/activity/159738971) of [Black Clover](https://anilist.co/anime/97940)
-* [watched episode 1](https://anilist.co/activity/159315904) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
-* [watched episode 1](https://anilist.co/activity/159315876) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
-* [watched episode 1](https://anilist.co/activity/159133734) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
 <!-- anilist_activity ends -->
 
 </details>
