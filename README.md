@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/161157055) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
+* [watched episode 11](https://anilist.co/activity/161149490) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
+* [watched episode 39](https://anilist.co/activity/161149467) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 6](https://anilist.co/activity/161149437) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
 * [watched episode 64](https://anilist.co/activity/160771209) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 38](https://anilist.co/activity/160771192) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 27 - 28](https://anilist.co/activity/160771176) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 1 - 2](https://anilist.co/activity/160684333) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
 * [watched episode 113](https://anilist.co/activity/160684217) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 93](https://anilist.co/activity/160684190) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 2](https://anilist.co/activity/160684177) of [World Trigger 2](https://anilist.co/anime/114087)
-* [watched episode 10](https://anilist.co/activity/160171732) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 2](https://anilist.co/activity/160171687) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
-* [watched episode 16](https://anilist.co/activity/160171636) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 <!-- anilist_activity ends -->
 
 </details>
