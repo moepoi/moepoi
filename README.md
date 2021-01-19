@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 65](https://anilist.co/activity/161721054) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 94](https://anilist.co/activity/161621369) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 3](https://anilist.co/activity/161619119) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
 * [watched episode 2](https://anilist.co/activity/161157055) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 64](https://anilist.co/activity/160771209) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 38](https://anilist.co/activity/160771192) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 27 - 28](https://anilist.co/activity/160771176) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 1 - 2](https://anilist.co/activity/160684333) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
 <!-- anilist_activity ends -->
 
 </details>
