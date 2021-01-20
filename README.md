@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/162332766) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
+* [watched episode 2](https://anilist.co/activity/162332745) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
+* [watched episode 29](https://anilist.co/activity/162332704) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 160](https://anilist.co/activity/162332679) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 2](https://anilist.co/activity/162136820) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 * [watched episode 65](https://anilist.co/activity/161721054) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 94](https://anilist.co/activity/161621369) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 3](https://anilist.co/activity/161619119) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
 * [watched episode 2](https://anilist.co/activity/161157055) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 11](https://anilist.co/activity/161149490) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 39](https://anilist.co/activity/161149467) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 6](https://anilist.co/activity/161149437) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
-* [watched episode 64](https://anilist.co/activity/160771209) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 38](https://anilist.co/activity/160771192) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 <!-- anilist_activity ends -->
 
 </details>
