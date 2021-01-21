@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/162821441) of [Majutsushi Orphen Hagure Tabi: Kimluck-hen](https://anilist.co/anime/117085)
+* [completed None](https://anilist.co/activity/162821242) of [Majutsushi Orphen Hagure Tabi](https://anilist.co/anime/101367)
 * [watched episode 2](https://anilist.co/activity/162585625) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
 * [watched episode 2](https://anilist.co/activity/162332766) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
 * [watched episode 2](https://anilist.co/activity/162332745) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/162136820) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 * [watched episode 65](https://anilist.co/activity/161721054) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 94](https://anilist.co/activity/161621369) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 3](https://anilist.co/activity/161619119) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
-* [watched episode 2](https://anilist.co/activity/161157055) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 <!-- anilist_activity ends -->
 
 </details>
