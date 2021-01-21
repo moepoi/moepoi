@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/162585625) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
 * [watched episode 2](https://anilist.co/activity/162332766) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
 * [watched episode 2](https://anilist.co/activity/162332745) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
 * [watched episode 29](https://anilist.co/activity/162332704) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 94](https://anilist.co/activity/161621369) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 3](https://anilist.co/activity/161619119) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
 * [watched episode 2](https://anilist.co/activity/161157055) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
-* [watched episode 11](https://anilist.co/activity/161149490) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 <!-- anilist_activity ends -->
 
 </details>
