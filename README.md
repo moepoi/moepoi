@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/162993149) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
+* [watched episode 66](https://anilist.co/activity/162993103) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [watched episode 40](https://anilist.co/activity/162993072) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 2](https://anilist.co/activity/162993039) of [Dr. STONE: STONE WARS](https://anilist.co/anime/113936)
 * [watched episode 1](https://anilist.co/activity/162821441) of [Majutsushi Orphen Hagure Tabi: Kimluck-hen](https://anilist.co/anime/117085)
 * [completed None](https://anilist.co/activity/162821242) of [Majutsushi Orphen Hagure Tabi](https://anilist.co/anime/101367)
 * [watched episode 2](https://anilist.co/activity/162585625) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
 * [watched episode 2](https://anilist.co/activity/162332766) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
 * [watched episode 2](https://anilist.co/activity/162332745) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
 * [watched episode 29](https://anilist.co/activity/162332704) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 160](https://anilist.co/activity/162332679) of [Black Clover](https://anilist.co/anime/97940)
-* [watched episode 2](https://anilist.co/activity/162136820) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
-* [watched episode 65](https://anilist.co/activity/161721054) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 94](https://anilist.co/activity/161621369) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
