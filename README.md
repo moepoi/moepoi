@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 17](https://anilist.co/activity/163500612) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
+* [watched episode 3](https://anilist.co/activity/163500567) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
 * [watched episode 3](https://anilist.co/activity/163282757) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 12](https://anilist.co/activity/163027078) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [watched episode 3](https://anilist.co/activity/162993149) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/162993039) of [Dr. STONE: STONE WARS](https://anilist.co/anime/113936)
 * [watched episode 1](https://anilist.co/activity/162821441) of [Majutsushi Orphen Hagure Tabi: Kimluck-hen](https://anilist.co/anime/117085)
 * [completed None](https://anilist.co/activity/162821242) of [Majutsushi Orphen Hagure Tabi](https://anilist.co/anime/101367)
-* [watched episode 2](https://anilist.co/activity/162585625) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
-* [watched episode 2](https://anilist.co/activity/162332766) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
 <!-- anilist_activity ends -->
 
 </details>
