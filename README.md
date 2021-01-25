@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/164669740) of [Kamisama ni Natta Hi](https://anilist.co/anime/118419)
+* [watched episode 7 - 11](https://anilist.co/activity/164669689) of [Kamisama ni Natta Hi](https://anilist.co/anime/118419)
 * [watched episode 30](https://anilist.co/activity/164534129) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 41](https://anilist.co/activity/164534078) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 7](https://anilist.co/activity/164534025) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/164013221) of [World Trigger 2](https://anilist.co/anime/114087)
 * [watched episode 114](https://anilist.co/activity/163598652) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 17](https://anilist.co/activity/163500612) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
-* [watched episode 3](https://anilist.co/activity/163500567) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
-* [watched episode 3](https://anilist.co/activity/163282757) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 <!-- anilist_activity ends -->
 
 </details>
