@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/165984761) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
+* [watched episode 3](https://anilist.co/activity/165984729) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
+* [watched episode 3](https://anilist.co/activity/165984696) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
 * [watched episode 3](https://anilist.co/activity/165500301) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 * [watched episode 161](https://anilist.co/activity/165500285) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 67](https://anilist.co/activity/165174722) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 96](https://anilist.co/activity/165174677) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 4](https://anilist.co/activity/165174658) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
 * [completed None](https://anilist.co/activity/164669740) of [Kamisama ni Natta Hi](https://anilist.co/anime/118419)
-* [watched episode 7 - 11](https://anilist.co/activity/164669689) of [Kamisama ni Natta Hi](https://anilist.co/anime/118419)
-* [watched episode 30](https://anilist.co/activity/164534129) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 41](https://anilist.co/activity/164534078) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 <!-- anilist_activity ends -->
 
 </details>
