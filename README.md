@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 31](https://anilist.co/activity/167934072) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 42](https://anilist.co/activity/167934038) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
+* [watched episode 4](https://anilist.co/activity/167933999) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
+* [watched episode 8](https://anilist.co/activity/167933972) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
 * [watched episode 68](https://anilist.co/activity/167636039) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 97](https://anilist.co/activity/167635266) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 115](https://anilist.co/activity/167635199) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
 * [watched episode 14](https://anilist.co/activity/167635187) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [watched episode 4](https://anilist.co/activity/167634594) of [World Trigger 2](https://anilist.co/anime/114087)
 * [watched episode 18](https://anilist.co/activity/167634539) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
-* [watched episode 4](https://anilist.co/activity/167634515) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
-* [watched episode 4](https://anilist.co/activity/167634349) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
-* [watched episode 3](https://anilist.co/activity/167634298) of [Dr. STONE: STONE WARS](https://anilist.co/anime/113936)
-* [watched episode 2](https://anilist.co/activity/167634238) of [Majutsushi Orphen Hagure Tabi: Kimluck-hen](https://anilist.co/anime/117085)
 <!-- anilist_activity ends -->
 
 </details>
