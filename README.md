@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 32](https://anilist.co/activity/168424579) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 5](https://anilist.co/activity/168424470) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
+* [watched episode 98](https://anilist.co/activity/168424450) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 69](https://anilist.co/activity/168424412) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 14 - 15](https://anilist.co/activity/167940306) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [watched episode 42 - 43](https://anilist.co/activity/167934663) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 31](https://anilist.co/activity/167934072) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 4](https://anilist.co/activity/167933999) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 8](https://anilist.co/activity/167933972) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
 * [watched episode 68](https://anilist.co/activity/167636039) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 97](https://anilist.co/activity/167635266) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 115](https://anilist.co/activity/167635199) of [Douluo Dalu Part 2](https://anilist.co/anime/103543)
-* [watched episode 4](https://anilist.co/activity/167634594) of [World Trigger 2](https://anilist.co/anime/114087)
-* [watched episode 18](https://anilist.co/activity/167634539) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 <!-- anilist_activity ends -->
 
 </details>
