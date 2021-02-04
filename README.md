@@ -101,6 +101,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Mio Naruse](https://anilist.co/character/89158)
 * [Ayako Kuroba](https://anilist.co/character/200612)
 * [Flare Arlgrande Jioral](https://anilist.co/character/139397)
+* [Setsuna](https://anilist.co/character/139402)
 <!-- favorites_characters ends -->
 
 </details>
