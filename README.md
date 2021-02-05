@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/170028700) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
+* [watched episode 5](https://anilist.co/activity/170028679) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
 * [watched episode 4](https://anilist.co/activity/169975591) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
 * [watched episode 4](https://anilist.co/activity/169975569) of [Dr. STONE: STONE WARS](https://anilist.co/anime/113936)
 * [watched episode 4](https://anilist.co/activity/169975509) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 44](https://anilist.co/activity/169975462) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 * [watched episode 70](https://anilist.co/activity/169975446) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 162](https://anilist.co/activity/168574580) of [Black Clover](https://anilist.co/anime/97940)
-* [watched episode 32](https://anilist.co/activity/168424579) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 5](https://anilist.co/activity/168424470) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
 <!-- anilist_activity ends -->
 
 </details>
