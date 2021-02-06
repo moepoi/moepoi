@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/170260374) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
+* [watched episode 5](https://anilist.co/activity/170260364) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
 * [watched episode 4](https://anilist.co/activity/170028700) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
 * [watched episode 5](https://anilist.co/activity/170028679) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
 * [watched episode 4](https://anilist.co/activity/169975591) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4](https://anilist.co/activity/169975496) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 * [watched episode 16](https://anilist.co/activity/169975476) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [watched episode 44](https://anilist.co/activity/169975462) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 70](https://anilist.co/activity/169975446) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 162](https://anilist.co/activity/168574580) of [Black Clover](https://anilist.co/anime/97940)
 <!-- anilist_activity ends -->
 
 </details>
