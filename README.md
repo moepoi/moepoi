@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/172671386) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
+* [watched episode 5](https://anilist.co/activity/172671308) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
+* [watched episode 5](https://anilist.co/activity/172671298) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
+* [watched episode 72](https://anilist.co/activity/172671268) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 5](https://anilist.co/activity/172206416) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 * [watched episode 163](https://anilist.co/activity/172206409) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 6](https://anilist.co/activity/172206400) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
 * [watched episode 9](https://anilist.co/activity/172206383) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
 * [watched episode 3](https://anilist.co/activity/172206363) of [Majutsushi Orphen Hagure Tabi: Kimluck-hen](https://anilist.co/anime/117085)
 * [watched episode 45](https://anilist.co/activity/172206342) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 71](https://anilist.co/activity/172206324) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 17](https://anilist.co/activity/172206312) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 19](https://anilist.co/activity/172206296) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
-* [watched episode 33 - 34](https://anilist.co/activity/172206277) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
