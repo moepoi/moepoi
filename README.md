@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/174724832) of [Dragonaut: The Resonance](https://anilist.co/anime/2795)
 * [completed None](https://anilist.co/activity/174208810) of [Kishin Houkou Demonbane (2006)](https://anilist.co/anime/1067)
 * [watched episode 5](https://anilist.co/activity/172671386) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
 * [watched episode 5](https://anilist.co/activity/172671308) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 163](https://anilist.co/activity/172206409) of [Black Clover](https://anilist.co/anime/97940)
 * [watched episode 6](https://anilist.co/activity/172206400) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
 * [watched episode 9](https://anilist.co/activity/172206383) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
-* [watched episode 3](https://anilist.co/activity/172206363) of [Majutsushi Orphen Hagure Tabi: Kimluck-hen](https://anilist.co/anime/117085)
 <!-- anilist_activity ends -->
 
 </details>
