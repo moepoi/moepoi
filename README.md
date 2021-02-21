@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/177206160) of [World Trigger 2](https://anilist.co/anime/114087)
+* [watched episode 7](https://anilist.co/activity/177206148) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
+* [watched episode 21](https://anilist.co/activity/177206136) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
+* [watched episode 7](https://anilist.co/activity/177206119) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
+* [watched episode 103](https://anilist.co/activity/177206052) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 36 - 37](https://anilist.co/activity/177206015) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 74](https://anilist.co/activity/177205950) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 35](https://anilist.co/activity/176501183) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 101 - 102](https://anilist.co/activity/176501150) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 10](https://anilist.co/activity/176501121) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
-* [watched episode 73](https://anilist.co/activity/176501095) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 18 - 20](https://anilist.co/activity/176501067) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 7](https://anilist.co/activity/176501028) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
-* [watched episode 164](https://anilist.co/activity/176501014) of [Black Clover](https://anilist.co/anime/97940)
-* [watched episode 6](https://anilist.co/activity/176500999) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
-* [watched episode 6](https://anilist.co/activity/176500977) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
-* [watched episode 6](https://anilist.co/activity/176500955) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
 <!-- anilist_activity ends -->
 
 </details>
