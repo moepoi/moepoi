@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/178761155) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
+* [watched episode 165](https://anilist.co/activity/178761131) of [Black Clover](https://anilist.co/anime/97940)
+* [completed None](https://anilist.co/activity/178760927) of [Suisei no Gargantia: Meguru Kouro, Haruka](https://anilist.co/anime/20449)
+* [completed None](https://anilist.co/activity/178760724) of [Suisei no Gargantia OVA](https://anilist.co/anime/19211)
+* [completed None](https://anilist.co/activity/178760603) of [Suisei no Gargantia](https://anilist.co/anime/16524)
 * [watched episode 8](https://anilist.co/activity/178289577) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
 * [watched episode 104](https://anilist.co/activity/178289544) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 38](https://anilist.co/activity/178289524) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 7](https://anilist.co/activity/178168701) of [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/anime/108465)
 * [completed None](https://anilist.co/activity/178168373) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 46 - 47](https://anilist.co/activity/178168362) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
-* [watched episode 116 - 118](https://anilist.co/activity/178168049) of [Douluo Dalu: Jingying Sai](https://anilist.co/anime/103543)
-* [watched episode 11](https://anilist.co/activity/178167832) of [Shingeki no Kyojin: The Final Season](https://anilist.co/anime/110277)
-* [watched episode 21](https://anilist.co/activity/178167746) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 75](https://anilist.co/activity/178167724) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
