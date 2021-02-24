@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 39](https://anilist.co/activity/178796249) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 7](https://anilist.co/activity/178761155) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 * [watched episode 165](https://anilist.co/activity/178761131) of [Black Clover](https://anilist.co/anime/97940)
 * [completed None](https://anilist.co/activity/178760927) of [Suisei no Gargantia: Meguru Kouro, Haruka](https://anilist.co/anime/20449)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 104](https://anilist.co/activity/178289544) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 38](https://anilist.co/activity/178289524) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 7](https://anilist.co/activity/178168701) of [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/anime/108465)
-* [completed None](https://anilist.co/activity/178168373) of [Wanjie Xianzong 4](https://anilist.co/anime/122689)
 <!-- anilist_activity ends -->
 
 </details>
