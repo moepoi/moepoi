@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/179377557) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
+* [watched episode 7](https://anilist.co/activity/179377550) of [Log Horizon: Entaku Houkai](https://anilist.co/anime/114862)
+* [watched episode 7](https://anilist.co/activity/179377544) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
+* [watched episode 76](https://anilist.co/activity/179377523) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 39](https://anilist.co/activity/178796249) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 7](https://anilist.co/activity/178761155) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 * [watched episode 165](https://anilist.co/activity/178761131) of [Black Clover](https://anilist.co/anime/97940)
 * [completed None](https://anilist.co/activity/178760927) of [Suisei no Gargantia: Meguru Kouro, Haruka](https://anilist.co/anime/20449)
 * [completed None](https://anilist.co/activity/178760724) of [Suisei no Gargantia OVA](https://anilist.co/anime/19211)
 * [completed None](https://anilist.co/activity/178760603) of [Suisei no Gargantia](https://anilist.co/anime/16524)
-* [watched episode 8](https://anilist.co/activity/178289577) of [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://anilist.co/anime/112649)
-* [watched episode 104](https://anilist.co/activity/178289544) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 38](https://anilist.co/activity/178289524) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 7](https://anilist.co/activity/178168701) of [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/anime/108465)
 <!-- anilist_activity ends -->
 
 </details>
