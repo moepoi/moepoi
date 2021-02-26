@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/179928912) of [Aldnoah.Zero 2](https://anilist.co/anime/20853)
 * [completed None](https://anilist.co/activity/179821448) of [Aldnoah.Zero](https://anilist.co/anime/20632)
 * [watched episode 7](https://anilist.co/activity/179821377) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
 * [watched episode 7](https://anilist.co/activity/179821363) of [Dr. STONE: STONE WARS](https://anilist.co/anime/113936)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/179377544) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
 * [watched episode 76](https://anilist.co/activity/179377523) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 39](https://anilist.co/activity/178796249) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 7](https://anilist.co/activity/178761155) of [Tensei Shitara Slime Datta Ken 2nd Season](https://anilist.co/anime/108511)
 <!-- anilist_activity ends -->
 
 </details>
