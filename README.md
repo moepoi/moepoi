@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/180763271) of [World Trigger 2](https://anilist.co/anime/114087)
+* [watched episode 105](https://anilist.co/activity/180763229) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 40](https://anilist.co/activity/180763209) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 8](https://anilist.co/activity/180230634) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
 * [watched episode 8](https://anilist.co/activity/180230622) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 22](https://anilist.co/activity/180230607) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/179928912) of [Aldnoah.Zero 2](https://anilist.co/anime/20853)
 * [completed None](https://anilist.co/activity/179821448) of [Aldnoah.Zero](https://anilist.co/anime/20632)
 * [watched episode 7](https://anilist.co/activity/179821377) of [Yakusoku no Neverland 2](https://anilist.co/anime/108725)
-* [watched episode 7](https://anilist.co/activity/179821363) of [Dr. STONE: STONE WARS](https://anilist.co/anime/113936)
-* [watched episode 22](https://anilist.co/activity/179821339) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 7](https://anilist.co/activity/179377557) of [Kaifuku Jutsushi no Yarinaoshi](https://anilist.co/anime/113425)
 <!-- anilist_activity ends -->
 
 </details>
