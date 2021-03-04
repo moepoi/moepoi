@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/182636281) of [Full Metal Panic! Invisible Victory](https://anilist.co/anime/21451)
 * [completed None](https://anilist.co/activity/182636181) of [Full Metal Panic! The Second Raid](https://anilist.co/anime/73)
 * [completed None](https://anilist.co/activity/182636041) of [Full Metal Panic!](https://anilist.co/anime/71)
 * [watched episode 7](https://anilist.co/activity/180763271) of [World Trigger 2](https://anilist.co/anime/114087)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/180230622) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 22](https://anilist.co/activity/180230607) of [King's Raid: Ishi wo Tsugumono-tachi](https://anilist.co/anime/118376)
 * [watched episode 119](https://anilist.co/activity/180230575) of [Douluo Dalu: Jingying Sai](https://anilist.co/anime/103543)
-* [completed None](https://anilist.co/activity/179928912) of [Aldnoah.Zero 2](https://anilist.co/anime/20853)
 <!-- anilist_activity ends -->
 
 </details>
