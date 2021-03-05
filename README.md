@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/183462905) of [Kurogane no Linebarrels](https://anilist.co/anime/3653)
 * [completed None](https://anilist.co/activity/183165416) of [Buddy Complex Kanketsu-hen - Ano Sora ni Kaeru Mirai de](https://anilist.co/anime/20685)
 * [completed None](https://anilist.co/activity/183115938) of [Buddy Complex](https://anilist.co/anime/20533)
 * [completed None](https://anilist.co/activity/182636281) of [Full Metal Panic! Invisible Victory](https://anilist.co/anime/21451)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 105](https://anilist.co/activity/180763229) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 40](https://anilist.co/activity/180763209) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 8](https://anilist.co/activity/180230634) of [Ore dake Haireru Kakushi Dungeon](https://anilist.co/anime/118375)
-* [watched episode 8](https://anilist.co/activity/180230622) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 <!-- anilist_activity ends -->
 
 </details>
