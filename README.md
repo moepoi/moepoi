@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/192875584) of [Schwarzesmarken](https://anilist.co/anime/21201)
 * [completed None](https://anilist.co/activity/188909182) of [Soukou no Strain](https://anilist.co/anime/1602)
 * [completed None](https://anilist.co/activity/187864779) of [Yoake Mae Yori Ruriiro na: Crescent Love](https://anilist.co/anime/1543)
 * [completed None](https://anilist.co/activity/183462905) of [Kurogane no Linebarrels](https://anilist.co/anime/3653)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/182636181) of [Full Metal Panic! The Second Raid](https://anilist.co/anime/73)
 * [completed None](https://anilist.co/activity/182636041) of [Full Metal Panic!](https://anilist.co/anime/71)
 * [watched episode 7](https://anilist.co/activity/180763271) of [World Trigger 2](https://anilist.co/anime/114087)
-* [watched episode 105](https://anilist.co/activity/180763229) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
