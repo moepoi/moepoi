@@ -104,6 +104,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Setsuna](https://anilist.co/character/139402)
 * [Roxy Migurdia](https://anilist.co/character/88350)
 * [Feena Fam Earthlight](https://anilist.co/character/1054)
+* [Sayu Ogiwara](https://anilist.co/character/127925)
 <!-- favorites_characters ends -->
 
 </details>
