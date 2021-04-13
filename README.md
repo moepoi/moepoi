@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/205065456) of [Kuromukuro](https://anilist.co/anime/21516)
 * [completed None](https://anilist.co/activity/202966002) of [Cross Ange: Tenshi to Ryuu no Rondo](https://anilist.co/anime/20806)
 * [completed None](https://anilist.co/activity/202965523) of [Macross Δ](https://anilist.co/anime/20680)
 * [plans to watch None](https://anilist.co/activity/194115918) of [Muv-Luv Alternative](https://anilist.co/anime/112716)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/183462905) of [Kurogane no Linebarrels](https://anilist.co/anime/3653)
 * [completed None](https://anilist.co/activity/183165416) of [Buddy Complex Kanketsu-hen - Ano Sora ni Kaeru Mirai de](https://anilist.co/anime/20685)
 * [completed None](https://anilist.co/activity/183115938) of [Buddy Complex](https://anilist.co/anime/20533)
-* [completed None](https://anilist.co/activity/182636281) of [Full Metal Panic! Invisible Victory](https://anilist.co/anime/21451)
 <!-- anilist_activity ends -->
 
 </details>
