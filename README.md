@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [plans to watch None](https://anilist.co/activity/222859143) of [Tantei wa mou, Shindeiru.](https://anilist.co/anime/128712)
-* [plans to watch None](https://anilist.co/activity/222858705) of [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://anilist.co/anime/129898)
-* [plans to watch None](https://anilist.co/activity/222858337) of [Bokutachi no Remake](https://anilist.co/anime/114065)
-* [plans to watch None](https://anilist.co/activity/222858012) of [SCARLET NEXUS](https://anilist.co/anime/131150)
-* [plans to watch None](https://anilist.co/activity/222857765) of [Megami-ryou no Ryoubo-kun.](https://anilist.co/anime/117989)
-* [plans to watch None](https://anilist.co/activity/222857549) of [Shinigami Bocchan to Kuro Maid](https://anilist.co/anime/129277)
-* [plans to watch None](https://anilist.co/activity/222857301) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
-* [plans to watch None](https://anilist.co/activity/222856869) of [Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita](https://anilist.co/anime/126213)
-* [plans to watch None](https://anilist.co/activity/222856656) of [Kanojo mo Kanojo](https://anilist.co/anime/126192)
-* [plans to watch None](https://anilist.co/activity/222856386) of [Genjitsu Shugi Yuusha no Oukoku Saikenki](https://anilist.co/anime/117612)
+* [plans to watch None](https://anilist.co/activity/222868662) of [86: Eighty Six Part 2](https://anilist.co/anime/131586)
+* [plans to watch None](https://anilist.co/activity/222868641) of [86: Eighty Six](https://anilist.co/anime/116589)
+* [plans to watch None](https://anilist.co/activity/222865805) of [Overlord IV](https://anilist.co/anime/133844)
+* [plans to watch None](https://anilist.co/activity/222865717) of [Xie Wang Zhui Qi: Shennü Guilai](https://anilist.co/anime/134081)
+* [plans to watch None](https://anilist.co/activity/222865201) of [Yuan Long 2](https://anilist.co/anime/126360)
+* [plans to watch None](https://anilist.co/activity/222864832) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
+* [plans to watch None](https://anilist.co/activity/222864047) of [Tensei Kenja no Isekai Life](https://anilist.co/anime/129192)
+* [plans to watch None](https://anilist.co/activity/222863312) of [Isekai Meikyuu de Harem wo](https://anilist.co/anime/127090)
+* [plans to watch None](https://anilist.co/activity/222862939) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season Part 2](https://anilist.co/anime/130590)
+* [plans to watch None](https://anilist.co/activity/222862300) of [Kyokou Suiri 2](https://anilist.co/anime/126529)
 <!-- anilist_activity ends -->
 
 </details>
@@ -81,11 +81,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:girl: List Favorites Characters</summary>
   
 <!-- favorites_characters starts -->
+* [Sayu Ogiwara](https://anilist.co/character/127925)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
+* [Kyouko Hori](https://anilist.co/character/66171)
 * [Ruka Sarashina](https://anilist.co/character/147005)
 * [Sumi Sakurasawa](https://anilist.co/character/144665)
 * [Ravel Phenex](https://anilist.co/character/58341)
+* [Le Fay Pendragon](https://anilist.co/character/79663)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
 * [Haruno Yukinoshita](https://anilist.co/character/79589)
 * [Iroha Isshiki](https://anilist.co/character/88727)
@@ -94,18 +97,15 @@ I'd like to do project that has relation to anime. :ghost:
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
 * [Miyuki Shiba](https://anilist.co/character/55741)
+* [Ayako Kuroba](https://anilist.co/character/200612)
 * [Nepgear](https://anilist.co/character/49927)
 * [Yoshino Koiwai](https://anilist.co/character/121008)
 * [Karen Kujou](https://anilist.co/character/50223)
-* [Myucel Foaran](https://anilist.co/character/87640)
 * [Mio Naruse](https://anilist.co/character/89158)
-* [Ayako Kuroba](https://anilist.co/character/200612)
 * [Flare Arlgrande Jioral](https://anilist.co/character/139397)
 * [Setsuna](https://anilist.co/character/139402)
 * [Roxy Migurdia](https://anilist.co/character/88350)
 * [Feena Fam Earthlight](https://anilist.co/character/1054)
-* [Sayu Ogiwara](https://anilist.co/character/127925)
-* [Le Fay Pendragon](https://anilist.co/character/79663)
 <!-- favorites_characters ends -->
 
 </details>
