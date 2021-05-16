@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [completed None](https://anilist.co/activity/205065456) of [Kuromukuro](https://anilist.co/anime/21516)
-* [completed None](https://anilist.co/activity/202966002) of [Cross Ange: Tenshi to Ryuu no Rondo](https://anilist.co/anime/20806)
-* [completed None](https://anilist.co/activity/202965523) of [Macross Δ](https://anilist.co/anime/20680)
-* [plans to watch None](https://anilist.co/activity/194115918) of [Muv-Luv Alternative](https://anilist.co/anime/112716)
-* [completed None](https://anilist.co/activity/192875584) of [Schwarzesmarken](https://anilist.co/anime/21201)
-* [completed None](https://anilist.co/activity/188909182) of [Soukou no Strain](https://anilist.co/anime/1602)
-* [completed None](https://anilist.co/activity/187864779) of [Yoake Mae Yori Ruriiro na: Crescent Love](https://anilist.co/anime/1543)
-* [completed None](https://anilist.co/activity/183462905) of [Kurogane no Linebarrels](https://anilist.co/anime/3653)
-* [completed None](https://anilist.co/activity/183165416) of [Buddy Complex Kanketsu-hen - Ano Sora ni Kaeru Mirai de](https://anilist.co/anime/20685)
-* [completed None](https://anilist.co/activity/183115938) of [Buddy Complex](https://anilist.co/anime/20533)
+* [plans to watch None](https://anilist.co/activity/222859143) of [Tantei wa mou, Shindeiru.](https://anilist.co/anime/128712)
+* [plans to watch None](https://anilist.co/activity/222858705) of [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://anilist.co/anime/129898)
+* [plans to watch None](https://anilist.co/activity/222858337) of [Bokutachi no Remake](https://anilist.co/anime/114065)
+* [plans to watch None](https://anilist.co/activity/222858012) of [SCARLET NEXUS](https://anilist.co/anime/131150)
+* [plans to watch None](https://anilist.co/activity/222857765) of [Megami-ryou no Ryoubo-kun.](https://anilist.co/anime/117989)
+* [plans to watch None](https://anilist.co/activity/222857549) of [Shinigami Bocchan to Kuro Maid](https://anilist.co/anime/129277)
+* [plans to watch None](https://anilist.co/activity/222857301) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
+* [plans to watch None](https://anilist.co/activity/222856869) of [Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita](https://anilist.co/anime/126213)
+* [plans to watch None](https://anilist.co/activity/222856656) of [Kanojo mo Kanojo](https://anilist.co/anime/126192)
+* [plans to watch None](https://anilist.co/activity/222856386) of [Genjitsu Shugi Yuusha no Oukoku Saikenki](https://anilist.co/anime/117612)
 <!-- anilist_activity ends -->
 
 </details>
