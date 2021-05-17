@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/223384881) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 * [watched episode 36](https://anilist.co/activity/223269722) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
 * [watched episode 99](https://anilist.co/activity/223269705) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [plans to watch None](https://anilist.co/activity/223203204) of [3D Kanojo: Real Girl 2](https://anilist.co/anime/102882)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/222868641) of [86: Eighty Six](https://anilist.co/anime/116589)
 * [plans to watch None](https://anilist.co/activity/222865805) of [Overlord IV](https://anilist.co/anime/133844)
 * [plans to watch None](https://anilist.co/activity/222865717) of [Xie Wang Zhui Qi: Shennü Guilai](https://anilist.co/anime/134081)
-* [plans to watch None](https://anilist.co/activity/222865201) of [Yuan Long 2](https://anilist.co/anime/126360)
 <!-- anilist_activity ends -->
 
 </details>
