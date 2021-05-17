@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/223203204) of [3D Kanojo: Real Girl 2](https://anilist.co/anime/102882)
+* [completed None](https://anilist.co/activity/223203140) of [3D Kanojo: Real Girl](https://anilist.co/anime/100526)
+* [watched episode 45](https://anilist.co/activity/223202951) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [plans to watch None](https://anilist.co/activity/222868662) of [86: Eighty Six Part 2](https://anilist.co/anime/131586)
 * [plans to watch None](https://anilist.co/activity/222868641) of [86: Eighty Six](https://anilist.co/anime/116589)
 * [plans to watch None](https://anilist.co/activity/222865805) of [Overlord IV](https://anilist.co/anime/133844)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/222865201) of [Yuan Long 2](https://anilist.co/anime/126360)
 * [plans to watch None](https://anilist.co/activity/222864832) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
 * [plans to watch None](https://anilist.co/activity/222864047) of [Tensei Kenja no Isekai Life](https://anilist.co/anime/129192)
-* [plans to watch None](https://anilist.co/activity/222863312) of [Isekai Meikyuu de Harem wo](https://anilist.co/anime/127090)
-* [plans to watch None](https://anilist.co/activity/222862939) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou 2nd Season Part 2](https://anilist.co/anime/130590)
-* [plans to watch None](https://anilist.co/activity/222862300) of [Kyokou Suiri 2](https://anilist.co/anime/126529)
 <!-- anilist_activity ends -->
 
 </details>
