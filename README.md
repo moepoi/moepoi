@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 128](https://anilist.co/activity/223703554) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 15](https://anilist.co/activity/223703543) of [Wanjie Duzun](https://anilist.co/anime/131929)
+* [watched episode 76](https://anilist.co/activity/223703533) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [completed None](https://anilist.co/activity/223540772) of [3D Kanojo: Real Girl 2](https://anilist.co/anime/102882)
 * [watched episode 7](https://anilist.co/activity/223384881) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 * [watched episode 36](https://anilist.co/activity/223269722) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/223203204) of [3D Kanojo: Real Girl 2](https://anilist.co/anime/102882)
 * [completed None](https://anilist.co/activity/223203140) of [3D Kanojo: Real Girl](https://anilist.co/anime/100526)
 * [watched episode 45](https://anilist.co/activity/223202951) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [plans to watch None](https://anilist.co/activity/222868662) of [86: Eighty Six Part 2](https://anilist.co/anime/131586)
-* [plans to watch None](https://anilist.co/activity/222868641) of [86: Eighty Six](https://anilist.co/anime/116589)
-* [plans to watch None](https://anilist.co/activity/222865805) of [Overlord IV](https://anilist.co/anime/133844)
 <!-- anilist_activity ends -->
 
 </details>
