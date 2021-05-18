@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [paused watching 20](https://anilist.co/activity/223902451) of [Wei Wo Du Shen ](https://anilist.co/anime/129208)
+* [plans to watch None](https://anilist.co/activity/223900999) of [Yinian Yongheng](https://anilist.co/anime/110595)
+* [plans to watch None](https://anilist.co/activity/223892606) of [Yi Ren Zhi Xia](https://anilist.co/anime/21840)
+* [plans to watch None](https://anilist.co/activity/223892461) of [Tian Guan Ci Fu](https://anilist.co/anime/113260)
+* [plans to watch None](https://anilist.co/activity/223890187) of [Seijo no Maryoku wa Bannou desu](https://anilist.co/anime/123802)
+* [completed None](https://anilist.co/activity/223888282) of [Reikenzan: Eichi e no Shikaku](https://anilist.co/anime/21744)
+* [completed None](https://anilist.co/activity/223888172) of [Reikenzan: Hoshikuzu-tachi no Utage](https://anilist.co/anime/21497)
 * [watched episode 128](https://anilist.co/activity/223703554) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 15](https://anilist.co/activity/223703543) of [Wanjie Duzun](https://anilist.co/anime/131929)
 * [watched episode 76](https://anilist.co/activity/223703533) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [completed None](https://anilist.co/activity/223540772) of [3D Kanojo: Real Girl 2](https://anilist.co/anime/102882)
-* [watched episode 7](https://anilist.co/activity/223384881) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
-* [watched episode 36](https://anilist.co/activity/223269722) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
-* [watched episode 99](https://anilist.co/activity/223269705) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [plans to watch None](https://anilist.co/activity/223203204) of [3D Kanojo: Real Girl 2](https://anilist.co/anime/102882)
-* [completed None](https://anilist.co/activity/223203140) of [3D Kanojo: Real Girl](https://anilist.co/anime/100526)
-* [watched episode 45](https://anilist.co/activity/223202951) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 <!-- anilist_activity ends -->
 
 </details>
