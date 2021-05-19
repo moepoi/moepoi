@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/224469720) of [Yi Ren Zhi Xia 3](https://anilist.co/anime/105401)
+* [completed None](https://anilist.co/activity/224469024) of [Yi Ren Zhi Xia 2](https://anilist.co/anime/98574)
 * [plans to watch None](https://anilist.co/activity/224265017) of [Yi Ren Zhi Xia 2](https://anilist.co/anime/98574)
 * [completed None](https://anilist.co/activity/224264545) of [Yi Ren Zhi Xia](https://anilist.co/anime/21840)
 * [watched episode 63](https://anilist.co/activity/224264382) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/223892606) of [Yi Ren Zhi Xia](https://anilist.co/anime/21840)
 * [plans to watch None](https://anilist.co/activity/223892461) of [Tian Guan Ci Fu](https://anilist.co/anime/113260)
 * [plans to watch None](https://anilist.co/activity/223890187) of [Seijo no Maryoku wa Bannou desu](https://anilist.co/anime/123802)
-* [completed None](https://anilist.co/activity/223888282) of [Reikenzan: Eichi e no Shikaku](https://anilist.co/anime/21744)
-* [completed None](https://anilist.co/activity/223888172) of [Reikenzan: Hoshikuzu-tachi no Utage](https://anilist.co/anime/21497)
 <!-- anilist_activity ends -->
 
 </details>
