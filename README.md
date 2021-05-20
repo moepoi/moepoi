@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/224693709) of [Yi Ren Zhi Xia 4](https://anilist.co/anime/122631)
+* [completed None](https://anilist.co/activity/224693606) of [Yi Ren Zhi Xia 3](https://anilist.co/anime/105401)
 * [plans to watch None](https://anilist.co/activity/224469720) of [Yi Ren Zhi Xia 3](https://anilist.co/anime/105401)
 * [completed None](https://anilist.co/activity/224469024) of [Yi Ren Zhi Xia 2](https://anilist.co/anime/98574)
 * [plans to watch None](https://anilist.co/activity/224265017) of [Yi Ren Zhi Xia 2](https://anilist.co/anime/98574)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [paused watching 20](https://anilist.co/activity/223902451) of [Wei Wo Du Shen ](https://anilist.co/anime/129208)
 * [plans to watch None](https://anilist.co/activity/223900999) of [Yinian Yongheng](https://anilist.co/anime/110595)
 * [plans to watch None](https://anilist.co/activity/223892606) of [Yi Ren Zhi Xia](https://anilist.co/anime/21840)
-* [plans to watch None](https://anilist.co/activity/223892461) of [Tian Guan Ci Fu](https://anilist.co/anime/113260)
-* [plans to watch None](https://anilist.co/activity/223890187) of [Seijo no Maryoku wa Bannou desu](https://anilist.co/anime/123802)
 <!-- anilist_activity ends -->
 
 </details>
