@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/224703451) of [Big Order](https://anilist.co/anime/21445)
 * [plans to watch None](https://anilist.co/activity/224693709) of [Yi Ren Zhi Xia 4](https://anilist.co/anime/122631)
 * [completed None](https://anilist.co/activity/224693606) of [Yi Ren Zhi Xia 3](https://anilist.co/anime/105401)
 * [plans to watch None](https://anilist.co/activity/224469720) of [Yi Ren Zhi Xia 3](https://anilist.co/anime/105401)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 63](https://anilist.co/activity/224264382) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [paused watching 20](https://anilist.co/activity/223902451) of [Wei Wo Du Shen ](https://anilist.co/anime/129208)
 * [plans to watch None](https://anilist.co/activity/223900999) of [Yinian Yongheng](https://anilist.co/anime/110595)
-* [plans to watch None](https://anilist.co/activity/223892606) of [Yi Ren Zhi Xia](https://anilist.co/anime/21840)
 <!-- anilist_activity ends -->
 
 </details>
