@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 100](https://anilist.co/activity/225113709) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [watched episode 7](https://anilist.co/activity/225113698) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
 * [watched episode 7](https://anilist.co/activity/224736274) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
 * [watched episode 6](https://anilist.co/activity/224736265) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
 * [plans to watch None](https://anilist.co/activity/224703451) of [Big Order](https://anilist.co/anime/21445)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/224469720) of [Yi Ren Zhi Xia 3](https://anilist.co/anime/105401)
 * [completed None](https://anilist.co/activity/224469024) of [Yi Ren Zhi Xia 2](https://anilist.co/anime/98574)
 * [plans to watch None](https://anilist.co/activity/224265017) of [Yi Ren Zhi Xia 2](https://anilist.co/anime/98574)
-* [completed None](https://anilist.co/activity/224264545) of [Yi Ren Zhi Xia](https://anilist.co/anime/21840)
-* [watched episode 63](https://anilist.co/activity/224264382) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
