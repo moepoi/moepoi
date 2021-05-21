@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [paused watching 5](https://anilist.co/activity/225148715) of [Tian Guan Ci Fu](https://anilist.co/anime/113260)
 * [watched episode 100](https://anilist.co/activity/225113709) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 7](https://anilist.co/activity/225113698) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
 * [watched episode 7](https://anilist.co/activity/224736274) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/224693606) of [Yi Ren Zhi Xia 3](https://anilist.co/anime/105401)
 * [plans to watch None](https://anilist.co/activity/224469720) of [Yi Ren Zhi Xia 3](https://anilist.co/anime/105401)
 * [completed None](https://anilist.co/activity/224469024) of [Yi Ren Zhi Xia 2](https://anilist.co/anime/98574)
-* [plans to watch None](https://anilist.co/activity/224265017) of [Yi Ren Zhi Xia 2](https://anilist.co/anime/98574)
 <!-- anilist_activity ends -->
 
 </details>
