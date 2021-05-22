@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/225691429) of [Xie Wang Zhui Qi: Yishi Qingcheng](https://anilist.co/anime/115846)
 * [watched episode 37](https://anilist.co/activity/225670859) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
 * [paused watching None](https://anilist.co/activity/225662957) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
 * [watched episode 3](https://anilist.co/activity/225662904) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/225275598) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 77](https://anilist.co/activity/225275449) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 46](https://anilist.co/activity/225275432) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [plans to watch None](https://anilist.co/activity/225275397) of [Jujutsu Kaisen](https://anilist.co/anime/113415)
 <!-- anilist_activity ends -->
 
 </details>
