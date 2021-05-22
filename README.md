@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [paused watching None](https://anilist.co/activity/225662957) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
+* [watched episode 3](https://anilist.co/activity/225662904) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 16](https://anilist.co/activity/225662894) of [Wanjie Duzun](https://anilist.co/anime/131929)
+* [watched episode 19](https://anilist.co/activity/225662876) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
+* [watched episode 1](https://anilist.co/activity/225662783) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
 * [watched episode 2](https://anilist.co/activity/225275598) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 77](https://anilist.co/activity/225275449) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 46](https://anilist.co/activity/225275432) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [plans to watch None](https://anilist.co/activity/225275397) of [Jujutsu Kaisen](https://anilist.co/anime/113415)
 * [paused watching 5](https://anilist.co/activity/225148715) of [Tian Guan Ci Fu](https://anilist.co/anime/113260)
-* [watched episode 100](https://anilist.co/activity/225113709) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 7](https://anilist.co/activity/225113698) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
-* [watched episode 7](https://anilist.co/activity/224736274) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
-* [watched episode 6](https://anilist.co/activity/224736265) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
-* [plans to watch None](https://anilist.co/activity/224703451) of [Big Order](https://anilist.co/anime/21445)
 <!-- anilist_activity ends -->
 
 </details>
