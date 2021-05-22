@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/225921808) of [Jujutsu Kaisen](https://anilist.co/anime/113415)
 * [completed None](https://anilist.co/activity/225692832) of [Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu](https://anilist.co/anime/102976)
 * [completed None](https://anilist.co/activity/225691429) of [Xie Wang Zhui Qi: Yishi Qingcheng](https://anilist.co/anime/115846)
 * [watched episode 37](https://anilist.co/activity/225670859) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 19](https://anilist.co/activity/225662876) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 1](https://anilist.co/activity/225662783) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
 * [watched episode 2](https://anilist.co/activity/225275598) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 77](https://anilist.co/activity/225275449) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
