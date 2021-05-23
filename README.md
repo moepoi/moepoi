@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/226211903) of [Big Order OVA](https://anilist.co/anime/21075)
+* [completed None](https://anilist.co/activity/226211823) of [Big Order](https://anilist.co/anime/21445)
 * [completed None](https://anilist.co/activity/225921808) of [Jujutsu Kaisen](https://anilist.co/anime/113415)
 * [completed None](https://anilist.co/activity/225692832) of [Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu](https://anilist.co/anime/102976)
 * [completed None](https://anilist.co/activity/225691429) of [Xie Wang Zhui Qi: Yishi Qingcheng](https://anilist.co/anime/115846)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/225662904) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 16](https://anilist.co/activity/225662894) of [Wanjie Duzun](https://anilist.co/anime/131929)
 * [watched episode 19](https://anilist.co/activity/225662876) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
-* [watched episode 1](https://anilist.co/activity/225662783) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
-* [watched episode 2](https://anilist.co/activity/225275598) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
