@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/226244844) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
+* [watched episode 64](https://anilist.co/activity/226244799) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 129](https://anilist.co/activity/226244779) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/226211903) of [Big Order OVA](https://anilist.co/anime/21075)
 * [completed None](https://anilist.co/activity/226211823) of [Big Order](https://anilist.co/anime/21445)
 * [completed None](https://anilist.co/activity/225921808) of [Jujutsu Kaisen](https://anilist.co/anime/113415)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/225691429) of [Xie Wang Zhui Qi: Yishi Qingcheng](https://anilist.co/anime/115846)
 * [watched episode 37](https://anilist.co/activity/225670859) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
 * [paused watching None](https://anilist.co/activity/225662957) of [Nanatsu no Taizai: Fundo no Shinpan](https://anilist.co/anime/116752)
-* [watched episode 3](https://anilist.co/activity/225662904) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 16](https://anilist.co/activity/225662894) of [Wanjie Duzun](https://anilist.co/anime/131929)
-* [watched episode 19](https://anilist.co/activity/225662876) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 <!-- anilist_activity ends -->
 
 </details>
