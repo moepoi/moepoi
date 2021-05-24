@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/226939008) of [Dies irae](https://anilist.co/anime/21555)
+* [completed None](https://anilist.co/activity/226937261) of [Mirai Nikki: Redial](https://anilist.co/anime/16762)
+* [completed None](https://anilist.co/activity/226937048) of [Mirai Nikki](https://anilist.co/anime/10620)
 * [watched episode 47](https://anilist.co/activity/226690822) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [watched episode 8](https://anilist.co/activity/226690811) of [Sentouin, Hakenshimasu!](https://anilist.co/anime/116588)
 * [watched episode 4](https://anilist.co/activity/226690797) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/226647402) of [Planet With](https://anilist.co/anime/101368)
 * [plans to watch None](https://anilist.co/activity/226426766) of [Mirai Nikki](https://anilist.co/anime/10620)
 * [watched episode 10](https://anilist.co/activity/226244844) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
-* [watched episode 64](https://anilist.co/activity/226244799) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 129](https://anilist.co/activity/226244779) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [completed None](https://anilist.co/activity/226211903) of [Big Order OVA](https://anilist.co/anime/21075)
 <!-- anilist_activity ends -->
 
 </details>
