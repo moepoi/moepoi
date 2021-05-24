@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/226647402) of [Planet With](https://anilist.co/anime/101368)
 * [plans to watch None](https://anilist.co/activity/226426766) of [Mirai Nikki](https://anilist.co/anime/10620)
 * [watched episode 10](https://anilist.co/activity/226244844) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
 * [watched episode 64](https://anilist.co/activity/226244799) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/225921808) of [Jujutsu Kaisen](https://anilist.co/anime/113415)
 * [completed None](https://anilist.co/activity/225692832) of [Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu](https://anilist.co/anime/102976)
 * [completed None](https://anilist.co/activity/225691429) of [Xie Wang Zhui Qi: Yishi Qingcheng](https://anilist.co/anime/115846)
-* [watched episode 37](https://anilist.co/activity/225670859) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
 <!-- anilist_activity ends -->
 
 </details>
