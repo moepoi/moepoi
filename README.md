@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/226955628) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
+* [watched episode 101](https://anilist.co/activity/226955607) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [plans to watch None](https://anilist.co/activity/226939008) of [Dies irae](https://anilist.co/anime/21555)
 * [completed None](https://anilist.co/activity/226937261) of [Mirai Nikki: Redial](https://anilist.co/anime/16762)
 * [completed None](https://anilist.co/activity/226937048) of [Mirai Nikki](https://anilist.co/anime/10620)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4](https://anilist.co/activity/226690797) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 38](https://anilist.co/activity/226690781) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
 * [plans to watch None](https://anilist.co/activity/226647402) of [Planet With](https://anilist.co/anime/101368)
-* [plans to watch None](https://anilist.co/activity/226426766) of [Mirai Nikki](https://anilist.co/anime/10620)
-* [watched episode 10](https://anilist.co/activity/226244844) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
 <!-- anilist_activity ends -->
 
 </details>
