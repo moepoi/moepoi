@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 47](https://anilist.co/activity/226690822) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
+* [watched episode 8](https://anilist.co/activity/226690811) of [Sentouin, Hakenshimasu!](https://anilist.co/anime/116588)
+* [watched episode 4](https://anilist.co/activity/226690797) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 38](https://anilist.co/activity/226690781) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
 * [plans to watch None](https://anilist.co/activity/226647402) of [Planet With](https://anilist.co/anime/101368)
 * [plans to watch None](https://anilist.co/activity/226426766) of [Mirai Nikki](https://anilist.co/anime/10620)
 * [watched episode 10](https://anilist.co/activity/226244844) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
 * [watched episode 64](https://anilist.co/activity/226244799) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 129](https://anilist.co/activity/226244779) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/226211903) of [Big Order OVA](https://anilist.co/anime/21075)
-* [completed None](https://anilist.co/activity/226211823) of [Big Order](https://anilist.co/anime/21445)
-* [completed None](https://anilist.co/activity/225921808) of [Jujutsu Kaisen](https://anilist.co/anime/113415)
-* [completed None](https://anilist.co/activity/225692832) of [Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu](https://anilist.co/anime/102976)
-* [completed None](https://anilist.co/activity/225691429) of [Xie Wang Zhui Qi: Yishi Qingcheng](https://anilist.co/anime/115846)
 <!-- anilist_activity ends -->
 
 </details>
