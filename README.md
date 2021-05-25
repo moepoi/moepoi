@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/227300523) of [Planet With](https://anilist.co/anime/101368)
+* [watched episode 17](https://anilist.co/activity/227300441) of [Wanjie Duzun](https://anilist.co/anime/131929)
+* [watched episode 78](https://anilist.co/activity/227300424) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 130](https://anilist.co/activity/227300412) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 8](https://anilist.co/activity/226955628) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 * [watched episode 101](https://anilist.co/activity/226955607) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [plans to watch None](https://anilist.co/activity/226939008) of [Dies irae](https://anilist.co/anime/21555)
 * [completed None](https://anilist.co/activity/226937261) of [Mirai Nikki: Redial](https://anilist.co/anime/16762)
 * [completed None](https://anilist.co/activity/226937048) of [Mirai Nikki](https://anilist.co/anime/10620)
 * [watched episode 47](https://anilist.co/activity/226690822) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 8](https://anilist.co/activity/226690811) of [Sentouin, Hakenshimasu!](https://anilist.co/anime/116588)
-* [watched episode 4](https://anilist.co/activity/226690797) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 38](https://anilist.co/activity/226690781) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
-* [plans to watch None](https://anilist.co/activity/226647402) of [Planet With](https://anilist.co/anime/101368)
 <!-- anilist_activity ends -->
 
 </details>
