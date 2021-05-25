@@ -18,6 +18,7 @@ I'd like to do project that has relation to anime. :ghost:
 
 ![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whyadiwhy&" alt="whyadiwhy"/></p>
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
