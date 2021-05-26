@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/227800585) of [Quanzhi Fashi 5](https://anilist.co/anime/122671)
 * [watched episode 13](https://anilist.co/activity/227529638) of [Wo Shi Da Shenxian 2](https://anilist.co/anime/130354)
 * [completed None](https://anilist.co/activity/227529445) of [Wo Shi Da Shenxian](https://anilist.co/anime/120203)
 * [completed None](https://anilist.co/activity/227300523) of [Planet With](https://anilist.co/anime/101368)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/226955628) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 * [watched episode 101](https://anilist.co/activity/226955607) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [plans to watch None](https://anilist.co/activity/226939008) of [Dies irae](https://anilist.co/anime/21555)
-* [completed None](https://anilist.co/activity/226937261) of [Mirai Nikki: Redial](https://anilist.co/anime/16762)
 <!-- anilist_activity ends -->
 
 </details>
