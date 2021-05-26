@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/227953553) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
+* [watched episode 65](https://anilist.co/activity/227953541) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [plans to watch None](https://anilist.co/activity/227800585) of [Quanzhi Fashi 5](https://anilist.co/anime/122671)
 * [watched episode 13](https://anilist.co/activity/227529638) of [Wo Shi Da Shenxian 2](https://anilist.co/anime/130354)
 * [completed None](https://anilist.co/activity/227529445) of [Wo Shi Da Shenxian](https://anilist.co/anime/120203)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 78](https://anilist.co/activity/227300424) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 130](https://anilist.co/activity/227300412) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 8](https://anilist.co/activity/226955628) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
-* [watched episode 101](https://anilist.co/activity/226955607) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [plans to watch None](https://anilist.co/activity/226939008) of [Dies irae](https://anilist.co/anime/21555)
 <!-- anilist_activity ends -->
 
 </details>
