@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/228306878) of [Dies irae](https://anilist.co/anime/21555)
 * [watched episode 7](https://anilist.co/activity/227997994) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 * [watched episode 7](https://anilist.co/activity/227953553) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
 * [watched episode 65](https://anilist.co/activity/227953541) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/227300523) of [Planet With](https://anilist.co/anime/101368)
 * [watched episode 17](https://anilist.co/activity/227300441) of [Wanjie Duzun](https://anilist.co/anime/131929)
 * [watched episode 78](https://anilist.co/activity/227300424) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 130](https://anilist.co/activity/227300412) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
