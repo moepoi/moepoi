@@ -30,7 +30,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/228373065) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
 * [completed None](https://anilist.co/activity/228306878) of [Dies irae](https://anilist.co/anime/21555)
 * [watched episode 7](https://anilist.co/activity/227997994) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 7](https://anilist.co/activity/227953553) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
 <!-- anilist_activity ends -->
 
 </details>
