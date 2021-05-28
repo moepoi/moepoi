@@ -22,14 +22,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/228808314) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
+* [watched episode 5](https://anilist.co/activity/228808310) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 48](https://anilist.co/activity/228808303) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
+* [watched episode 79](https://anilist.co/activity/228808291) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [plans to watch None](https://anilist.co/activity/228469454) of [Kyoukaisenjou no Horizon](https://anilist.co/anime/10456)
 * [watched episode 39](https://anilist.co/activity/228461508) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
 * [watched episode 14](https://anilist.co/activity/228373118) of [Wo Shi Da Shenxian 2](https://anilist.co/anime/130354)
 * [watched episode 8](https://anilist.co/activity/228373107) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 102](https://anilist.co/activity/228373086) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 8](https://anilist.co/activity/228373065) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
-* [completed None](https://anilist.co/activity/228306878) of [Dies irae](https://anilist.co/anime/21555)
-* [watched episode 7](https://anilist.co/activity/227997994) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 <!-- anilist_activity ends -->
 
 </details>
