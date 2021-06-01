@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 132](https://anilist.co/activity/230942116) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 19](https://anilist.co/activity/230942096) of [Wanjie Duzun](https://anilist.co/anime/131929)
+* [watched episode 80](https://anilist.co/activity/230942075) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 9](https://anilist.co/activity/230577077) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 * [watched episode 9](https://anilist.co/activity/230577067) of [Sentouin, Hakenshimasu!](https://anilist.co/anime/116588)
 * [watched episode 6](https://anilist.co/activity/230577042) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/230576968) of [Xing Wu Shen Jue](https://anilist.co/anime/129203)
 * [watched episode 49](https://anilist.co/activity/230576953) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [plans to watch None](https://anilist.co/activity/229949487) of [Sheng Shi Zhuang Niang](https://anilist.co/anime/102446)
-* [plans to watch None](https://anilist.co/activity/229949056) of [Bai Ye Ling Long](https://anilist.co/anime/102400)
-* [watched episode 11](https://anilist.co/activity/229939134) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
-* [watched episode 66](https://anilist.co/activity/229939128) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
