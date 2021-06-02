@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/231537273) of [Xixing Ji 3](https://anilist.co/anime/122630)
+* [watched episode 67](https://anilist.co/activity/231537191) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [plans to watch None](https://anilist.co/activity/231450645) of [Xixing Ji 3](https://anilist.co/anime/122630)
 * [plans to watch None](https://anilist.co/activity/231202067) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
 * [plans to watch None](https://anilist.co/activity/231071146) of [Jujutsu Kaisen 0](https://anilist.co/anime/131573)
@@ -29,9 +31,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/231070355) of [Deatte 5-byou de Battle](https://anilist.co/anime/126047)
 * [plans to watch None](https://anilist.co/activity/231069981) of [Fate/kaleid liner Prisma☆Illya: Licht - Namae no Nai Shoujo](https://anilist.co/anime/118743)
 * [watched episode 132](https://anilist.co/activity/230942116) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 19](https://anilist.co/activity/230942096) of [Wanjie Duzun](https://anilist.co/anime/131929)
-* [watched episode 80](https://anilist.co/activity/230942075) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 9](https://anilist.co/activity/230577077) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 <!-- anilist_activity ends -->
 
 </details>
