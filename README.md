@@ -22,15 +22,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 9](https://anilist.co/activity/232466774) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
+* [completed None](https://anilist.co/activity/232466567) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
+* [watched episode 7](https://anilist.co/activity/232466262) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 15](https://anilist.co/activity/231981369) of [Wo Shi Da Shenxian 2](https://anilist.co/anime/130354)
 * [watched episode 8](https://anilist.co/activity/231981355) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
 * [watched episode 9](https://anilist.co/activity/231981341) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
 * [watched episode 10](https://anilist.co/activity/231981297) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 * [watched episode 104 - 106](https://anilist.co/activity/231981228) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 1](https://anilist.co/activity/231537273) of [Xixing Ji 3](https://anilist.co/anime/122630)
-* [watched episode 67](https://anilist.co/activity/231537191) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [plans to watch None](https://anilist.co/activity/231450645) of [Xixing Ji 3](https://anilist.co/anime/122630)
-* [plans to watch None](https://anilist.co/activity/231202067) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
 <!-- anilist_activity ends -->
 
 </details>
