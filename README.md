@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 21](https://anilist.co/activity/232959627) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
+* [watched episode 3](https://anilist.co/activity/232959614) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
+* [watched episode 20](https://anilist.co/activity/232959593) of [Wanjie Duzun](https://anilist.co/anime/131929)
 * [plans to watch None](https://anilist.co/activity/232657538) of [Kami-tachi ni Hirowareta Otoko 2](https://anilist.co/anime/135102)
 * [watched episode 81](https://anilist.co/activity/232657295) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 9](https://anilist.co/activity/232466774) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/232466262) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 15](https://anilist.co/activity/231981369) of [Wo Shi Da Shenxian 2](https://anilist.co/anime/130354)
 * [watched episode 8](https://anilist.co/activity/231981355) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
-* [watched episode 9](https://anilist.co/activity/231981341) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
-* [watched episode 10](https://anilist.co/activity/231981297) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 104 - 106](https://anilist.co/activity/231981228) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
