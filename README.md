@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 68](https://anilist.co/activity/233493980) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 12](https://anilist.co/activity/233492347) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
+* [watched episode 133](https://anilist.co/activity/233492341) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [plans to watch None](https://anilist.co/activity/233156197) of [Yi Ren Zhi Xia: Tianshi Xia Shan](https://anilist.co/anime/104160)
 * [watched episode 21](https://anilist.co/activity/232959627) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 3](https://anilist.co/activity/232959614) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/232657538) of [Kami-tachi ni Hirowareta Otoko 2](https://anilist.co/anime/135102)
 * [watched episode 81](https://anilist.co/activity/232657295) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 9](https://anilist.co/activity/232466774) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
-* [completed None](https://anilist.co/activity/232466567) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 7](https://anilist.co/activity/232466262) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 15](https://anilist.co/activity/231981369) of [Wo Shi Da Shenxian 2](https://anilist.co/anime/130354)
 <!-- anilist_activity ends -->
 
 </details>
