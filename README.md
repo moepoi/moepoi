@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/234565695) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
+* [watched episode 134](https://anilist.co/activity/234565687) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 21](https://anilist.co/activity/234565681) of [Wanjie Duzun](https://anilist.co/anime/131929)
+* [watched episode 82](https://anilist.co/activity/234565668) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 11](https://anilist.co/activity/234129341) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 * [watched episode 10](https://anilist.co/activity/234005382) of [Sentouin, Hakenshimasu!](https://anilist.co/anime/116588)
 * [watched episode 8](https://anilist.co/activity/234005362) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 68](https://anilist.co/activity/233493980) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 12](https://anilist.co/activity/233492347) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
 * [watched episode 133](https://anilist.co/activity/233492341) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [plans to watch None](https://anilist.co/activity/233156197) of [Yi Ren Zhi Xia: Tianshi Xia Shan](https://anilist.co/anime/104160)
-* [watched episode 21](https://anilist.co/activity/232959627) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
-* [watched episode 3](https://anilist.co/activity/232959614) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
-* [watched episode 20](https://anilist.co/activity/232959593) of [Wanjie Duzun](https://anilist.co/anime/131929)
 <!-- anilist_activity ends -->
 
 </details>
