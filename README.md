@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 69](https://anilist.co/activity/235074664) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 10](https://anilist.co/activity/234565695) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 * [watched episode 134](https://anilist.co/activity/234565687) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 21](https://anilist.co/activity/234565681) of [Wanjie Duzun](https://anilist.co/anime/131929)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/234005362) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 68](https://anilist.co/activity/233493980) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 12](https://anilist.co/activity/233492347) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
-* [watched episode 133](https://anilist.co/activity/233492341) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
