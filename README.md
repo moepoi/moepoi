@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/236006995) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
+* [watched episode 9](https://anilist.co/activity/236006863) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 83](https://anilist.co/activity/236006841) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 1 - 2](https://anilist.co/activity/235766816) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 * [completed None](https://anilist.co/activity/235584431) of [Wo Shi Da Shenxian 2](https://anilist.co/anime/130354)
 * [watched episode 12](https://anilist.co/activity/235584425) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 69](https://anilist.co/activity/235074664) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 10](https://anilist.co/activity/234565695) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 * [watched episode 134](https://anilist.co/activity/234565687) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 21](https://anilist.co/activity/234565681) of [Wanjie Duzun](https://anilist.co/anime/131929)
-* [watched episode 82](https://anilist.co/activity/234565668) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 11](https://anilist.co/activity/234129341) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 <!-- anilist_activity ends -->
 
 </details>
