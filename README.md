@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 13](https://anilist.co/activity/236530553) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
+* [watched episode 3 - 5](https://anilist.co/activity/236530539) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 * [plans to watch None](https://anilist.co/activity/236502050) of [Meikyuu Black Company](https://anilist.co/anime/120608)
 * [plans to watch None](https://anilist.co/activity/236501511) of [Peach Boy Riverside](https://anilist.co/anime/122441)
 * [watched episode 22](https://anilist.co/activity/236443242) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/236079807) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
 * [watched episode 52](https://anilist.co/activity/236079795) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [completed None](https://anilist.co/activity/236006995) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
-* [watched episode 9](https://anilist.co/activity/236006863) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 83](https://anilist.co/activity/236006841) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
