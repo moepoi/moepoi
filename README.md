@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/236566770) of [Mairimashita! Iruma-kun](https://anilist.co/anime/107693)
+* [plans to watch None](https://anilist.co/activity/236566710) of [Tokyo Revengers](https://anilist.co/anime/120120)
 * [watched episode 13](https://anilist.co/activity/236530553) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 * [watched episode 3 - 5](https://anilist.co/activity/236530539) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 * [plans to watch None](https://anilist.co/activity/236502050) of [Meikyuu Black Company](https://anilist.co/anime/120608)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4](https://anilist.co/activity/236443225) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
 * [watched episode 22](https://anilist.co/activity/236443212) of [Wanjie Duzun](https://anilist.co/anime/131929)
 * [watched episode 10](https://anilist.co/activity/236079807) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
-* [watched episode 52](https://anilist.co/activity/236079795) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [completed None](https://anilist.co/activity/236006995) of [Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω](https://anilist.co/anime/117448)
 <!-- anilist_activity ends -->
 
 </details>
