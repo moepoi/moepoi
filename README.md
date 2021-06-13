@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 135](https://anilist.co/activity/237098626) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 13](https://anilist.co/activity/237098613) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
+* [watched episode 70](https://anilist.co/activity/237098604) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [plans to watch None](https://anilist.co/activity/236566770) of [Mairimashita! Iruma-kun](https://anilist.co/anime/107693)
 * [plans to watch None](https://anilist.co/activity/236566710) of [Tokyo Revengers](https://anilist.co/anime/120120)
 * [watched episode 13](https://anilist.co/activity/236530553) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/236502050) of [Meikyuu Black Company](https://anilist.co/anime/120608)
 * [plans to watch None](https://anilist.co/activity/236501511) of [Peach Boy Riverside](https://anilist.co/anime/122441)
 * [watched episode 22](https://anilist.co/activity/236443242) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
-* [watched episode 4](https://anilist.co/activity/236443225) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
-* [watched episode 22](https://anilist.co/activity/236443212) of [Wanjie Duzun](https://anilist.co/anime/131929)
-* [watched episode 10](https://anilist.co/activity/236079807) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
 <!-- anilist_activity ends -->
 
 </details>
