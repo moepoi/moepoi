@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/237679339) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
+* [watched episode 14](https://anilist.co/activity/237679297) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 * [watched episode 11](https://anilist.co/activity/237393404) of [Sentouin, Hakenshimasu!](https://anilist.co/anime/116588)
 * [watched episode 53](https://anilist.co/activity/237393377) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [watched episode 10](https://anilist.co/activity/237393367) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 70](https://anilist.co/activity/237098604) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [plans to watch None](https://anilist.co/activity/236566770) of [Mairimashita! Iruma-kun](https://anilist.co/anime/107693)
 * [plans to watch None](https://anilist.co/activity/236566710) of [Tokyo Revengers](https://anilist.co/anime/120120)
-* [watched episode 13](https://anilist.co/activity/236530553) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 3 - 5](https://anilist.co/activity/236530539) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 <!-- anilist_activity ends -->
 
 </details>
