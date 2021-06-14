@@ -99,7 +99,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Miyuki Shiba](https://anilist.co/character/55741)
 * [Ayako Kuroba](https://anilist.co/character/200612)
 * [Nepgear](https://anilist.co/character/49927)
-* [Yoshino Koiwai](https://anilist.co/character/121008)
 * [Karen Kujou](https://anilist.co/character/50223)
 * [Mio Naruse](https://anilist.co/character/89158)
 * [Flare Arlgrande Jioral](https://anilist.co/character/139397)
