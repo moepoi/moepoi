@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1 - 9](https://anilist.co/activity/238945726) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
+* [watched episode 6](https://anilist.co/activity/238945544) of [Xinghe Zhizun](https://anilist.co/anime/129239)
+* [watched episode 71](https://anilist.co/activity/238945519) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 10](https://anilist.co/activity/238945491) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
+* [watched episode 11](https://anilist.co/activity/238945480) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
 * [plans to watch None](https://anilist.co/activity/238460454) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
 * [completed None](https://anilist.co/activity/238460430) of [Mairimashita! Iruma-kun](https://anilist.co/anime/107693)
 * [watched episode 136](https://anilist.co/activity/237914632) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 84](https://anilist.co/activity/237914621) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 23](https://anilist.co/activity/237914605) of [Wanjie Duzun](https://anilist.co/anime/131929)
-* [watched episode 11](https://anilist.co/activity/237679339) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
-* [watched episode 14](https://anilist.co/activity/237679297) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 11](https://anilist.co/activity/237393404) of [Sentouin, Hakenshimasu!](https://anilist.co/anime/116588)
-* [watched episode 53](https://anilist.co/activity/237393377) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 10](https://anilist.co/activity/237393367) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
