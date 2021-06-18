@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/239520257) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
+* [watched episode 1 - 10](https://anilist.co/activity/239520029) of [Tokyo Revengers](https://anilist.co/anime/120120)
 * [watched episode 85](https://anilist.co/activity/239470761) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 11](https://anilist.co/activity/239470756) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 1 - 9](https://anilist.co/activity/238945726) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/238945491) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
 * [watched episode 11](https://anilist.co/activity/238945480) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
 * [plans to watch None](https://anilist.co/activity/238460454) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
-* [completed None](https://anilist.co/activity/238460430) of [Mairimashita! Iruma-kun](https://anilist.co/anime/107693)
-* [watched episode 136](https://anilist.co/activity/237914632) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
