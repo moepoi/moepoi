@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/240012393) of [Youjo Senki: Sabaku no Pasta Daisakusen](https://anilist.co/anime/135866)
+* [plans to watch None](https://anilist.co/activity/240012074) of [Youjo Senki II](https://anilist.co/anime/135865)
 * [watched episode 10](https://anilist.co/activity/239886126) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
 * [watched episode 23](https://anilist.co/activity/239886112) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 5](https://anilist.co/activity/239886081) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/239886046) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 * [completed None](https://anilist.co/activity/239520257) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
 * [watched episode 1 - 10](https://anilist.co/activity/239520029) of [Tokyo Revengers](https://anilist.co/anime/120120)
-* [watched episode 85](https://anilist.co/activity/239470761) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 11](https://anilist.co/activity/239470756) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
