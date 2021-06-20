@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/240336226) of [Tokyo Revengers](https://anilist.co/anime/120120)
+* [watched episode 137](https://anilist.co/activity/240336212) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 14](https://anilist.co/activity/240336193) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
+* [watched episode 72](https://anilist.co/activity/240336176) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [plans to watch None](https://anilist.co/activity/240012393) of [Youjo Senki: Sabaku no Pasta Daisakusen](https://anilist.co/anime/135866)
 * [plans to watch None](https://anilist.co/activity/240012074) of [Youjo Senki II](https://anilist.co/anime/135865)
 * [watched episode 10](https://anilist.co/activity/239886126) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
 * [watched episode 23](https://anilist.co/activity/239886112) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 5](https://anilist.co/activity/239886081) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
 * [watched episode 15](https://anilist.co/activity/239886070) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 24](https://anilist.co/activity/239886056) of [Wanjie Duzun](https://anilist.co/anime/131929)
-* [watched episode 7](https://anilist.co/activity/239886046) of [Xinghe Zhizun](https://anilist.co/anime/129239)
-* [completed None](https://anilist.co/activity/239520257) of [Wan Jie Fa Shen](https://anilist.co/anime/127991)
-* [watched episode 1 - 10](https://anilist.co/activity/239520029) of [Tokyo Revengers](https://anilist.co/anime/120120)
 <!-- anilist_activity ends -->
 
 </details>
