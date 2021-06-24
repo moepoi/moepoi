@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 18](https://anilist.co/activity/242471162) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 * [watched episode 11](https://anilist.co/activity/242155698) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
 * [watched episode 73](https://anilist.co/activity/242155683) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [completed None](https://anilist.co/activity/241423185) of [Sentouin, Hakenshimasu!](https://anilist.co/anime/116588)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 12](https://anilist.co/activity/241084641) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 * [watched episode 12](https://anilist.co/activity/241084601) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 16 - 17](https://anilist.co/activity/241084577) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 11](https://anilist.co/activity/240336226) of [Tokyo Revengers](https://anilist.co/anime/120120)
 <!-- anilist_activity ends -->
 
 </details>
