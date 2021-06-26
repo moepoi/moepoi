@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/243521720) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
+* [watched episode 6](https://anilist.co/activity/243521694) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
+* [watched episode 20](https://anilist.co/activity/243521652) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
+* [watched episode 9](https://anilist.co/activity/243521630) of [Xinghe Zhizun](https://anilist.co/anime/129239)
+* [watched episode 26](https://anilist.co/activity/243521598) of [Wanjie Duzun](https://anilist.co/anime/131929)
+* [watched episode 87](https://anilist.co/activity/243521571) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 13](https://anilist.co/activity/243521558) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [completed None](https://anilist.co/activity/242471239) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
 * [watched episode 8](https://anilist.co/activity/242471226) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 * [watched episode 18 - 19](https://anilist.co/activity/242471213) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 11](https://anilist.co/activity/242155698) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
-* [watched episode 73](https://anilist.co/activity/242155683) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [completed None](https://anilist.co/activity/241423185) of [Sentouin, Hakenshimasu!](https://anilist.co/anime/116588)
-* [watched episode 138](https://anilist.co/activity/241423177) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 86](https://anilist.co/activity/241423171) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 25](https://anilist.co/activity/241423165) of [Wanjie Duzun](https://anilist.co/anime/131929)
-* [watched episode 12](https://anilist.co/activity/241084641) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 <!-- anilist_activity ends -->
 
 </details>
