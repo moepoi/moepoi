@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 139](https://anilist.co/activity/244218700) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 15](https://anilist.co/activity/244218579) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
+* [watched episode 74](https://anilist.co/activity/244218494) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [plans to watch None](https://anilist.co/activity/244218165) of [Wanjie Xianzong 5](https://anilist.co/anime/136146)
 * [watched episode 11](https://anilist.co/activity/243521720) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
 * [watched episode 6](https://anilist.co/activity/243521694) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
 * [watched episode 20](https://anilist.co/activity/243521652) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 * [watched episode 9](https://anilist.co/activity/243521630) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 * [watched episode 26](https://anilist.co/activity/243521598) of [Wanjie Duzun](https://anilist.co/anime/131929)
 * [watched episode 87](https://anilist.co/activity/243521571) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 13](https://anilist.co/activity/243521558) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [completed None](https://anilist.co/activity/242471239) of [Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara](https://anilist.co/anime/126791)
-* [watched episode 8](https://anilist.co/activity/242471226) of [Xinghe Zhizun](https://anilist.co/anime/129239)
-* [watched episode 18 - 19](https://anilist.co/activity/242471213) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 <!-- anilist_activity ends -->
 
 </details>
