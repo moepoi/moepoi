@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/244500212) of [Busou Renkin](https://anilist.co/anime/1536)
 * [watched episode 139](https://anilist.co/activity/244218700) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 15](https://anilist.co/activity/244218579) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
 * [watched episode 74](https://anilist.co/activity/244218494) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 20](https://anilist.co/activity/243521652) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 * [watched episode 9](https://anilist.co/activity/243521630) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 * [watched episode 26](https://anilist.co/activity/243521598) of [Wanjie Duzun](https://anilist.co/anime/131929)
-* [watched episode 87](https://anilist.co/activity/243521571) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
