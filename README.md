@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/244679555) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
+* [watched episode 12](https://anilist.co/activity/244679546) of [Tokyo Revengers](https://anilist.co/anime/120120)
+* [watched episode 14](https://anilist.co/activity/244679524) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [plans to watch None](https://anilist.co/activity/244607228) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
 * [completed None](https://anilist.co/activity/244500212) of [Busou Renkin](https://anilist.co/anime/1536)
 * [watched episode 139](https://anilist.co/activity/244218700) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 74](https://anilist.co/activity/244218494) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [plans to watch None](https://anilist.co/activity/244218165) of [Wanjie Xianzong 5](https://anilist.co/anime/136146)
 * [watched episode 11](https://anilist.co/activity/243521720) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
-* [watched episode 6](https://anilist.co/activity/243521694) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
-* [watched episode 20](https://anilist.co/activity/243521652) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 9](https://anilist.co/activity/243521630) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 <!-- anilist_activity ends -->
 
 </details>
