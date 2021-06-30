@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/245788500) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
+* [watched episode 75](https://anilist.co/activity/245788490) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 140](https://anilist.co/activity/245070965) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 88](https://anilist.co/activity/245070893) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 27](https://anilist.co/activity/245070728) of [Wanjie Duzun](https://anilist.co/anime/131929)
+* [watched episode 27](https://anilist.co/activity/245070728) of [Wan Jie Duzun](https://anilist.co/anime/131929)
 * [completed None](https://anilist.co/activity/244679555) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 * [watched episode 12](https://anilist.co/activity/244679546) of [Tokyo Revengers](https://anilist.co/anime/120120)
 * [watched episode 14](https://anilist.co/activity/244679524) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [plans to watch None](https://anilist.co/activity/244607228) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
 * [completed None](https://anilist.co/activity/244500212) of [Busou Renkin](https://anilist.co/anime/1536)
-* [watched episode 139](https://anilist.co/activity/244218700) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 15](https://anilist.co/activity/244218579) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
 <!-- anilist_activity ends -->
 
 </details>
