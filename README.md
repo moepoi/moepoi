@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/246912838) of [Kanojo mo Kanojo](https://anilist.co/anime/126192)
+* [completed None](https://anilist.co/activity/246912657) of [Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai](https://anilist.co/anime/20910)
 * [watched episode 1](https://anilist.co/activity/246738775) of [Peach Boy Riverside](https://anilist.co/anime/122441)
 * [watched episode 1](https://anilist.co/activity/246738758) of [SCARLET NEXUS](https://anilist.co/anime/131150)
 * [watched episode 89](https://anilist.co/activity/246738624) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 21](https://anilist.co/activity/246669294) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
 * [watched episode 1 - 4](https://anilist.co/activity/246669276) of [Wan Jie Xian Zong 5](https://anilist.co/anime/136146)
 * [completed None](https://anilist.co/activity/245788500) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
-* [watched episode 75](https://anilist.co/activity/245788490) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 140](https://anilist.co/activity/245070965) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
