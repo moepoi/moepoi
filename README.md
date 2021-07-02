@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/246738775) of [Peach Boy Riverside](https://anilist.co/anime/122441)
+* [watched episode 1](https://anilist.co/activity/246738758) of [SCARLET NEXUS](https://anilist.co/anime/131150)
+* [watched episode 89](https://anilist.co/activity/246738624) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 15](https://anilist.co/activity/246669304) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 10](https://anilist.co/activity/246669298) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 * [watched episode 21](https://anilist.co/activity/246669294) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/245788500) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
 * [watched episode 75](https://anilist.co/activity/245788490) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 140](https://anilist.co/activity/245070965) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 88](https://anilist.co/activity/245070893) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 27](https://anilist.co/activity/245070728) of [Wan Jie Duzun](https://anilist.co/anime/131929)
-* [completed None](https://anilist.co/activity/244679555) of [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://anilist.co/anime/114232)
 <!-- anilist_activity ends -->
 
 </details>
