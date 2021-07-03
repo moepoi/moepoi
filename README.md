@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/247195775) of [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X](https://anilist.co/anime/120209)
+* [watched episode 1](https://anilist.co/activity/247195760) of [Vanitas no Carte](https://anilist.co/anime/131646)
+* [watched episode 1](https://anilist.co/activity/247195477) of [Yuan Long 2](https://anilist.co/anime/126360)
+* [watched episode 7](https://anilist.co/activity/247195364) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
 * [watched episode 1](https://anilist.co/activity/246912838) of [Kanojo mo Kanojo](https://anilist.co/anime/126192)
 * [completed None](https://anilist.co/activity/246912657) of [Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai](https://anilist.co/anime/20910)
 * [watched episode 1](https://anilist.co/activity/246738775) of [Peach Boy Riverside](https://anilist.co/anime/122441)
 * [watched episode 1](https://anilist.co/activity/246738758) of [SCARLET NEXUS](https://anilist.co/anime/131150)
 * [watched episode 89](https://anilist.co/activity/246738624) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 15](https://anilist.co/activity/246669304) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 10](https://anilist.co/activity/246669298) of [Xinghe Zhizun](https://anilist.co/anime/129239)
-* [watched episode 21](https://anilist.co/activity/246669294) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 1 - 4](https://anilist.co/activity/246669276) of [Wan Jie Xian Zong 5](https://anilist.co/anime/136146)
-* [completed None](https://anilist.co/activity/245788500) of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/anime/124675)
 <!-- anilist_activity ends -->
 
 </details>
