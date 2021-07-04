@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 1](https://anilist.co/activity/247195775) of [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X](https://anilist.co/anime/120209)
-* [watched episode 1](https://anilist.co/activity/247195760) of [Vanitas no Carte](https://anilist.co/anime/131646)
-* [watched episode 1](https://anilist.co/activity/247195477) of [Yuan Long 2](https://anilist.co/anime/126360)
-* [watched episode 7](https://anilist.co/activity/247195364) of [Douluo Dalu: Shan Yu Yu Lai](https://anilist.co/anime/134168)
-* [watched episode 1](https://anilist.co/activity/246912838) of [Kanojo mo Kanojo](https://anilist.co/anime/126192)
-* [completed None](https://anilist.co/activity/246912657) of [Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai](https://anilist.co/anime/20910)
-* [watched episode 1](https://anilist.co/activity/246738775) of [Peach Boy Riverside](https://anilist.co/anime/122441)
-* [watched episode 1](https://anilist.co/activity/246738758) of [SCARLET NEXUS](https://anilist.co/anime/131150)
-* [watched episode 89](https://anilist.co/activity/246738624) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 15](https://anilist.co/activity/246669304) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 1](https://anilist.co/activity/247746551) of [Bokutachi no Remake](https://anilist.co/anime/114065)
+* [completed None](https://anilist.co/activity/247746275) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
+* [watched episode 1](https://anilist.co/activity/247746128) of [Mahouka Koukou no Yuutousei](https://anilist.co/anime/127688)
+* [watched episode 1](https://anilist.co/activity/247746120) of [Genjitsu Shugi Yuusha no Oukoku Saikenki](https://anilist.co/anime/117612)
+* [plans to watch None](https://anilist.co/activity/247745999) of [Boku wa Tomodachi ga Sukunai Next](https://anilist.co/anime/14967)
+* [completed None](https://anilist.co/activity/247745908) of [Boku wa Tomodachi ga Sukunai](https://anilist.co/anime/10719)
+* [watched episode 13](https://anilist.co/activity/247745543) of [Tokyo Revengers](https://anilist.co/anime/120120)
+* [watched episode 12](https://anilist.co/activity/247745527) of [Mairimashita! Iruma-kun 2](https://anilist.co/anime/116338)
+* [watched episode 16](https://anilist.co/activity/247745457) of [Dou Po Cangqiong 4](https://anilist.co/anime/122639)
+* [watched episode 141](https://anilist.co/activity/247745446) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
