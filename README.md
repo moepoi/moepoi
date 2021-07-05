@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/248656646) of [Boku wa Tomodachi ga Sukunai Next](https://anilist.co/anime/14967)
 * [watched episode 1](https://anilist.co/activity/248277815) of [Tantei wa mou, Shindeiru.](https://anilist.co/anime/128712)
 * [watched episode 1](https://anilist.co/activity/248277680) of [Shinigami Bocchan to Kuro Maid](https://anilist.co/anime/129277)
 * [watched episode 16](https://anilist.co/activity/248277517) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/247746275) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
 * [watched episode 1](https://anilist.co/activity/247746128) of [Mahouka Koukou no Yuutousei](https://anilist.co/anime/127688)
 * [watched episode 1](https://anilist.co/activity/247746120) of [Genjitsu Shugi Yuusha no Oukoku Saikenki](https://anilist.co/anime/117612)
-* [plans to watch None](https://anilist.co/activity/247745999) of [Boku wa Tomodachi ga Sukunai Next](https://anilist.co/anime/14967)
 <!-- anilist_activity ends -->
 
 </details>
