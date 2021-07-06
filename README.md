@@ -22,6 +22,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/249143653) of [Tears to Tiara](https://anilist.co/anime/3594)
 * [plans to watch None](https://anilist.co/activity/249140415) of [Strike the Blood FINAL](https://anilist.co/anime/136226)
 * [completed None](https://anilist.co/activity/249137457) of [Date A Live Movie: Mayuri Judgement](https://anilist.co/anime/20741)
 * [watched episode 1](https://anilist.co/activity/249095637) of [Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://anilist.co/anime/116742)
@@ -31,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 29](https://anilist.co/activity/249055672) of [Wan Jie Duzun](https://anilist.co/anime/131929)
 * [watched episode 142](https://anilist.co/activity/249055643) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/248656646) of [Boku wa Tomodachi ga Sukunai Next](https://anilist.co/anime/14967)
-* [watched episode 1](https://anilist.co/activity/248277815) of [Tantei wa mou, Shindeiru.](https://anilist.co/anime/128712)
 <!-- anilist_activity ends -->
 
 </details>
