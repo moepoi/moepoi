@@ -22,6 +22,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 90](https://anilist.co/activity/249055694) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 29](https://anilist.co/activity/249055672) of [Wan Jie Duzun](https://anilist.co/anime/131929)
+* [watched episode 142](https://anilist.co/activity/249055643) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/248656646) of [Boku wa Tomodachi ga Sukunai Next](https://anilist.co/anime/14967)
 * [watched episode 1](https://anilist.co/activity/248277815) of [Tantei wa mou, Shindeiru.](https://anilist.co/anime/128712)
 * [watched episode 1](https://anilist.co/activity/248277680) of [Shinigami Bocchan to Kuro Maid](https://anilist.co/anime/129277)
@@ -29,9 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/248277274) of [Wan Jie Xian Zong 5](https://anilist.co/anime/136146)
 * [watched episode 2 - 3](https://anilist.co/activity/248277058) of [Yuan Long 2](https://anilist.co/anime/126360)
 * [watched episode 1](https://anilist.co/activity/247746551) of [Bokutachi no Remake](https://anilist.co/anime/114065)
-* [completed None](https://anilist.co/activity/247746275) of [Kumo desu ga, Nani ka?](https://anilist.co/anime/103632)
-* [watched episode 1](https://anilist.co/activity/247746128) of [Mahouka Koukou no Yuutousei](https://anilist.co/anime/127688)
-* [watched episode 1](https://anilist.co/activity/247746120) of [Genjitsu Shugi Yuusha no Oukoku Saikenki](https://anilist.co/anime/117612)
 <!-- anilist_activity ends -->
 
 </details>
