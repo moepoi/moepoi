@@ -89,6 +89,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Sumi Sakurasawa](https://anilist.co/character/144665)
 * [Ravel Phenex](https://anilist.co/character/58341)
 * [Le Fay Pendragon](https://anilist.co/character/79663)
+* [Ziyu Zhou](https://anilist.co/character/234726)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
 * [Haruno Yukinoshita](https://anilist.co/character/79589)
 * [Iroha Isshiki](https://anilist.co/character/88727)
@@ -99,12 +100,11 @@ I'd like to do project that has relation to anime. :ghost:
 * [Miyuki Shiba](https://anilist.co/character/55741)
 * [Ayako Kuroba](https://anilist.co/character/200612)
 * [Nepgear](https://anilist.co/character/49927)
-* [Karen Kujou](https://anilist.co/character/50223)
 * [Mio Naruse](https://anilist.co/character/89158)
+* [Feena Fam Earthlight](https://anilist.co/character/1054)
+* [Roxy Migurdia](https://anilist.co/character/88350)
 * [Flare Arlgrande Jioral](https://anilist.co/character/139397)
 * [Setsuna](https://anilist.co/character/139402)
-* [Roxy Migurdia](https://anilist.co/character/88350)
-* [Feena Fam Earthlight](https://anilist.co/character/1054)
 <!-- favorites_characters ends -->
 
 </details>
