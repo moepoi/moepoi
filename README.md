@@ -22,6 +22,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/249409312) of [Strike the Blood IV](https://anilist.co/anime/112296)
+* [watched episode 77](https://anilist.co/activity/249409271) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [plans to watch None](https://anilist.co/activity/249143653) of [Tears to Tiara](https://anilist.co/anime/3594)
 * [plans to watch None](https://anilist.co/activity/249140415) of [Strike the Blood FINAL](https://anilist.co/anime/136226)
 * [completed None](https://anilist.co/activity/249137457) of [Date A Live Movie: Mayuri Judgement](https://anilist.co/anime/20741)
@@ -30,8 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/249095578) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
 * [watched episode 90](https://anilist.co/activity/249055694) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 29](https://anilist.co/activity/249055672) of [Wan Jie Duzun](https://anilist.co/anime/131929)
-* [watched episode 142](https://anilist.co/activity/249055643) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [completed None](https://anilist.co/activity/248656646) of [Boku wa Tomodachi ga Sukunai Next](https://anilist.co/anime/14967)
 <!-- anilist_activity ends -->
 
 </details>
