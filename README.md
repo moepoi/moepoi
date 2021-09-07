@@ -22,16 +22,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [completed None](https://anilist.co/activity/249409312) of [Strike the Blood IV](https://anilist.co/anime/112296)
-* [watched episode 77](https://anilist.co/activity/249409271) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [plans to watch None](https://anilist.co/activity/249143653) of [Tears to Tiara](https://anilist.co/anime/3594)
-* [plans to watch None](https://anilist.co/activity/249140415) of [Strike the Blood FINAL](https://anilist.co/anime/136226)
-* [completed None](https://anilist.co/activity/249137457) of [Date A Live Movie: Mayuri Judgement](https://anilist.co/anime/20741)
-* [watched episode 1](https://anilist.co/activity/249095637) of [Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://anilist.co/anime/116742)
-* [watched episode 1](https://anilist.co/activity/249095616) of [Seirei Gensouki](https://anilist.co/anime/126546)
-* [watched episode 1](https://anilist.co/activity/249095578) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
-* [watched episode 90](https://anilist.co/activity/249055694) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 29](https://anilist.co/activity/249055672) of [Wan Jie Duzun](https://anilist.co/anime/131929)
+* [dropped None](https://anilist.co/activity/254680371) of [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302)
+* [watched episode 3](https://anilist.co/activity/254680229) of [Peach Boy Riverside](https://anilist.co/anime/122441)
+* [watched episode 2](https://anilist.co/activity/254680200) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
+* [watched episode 93](https://anilist.co/activity/254680171) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 19](https://anilist.co/activity/254680096) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 25](https://anilist.co/activity/254680081) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
+* [watched episode 14](https://anilist.co/activity/254680068) of [Xinghe Zhizun](https://anilist.co/anime/129239)
+* [watched episode 2](https://anilist.co/activity/253579863) of [Tantei wa mou, Shindeiru.](https://anilist.co/anime/128712)
+* [watched episode 2](https://anilist.co/activity/253579846) of [Bokutachi no Remake](https://anilist.co/anime/114065)
+* [watched episode 79](https://anilist.co/activity/253579818) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
@@ -85,26 +85,26 @@ I'd like to do project that has relation to anime. :ghost:
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
 * [Kyouko Hori](https://anilist.co/character/66171)
+* [Nagisa Minase](https://anilist.co/character/162885)
 * [Ruka Sarashina](https://anilist.co/character/147005)
 * [Sumi Sakurasawa](https://anilist.co/character/144665)
 * [Ravel Phenex](https://anilist.co/character/58341)
 * [Le Fay Pendragon](https://anilist.co/character/79663)
 * [Ziyu Zhou](https://anilist.co/character/234726)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
+* [Amalie](https://anilist.co/character/175297)
 * [Haruno Yukinoshita](https://anilist.co/character/79589)
 * [Iroha Isshiki](https://anilist.co/character/88727)
 * [Misha Necron](https://anilist.co/character/138596)
+* [Celia Claire](https://anilist.co/character/161678)
 * [Sena Kashiwazaki](https://anilist.co/character/37514)
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
 * [Miyuki Shiba](https://anilist.co/character/55741)
 * [Ayako Kuroba](https://anilist.co/character/200612)
 * [Nepgear](https://anilist.co/character/49927)
-* [Mio Naruse](https://anilist.co/character/89158)
 * [Feena Fam Earthlight](https://anilist.co/character/1054)
 * [Roxy Migurdia](https://anilist.co/character/88350)
-* [Flare Arlgrande Jioral](https://anilist.co/character/139397)
-* [Setsuna](https://anilist.co/character/139402)
 <!-- favorites_characters ends -->
 
 </details>
