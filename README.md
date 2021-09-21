@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/287248021) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 * [completed None](https://anilist.co/activity/287246319) of [Seirei Gensouki](https://anilist.co/anime/126546)
 * [completed None](https://anilist.co/activity/287246200) of [Kanojo mo Kanojo](https://anilist.co/anime/126192)
 * [completed None](https://anilist.co/activity/287246165) of [Wan Jie Duzun](https://anilist.co/anime/131929)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/287245421) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
 * [paused watching None](https://anilist.co/activity/287245306) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 * [watched episode 27](https://anilist.co/activity/287245256) of [Wan Jie Xian Zong 5](https://anilist.co/anime/136146)
-* [watched episode 112](https://anilist.co/activity/287245129) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
