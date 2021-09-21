@@ -26,16 +26,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [dropped None](https://anilist.co/activity/254680371) of [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://anilist.co/anime/114302)
-* [watched episode 3](https://anilist.co/activity/254680229) of [Peach Boy Riverside](https://anilist.co/anime/122441)
-* [watched episode 2](https://anilist.co/activity/254680200) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
-* [watched episode 93](https://anilist.co/activity/254680171) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 19](https://anilist.co/activity/254680096) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 25](https://anilist.co/activity/254680081) of [Kuang Shenmo Zun](https://anilist.co/anime/133869)
-* [watched episode 14](https://anilist.co/activity/254680068) of [Xinghe Zhizun](https://anilist.co/anime/129239)
-* [watched episode 2](https://anilist.co/activity/253579863) of [Tantei wa mou, Shindeiru.](https://anilist.co/anime/128712)
-* [watched episode 2](https://anilist.co/activity/253579846) of [Bokutachi no Remake](https://anilist.co/anime/114065)
-* [watched episode 79](https://anilist.co/activity/253579818) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [completed None](https://anilist.co/activity/287246319) of [Seirei Gensouki](https://anilist.co/anime/126546)
+* [completed None](https://anilist.co/activity/287246200) of [Kanojo mo Kanojo](https://anilist.co/anime/126192)
+* [completed None](https://anilist.co/activity/287246165) of [Wan Jie Duzun](https://anilist.co/anime/131929)
+* [completed None](https://anilist.co/activity/287246002) of [Peach Boy Riverside](https://anilist.co/anime/122441)
+* [watched episode 11](https://anilist.co/activity/287245750) of [Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://anilist.co/anime/116742)
+* [watched episode 98](https://anilist.co/activity/287245512) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [watched episode 11](https://anilist.co/activity/287245421) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
+* [paused watching None](https://anilist.co/activity/287245306) of [Xinghe Zhizun](https://anilist.co/anime/129239)
+* [watched episode 27](https://anilist.co/activity/287245256) of [Wan Jie Xian Zong 5](https://anilist.co/anime/136146)
+* [watched episode 112](https://anilist.co/activity/287245129) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
