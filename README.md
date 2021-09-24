@@ -85,6 +85,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:girl: List Favorites Characters</summary>
   
 <!-- favorites_characters starts -->
+* [Celia Claire](https://anilist.co/character/161678)
 * [Sayu Ogiwara](https://anilist.co/character/127925)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
@@ -95,12 +96,11 @@ I'd like to do project that has relation to anime. :ghost:
 * [Ravel Phenex](https://anilist.co/character/58341)
 * [Le Fay Pendragon](https://anilist.co/character/79663)
 * [Ziyu Zhou](https://anilist.co/character/234726)
+* [Yuuko Yoshida](https://anilist.co/character/141461)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
 * [Amalie](https://anilist.co/character/175297)
 * [Haruno Yukinoshita](https://anilist.co/character/79589)
-* [Iroha Isshiki](https://anilist.co/character/88727)
 * [Misha Necron](https://anilist.co/character/138596)
-* [Celia Claire](https://anilist.co/character/161678)
 * [Sena Kashiwazaki](https://anilist.co/character/37514)
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
