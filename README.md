@@ -35,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 98](https://anilist.co/activity/287245512) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [watched episode 11](https://anilist.co/activity/287245421) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
 * [paused watching None](https://anilist.co/activity/287245306) of [Xinghe Zhizun](https://anilist.co/anime/129239)
-* [watched episode 27](https://anilist.co/activity/287245256) of [Wan Jie Xian Zong 5](https://anilist.co/anime/136146)
 <!-- anilist_activity ends -->
 
 </details>
