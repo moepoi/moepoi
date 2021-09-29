@@ -91,7 +91,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Kyouko Hori](https://anilist.co/character/66171)
 * [Nagisa Minase](https://anilist.co/character/162885)
 * [Ruka Sarashina](https://anilist.co/character/147005)
-* [Sumi Sakurasawa](https://anilist.co/character/144665)
 * [Ravel Phenex](https://anilist.co/character/58341)
 * [Le Fay Pendragon](https://anilist.co/character/79663)
 * [Ziyu Zhou](https://anilist.co/character/234726)
@@ -108,6 +107,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Nepgear](https://anilist.co/character/49927)
 * [Feena Fam Earthlight](https://anilist.co/character/1054)
 * [Roxy Migurdia](https://anilist.co/character/88350)
+* [Roroa Amidonia](https://anilist.co/character/133342)
 <!-- favorites_characters ends -->
 
 </details>
