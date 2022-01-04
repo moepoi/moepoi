@@ -26,6 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/332226648) of [Date A Bullet: Nightmare or Queen](https://anilist.co/anime/121034)
+* [completed None](https://anilist.co/activity/332226545) of [Date A Bullet: Dead or Bullet](https://anilist.co/anime/111852)
 * [plans to watch None](https://anilist.co/activity/287248021) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 * [completed None](https://anilist.co/activity/287246319) of [Seirei Gensouki](https://anilist.co/anime/126546)
 * [completed None](https://anilist.co/activity/287246200) of [Kanojo mo Kanojo](https://anilist.co/anime/126192)
@@ -33,8 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/287246002) of [Peach Boy Riverside](https://anilist.co/anime/122441)
 * [watched episode 11](https://anilist.co/activity/287245750) of [Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://anilist.co/anime/116742)
 * [watched episode 98](https://anilist.co/activity/287245512) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [watched episode 11](https://anilist.co/activity/287245421) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
-* [paused watching None](https://anilist.co/activity/287245306) of [Xinghe Zhizun](https://anilist.co/anime/129239)
 <!-- anilist_activity ends -->
 
 </details>
