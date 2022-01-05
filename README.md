@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/332544720) of [Kimi ga Aruji de Shitsuji ga Ore de](https://anilist.co/anime/3229)
 * [completed None](https://anilist.co/activity/332226648) of [Date A Bullet: Nightmare or Queen](https://anilist.co/anime/121034)
 * [completed None](https://anilist.co/activity/332226545) of [Date A Bullet: Dead or Bullet](https://anilist.co/anime/111852)
 * [plans to watch None](https://anilist.co/activity/287248021) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/287246165) of [Wan Jie Duzun](https://anilist.co/anime/131929)
 * [completed None](https://anilist.co/activity/287246002) of [Peach Boy Riverside](https://anilist.co/anime/122441)
 * [watched episode 11](https://anilist.co/activity/287245750) of [Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://anilist.co/anime/116742)
-* [watched episode 98](https://anilist.co/activity/287245512) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
