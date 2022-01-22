@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/340796666) of [SHUFFLE!](https://anilist.co/anime/79)
 * [completed None](https://anilist.co/activity/339365051) of [Seiken no Blacksmith](https://anilist.co/anime/5940)
 * [completed None](https://anilist.co/activity/338916513) of [Kämpfer](https://anilist.co/anime/6205)
 * [completed None](https://anilist.co/activity/338417078) of [Knight's & Magic](https://anilist.co/anime/97663)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/332226648) of [Date A Bullet: Nightmare or Queen](https://anilist.co/anime/121034)
 * [completed None](https://anilist.co/activity/332226545) of [Date A Bullet: Dead or Bullet](https://anilist.co/anime/111852)
 * [plans to watch None](https://anilist.co/activity/287248021) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
-* [completed None](https://anilist.co/activity/287246319) of [Seirei Gensouki](https://anilist.co/anime/126546)
 <!-- anilist_activity ends -->
 
 </details>
