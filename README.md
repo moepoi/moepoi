@@ -26,16 +26,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 2](https://anilist.co/activity/341235724) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
-* [plans to watch None](https://anilist.co/activity/341235653) of [Vanitas no Carte Part 2](https://anilist.co/anime/135136)
-* [watched episode 3](https://anilist.co/activity/341235607) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
-* [watched episode 2](https://anilist.co/activity/341235512) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
-* [watched episode 3](https://anilist.co/activity/341235276) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
-* [plans to watch None](https://anilist.co/activity/341235129) of [Kimetsu no Yaiba: Yuukaku-hen](https://anilist.co/anime/142329)
-* [watched episode 2](https://anilist.co/activity/341235056) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
-* [completed None](https://anilist.co/activity/341234081) of [Megami-ryou no Ryoubo-kun.](https://anilist.co/anime/117989)
-* [paused watching 6](https://anilist.co/activity/341233945) of [Deatte 5-byou de Battle](https://anilist.co/anime/126047)
-* [paused watching 3](https://anilist.co/activity/341233401) of [Muv-Luv Alternative](https://anilist.co/anime/112716)
+* [paused watching 10](https://anilist.co/activity/341241092) of [Wu Geng Ji 4](https://anilist.co/anime/136461)
+* [paused watching None](https://anilist.co/activity/341240981) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
+* [watched episode 6](https://anilist.co/activity/341240944) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
+* [paused watching 2](https://anilist.co/activity/341240758) of [Fanren Xiu Xian Zhuan: Modao Zhengfeng](https://anilist.co/anime/140645)
+* [watched episode 18](https://anilist.co/activity/341240014) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
+* [paused watching 45](https://anilist.co/activity/341239673) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
+* [watched episode 27](https://anilist.co/activity/341239336) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
+* [plans to watch None](https://anilist.co/activity/341239218) of [Xingchen Bian: Po Tian Mi Ju](https://anilist.co/anime/137738)
+* [plans to watch None](https://anilist.co/activity/341239198) of [Xingchen Bian: Xichen Yao Hai](https://anilist.co/anime/122652)
+* [watched episode 9](https://anilist.co/activity/341238617) of [Douluo Dalu: Xiaowu Fuhuo](https://anilist.co/anime/141802)
 <!-- anilist_activity ends -->
 
 </details>
@@ -100,15 +100,15 @@ I'd like to do project that has relation to anime. :ghost:
 * [Amalie](https://anilist.co/character/175297)
 * [Haruno Yukinoshita](https://anilist.co/character/79589)
 * [Misha Necron](https://anilist.co/character/138596)
-* [Sena Kashiwazaki](https://anilist.co/character/37514)
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
 * [Miyuki Shiba](https://anilist.co/character/55741)
 * [Ayako Kuroba](https://anilist.co/character/200612)
 * [Nepgear](https://anilist.co/character/49927)
-* [Feena Fam Earthlight](https://anilist.co/character/1054)
 * [Roxy Migurdia](https://anilist.co/character/88350)
 * [Roroa Amidonia](https://anilist.co/character/133342)
+* [Ninym Ralei](https://anilist.co/character/206374)
+* [Marin Kitagawa](https://anilist.co/character/133676)
 <!-- favorites_characters ends -->
 
 </details>
