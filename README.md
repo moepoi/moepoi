@@ -26,11 +26,11 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 18 - 19](https://anilist.co/activity/341423101) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [paused watching 10](https://anilist.co/activity/341241092) of [Wu Geng Ji 4](https://anilist.co/anime/136461)
 * [paused watching None](https://anilist.co/activity/341240981) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
 * [watched episode 6](https://anilist.co/activity/341240944) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
 * [paused watching 2](https://anilist.co/activity/341240758) of [Fanren Xiu Xian Zhuan: Modao Zhengfeng](https://anilist.co/anime/140645)
-* [watched episode 18](https://anilist.co/activity/341240014) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [paused watching 45](https://anilist.co/activity/341239673) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
 * [watched episode 27](https://anilist.co/activity/341239336) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [plans to watch None](https://anilist.co/activity/341239218) of [Xingchen Bian: Po Tian Mi Ju](https://anilist.co/anime/137738)
