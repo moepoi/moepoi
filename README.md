@@ -26,16 +26,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [plans to watch None](https://anilist.co/activity/341232646) of [Mieruko-chan](https://anilist.co/anime/131083)
-* [completed None](https://anilist.co/activity/341232554) of [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://anilist.co/anime/127720)
-* [completed None](https://anilist.co/activity/341232387) of [Mahouka Koukou no Yuutousei](https://anilist.co/anime/127688)
-* [completed None](https://anilist.co/activity/341232190) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
-* [completed None](https://anilist.co/activity/341232099) of [Genjitsu Shugi Yuusha no Oukoku Saikenki](https://anilist.co/anime/117612)
-* [completed None](https://anilist.co/activity/341231961) of [Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://anilist.co/anime/116742)
-* [completed None](https://anilist.co/activity/341171068) of [Dance in the Vampire Bund](https://anilist.co/anime/6747)
-* [completed None](https://anilist.co/activity/340796666) of [SHUFFLE!](https://anilist.co/anime/79)
-* [completed None](https://anilist.co/activity/339365051) of [Seiken no Blacksmith](https://anilist.co/anime/5940)
-* [completed None](https://anilist.co/activity/338916513) of [Kämpfer](https://anilist.co/anime/6205)
+* [watched episode 2](https://anilist.co/activity/341235724) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
+* [plans to watch None](https://anilist.co/activity/341235653) of [Vanitas no Carte Part 2](https://anilist.co/anime/135136)
+* [watched episode 3](https://anilist.co/activity/341235607) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
+* [watched episode 2](https://anilist.co/activity/341235512) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
+* [watched episode 3](https://anilist.co/activity/341235276) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
+* [plans to watch None](https://anilist.co/activity/341235129) of [Kimetsu no Yaiba: Yuukaku-hen](https://anilist.co/anime/142329)
+* [watched episode 2](https://anilist.co/activity/341235056) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
+* [completed None](https://anilist.co/activity/341234081) of [Megami-ryou no Ryoubo-kun.](https://anilist.co/anime/117989)
+* [paused watching 6](https://anilist.co/activity/341233945) of [Deatte 5-byou de Battle](https://anilist.co/anime/126047)
+* [paused watching 3](https://anilist.co/activity/341233401) of [Muv-Luv Alternative](https://anilist.co/anime/112716)
 <!-- anilist_activity ends -->
 
 </details>
