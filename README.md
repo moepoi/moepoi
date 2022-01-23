@@ -26,15 +26,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/341232646) of [Mieruko-chan](https://anilist.co/anime/131083)
+* [completed None](https://anilist.co/activity/341232554) of [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://anilist.co/anime/127720)
+* [completed None](https://anilist.co/activity/341232387) of [Mahouka Koukou no Yuutousei](https://anilist.co/anime/127688)
+* [completed None](https://anilist.co/activity/341232190) of [Tsuki ga Michibiku Isekai Douchuu](https://anilist.co/anime/125206)
+* [completed None](https://anilist.co/activity/341232099) of [Genjitsu Shugi Yuusha no Oukoku Saikenki](https://anilist.co/anime/117612)
+* [completed None](https://anilist.co/activity/341231961) of [Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://anilist.co/anime/116742)
 * [completed None](https://anilist.co/activity/341171068) of [Dance in the Vampire Bund](https://anilist.co/anime/6747)
 * [completed None](https://anilist.co/activity/340796666) of [SHUFFLE!](https://anilist.co/anime/79)
 * [completed None](https://anilist.co/activity/339365051) of [Seiken no Blacksmith](https://anilist.co/anime/5940)
 * [completed None](https://anilist.co/activity/338916513) of [Kämpfer](https://anilist.co/anime/6205)
-* [completed None](https://anilist.co/activity/338417078) of [Knight's & Magic](https://anilist.co/anime/97663)
-* [completed None](https://anilist.co/activity/333569536) of [Maji de Watashi ni Koi Shinasai!](https://anilist.co/anime/10213)
-* [completed None](https://anilist.co/activity/332544720) of [Kimi ga Aruji de Shitsuji ga Ore de](https://anilist.co/anime/3229)
-* [completed None](https://anilist.co/activity/332226648) of [Date A Bullet: Nightmare or Queen](https://anilist.co/anime/121034)
-* [completed None](https://anilist.co/activity/332226545) of [Date A Bullet: Dead or Bullet](https://anilist.co/anime/111852)
 <!-- anilist_activity ends -->
 
 </details>
