@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/341845853) of [Rokujouma no Shinryakusha!?](https://anilist.co/anime/20638)
 * [plans to watch None](https://anilist.co/activity/341843164) of [Seirei Gensouki 2](https://anilist.co/anime/141182)
 * [completed None](https://anilist.co/activity/341843055) of [Kaibutsu Oujo](https://anilist.co/anime/2130)
 * [plans to watch None](https://anilist.co/activity/341842215) of [Saihate no Paladin 2](https://anilist.co/anime/143085)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [paused watching 10](https://anilist.co/activity/341241092) of [Wu Geng Ji 4](https://anilist.co/anime/136461)
 * [paused watching None](https://anilist.co/activity/341240981) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
 * [watched episode 6](https://anilist.co/activity/341240944) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
-* [paused watching 2](https://anilist.co/activity/341240758) of [Fanren Xiu Xian Zhuan: Modao Zhengfeng](https://anilist.co/anime/140645)
 <!-- anilist_activity ends -->
 
 </details>
