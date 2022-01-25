@@ -26,6 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/342373108) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
+* [plans to watch None](https://anilist.co/activity/342373015) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
 * [completed None](https://anilist.co/activity/342286369) of [Utawarerumono: Tusukuru-koujo no Karei Naru Hibi](https://anilist.co/anime/102573)
 * [completed None](https://anilist.co/activity/342280944) of [Utawarerumono](https://anilist.co/anime/856)
 * [watched episode 200](https://anilist.co/activity/342236902) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -34,8 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/341845853) of [Rokujouma no Shinryakusha!?](https://anilist.co/anime/20638)
 * [plans to watch None](https://anilist.co/activity/341843164) of [Seirei Gensouki 2](https://anilist.co/anime/141182)
 * [completed None](https://anilist.co/activity/341843055) of [Kaibutsu Oujo](https://anilist.co/anime/2130)
-* [plans to watch None](https://anilist.co/activity/341842215) of [Saihate no Paladin 2](https://anilist.co/anime/143085)
-* [watched episode 73 - 74](https://anilist.co/activity/341798595) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
