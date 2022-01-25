@@ -26,6 +26,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 200](https://anilist.co/activity/342236902) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 148](https://anilist.co/activity/342236883) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 3](https://anilist.co/activity/342236858) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 * [completed None](https://anilist.co/activity/341845853) of [Rokujouma no Shinryakusha!?](https://anilist.co/anime/20638)
 * [plans to watch None](https://anilist.co/activity/341843164) of [Seirei Gensouki 2](https://anilist.co/anime/141182)
 * [completed None](https://anilist.co/activity/341843055) of [Kaibutsu Oujo](https://anilist.co/anime/2130)
@@ -33,9 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 73 - 74](https://anilist.co/activity/341798595) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [completed None](https://anilist.co/activity/341793124) of [Saihate no Paladin](https://anilist.co/anime/132473)
 * [watched episode 18 - 19](https://anilist.co/activity/341423101) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [paused watching 10](https://anilist.co/activity/341241092) of [Wu Geng Ji 4](https://anilist.co/anime/136461)
-* [paused watching None](https://anilist.co/activity/341240981) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
-* [watched episode 6](https://anilist.co/activity/341240944) of [Xian Wang De Richang Shenghuo 2](https://anilist.co/anime/126357)
 <!-- anilist_activity ends -->
 
 </details>
