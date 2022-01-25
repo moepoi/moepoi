@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/342280944) of [Utawarerumono](https://anilist.co/anime/856)
 * [watched episode 200](https://anilist.co/activity/342236902) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 148](https://anilist.co/activity/342236883) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 3](https://anilist.co/activity/342236858) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/341842215) of [Saihate no Paladin 2](https://anilist.co/anime/143085)
 * [watched episode 73 - 74](https://anilist.co/activity/341798595) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [completed None](https://anilist.co/activity/341793124) of [Saihate no Paladin](https://anilist.co/anime/132473)
-* [watched episode 18 - 19](https://anilist.co/activity/341423101) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 <!-- anilist_activity ends -->
 
 </details>
