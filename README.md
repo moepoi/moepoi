@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/342286369) of [Utawarerumono: Tusukuru-koujo no Karei Naru Hibi](https://anilist.co/anime/102573)
 * [completed None](https://anilist.co/activity/342280944) of [Utawarerumono](https://anilist.co/anime/856)
 * [watched episode 200](https://anilist.co/activity/342236902) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 148](https://anilist.co/activity/342236883) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/341843055) of [Kaibutsu Oujo](https://anilist.co/anime/2130)
 * [plans to watch None](https://anilist.co/activity/341842215) of [Saihate no Paladin 2](https://anilist.co/anime/143085)
 * [watched episode 73 - 74](https://anilist.co/activity/341798595) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [completed None](https://anilist.co/activity/341793124) of [Saihate no Paladin](https://anilist.co/anime/132473)
 <!-- anilist_activity ends -->
 
 </details>
