@@ -26,16 +26,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/342838588) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
+* [watched episode 3](https://anilist.co/activity/342836637) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
+* [watched episode 28](https://anilist.co/activity/342836622) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
+* [watched episode 20](https://anilist.co/activity/342836602) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [plans to watch None](https://anilist.co/activity/342373108) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [plans to watch None](https://anilist.co/activity/342373015) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
 * [completed None](https://anilist.co/activity/342286369) of [Utawarerumono: Tusukuru-koujo no Karei Naru Hibi](https://anilist.co/anime/102573)
 * [completed None](https://anilist.co/activity/342280944) of [Utawarerumono](https://anilist.co/anime/856)
 * [watched episode 200](https://anilist.co/activity/342236902) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 148](https://anilist.co/activity/342236883) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 3](https://anilist.co/activity/342236858) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
-* [completed None](https://anilist.co/activity/341845853) of [Rokujouma no Shinryakusha!?](https://anilist.co/anime/20638)
-* [plans to watch None](https://anilist.co/activity/341843164) of [Seirei Gensouki 2](https://anilist.co/anime/141182)
-* [completed None](https://anilist.co/activity/341843055) of [Kaibutsu Oujo](https://anilist.co/anime/2130)
 <!-- anilist_activity ends -->
 
 </details>
