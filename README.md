@@ -26,6 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/342876984) of [Mahouka Koukou no Rettousei 3](https://anilist.co/anime/143271)
+* [completed None](https://anilist.co/activity/342876916) of [Mahouka Koukou no Rettousei: Tsuioku-hen](https://anilist.co/anime/130389)
 * [completed None](https://anilist.co/activity/342838588) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
 * [watched episode 3](https://anilist.co/activity/342836637) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 * [watched episode 28](https://anilist.co/activity/342836622) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -34,8 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/342373015) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
 * [completed None](https://anilist.co/activity/342286369) of [Utawarerumono: Tusukuru-koujo no Karei Naru Hibi](https://anilist.co/anime/102573)
 * [completed None](https://anilist.co/activity/342280944) of [Utawarerumono](https://anilist.co/anime/856)
-* [watched episode 200](https://anilist.co/activity/342236902) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 148](https://anilist.co/activity/342236883) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
