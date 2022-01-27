@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/343350936) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
 * [plans to watch None](https://anilist.co/activity/342876984) of [Mahouka Koukou no Rettousei 3](https://anilist.co/anime/143271)
 * [completed None](https://anilist.co/activity/342876916) of [Mahouka Koukou no Rettousei: Tsuioku-hen](https://anilist.co/anime/130389)
 * [completed None](https://anilist.co/activity/342838588) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/342373108) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [plans to watch None](https://anilist.co/activity/342373015) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
 * [completed None](https://anilist.co/activity/342286369) of [Utawarerumono: Tusukuru-koujo no Karei Naru Hibi](https://anilist.co/anime/102573)
-* [completed None](https://anilist.co/activity/342280944) of [Utawarerumono](https://anilist.co/anime/856)
 <!-- anilist_activity ends -->
 
 </details>
