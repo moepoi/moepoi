@@ -26,16 +26,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 149](https://anilist.co/activity/343558582) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 75](https://anilist.co/activity/343558576) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [plans to watch None](https://anilist.co/activity/343558520) of [Ikkitousen: Dragon Destiny](https://anilist.co/anime/1956)
+* [completed None](https://anilist.co/activity/343555205) of [Ikkitousen](https://anilist.co/anime/257)
 * [watched episode 3](https://anilist.co/activity/343350936) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
 * [plans to watch None](https://anilist.co/activity/342876984) of [Mahouka Koukou no Rettousei 3](https://anilist.co/anime/143271)
 * [completed None](https://anilist.co/activity/342876916) of [Mahouka Koukou no Rettousei: Tsuioku-hen](https://anilist.co/anime/130389)
 * [completed None](https://anilist.co/activity/342838588) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
 * [watched episode 3](https://anilist.co/activity/342836637) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
-* [watched episode 28](https://anilist.co/activity/342836622) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 20](https://anilist.co/activity/342836602) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [plans to watch None](https://anilist.co/activity/342373108) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [plans to watch None](https://anilist.co/activity/342373015) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
-* [completed None](https://anilist.co/activity/342286369) of [Utawarerumono: Tusukuru-koujo no Karei Naru Hibi](https://anilist.co/anime/102573)
 <!-- anilist_activity ends -->
 
 </details>
