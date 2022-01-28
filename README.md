@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/343350936) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
 * [plans to watch None](https://anilist.co/activity/342876984) of [Mahouka Koukou no Rettousei 3](https://anilist.co/anime/143271)
 * [completed None](https://anilist.co/activity/342876916) of [Mahouka Koukou no Rettousei: Tsuioku-hen](https://anilist.co/anime/130389)
-* [completed None](https://anilist.co/activity/342838588) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
 <!-- anilist_activity ends -->
 
 </details>
