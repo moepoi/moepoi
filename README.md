@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/343570010) of [Macademi Wasshoi!](https://anilist.co/anime/3654)
 * [watched episode 149](https://anilist.co/activity/343558582) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 75](https://anilist.co/activity/343558576) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [plans to watch None](https://anilist.co/activity/343558520) of [Ikkitousen: Dragon Destiny](https://anilist.co/anime/1956)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/342876984) of [Mahouka Koukou no Rettousei 3](https://anilist.co/anime/143271)
 * [completed None](https://anilist.co/activity/342876916) of [Mahouka Koukou no Rettousei: Tsuioku-hen](https://anilist.co/anime/130389)
 * [completed None](https://anilist.co/activity/342838588) of [Utawarerumono: Itsuwari no Kamen](https://anilist.co/anime/21218)
-* [watched episode 3](https://anilist.co/activity/342836637) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 <!-- anilist_activity ends -->
 
 </details>
