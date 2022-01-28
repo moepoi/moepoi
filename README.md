@@ -28,7 +28,6 @@ I'd like to do project that has relation to anime. :ghost:
 <!-- anilist_activity starts -->
 * [plans to watch None](https://anilist.co/activity/343570010) of [Macademi Wasshoi!](https://anilist.co/anime/3654)
 * [watched episode 149](https://anilist.co/activity/343558582) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 75](https://anilist.co/activity/343558576) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
