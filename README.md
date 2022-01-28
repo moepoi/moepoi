@@ -32,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/343558520) of [Ikkitousen: Dragon Destiny](https://anilist.co/anime/1956)
 * [completed None](https://anilist.co/activity/343555205) of [Ikkitousen](https://anilist.co/anime/257)
 * [watched episode 3](https://anilist.co/activity/343350936) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
-* [plans to watch None](https://anilist.co/activity/342876984) of [Mahouka Koukou no Rettousei 3](https://anilist.co/anime/143271)
 <!-- anilist_activity ends -->
 
 </details>
