@@ -27,7 +27,6 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- anilist_activity starts -->
 * [watched episode 21](https://anilist.co/activity/344586902) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [watched episode 201](https://anilist.co/activity/344494545) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
