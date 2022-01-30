@@ -26,8 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/344466039) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [watched episode 4](https://anilist.co/activity/344262476) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
-* [watched episode 4](https://anilist.co/activity/344262462) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 <!-- anilist_activity ends -->
 
 </details>
