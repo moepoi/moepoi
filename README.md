@@ -27,7 +27,6 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- anilist_activity starts -->
 * [watched episode 4](https://anilist.co/activity/344466039) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
-* [watched episode 4](https://anilist.co/activity/344262476) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 <!-- anilist_activity ends -->
 
 </details>
