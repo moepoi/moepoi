@@ -26,7 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-
+* [completed None](https://anilist.co/activity/346086345) of [Code:Breaker](https://anilist.co/anime/11703)
 <!-- anilist_activity ends -->
 
 </details>
