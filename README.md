@@ -26,7 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-
+* [watched episode 1 - 4](https://anilist.co/activity/346740814) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
 <!-- anilist_activity ends -->
 
 </details>
