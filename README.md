@@ -27,7 +27,6 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- anilist_activity starts -->
 * [watched episode 31](https://anilist.co/activity/347202956) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 5](https://anilist.co/activity/347201612) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 <!-- anilist_activity ends -->
 
 </details>
