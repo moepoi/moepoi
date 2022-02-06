@@ -30,7 +30,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/347746002) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 * [watched episode 5](https://anilist.co/activity/347637832) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [watched episode 203](https://anilist.co/activity/347637814) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 5](https://anilist.co/activity/347595965) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 <!-- anilist_activity ends -->
 
 </details>
