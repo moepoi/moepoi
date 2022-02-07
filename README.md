@@ -27,7 +27,6 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- anilist_activity starts -->
 * [watched episode 78](https://anilist.co/activity/348213109) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 5](https://anilist.co/activity/348196286) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 <!-- anilist_activity ends -->
 
 </details>
