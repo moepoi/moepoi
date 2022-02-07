@@ -26,7 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 23](https://anilist.co/activity/347751524) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
+
 <!-- anilist_activity ends -->
 
 </details>
