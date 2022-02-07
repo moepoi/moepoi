@@ -27,7 +27,6 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- anilist_activity starts -->
 * [watched episode 23](https://anilist.co/activity/347751524) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [watched episode 5](https://anilist.co/activity/347746002) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 <!-- anilist_activity ends -->
 
 </details>
