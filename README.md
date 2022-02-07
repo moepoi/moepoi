@@ -26,7 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-
+* [watched episode 5](https://anilist.co/activity/348196286) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 <!-- anilist_activity ends -->
 
 </details>
