@@ -26,10 +26,10 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 24](https://anilist.co/activity/349152599) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 32](https://anilist.co/activity/349121657) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 5](https://anilist.co/activity/349051107) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
 * [watched episode 5](https://anilist.co/activity/348830363) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
-* [watched episode 152](https://anilist.co/activity/348669571) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
