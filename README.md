@@ -28,7 +28,6 @@ I'd like to do project that has relation to anime. :ghost:
 <!-- anilist_activity starts -->
 * [watched episode 6](https://anilist.co/activity/352217536) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
 * [watched episode 6](https://anilist.co/activity/352217529) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
-* [watched episode 206](https://anilist.co/activity/351797189) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
