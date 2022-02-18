@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/352967686) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
 * [watched episode 154](https://anilist.co/activity/352431329) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 34](https://anilist.co/activity/352431313) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 26](https://anilist.co/activity/352431277) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
