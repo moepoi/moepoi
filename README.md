@@ -31,7 +31,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 154](https://anilist.co/activity/352431329) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 34](https://anilist.co/activity/352431313) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 26](https://anilist.co/activity/352431277) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [watched episode 6](https://anilist.co/activity/352217536) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
 <!-- anilist_activity ends -->
 
 </details>
