@@ -35,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/353874090) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 * [watched episode 155](https://anilist.co/activity/353535593) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 35](https://anilist.co/activity/353487580) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 1 - 18](https://anilist.co/activity/353435439) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 <!-- anilist_activity ends -->
 
 </details>
