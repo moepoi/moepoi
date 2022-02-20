@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/353899349) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 * [watched episode 7](https://anilist.co/activity/353892544) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [watched episode 7](https://anilist.co/activity/353886325) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [watched episode 19](https://anilist.co/activity/353878223) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
@@ -33,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 155](https://anilist.co/activity/353535593) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 35](https://anilist.co/activity/353487580) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 1 - 18](https://anilist.co/activity/353435439) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
-* [watched episode 81](https://anilist.co/activity/353055822) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
