@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/354640654) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://anilist.co/anime/145545)
 * [watched episode 82](https://anilist.co/activity/354489482) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 7](https://anilist.co/activity/354403864) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 * [watched episode 27](https://anilist.co/activity/354040600) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/353892544) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [watched episode 7](https://anilist.co/activity/353886325) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [watched episode 19](https://anilist.co/activity/353878223) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
-* [watched episode 7](https://anilist.co/activity/353874090) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 <!-- anilist_activity ends -->
 
 </details>
