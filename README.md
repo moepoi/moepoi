@@ -26,14 +26,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 208](https://anilist.co/activity/354922447) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 156](https://anilist.co/activity/354922421) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [plans to watch None](https://anilist.co/activity/354640654) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://anilist.co/anime/145545)
 * [watched episode 82](https://anilist.co/activity/354489482) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 7](https://anilist.co/activity/354403864) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 * [watched episode 27](https://anilist.co/activity/354040600) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 207](https://anilist.co/activity/353919295) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 7](https://anilist.co/activity/353899349) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
-* [watched episode 7](https://anilist.co/activity/353892544) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
-* [watched episode 7](https://anilist.co/activity/353886325) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 <!-- anilist_activity ends -->
 
 </details>
