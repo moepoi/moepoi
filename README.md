@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/353899349) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 * [watched episode 7](https://anilist.co/activity/353892544) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [watched episode 7](https://anilist.co/activity/353886325) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
-* [watched episode 19](https://anilist.co/activity/353878223) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 <!-- anilist_activity ends -->
 
 </details>
