@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 83](https://anilist.co/activity/356171986) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 7](https://anilist.co/activity/356119584) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
 * [watched episode 28](https://anilist.co/activity/355567272) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 36](https://anilist.co/activity/355391465) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/355264759) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 * [watched episode 208](https://anilist.co/activity/354922447) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 156](https://anilist.co/activity/354922421) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [plans to watch None](https://anilist.co/activity/354640654) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)](https://anilist.co/anime/145545)
 <!-- anilist_activity ends -->
 
 </details>
