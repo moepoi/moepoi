@@ -26,14 +26,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 21](https://anilist.co/activity/357661064) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
+* [watched episode 84](https://anilist.co/activity/357658152) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 29](https://anilist.co/activity/357658141) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 8](https://anilist.co/activity/357492305) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 * [watched episode 209](https://anilist.co/activity/357001445) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 8](https://anilist.co/activity/356963034) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 * [watched episode 8](https://anilist.co/activity/356963021) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [watched episode 8](https://anilist.co/activity/356833555) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [watched episode 8](https://anilist.co/activity/356553987) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
-* [watched episode 37](https://anilist.co/activity/356547551) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 157](https://anilist.co/activity/356490874) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
