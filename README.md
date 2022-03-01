@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 84](https://anilist.co/activity/357658152) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 29](https://anilist.co/activity/357658141) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 8](https://anilist.co/activity/357492305) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
-* [watched episode 209](https://anilist.co/activity/357001445) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
