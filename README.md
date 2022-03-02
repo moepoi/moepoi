@@ -26,14 +26,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/358419854) of [Nobunaga the Fool](https://anilist.co/anime/20509)
+* [watched episode 30](https://anilist.co/activity/358419624) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
+* [watched episode 38](https://anilist.co/activity/358419610) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 22](https://anilist.co/activity/358265210) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 8](https://anilist.co/activity/358262789) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
 * [watched episode 8](https://anilist.co/activity/358080474) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 * [plans to watch None](https://anilist.co/activity/357932018) of [Nobunaga the Fool](https://anilist.co/anime/20509)
 * [watched episode 210](https://anilist.co/activity/357929925) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 158](https://anilist.co/activity/357929897) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [completed None](https://anilist.co/activity/357874813) of [Yingxiong Zailin](https://anilist.co/anime/120193)
-* [watched episode 21](https://anilist.co/activity/357661064) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 <!-- anilist_activity ends -->
 
 </details>
