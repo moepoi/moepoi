@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/358080474) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 * [plans to watch None](https://anilist.co/activity/357932018) of [Nobunaga the Fool](https://anilist.co/anime/20509)
 * [watched episode 210](https://anilist.co/activity/357929925) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 158](https://anilist.co/activity/357929897) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
