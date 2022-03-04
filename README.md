@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 159](https://anilist.co/activity/359265944) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 85](https://anilist.co/activity/359115334) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 8](https://anilist.co/activity/358920843) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
 * [completed None](https://anilist.co/activity/358831153) of [Saikin, Imouto no Yousu ga Chotto Okashiinda ga.](https://anilist.co/anime/17777)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 38](https://anilist.co/activity/358419610) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 22](https://anilist.co/activity/358265210) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 8](https://anilist.co/activity/358262789) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
-* [watched episode 8](https://anilist.co/activity/358080474) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 <!-- anilist_activity ends -->
 
 </details>
