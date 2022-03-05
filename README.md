@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/358920843) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
 * [completed None](https://anilist.co/activity/358831153) of [Saikin, Imouto no Yousu ga Chotto Okashiinda ga.](https://anilist.co/anime/17777)
 * [completed None](https://anilist.co/activity/358419854) of [Nobunaga the Fool](https://anilist.co/anime/20509)
-* [watched episode 30](https://anilist.co/activity/358419624) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 <!-- anilist_activity ends -->
 
 </details>
