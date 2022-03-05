@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 9](https://anilist.co/activity/359574531) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 * [watched episode 39](https://anilist.co/activity/359565475) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [plans to watch None](https://anilist.co/activity/359458782) of [Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen](https://anilist.co/anime/139498)
 * [watched episode 159](https://anilist.co/activity/359265944) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/358831153) of [Saikin, Imouto no Yousu ga Chotto Okashiinda ga.](https://anilist.co/anime/17777)
 * [completed None](https://anilist.co/activity/358419854) of [Nobunaga the Fool](https://anilist.co/anime/20509)
 * [watched episode 30](https://anilist.co/activity/358419624) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [watched episode 38](https://anilist.co/activity/358419610) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
