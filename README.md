@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 9](https://anilist.co/activity/360082406) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 * [watched episode 9](https://anilist.co/activity/360082390) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [watched episode 9](https://anilist.co/activity/360082374) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
-* [watched episode 31](https://anilist.co/activity/360082345) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 <!-- anilist_activity ends -->
 
 </details>
