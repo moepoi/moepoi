@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 160](https://anilist.co/activity/360889761) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 212](https://anilist.co/activity/360886432) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 86](https://anilist.co/activity/360460378) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 9](https://anilist.co/activity/360460324) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 9](https://anilist.co/activity/360082390) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [watched episode 9](https://anilist.co/activity/360082374) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [watched episode 31](https://anilist.co/activity/360082345) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [watched episode 211](https://anilist.co/activity/360082338) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
