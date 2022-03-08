@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 212](https://anilist.co/activity/360886432) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 86](https://anilist.co/activity/360460378) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 9](https://anilist.co/activity/360460324) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 * [plans to watch None](https://anilist.co/activity/360337902) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://anilist.co/anime/146066)
