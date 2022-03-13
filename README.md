@@ -26,15 +26,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/363214702) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
+* [watched episode 10](https://anilist.co/activity/363214687) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
+* [watched episode 10](https://anilist.co/activity/363214667) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
+* [watched episode 33](https://anilist.co/activity/363214634) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
+* [watched episode 213](https://anilist.co/activity/363214612) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 41](https://anilist.co/activity/362572034) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [completed None](https://anilist.co/activity/362472555) of [Strike the Blood: Kieta Seisou-hen](https://anilist.co/anime/112324)
 * [watched episode 87](https://anilist.co/activity/362139150) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 161](https://anilist.co/activity/362139140) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 9](https://anilist.co/activity/362019686) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
-* [watched episode 9](https://anilist.co/activity/362019661) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
-* [watched episode 32](https://anilist.co/activity/361674821) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [watched episode 40](https://anilist.co/activity/361671810) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 9](https://anilist.co/activity/361671786) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 <!-- anilist_activity ends -->
 
 </details>
