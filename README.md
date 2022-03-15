@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/363214667) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [watched episode 33](https://anilist.co/activity/363214634) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 213](https://anilist.co/activity/363214612) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 41](https://anilist.co/activity/362572034) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
