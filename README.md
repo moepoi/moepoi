@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 88](https://anilist.co/activity/363802971) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 10](https://anilist.co/activity/363214702) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 * [watched episode 10](https://anilist.co/activity/363214687) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [watched episode 10](https://anilist.co/activity/363214667) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 41](https://anilist.co/activity/362572034) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [completed None](https://anilist.co/activity/362472555) of [Strike the Blood: Kieta Seisou-hen](https://anilist.co/anime/112324)
 * [watched episode 87](https://anilist.co/activity/362139150) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 161](https://anilist.co/activity/362139140) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
