@@ -26,6 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 34](https://anilist.co/activity/364315581) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
+* [watched episode 42](https://anilist.co/activity/364315566) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 10](https://anilist.co/activity/364283274) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 * [watched episode 10](https://anilist.co/activity/364283253) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
 * [watched episode 10](https://anilist.co/activity/364177208) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
@@ -33,8 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 214](https://anilist.co/activity/363853990) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 88](https://anilist.co/activity/363802971) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 10](https://anilist.co/activity/363214702) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
-* [watched episode 10](https://anilist.co/activity/363214687) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
-* [watched episode 10](https://anilist.co/activity/363214667) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 <!-- anilist_activity ends -->
 
 </details>
