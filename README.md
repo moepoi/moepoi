@@ -26,6 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/365083309) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
+* [watched episode 89](https://anilist.co/activity/365083297) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [plans to watch None](https://anilist.co/activity/364758647) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [watched episode 34](https://anilist.co/activity/364315581) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 42](https://anilist.co/activity/364315566) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -33,8 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/364283253) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
 * [watched episode 10](https://anilist.co/activity/364177208) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 * [watched episode 162](https://anilist.co/activity/363854010) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 214](https://anilist.co/activity/363853990) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 88](https://anilist.co/activity/363802971) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
