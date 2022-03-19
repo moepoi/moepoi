@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/365774667) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [watched episode 1 - 8](https://anilist.co/activity/365764359) of [Yong Sheng](https://anilist.co/anime/126391)
 * [watched episode 1 - 27](https://anilist.co/activity/365674301) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
 * [watched episode 43](https://anilist.co/activity/365647026) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/364758647) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [watched episode 34](https://anilist.co/activity/364315581) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 42](https://anilist.co/activity/364315566) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 10](https://anilist.co/activity/364283274) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 <!-- anilist_activity ends -->
 
 </details>
