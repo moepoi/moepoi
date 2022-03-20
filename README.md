@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 215](https://anilist.co/activity/365955480) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 11](https://anilist.co/activity/365915547) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 * [watched episode 11](https://anilist.co/activity/365915534) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [watched episode 11](https://anilist.co/activity/365774667) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 163](https://anilist.co/activity/365139765) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 10](https://anilist.co/activity/365083309) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
 * [watched episode 89](https://anilist.co/activity/365083297) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [plans to watch None](https://anilist.co/activity/364758647) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 <!-- anilist_activity ends -->
 
 </details>
