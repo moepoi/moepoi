@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 28](https://anilist.co/activity/366866115) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
 * [watched episode 1 - 16](https://anilist.co/activity/366861129) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 9](https://anilist.co/activity/366632575) of [Yong Sheng](https://anilist.co/anime/126391)
 * [watched episode 90](https://anilist.co/activity/366435329) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/365915547) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 * [watched episode 11](https://anilist.co/activity/365915534) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [watched episode 11](https://anilist.co/activity/365774667) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
-* [watched episode 1 - 8](https://anilist.co/activity/365764359) of [Yong Sheng](https://anilist.co/anime/126391)
 <!-- anilist_activity ends -->
 
 </details>
