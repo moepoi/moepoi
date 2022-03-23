@@ -26,16 +26,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 44](https://anilist.co/activity/367285661) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
+* [watched episode 20 - 21](https://anilist.co/activity/367283586) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
+* [watched episode 11](https://anilist.co/activity/367283425) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
+* [watched episode 11](https://anilist.co/activity/367283415) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 * [watched episode 164](https://anilist.co/activity/366901849) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 216](https://anilist.co/activity/366901845) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1 - 9](https://anilist.co/activity/366897281) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [paused watching 5](https://anilist.co/activity/366867782) of [Tian Huang](https://anilist.co/anime/122520)
 * [watched episode 28](https://anilist.co/activity/366866115) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
 * [watched episode 1 - 16](https://anilist.co/activity/366861129) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 9](https://anilist.co/activity/366632575) of [Yong Sheng](https://anilist.co/anime/126391)
-* [watched episode 90](https://anilist.co/activity/366435329) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 35](https://anilist.co/activity/366156632) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [watched episode 1 - 19](https://anilist.co/activity/366152952) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 <!-- anilist_activity ends -->
 
 </details>
