@@ -26,7 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 23 - 26](https://anilist.co/activity/368180187) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
+* [watched episode 91](https://anilist.co/activity/368186355) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 23 - 28](https://anilist.co/activity/368184719) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 29](https://anilist.co/activity/368164151) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
 * [watched episode 10](https://anilist.co/activity/368161830) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 11](https://anilist.co/activity/367980960) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 44](https://anilist.co/activity/367285661) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 20 - 21](https://anilist.co/activity/367283586) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 11](https://anilist.co/activity/367283425) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
-* [watched episode 11](https://anilist.co/activity/367283415) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 <!-- anilist_activity ends -->
 
 </details>
