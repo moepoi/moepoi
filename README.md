@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/368921754) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [completed None](https://anilist.co/activity/368913410) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
 * [plans to watch None](https://anilist.co/activity/368902042) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
 * [watched episode 29](https://anilist.co/activity/368901602) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/368849844) of [Xue Ying Lingzhu 2](https://anilist.co/anime/122654)
 * [watched episode 1 - 21](https://anilist.co/activity/368849823) of [Xue Ying Lingzhu 2](https://anilist.co/anime/122654)
 * [plans to watch None](https://anilist.co/activity/368705826) of [Xue Ying Lingzhu 2](https://anilist.co/anime/122654)
-* [completed None](https://anilist.co/activity/368705767) of [Xue Ying Lingzhu: Qiyu Pian](https://anilist.co/anime/114562)
 <!-- anilist_activity ends -->
 
 </details>
