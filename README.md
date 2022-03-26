@@ -26,6 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/368849844) of [Xue Ying Lingzhu 2](https://anilist.co/anime/122654)
+* [watched episode 1 - 21](https://anilist.co/activity/368849823) of [Xue Ying Lingzhu 2](https://anilist.co/anime/122654)
 * [plans to watch None](https://anilist.co/activity/368705826) of [Xue Ying Lingzhu 2](https://anilist.co/anime/122654)
 * [completed None](https://anilist.co/activity/368705767) of [Xue Ying Lingzhu: Qiyu Pian](https://anilist.co/anime/114562)
 * [watched episode 1 - 3](https://anilist.co/activity/368705755) of [Xue Ying Lingzhu: Qiyu Pian](https://anilist.co/anime/114562)
@@ -34,8 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 165](https://anilist.co/activity/368204188) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 91](https://anilist.co/activity/368186355) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 23 - 28](https://anilist.co/activity/368184719) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
-* [watched episode 29](https://anilist.co/activity/368164151) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
-* [watched episode 10](https://anilist.co/activity/368161830) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 <!-- anilist_activity ends -->
 
 </details>
