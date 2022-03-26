@@ -26,16 +26,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [plans to watch None](https://anilist.co/activity/368921754) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
-* [completed None](https://anilist.co/activity/368913410) of [Shikkakumon no Saikyou Kenja](https://anilist.co/anime/129191)
-* [plans to watch None](https://anilist.co/activity/368902042) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
-* [watched episode 29](https://anilist.co/activity/368901602) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
-* [watched episode 22](https://anilist.co/activity/368901585) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
-* [watched episode 17](https://anilist.co/activity/368901557) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 45](https://anilist.co/activity/368887086) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [completed None](https://anilist.co/activity/368849844) of [Xue Ying Lingzhu 2](https://anilist.co/anime/122654)
-* [watched episode 1 - 21](https://anilist.co/activity/368849823) of [Xue Ying Lingzhu 2](https://anilist.co/anime/122654)
-* [plans to watch None](https://anilist.co/activity/368705826) of [Xue Ying Lingzhu 2](https://anilist.co/anime/122654)
+* [plans to watch None](https://anilist.co/activity/368928671) of [Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season](https://anilist.co/anime/146065)
+* [plans to watch None](https://anilist.co/activity/368927834) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
+* [plans to watch None](https://anilist.co/activity/368927493) of [Mato Seihei no Slave](https://anilist.co/anime/141821)
+* [plans to watch None](https://anilist.co/activity/368927131) of [Peter Grill to Kenja no Jikan 2](https://anilist.co/anime/141400)
+* [plans to watch None](https://anilist.co/activity/368926912) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
+* [plans to watch None](https://anilist.co/activity/368926318) of [FAIRY TAIL: 100 YEARS QUEST](https://anilist.co/anime/139095)
+* [plans to watch None](https://anilist.co/activity/368925895) of [Tsuki ga Michibiku Isekai Douchuu 2](https://anilist.co/anime/139518)
+* [plans to watch None](https://anilist.co/activity/368925762) of [Bungou Stray Dogs 4](https://anilist.co/anime/141249)
+* [plans to watch None](https://anilist.co/activity/368925429) of [Tonikaku Kawaii 2](https://anilist.co/anime/141208)
+* [plans to watch None](https://anilist.co/activity/368925248) of [Dr. STONE 3rd Season](https://anilist.co/anime/131518)
 <!-- anilist_activity ends -->
 
 </details>
