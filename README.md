@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/368926318) of [FAIRY TAIL: 100 YEARS QUEST](https://anilist.co/anime/139095)
 * [plans to watch None](https://anilist.co/activity/368925895) of [Tsuki ga Michibiku Isekai Douchuu 2](https://anilist.co/anime/139518)
 * [plans to watch None](https://anilist.co/activity/368925762) of [Bungou Stray Dogs 4](https://anilist.co/anime/141249)
-* [plans to watch None](https://anilist.co/activity/368925429) of [Tonikaku Kawaii 2](https://anilist.co/anime/141208)
 <!-- anilist_activity ends -->
 
 </details>
