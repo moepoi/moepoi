@@ -33,7 +33,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/368927493) of [Mato Seihei no Slave](https://anilist.co/anime/141821)
 * [plans to watch None](https://anilist.co/activity/368927131) of [Peter Grill to Kenja no Jikan 2](https://anilist.co/anime/141400)
 * [plans to watch None](https://anilist.co/activity/368926912) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
-* [plans to watch None](https://anilist.co/activity/368926318) of [FAIRY TAIL: 100 YEARS QUEST](https://anilist.co/anime/139095)
 <!-- anilist_activity ends -->
 
 </details>
