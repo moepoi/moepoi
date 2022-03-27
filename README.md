@@ -35,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/368925895) of [Tsuki ga Michibiku Isekai Douchuu 2](https://anilist.co/anime/139518)
 * [plans to watch None](https://anilist.co/activity/368925762) of [Bungou Stray Dogs 4](https://anilist.co/anime/141249)
 * [plans to watch None](https://anilist.co/activity/368925429) of [Tonikaku Kawaii 2](https://anilist.co/anime/141208)
-* [plans to watch None](https://anilist.co/activity/368925248) of [Dr. STONE 3rd Season](https://anilist.co/anime/131518)
 <!-- anilist_activity ends -->
 
 </details>
