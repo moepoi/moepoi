@@ -29,7 +29,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 37](https://anilist.co/activity/369228340) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 12](https://anilist.co/activity/369224123) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [completed None](https://anilist.co/activity/369175497) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
-* [watched episode 217](https://anilist.co/activity/369168031) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
