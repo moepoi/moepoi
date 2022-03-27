@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/369175497) of [Sono Bisque Doll wa Koi wo Suru](https://anilist.co/anime/132405)
 * [watched episode 217](https://anilist.co/activity/369168031) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [plans to watch None](https://anilist.co/activity/368928671) of [Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season](https://anilist.co/anime/146065)
 * [plans to watch None](https://anilist.co/activity/368927834) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
@@ -33,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/368927131) of [Peter Grill to Kenja no Jikan 2](https://anilist.co/anime/141400)
 * [plans to watch None](https://anilist.co/activity/368926912) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
 * [plans to watch None](https://anilist.co/activity/368926318) of [FAIRY TAIL: 100 YEARS QUEST](https://anilist.co/anime/139095)
-* [plans to watch None](https://anilist.co/activity/368925895) of [Tsuki ga Michibiku Isekai Douchuu 2](https://anilist.co/anime/139518)
 <!-- anilist_activity ends -->
 
 </details>
