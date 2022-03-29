@@ -30,7 +30,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 218](https://anilist.co/activity/370319432) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 166](https://anilist.co/activity/370319416) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 1 - 13](https://anilist.co/activity/369994515) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
-* [watched episode 1 - 10](https://anilist.co/activity/369942494) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 <!-- anilist_activity ends -->
 
 </details>
