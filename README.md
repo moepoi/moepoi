@@ -29,7 +29,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 13](https://anilist.co/activity/369994515) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 1 - 10](https://anilist.co/activity/369942494) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 10](https://anilist.co/activity/369905508) of [Yong Sheng](https://anilist.co/anime/126391)
-* [watched episode 30](https://anilist.co/activity/369787421) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
 <!-- anilist_activity ends -->
 
 </details>
