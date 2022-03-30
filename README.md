@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/370700310) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 * [watched episode 30](https://anilist.co/activity/370322702) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 218](https://anilist.co/activity/370319432) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 166](https://anilist.co/activity/370319416) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
