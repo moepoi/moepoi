@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/371171123) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [completed None](https://anilist.co/activity/371153067) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 * [watched episode 10](https://anilist.co/activity/371153060) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 * [watched episode 47](https://anilist.co/activity/371134790) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
