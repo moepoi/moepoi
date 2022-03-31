@@ -26,8 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/371110486) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
 * [plans to watch None](https://anilist.co/activity/371104850) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
-* [watched episode 38](https://anilist.co/activity/370709532) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 <!-- anilist_activity ends -->
 
 </details>
