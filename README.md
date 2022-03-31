@@ -29,7 +29,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/371172947) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 * [plans to watch None](https://anilist.co/activity/371171123) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [completed None](https://anilist.co/activity/371153067) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
-* [watched episode 10](https://anilist.co/activity/371153060) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 <!-- anilist_activity ends -->
 
 </details>
