@@ -29,7 +29,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 38](https://anilist.co/activity/370709532) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [watched episode 46](https://anilist.co/activity/370709512) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 23](https://anilist.co/activity/370709482) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
-* [completed None](https://anilist.co/activity/370700310) of [Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/anime/129190)
 <!-- anilist_activity ends -->
 
 </details>
