@@ -31,7 +31,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/371153067) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 * [watched episode 10](https://anilist.co/activity/371153060) of [Shuumatsu no Harem](https://anilist.co/anime/118465)
 * [watched episode 47](https://anilist.co/activity/371134790) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
-* [completed None](https://anilist.co/activity/371110486) of [Fantasy Bishoujo Juniku Ojisan to](https://anilist.co/anime/134252)
 <!-- anilist_activity ends -->
 
 </details>
