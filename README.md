@@ -26,8 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [plans to watch None](https://anilist.co/activity/371172947) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
-* [plans to watch None](https://anilist.co/activity/371171123) of [SPY×FAMILY](https://anilist.co/anime/140960)
+* [completed None](https://anilist.co/activity/371493941) of [Arifureta Shokugyou de Sekai Saikyou 2nd season](https://anilist.co/anime/112323)
 <!-- anilist_activity ends -->
 
 </details>
