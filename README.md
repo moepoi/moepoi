@@ -26,6 +26,10 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/371967375) of [Zhu Tian Ji](https://anilist.co/anime/129243)
+* [watched episode 167](https://anilist.co/activity/371967358) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 93](https://anilist.co/activity/371967343) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 31](https://anilist.co/activity/371967334) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
 * [plans to watch None](https://anilist.co/activity/371954490) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
 <!-- anilist_activity ends -->
 
