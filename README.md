@@ -30,8 +30,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/372733050) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 * [watched episode 219](https://anilist.co/activity/372501516) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1 - 26](https://anilist.co/activity/372489335) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
-* [completed None](https://anilist.co/activity/372489134) of [Wanmei Shijie](https://anilist.co/anime/120218)
-* [watched episode 1 - 25](https://anilist.co/activity/372489116) of [Wanmei Shijie](https://anilist.co/anime/120218)
 <!-- anilist_activity ends -->
 
 </details>
