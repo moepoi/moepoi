@@ -32,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/372187906) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 48](https://anilist.co/activity/372180233) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [watched episode 24](https://anilist.co/activity/372178688) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
-* [watched episode 18](https://anilist.co/activity/372172387) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 <!-- anilist_activity ends -->
 
 </details>
