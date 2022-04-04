@@ -26,6 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/373063958) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
+* [watched episode 11](https://anilist.co/activity/373063946) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 * [watched episode 39](https://anilist.co/activity/372737924) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [completed None](https://anilist.co/activity/372733050) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
 <!-- anilist_activity ends -->
