@@ -28,7 +28,6 @@ I'd like to do project that has relation to anime. :ghost:
 <!-- anilist_activity starts -->
 * [watched episode 39](https://anilist.co/activity/372737924) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [completed None](https://anilist.co/activity/372733050) of [Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2](https://anilist.co/anime/139648)
-* [watched episode 219](https://anilist.co/activity/372501516) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
