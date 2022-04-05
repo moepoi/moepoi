@@ -26,9 +26,10 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/373619457) of [Tunshi Xingkong](https://anilist.co/anime/117012)
+* [watched episode 1 - 25](https://anilist.co/activity/373619435) of [Tunshi Xingkong](https://anilist.co/anime/117012)
 * [watched episode 168](https://anilist.co/activity/373532460) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 220](https://anilist.co/activity/373532434) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [plans to watch None](https://anilist.co/activity/373112065) of [Shingeki no Kyojin: The Final Season Kanketsu-hen](https://anilist.co/anime/146984)
 <!-- anilist_activity ends -->
 
 </details>
