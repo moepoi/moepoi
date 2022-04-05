@@ -29,7 +29,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/373112065) of [Shingeki no Kyojin: The Final Season Kanketsu-hen](https://anilist.co/anime/146984)
 * [watched episode 32](https://anilist.co/activity/373069416) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
 * [watched episode 94](https://anilist.co/activity/373066808) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [completed None](https://anilist.co/activity/373063958) of [Shingeki no Kyojin: The Final Season Part 2](https://anilist.co/anime/131681)
 <!-- anilist_activity ends -->
 
 </details>
