@@ -31,7 +31,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 25](https://anilist.co/activity/373664976) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 32](https://anilist.co/activity/373649152) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [completed None](https://anilist.co/activity/373619457) of [Tunshi Xingkong](https://anilist.co/anime/117012)
-* [watched episode 1 - 25](https://anilist.co/activity/373619435) of [Tunshi Xingkong](https://anilist.co/anime/117012)
 <!-- anilist_activity ends -->
 
 </details>
