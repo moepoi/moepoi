@@ -26,9 +26,10 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/374037011) of [Jiu Tian Xuan Di Jue](https://anilist.co/anime/133774)
+* [watched episode 1 - 39](https://anilist.co/activity/374036990) of [Jiu Tian Xuan Di Jue](https://anilist.co/anime/133774)
 * [watched episode 48](https://anilist.co/activity/373983040) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 1 - 12](https://anilist.co/activity/373722709) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
-* [watched episode 168](https://anilist.co/activity/373665911) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
