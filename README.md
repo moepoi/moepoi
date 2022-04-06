@@ -26,6 +26,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/374166202) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
+* [completed None](https://anilist.co/activity/374166155) of [Dou Po Cangqiong: San Nian Zhi Yue](https://anilist.co/anime/137729)
 * [watched episode 1](https://anilist.co/activity/374146439) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 1 - 4](https://anilist.co/activity/374136754) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 * [watched episode 1](https://anilist.co/activity/374122083) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
@@ -34,8 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/374046691) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 * [plans to watch None](https://anilist.co/activity/374041542) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 * [completed None](https://anilist.co/activity/374041358) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
-* [completed None](https://anilist.co/activity/374037011) of [Jiu Tian Xuan Di Jue](https://anilist.co/anime/133774)
-* [watched episode 1 - 39](https://anilist.co/activity/374036990) of [Jiu Tian Xuan Di Jue](https://anilist.co/anime/133774)
 <!-- anilist_activity ends -->
 
 </details>
