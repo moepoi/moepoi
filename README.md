@@ -29,7 +29,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 12](https://anilist.co/activity/373722709) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 * [watched episode 168](https://anilist.co/activity/373665911) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 25](https://anilist.co/activity/373664976) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
-* [watched episode 32](https://anilist.co/activity/373649152) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 <!-- anilist_activity ends -->
 
 </details>
