@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/374249181) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [plans to watch None](https://anilist.co/activity/374166202) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [completed None](https://anilist.co/activity/374166155) of [Dou Po Cangqiong: San Nian Zhi Yue](https://anilist.co/anime/137729)
 * [watched episode 1](https://anilist.co/activity/374146439) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 49](https://anilist.co/activity/374059943) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [plans to watch None](https://anilist.co/activity/374046691) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 * [plans to watch None](https://anilist.co/activity/374041542) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
-* [completed None](https://anilist.co/activity/374041358) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 <!-- anilist_activity ends -->
 
 </details>
