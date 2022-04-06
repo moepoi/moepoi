@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/374046691) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 * [plans to watch None](https://anilist.co/activity/374041542) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 * [completed None](https://anilist.co/activity/374041358) of [Jian Yu Chuanqi](https://anilist.co/anime/142178)
 * [completed None](https://anilist.co/activity/374037011) of [Jiu Tian Xuan Di Jue](https://anilist.co/anime/133774)
