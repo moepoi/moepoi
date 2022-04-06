@@ -35,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/374114931) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 49](https://anilist.co/activity/374059943) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [plans to watch None](https://anilist.co/activity/374046691) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
-* [plans to watch None](https://anilist.co/activity/374041542) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 <!-- anilist_activity ends -->
 
 </details>
