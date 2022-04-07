@@ -30,7 +30,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 16](https://anilist.co/activity/374578298) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 12](https://anilist.co/activity/374573924) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 50](https://anilist.co/activity/374570186) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
-* [completed None](https://anilist.co/activity/374430784) of [Si Hai Jing Qi](https://anilist.co/anime/107909)
 <!-- anilist_activity ends -->
 
 </details>
