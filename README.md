@@ -26,12 +26,12 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/374430784) of [Si Hai Jing Qi](https://anilist.co/anime/107909)
+* [watched episode 1 - 11](https://anilist.co/activity/374430761) of [Si Hai Jing Qi](https://anilist.co/anime/107909)
 * [plans to watch None](https://anilist.co/activity/374374703) of [Da Zhuzai (2022)](https://anilist.co/anime/134088)
 * [watched episode 1](https://anilist.co/activity/374249181) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [plans to watch None](https://anilist.co/activity/374166202) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [completed None](https://anilist.co/activity/374166155) of [Dou Po Cangqiong: San Nian Zhi Yue](https://anilist.co/anime/137729)
-* [watched episode 1](https://anilist.co/activity/374146439) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
-* [watched episode 1 - 4](https://anilist.co/activity/374136754) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 <!-- anilist_activity ends -->
 
 </details>
