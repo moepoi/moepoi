@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/374842395) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
 * [watched episode 1](https://anilist.co/activity/374624990) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 * [watched episode 16](https://anilist.co/activity/374578298) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 12](https://anilist.co/activity/374573924) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
