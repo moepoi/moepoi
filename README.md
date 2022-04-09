@@ -26,13 +26,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/375355373) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
+* [completed None](https://anilist.co/activity/375355239) of [Douluo Dalu: Xiaowu Fuhuo](https://anilist.co/anime/141802)
+* [watched episode 49](https://anilist.co/activity/375353828) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 1](https://anilist.co/activity/375307972) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 169](https://anilist.co/activity/375009066) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 95](https://anilist.co/activity/374930659) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 12](https://anilist.co/activity/374922121) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 27](https://anilist.co/activity/374916317) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
-* [watched episode 33](https://anilist.co/activity/374899418) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
-* [watched episode 1](https://anilist.co/activity/374842395) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
 <!-- anilist_activity ends -->
 
 </details>
