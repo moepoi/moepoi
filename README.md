@@ -29,7 +29,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 19](https://anilist.co/activity/375445132) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 17](https://anilist.co/activity/375357908) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 8](https://anilist.co/activity/375355373) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
-* [completed None](https://anilist.co/activity/375355239) of [Douluo Dalu: Xiaowu Fuhuo](https://anilist.co/anime/141802)
 <!-- anilist_activity ends -->
 
 </details>
