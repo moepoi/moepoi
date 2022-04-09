@@ -30,8 +30,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 17](https://anilist.co/activity/375357908) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 8](https://anilist.co/activity/375355373) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
 * [completed None](https://anilist.co/activity/375355239) of [Douluo Dalu: Xiaowu Fuhuo](https://anilist.co/anime/141802)
-* [watched episode 49](https://anilist.co/activity/375353828) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 1](https://anilist.co/activity/375307972) of [Date A Live IV](https://anilist.co/anime/116605)
 <!-- anilist_activity ends -->
 
 </details>
