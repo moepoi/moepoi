@@ -33,7 +33,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 49](https://anilist.co/activity/375353828) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 1](https://anilist.co/activity/375307972) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 169](https://anilist.co/activity/375009066) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 95](https://anilist.co/activity/374930659) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
