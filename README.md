@@ -26,8 +26,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 26](https://anilist.co/activity/375983126) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
+* [watched episode 5](https://anilist.co/activity/375979382) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 * [watched episode 221](https://anilist.co/activity/375960898) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 19](https://anilist.co/activity/375445132) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 <!-- anilist_activity ends -->
 
 </details>
