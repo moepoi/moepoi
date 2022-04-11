@@ -26,9 +26,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/376568447) of [Yong Sheng](https://anilist.co/anime/126391)
 * [watched episode 1](https://anilist.co/activity/376557711) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
 * [watched episode 96](https://anilist.co/activity/376551935) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 33](https://anilist.co/activity/375989950) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 <!-- anilist_activity ends -->
 
 </details>
