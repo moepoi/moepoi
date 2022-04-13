@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/377820334) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 2](https://anilist.co/activity/377800879) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [watched episode 1](https://anilist.co/activity/377591925) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 1](https://anilist.co/activity/377583903) of [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://anilist.co/anime/125367)
