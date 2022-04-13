@@ -26,10 +26,10 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/377479594) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 50](https://anilist.co/activity/377473051) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 27](https://anilist.co/activity/377446556) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 222](https://anilist.co/activity/377055462) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 170](https://anilist.co/activity/377055317) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
