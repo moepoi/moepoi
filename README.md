@@ -26,10 +26,11 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 97](https://anilist.co/activity/378490805) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 28](https://anilist.co/activity/378488733) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 52](https://anilist.co/activity/378407944) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [watched episode 18](https://anilist.co/activity/378372803) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 2](https://anilist.co/activity/378189068) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
-* [watched episode 1 - 2](https://anilist.co/activity/377955813) of [Strike the Blood FINAL](https://anilist.co/anime/136226)
 <!-- anilist_activity ends -->
 
 </details>
