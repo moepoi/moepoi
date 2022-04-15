@@ -32,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 28](https://anilist.co/activity/378488733) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 52](https://anilist.co/activity/378407944) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [watched episode 18](https://anilist.co/activity/378372803) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
-* [watched episode 2](https://anilist.co/activity/378189068) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 <!-- anilist_activity ends -->
 
 </details>
