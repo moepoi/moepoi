@@ -26,13 +26,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 18 - 19](https://anilist.co/activity/378715417) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 13](https://anilist.co/activity/378709496) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 2](https://anilist.co/activity/378702787) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 171](https://anilist.co/activity/378538653) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 35](https://anilist.co/activity/378534980) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
 * [watched episode 97](https://anilist.co/activity/378490805) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 28](https://anilist.co/activity/378488733) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
-* [watched episode 52](https://anilist.co/activity/378407944) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 <!-- anilist_activity ends -->
 
 </details>
