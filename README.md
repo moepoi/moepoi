@@ -32,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/378948306) of [Isekai wa Smartphone to Tomo ni. 2nd Season](https://anilist.co/anime/147571)
 * [watched episode 18 - 19](https://anilist.co/activity/378715417) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 13](https://anilist.co/activity/378709496) of [Zhu Tian Ji](https://anilist.co/anime/129243)
-* [watched episode 2](https://anilist.co/activity/378702787) of [Date A Live IV](https://anilist.co/anime/116605)
 <!-- anilist_activity ends -->
 
 </details>
