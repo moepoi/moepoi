@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/379095457) of [Macross Frontier](https://anilist.co/anime/3572)
 * [watched episode 2](https://anilist.co/activity/378982220) of [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://anilist.co/anime/125367)
 * [watched episode 9](https://anilist.co/activity/378974600) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
 * [plans to watch None](https://anilist.co/activity/378948306) of [Isekai wa Smartphone to Tomo ni. 2nd Season](https://anilist.co/anime/147571)
