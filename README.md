@@ -29,7 +29,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 223](https://anilist.co/activity/379546594) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [plans to watch None](https://anilist.co/activity/379542894) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 2](https://anilist.co/activity/379521384) of [SPY×FAMILY](https://anilist.co/anime/140960)
-* [watched episode 20](https://anilist.co/activity/379195743) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 <!-- anilist_activity ends -->
 
 </details>
