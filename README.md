@@ -31,7 +31,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/379521384) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 20](https://anilist.co/activity/379195743) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 51](https://anilist.co/activity/379189297) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [completed None](https://anilist.co/activity/379095457) of [Macross Frontier](https://anilist.co/anime/3572)
 <!-- anilist_activity ends -->
 
 </details>
