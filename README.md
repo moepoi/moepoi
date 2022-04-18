@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/380050228) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 * [watched episode 223](https://anilist.co/activity/379546594) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [plans to watch None](https://anilist.co/activity/379542894) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 2](https://anilist.co/activity/379521384) of [SPY×FAMILY](https://anilist.co/anime/140960)
