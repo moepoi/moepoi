@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/380109597) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 * [watched episode 2](https://anilist.co/activity/380105766) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 98](https://anilist.co/activity/380098119) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 2](https://anilist.co/activity/380096283) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
@@ -81,6 +82,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:girl: List Favorites Characters</summary>
   
 <!-- favorites_characters starts -->
+* [Yor Forger](https://anilist.co/character/138102)
 * [Celia Claire](https://anilist.co/character/161678)
 * [Sayu Ogiwara](https://anilist.co/character/127925)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
@@ -95,7 +97,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
 * [Amalie](https://anilist.co/character/175297)
 * [Haruno Yukinoshita](https://anilist.co/character/79589)
-* [Misha Necron](https://anilist.co/character/138596)
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
 * [Miyuki Shiba](https://anilist.co/character/55741)
