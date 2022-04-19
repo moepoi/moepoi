@@ -31,7 +31,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 28](https://anilist.co/activity/380120101) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 6](https://anilist.co/activity/380109597) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 * [watched episode 2](https://anilist.co/activity/380105766) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
-* [watched episode 98](https://anilist.co/activity/380098119) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
