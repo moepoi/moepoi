@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 53 - 54](https://anilist.co/activity/381263856) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [watched episode 3](https://anilist.co/activity/381252360) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 2 - 3](https://anilist.co/activity/381127657) of [Xinghe Zhizun 2](https://anilist.co/anime/146541)
 * [completed None](https://anilist.co/activity/381127120) of [Xinghe Zhizun](https://anilist.co/anime/129239)
@@ -33,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 36](https://anilist.co/activity/381116948) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 29](https://anilist.co/activity/381113951) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [completed None](https://anilist.co/activity/381108785) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 107 - 200](https://anilist.co/activity/381105698) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
