@@ -33,7 +33,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/381543152) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [watched episode 53 - 54](https://anilist.co/activity/381263856) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [watched episode 3](https://anilist.co/activity/381252360) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
-* [watched episode 2 - 3](https://anilist.co/activity/381127657) of [Xinghe Zhizun 2](https://anilist.co/anime/146541)
 <!-- anilist_activity ends -->
 
 </details>
