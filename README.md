@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 86](https://anilist.co/activity/382113245) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 37](https://anilist.co/activity/382056763) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
 * [watched episode 14](https://anilist.co/activity/382054387) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 29](https://anilist.co/activity/382050314) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
@@ -34,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 20](https://anilist.co/activity/381650889) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 107 - 201](https://anilist.co/activity/381575561) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 3](https://anilist.co/activity/381543152) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
-* [watched episode 53 - 54](https://anilist.co/activity/381263856) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 <!-- anilist_activity ends -->
 
 </details>
