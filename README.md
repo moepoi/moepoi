@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 13](https://anilist.co/activity/381877052) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 20](https://anilist.co/activity/381650889) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 107 - 201](https://anilist.co/activity/381575561) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 3](https://anilist.co/activity/381543152) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 <!-- anilist_activity ends -->
 
 </details>
