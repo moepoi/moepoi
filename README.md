@@ -33,7 +33,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 14](https://anilist.co/activity/382054387) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 29](https://anilist.co/activity/382050314) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 3](https://anilist.co/activity/381886670) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
-* [watched episode 13](https://anilist.co/activity/381877052) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 <!-- anilist_activity ends -->
 
 </details>
