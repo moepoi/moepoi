@@ -31,7 +31,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/382622611) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
 * [watched episode 21](https://anilist.co/activity/382588490) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 173](https://anilist.co/activity/382138900) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 99](https://anilist.co/activity/382136873) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
