@@ -26,12 +26,12 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/383126087) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
 * [watched episode 21](https://anilist.co/activity/383096435) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 225](https://anilist.co/activity/383093531) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 3](https://anilist.co/activity/383091792) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 30](https://anilist.co/activity/383017583) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 46 - 70](https://anilist.co/activity/382822303) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
-* [watched episode 3](https://anilist.co/activity/382634182) of [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://anilist.co/anime/125367)
 <!-- anilist_activity ends -->
 
 </details>
