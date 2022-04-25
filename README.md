@@ -33,7 +33,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 21](https://anilist.co/activity/383096435) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 225](https://anilist.co/activity/383093531) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 3](https://anilist.co/activity/383091792) of [SPY×FAMILY](https://anilist.co/anime/140960)
-* [watched episode 30](https://anilist.co/activity/383017583) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 <!-- anilist_activity ends -->
 
 </details>
