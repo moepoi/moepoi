@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 55](https://anilist.co/activity/384590963) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [watched episode 54](https://anilist.co/activity/384585599) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 4](https://anilist.co/activity/384422820) of [Xinghe Zhizun 2](https://anilist.co/anime/146541)
 * [watched episode 31](https://anilist.co/activity/384419834) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
@@ -35,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 174](https://anilist.co/activity/384378410) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 226](https://anilist.co/activity/384378349) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 202](https://anilist.co/activity/384101811) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 37](https://anilist.co/activity/384099273) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 <!-- anilist_activity ends -->
 
 </details>
