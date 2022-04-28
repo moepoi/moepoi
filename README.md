@@ -33,8 +33,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4](https://anilist.co/activity/384422820) of [Xinghe Zhizun 2](https://anilist.co/anime/146541)
 * [watched episode 31](https://anilist.co/activity/384419834) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 3](https://anilist.co/activity/384413956) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
-* [watched episode 3](https://anilist.co/activity/384398808) of [Date A Live IV](https://anilist.co/anime/116605)
-* [watched episode 4](https://anilist.co/activity/384389630) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 <!-- anilist_activity ends -->
 
 </details>
