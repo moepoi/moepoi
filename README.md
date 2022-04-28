@@ -32,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 54](https://anilist.co/activity/384585599) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 4](https://anilist.co/activity/384422820) of [Xinghe Zhizun 2](https://anilist.co/anime/146541)
 * [watched episode 31](https://anilist.co/activity/384419834) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
-* [watched episode 3](https://anilist.co/activity/384413956) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 <!-- anilist_activity ends -->
 
 </details>
