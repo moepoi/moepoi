@@ -33,7 +33,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 30](https://anilist.co/activity/385467183) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 1 - 2](https://anilist.co/activity/385298477) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 14](https://anilist.co/activity/385245726) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
-* [watched episode 38](https://anilist.co/activity/385240751) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 <!-- anilist_activity ends -->
 
 </details>
