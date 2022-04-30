@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/386115318) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 32](https://anilist.co/activity/386100914) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 11](https://anilist.co/activity/385978064) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
 * [watched episode 22](https://anilist.co/activity/385932507) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
@@ -81,6 +82,7 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- favorites_characters starts -->
 * [Yor Forger](https://anilist.co/character/138102)
+* [Mukuro Hoshimiya](https://anilist.co/character/157109)
 * [Celia Claire](https://anilist.co/character/161678)
 * [Sayu Ogiwara](https://anilist.co/character/127925)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
@@ -89,7 +91,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Nagisa Minase](https://anilist.co/character/162885)
 * [Ruka Sarashina](https://anilist.co/character/147005)
 * [Ravel Phenex](https://anilist.co/character/58341)
-* [Le Fay Pendragon](https://anilist.co/character/79663)
 * [Ziyu Zhou](https://anilist.co/character/234726)
 * [Yuuko Yoshida](https://anilist.co/character/141461)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
