@@ -32,7 +32,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 88](https://anilist.co/activity/385617765) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 15](https://anilist.co/activity/385479388) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 39](https://anilist.co/activity/385475081) of [Zhenwu Dianfeng](https://anilist.co/anime/133787)
-* [watched episode 175](https://anilist.co/activity/385472063) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
