@@ -81,8 +81,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:girl: List Favorites Characters</summary>
   
 <!-- favorites_characters starts -->
-* [Yor Forger](https://anilist.co/character/138102)
 * [Mukuro Hoshimiya](https://anilist.co/character/157109)
+* [Yor Forger](https://anilist.co/character/138102)
 * [Celia Claire](https://anilist.co/character/161678)
 * [Sayu Ogiwara](https://anilist.co/character/127925)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
