@@ -31,7 +31,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 32](https://anilist.co/activity/386100914) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 11](https://anilist.co/activity/385978064) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
 * [watched episode 22](https://anilist.co/activity/385932507) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 55](https://anilist.co/activity/385928950) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
