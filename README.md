@@ -30,7 +30,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 227](https://anilist.co/activity/386416884) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 4](https://anilist.co/activity/386354636) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 2](https://anilist.co/activity/386281321) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
-* [watched episode 4](https://anilist.co/activity/386115318) of [Date A Live IV](https://anilist.co/anime/116605)
 <!-- anilist_activity ends -->
 
 </details>
