@@ -26,12 +26,12 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/386281321) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 4](https://anilist.co/activity/386115318) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 32](https://anilist.co/activity/386100914) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 11](https://anilist.co/activity/385978064) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
 * [watched episode 22](https://anilist.co/activity/385932507) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 55](https://anilist.co/activity/385928950) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 88](https://anilist.co/activity/385617765) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
