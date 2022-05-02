@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 89](https://anilist.co/activity/386985633) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 5](https://anilist.co/activity/386758577) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 * [watched episode 1 - 2](https://anilist.co/activity/386473265) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
 * [watched episode 227](https://anilist.co/activity/386416884) of [Wushen Zhuzai](https://anilist.co/anime/117168)
