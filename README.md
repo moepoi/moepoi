@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/387543842) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 3](https://anilist.co/activity/387535485) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 204](https://anilist.co/activity/387473790) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 228](https://anilist.co/activity/387468877) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
