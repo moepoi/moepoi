@@ -33,7 +33,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 39 - 40](https://anilist.co/activity/388472592) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 205](https://anilist.co/activity/388463818) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 5](https://anilist.co/activity/388458775) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
-* [watched episode 57 - 58](https://anilist.co/activity/388188921) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 <!-- anilist_activity ends -->
 
 </details>
