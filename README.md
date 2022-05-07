@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 23 - 25](https://anilist.co/activity/389190634) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 57](https://anilist.co/activity/389102545) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 12](https://anilist.co/activity/389100699) of [Douluo Dalu: Feng Qi Tang Men](https://anilist.co/anime/145210)
 * [watched episode 90](https://anilist.co/activity/389037254) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
@@ -33,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 103](https://anilist.co/activity/388727879) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 177](https://anilist.co/activity/388726602) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 31](https://anilist.co/activity/388723891) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
-* [watched episode 1 - 4](https://anilist.co/activity/388504103) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 <!-- anilist_activity ends -->
 
 </details>
