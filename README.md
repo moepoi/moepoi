@@ -26,13 +26,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 90](https://anilist.co/activity/389037254) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [watched episode 16](https://anilist.co/activity/389033995) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 103](https://anilist.co/activity/388727879) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 177](https://anilist.co/activity/388726602) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 31](https://anilist.co/activity/388723891) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 1 - 4](https://anilist.co/activity/388504103) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 39 - 40](https://anilist.co/activity/388472592) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 205](https://anilist.co/activity/388463818) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 5](https://anilist.co/activity/388458775) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 <!-- anilist_activity ends -->
 
 </details>
