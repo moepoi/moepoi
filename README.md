@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/390113513) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 41](https://anilist.co/activity/390070277) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 6](https://anilist.co/activity/390036251) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 * [watched episode 4 - 5](https://anilist.co/activity/389778259) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
@@ -33,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 34](https://anilist.co/activity/389768955) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 229](https://anilist.co/activity/389656402) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 3](https://anilist.co/activity/389653756) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
-* [watched episode 5](https://anilist.co/activity/389536414) of [SPY×FAMILY](https://anilist.co/anime/140960)
 <!-- anilist_activity ends -->
 
 </details>
