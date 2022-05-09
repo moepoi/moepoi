@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 41](https://anilist.co/activity/390070277) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 6](https://anilist.co/activity/390036251) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 * [watched episode 4 - 5](https://anilist.co/activity/389778259) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
-* [watched episode 9](https://anilist.co/activity/389772867) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 <!-- anilist_activity ends -->
 
 </details>
