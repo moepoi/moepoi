@@ -33,7 +33,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 11](https://anilist.co/activity/390564035) of [Zi Chuan](https://anilist.co/anime/118201)
 * [watched episode 1 - 3](https://anilist.co/activity/390461640) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 206](https://anilist.co/activity/390226001) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 91](https://anilist.co/activity/390223130) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
