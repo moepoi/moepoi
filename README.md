@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 206](https://anilist.co/activity/390226001) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 91](https://anilist.co/activity/390223130) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 4 - 5](https://anilist.co/activity/390136141) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
-* [watched episode 104](https://anilist.co/activity/390116935) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
