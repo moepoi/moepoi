@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/391500058) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [watched episode 5](https://anilist.co/activity/391415070) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 59](https://anilist.co/activity/391267249) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [watched episode 6](https://anilist.co/activity/391264181) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
