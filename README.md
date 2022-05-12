@@ -26,6 +26,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 16](https://anilist.co/activity/391600941) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
+* [watched episode 42](https://anilist.co/activity/391594270) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
+* [watched episode 6](https://anilist.co/activity/391589186) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 * [watched episode 207](https://anilist.co/activity/391502409) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/391500058) of [Renjian Zui Deyi](https://anilist.co/anime/137678)
 * [watched episode 5](https://anilist.co/activity/391415070) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
@@ -33,7 +36,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/391264181) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [watched episode 6](https://anilist.co/activity/391082600) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 58](https://anilist.co/activity/391063737) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 6](https://anilist.co/activity/390941413) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 <!-- anilist_activity ends -->
 
 </details>
