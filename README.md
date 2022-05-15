@@ -35,7 +35,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/392470879) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 6](https://anilist.co/activity/392419961) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 24](https://anilist.co/activity/392302750) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 59](https://anilist.co/activity/392299395) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
