@@ -34,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/392801807) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
 * [watched episode 231](https://anilist.co/activity/392722887) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 4](https://anilist.co/activity/392709664) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
-* [watched episode 6](https://anilist.co/activity/392638417) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
 <!-- anilist_activity ends -->
 
 </details>
