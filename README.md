@@ -26,6 +26,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/393724803) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 232](https://anilist.co/activity/393721274) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1 - 22](https://anilist.co/activity/393324002) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
 * [watched episode 208](https://anilist.co/activity/393253769) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -33,7 +34,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 106](https://anilist.co/activity/393249172) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 7](https://anilist.co/activity/393151952) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 * [completed None](https://anilist.co/activity/392801807) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
-* [watched episode 231](https://anilist.co/activity/392722887) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
