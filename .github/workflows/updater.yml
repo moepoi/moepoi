@@ -32,10 +32,13 @@ jobs:
           python activity_updater.py
           cat README.md
       - name: Commit and push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
         run: |-
           git diff
-          git config --global user.email "kawaii-bot@chizuru.moe"
-          git config --global user.name "Kawaii Bot"
+          git config --global user.email "moe@chocola.dev"
+          git config --global user.name "Moe Poi ~"
           git add -A
           git commit -m "Ara Ara ~" || exit 0
+          git remote set-url --push origin https://moepoi:$GITHUB_TOKEN@github.com/moepoi/moepoi
           git push
