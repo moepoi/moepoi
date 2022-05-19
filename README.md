@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 44](https://anilist.co/activity/394465997) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 7](https://anilist.co/activity/394460531) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [watched episode 7](https://anilist.co/activity/394454737) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
-* [watched episode 60](https://anilist.co/activity/394061193) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
