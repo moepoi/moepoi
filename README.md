@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 28](https://anilist.co/activity/394622306) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [plans to watch None](https://anilist.co/activity/394619625) of [Kono Subarashii Sekai ni Shukufuku wo! (Provisional Title)](https://anilist.co/anime/136804)
 * [watched episode 71 - 72](https://anilist.co/activity/394618949) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
 * [watched episode 209](https://anilist.co/activity/394566269) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/394460531) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [watched episode 7](https://anilist.co/activity/394454737) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 60](https://anilist.co/activity/394061193) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 6](https://anilist.co/activity/394029425) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
 <!-- anilist_activity ends -->
 
 </details>
