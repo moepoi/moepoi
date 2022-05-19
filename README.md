@@ -21,8 +21,11 @@ I'd like to do project that has relation to anime. :ghost:
 - [WhoisBot](https://t.me/WhoisBot)
 - [Moe API](https://beta.moe.team)
 
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
-![Moepoi's github trophy](https://github-profile-trophy.vercel.app/?username=moepoi)
+<details>
+<summary>:trophy: Github Stats</summary>
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi">
+<img src="https://github-profile-trophy.vercel.app/?username=moepoi">
+</details>
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
