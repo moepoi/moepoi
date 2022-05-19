@@ -26,13 +26,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 44](https://anilist.co/activity/394465997) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 7](https://anilist.co/activity/394460531) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [watched episode 7](https://anilist.co/activity/394454737) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 60](https://anilist.co/activity/394061193) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 6](https://anilist.co/activity/394029425) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
 * [watched episode 7](https://anilist.co/activity/394022761) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 37](https://anilist.co/activity/393847466) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
-* [watched episode 5](https://anilist.co/activity/393844726) of [Xun Jian](https://anilist.co/anime/133866)
 <!-- anilist_activity ends -->
 
 </details>
