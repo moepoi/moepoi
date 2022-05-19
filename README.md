@@ -14,6 +14,7 @@ I'd like to do project that has relation to anime. :ghost:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 :star: Here are some projects that I'm working on:
+- [Nekoya](https://github.com/Nekoya-Site)
 - [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)
 - [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)
 - [Nepgear](https://t.me/NepgearBot)
