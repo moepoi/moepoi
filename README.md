@@ -27,6 +27,10 @@ I'd like to do project that has relation to anime. :ghost:
 <img src="https://github-profile-trophy.vercel.app/?username=moepoi">
 </details>
 
+<br>
+
+<img src="https://img.anili.st/user/161753">
+
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
