@@ -29,7 +29,7 @@ I'd like to do project that has relation to anime. :ghost:
 
 <br>
 
-<img src="https://img.anili.st/user/161753">
+<img src="https://img.anili.st/user/161753" width="40%">
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
