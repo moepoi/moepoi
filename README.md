@@ -35,7 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 71](https://anilist.co/activity/394568971) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
+* [plans to watch None](https://anilist.co/activity/394619625) of [Kono Subarashii Sekai ni Shukufuku wo! (Provisional Title)](https://anilist.co/anime/136804)
+* [watched episode 71 - 72](https://anilist.co/activity/394618949) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
 * [watched episode 209](https://anilist.co/activity/394566269) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 6](https://anilist.co/activity/394563516) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 44](https://anilist.co/activity/394465997) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/394454737) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 60](https://anilist.co/activity/394061193) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 6](https://anilist.co/activity/394029425) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
-* [watched episode 7](https://anilist.co/activity/394022761) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 <!-- anilist_activity ends -->
 
 </details>
