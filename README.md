@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 17](https://anilist.co/activity/394895180) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 7](https://anilist.co/activity/394887767) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 * [watched episode 28](https://anilist.co/activity/394622306) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [plans to watch None](https://anilist.co/activity/394619625) of [Kono Subarashii Sekai ni Shukufuku wo! (Provisional Title)](https://anilist.co/anime/136804)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/394563516) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 44](https://anilist.co/activity/394465997) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 7](https://anilist.co/activity/394460531) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
-* [watched episode 7](https://anilist.co/activity/394454737) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 <!-- anilist_activity ends -->
 
 </details>
