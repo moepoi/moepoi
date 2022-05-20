@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/394887767) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 * [watched episode 28](https://anilist.co/activity/394622306) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [plans to watch None](https://anilist.co/activity/394619625) of [Kono Subarashii Sekai ni Shukufuku wo! (Provisional Title)](https://anilist.co/anime/136804)
 * [watched episode 71 - 72](https://anilist.co/activity/394618949) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
