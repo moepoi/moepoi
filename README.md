@@ -42,7 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 4](https://anilist.co/activity/395339390) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
 * [completed None](https://anilist.co/activity/395339338) of [Fanren Xiu Xian Zhuan: Modao Zhengfeng](https://anilist.co/anime/140645)
 * [watched episode 3 - 24](https://anilist.co/activity/395339311) of [Fanren Xiu Xian Zhuan: Modao Zhengfeng](https://anilist.co/anime/140645)
-* [completed None](https://anilist.co/activity/395339040) of [Fanren Xiu Xian Zhuan: Yanjiabao Pu Zhan](https://anilist.co/anime/129202)
 <!-- anilist_activity ends -->
 
 </details>
