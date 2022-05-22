@@ -35,13 +35,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/395894213) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
+* [watched episode 7](https://anilist.co/activity/395894188) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 5](https://anilist.co/activity/395698578) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 38](https://anilist.co/activity/395688310) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 25](https://anilist.co/activity/395684165) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 61](https://anilist.co/activity/395360070) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 1 - 4](https://anilist.co/activity/395339390) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
-* [completed None](https://anilist.co/activity/395339338) of [Fanren Xiu Xian Zhuan: Modao Zhengfeng](https://anilist.co/anime/140645)
-* [watched episode 3 - 24](https://anilist.co/activity/395339311) of [Fanren Xiu Xian Zhuan: Modao Zhengfeng](https://anilist.co/anime/140645)
 <!-- anilist_activity ends -->
 
 </details>
