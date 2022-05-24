@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 182](https://anilist.co/activity/396864827) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 234](https://anilist.co/activity/396862542) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 7](https://anilist.co/activity/396780184) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 7](https://anilist.co/activity/396766782) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 23](https://anilist.co/activity/396420009) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 108](https://anilist.co/activity/396413945) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 210](https://anilist.co/activity/396412458) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 73 - 74](https://anilist.co/activity/396330078) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
-* [watched episode 29](https://anilist.co/activity/396325082) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
-* [watched episode 5](https://anilist.co/activity/396322383) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
 <!-- anilist_activity ends -->
 
 </details>
