@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/396780184) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 7](https://anilist.co/activity/396766782) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 23](https://anilist.co/activity/396420009) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
-* [watched episode 95](https://anilist.co/activity/396416326) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
