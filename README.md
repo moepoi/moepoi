@@ -35,14 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/397469773) of [Dawang Raoming 2](https://anilist.co/anime/146543)
+* [completed None](https://anilist.co/activity/397469565) of [Dawang Raoming](https://anilist.co/anime/120220)
+* [watched episode 1 - 11](https://anilist.co/activity/397469545) of [Dawang Raoming](https://anilist.co/anime/120220)
 * [watched episode 62](https://anilist.co/activity/397292900) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 39](https://anilist.co/activity/396980890) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 6](https://anilist.co/activity/396868404) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 182](https://anilist.co/activity/396864827) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 234](https://anilist.co/activity/396862542) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 7](https://anilist.co/activity/396780184) of [Date A Live IV](https://anilist.co/anime/116605)
-* [watched episode 7](https://anilist.co/activity/396766782) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
-* [watched episode 23](https://anilist.co/activity/396420009) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
 <!-- anilist_activity ends -->
 
 </details>
