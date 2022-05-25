@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/397487430) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [plans to watch None](https://anilist.co/activity/397469773) of [Dawang Raoming 2](https://anilist.co/anime/146543)
 * [completed None](https://anilist.co/activity/397469565) of [Dawang Raoming](https://anilist.co/anime/120220)
 * [watched episode 1 - 11](https://anilist.co/activity/397469545) of [Dawang Raoming](https://anilist.co/anime/120220)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/396868404) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 182](https://anilist.co/activity/396864827) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 234](https://anilist.co/activity/396862542) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 7](https://anilist.co/activity/396780184) of [Date A Live IV](https://anilist.co/anime/116605)
 <!-- anilist_activity ends -->
 
 </details>
