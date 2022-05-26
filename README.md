@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 18](https://anilist.co/activity/397787418) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
+* [watched episode 75 - 76](https://anilist.co/activity/397783827) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
 * [watched episode 211](https://anilist.co/activity/397727026) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 7](https://anilist.co/activity/397710337) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 7](https://anilist.co/activity/397658755) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/397628842) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [watched episode 8](https://anilist.co/activity/397487430) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [plans to watch None](https://anilist.co/activity/397469773) of [Dawang Raoming 2](https://anilist.co/anime/146543)
-* [completed None](https://anilist.co/activity/397469565) of [Dawang Raoming](https://anilist.co/anime/120220)
-* [watched episode 1 - 11](https://anilist.co/activity/397469545) of [Dawang Raoming](https://anilist.co/anime/120220)
 <!-- anilist_activity ends -->
 
 </details>
