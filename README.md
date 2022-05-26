@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/397658755) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 8](https://anilist.co/activity/397637154) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 8](https://anilist.co/activity/397628842) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
-* [watched episode 8](https://anilist.co/activity/397487430) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 <!-- anilist_activity ends -->
 
 </details>
