@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/397469565) of [Dawang Raoming](https://anilist.co/anime/120220)
 * [watched episode 1 - 11](https://anilist.co/activity/397469545) of [Dawang Raoming](https://anilist.co/anime/120220)
 * [watched episode 62](https://anilist.co/activity/397292900) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 39](https://anilist.co/activity/396980890) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 <!-- anilist_activity ends -->
 
 </details>
