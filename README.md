@@ -35,14 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/398526305) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
+* [watched episode 30 - 31](https://anilist.co/activity/398525449) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
+* [watched episode 63](https://anilist.co/activity/398523397) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 8](https://anilist.co/activity/398470146) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
-* [watched episode 30](https://anilist.co/activity/398148310) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 19](https://anilist.co/activity/398145783) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 96](https://anilist.co/activity/398142273) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 183](https://anilist.co/activity/398134015) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 109](https://anilist.co/activity/398128470) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 34](https://anilist.co/activity/398114120) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
-* [watched episode 8](https://anilist.co/activity/397870020) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 <!-- anilist_activity ends -->
 
 </details>
