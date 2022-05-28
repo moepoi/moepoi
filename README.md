@@ -35,14 +35,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/398736235) of [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/anime/150075)
 * [completed None](https://anilist.co/activity/398682621) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 * [watched episode 26](https://anilist.co/activity/398679494) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 1 - 2](https://anilist.co/activity/398533135) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
 * [watched episode 30 - 31](https://anilist.co/activity/398525449) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 63](https://anilist.co/activity/398523397) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 8](https://anilist.co/activity/398470146) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
-* [watched episode 19](https://anilist.co/activity/398145783) of [Zhu Tian Ji](https://anilist.co/anime/129243)
-* [watched episode 96](https://anilist.co/activity/398142273) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
