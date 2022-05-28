@@ -35,7 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 1](https://anilist.co/activity/398526305) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
+* [watched episode 1 - 2](https://anilist.co/activity/398533135) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
 * [watched episode 30 - 31](https://anilist.co/activity/398525449) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 63](https://anilist.co/activity/398523397) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 8](https://anilist.co/activity/398470146) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
