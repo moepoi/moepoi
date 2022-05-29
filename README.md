@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/398974722) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 6](https://anilist.co/activity/398964335) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [plans to watch None](https://anilist.co/activity/398736235) of [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/anime/150075)
 * [completed None](https://anilist.co/activity/398682621) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
@@ -42,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 2](https://anilist.co/activity/398533135) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
 * [watched episode 30 - 31](https://anilist.co/activity/398525449) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 63](https://anilist.co/activity/398523397) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 8](https://anilist.co/activity/398470146) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 <!-- anilist_activity ends -->
 
 </details>
