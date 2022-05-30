@@ -35,13 +35,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 24](https://anilist.co/activity/399494046) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
 * [watched episode 9](https://anilist.co/activity/399478726) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 * [watched episode 235](https://anilist.co/activity/399143212) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 6](https://anilist.co/activity/399143195) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
 * [watched episode 8](https://anilist.co/activity/398974722) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 6](https://anilist.co/activity/398964335) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [plans to watch None](https://anilist.co/activity/398736235) of [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/anime/150075)
-* [completed None](https://anilist.co/activity/398682621) of [Wo De Yi Jie Zhi Lu](https://anilist.co/anime/141871)
 <!-- anilist_activity ends -->
 
 </details>
