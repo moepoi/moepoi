@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/400067379) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 77 - 78](https://anilist.co/activity/400058785) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
 * [watched episode 4](https://anilist.co/activity/400034606) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 7](https://anilist.co/activity/400028609) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 9](https://anilist.co/activity/399995883) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 236](https://anilist.co/activity/399995828) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 212](https://anilist.co/activity/399687471) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 6](https://anilist.co/activity/399559161) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
 <!-- anilist_activity ends -->
 
 </details>
