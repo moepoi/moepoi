@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 9](https://anilist.co/activity/400581424) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 64](https://anilist.co/activity/400398551) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 9](https://anilist.co/activity/400363577) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 7](https://anilist.co/activity/400075340) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4](https://anilist.co/activity/400034606) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 7](https://anilist.co/activity/400028609) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
 * [watched episode 7](https://anilist.co/activity/400002113) of [Xun Jian](https://anilist.co/anime/133866)
-* [watched episode 184](https://anilist.co/activity/399995917) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
