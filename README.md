@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 79](https://anilist.co/activity/400803993) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
+* [watched episode 8](https://anilist.co/activity/400801787) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 5](https://anilist.co/activity/400670408) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 9](https://anilist.co/activity/400645636) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [completed None](https://anilist.co/activity/400607874) of [Arad: Suming Zhi Men](https://anilist.co/anime/99884)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 64](https://anilist.co/activity/400398551) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 9](https://anilist.co/activity/400363577) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 7](https://anilist.co/activity/400075340) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
-* [watched episode 8](https://anilist.co/activity/400067379) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
-* [watched episode 77 - 78](https://anilist.co/activity/400058785) of [Wo Qi Ku Le Baiwan Xiulianzhe](https://anilist.co/anime/138064)
 <!-- anilist_activity ends -->
 
 </details>
