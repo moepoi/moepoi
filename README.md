@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 9](https://anilist.co/activity/400581424) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 64](https://anilist.co/activity/400398551) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 9](https://anilist.co/activity/400363577) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
-* [watched episode 7](https://anilist.co/activity/400075340) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
 <!-- anilist_activity ends -->
 
 </details>
