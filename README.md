@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/403086031) of [Heibai Wushuang](https://anilist.co/anime/99654)
+* [watched episode 1 - 11](https://anilist.co/activity/403086014) of [Heibai Wushuang](https://anilist.co/anime/99654)
 * [watched episode 11](https://anilist.co/activity/403065343) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [plans to watch None](https://anilist.co/activity/402804562) of [Arad: Gyakuten no Wa](https://anilist.co/anime/124341)
 * [watched episode 25](https://anilist.co/activity/402766729) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 2](https://anilist.co/activity/402715687) of [Shishang Zui Qiang Nan Zhujue](https://anilist.co/anime/149810)
 * [watched episode 214](https://anilist.co/activity/402669851) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 112](https://anilist.co/activity/402667634) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 99](https://anilist.co/activity/402666152) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 7](https://anilist.co/activity/402666105) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 <!-- anilist_activity ends -->
 
 </details>
