@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/403065343) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [plans to watch None](https://anilist.co/activity/402804562) of [Arad: Gyakuten no Wa](https://anilist.co/anime/124341)
 * [watched episode 25](https://anilist.co/activity/402766729) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
 * [watched episode 7](https://anilist.co/activity/402761571) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 112](https://anilist.co/activity/402667634) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 99](https://anilist.co/activity/402666152) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 7](https://anilist.co/activity/402666105) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
-* [watched episode 10](https://anilist.co/activity/402535077) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 <!-- anilist_activity ends -->
 
 </details>
