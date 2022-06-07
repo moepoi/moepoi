@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 238](https://anilist.co/activity/403124648) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 186](https://anilist.co/activity/403122565) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [completed None](https://anilist.co/activity/403086031) of [Heibai Wushuang](https://anilist.co/anime/99654)
 * [watched episode 1 - 11](https://anilist.co/activity/403086014) of [Heibai Wushuang](https://anilist.co/anime/99654)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/402761571) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
 * [watched episode 6](https://anilist.co/activity/402719438) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 1 - 2](https://anilist.co/activity/402715687) of [Shishang Zui Qiang Nan Zhujue](https://anilist.co/anime/149810)
-* [watched episode 214](https://anilist.co/activity/402669851) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
