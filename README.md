@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/403512170) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 8](https://anilist.co/activity/403127678) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 238](https://anilist.co/activity/403124648) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 186](https://anilist.co/activity/403122565) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/402804562) of [Arad: Gyakuten no Wa](https://anilist.co/anime/124341)
 * [watched episode 25](https://anilist.co/activity/402766729) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
 * [watched episode 7](https://anilist.co/activity/402761571) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
-* [watched episode 6](https://anilist.co/activity/402719438) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 <!-- anilist_activity ends -->
 
 </details>
