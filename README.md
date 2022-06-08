@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 49 - 50](https://anilist.co/activity/403583947) of [Wan Yu Feng Shen](https://anilist.co/anime/142716)
 * [watched episode 13](https://anilist.co/activity/403556329) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 * [watched episode 66](https://anilist.co/activity/403550706) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 10](https://anilist.co/activity/403512170) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/403086031) of [Heibai Wushuang](https://anilist.co/anime/99654)
 * [watched episode 1 - 11](https://anilist.co/activity/403086014) of [Heibai Wushuang](https://anilist.co/anime/99654)
 * [watched episode 11](https://anilist.co/activity/403065343) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
-* [plans to watch None](https://anilist.co/activity/402804562) of [Arad: Gyakuten no Wa](https://anilist.co/anime/124341)
 <!-- anilist_activity ends -->
 
 </details>
