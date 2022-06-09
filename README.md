@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 13](https://anilist.co/activity/403556329) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 * [watched episode 66](https://anilist.co/activity/403550706) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 10](https://anilist.co/activity/403512170) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
-* [watched episode 8](https://anilist.co/activity/403127678) of [Xun Jian](https://anilist.co/anime/133866)
 <!-- anilist_activity ends -->
 
 </details>
