@@ -107,6 +107,9 @@ I'd like to do project that has relation to anime. :ghost:
 * [Yuuko Yoshida](https://anilist.co/character/141461)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
 * [Ninym Ralei](https://anilist.co/character/206374)
+* [Arian Glenis Maple](https://anilist.co/character/194353)
+* [Marin Kitagawa](https://anilist.co/character/133676)
+* [Roroa Amidonia](https://anilist.co/character/133342)
 * [Amalie](https://anilist.co/character/175297)
 * [Haruno Yukinoshita](https://anilist.co/character/79589)
 * [Jibril](https://anilist.co/character/87887)
@@ -114,9 +117,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Miyuki Shiba](https://anilist.co/character/55741)
 * [Ayako Kuroba](https://anilist.co/character/200612)
 * [Nepgear](https://anilist.co/character/49927)
-* [Roxy Migurdia](https://anilist.co/character/88350)
-* [Roroa Amidonia](https://anilist.co/character/133342)
-* [Marin Kitagawa](https://anilist.co/character/133676)
 <!-- favorites_characters ends -->
 
 </details>
