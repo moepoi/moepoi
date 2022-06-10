@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 113](https://anilist.co/activity/404418201) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 36](https://anilist.co/activity/404413827) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [completed None](https://anilist.co/activity/404209899) of [Heibai Wushuang 2](https://anilist.co/anime/101876)
 * [watched episode 1 - 11](https://anilist.co/activity/404209850) of [Heibai Wushuang 2](https://anilist.co/anime/101876)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 215](https://anilist.co/activity/404065412) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 9](https://anilist.co/activity/403962507) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 10](https://anilist.co/activity/403675022) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
-* [watched episode 32 - 33](https://anilist.co/activity/403587451) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 <!-- anilist_activity ends -->
 
 </details>
