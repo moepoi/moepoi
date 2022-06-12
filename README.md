@@ -91,7 +91,7 @@ I'd like to do project that has relation to anime. :ghost:
 </details>
 
 <details>
-<summary>:girl: List Favorites Characters</summary>
+<summary>:girl: List Favorites Character</summary>
   
 <!-- favorites_characters starts -->
 * [Mukuro Hoshimiya](https://anilist.co/character/157109)
