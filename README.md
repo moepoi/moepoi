@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/405500331) of [Shishang Zui Qiang Nan Zhujue](https://anilist.co/anime/149810)
+* [watched episode 10](https://anilist.co/activity/405497747) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 8 - 10](https://anilist.co/activity/405407900) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 239](https://anilist.co/activity/405351571) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 8](https://anilist.co/activity/405337954) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/404995728) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 28](https://anilist.co/activity/404990835) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 4](https://anilist.co/activity/404866831) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
-* [watched episode 67](https://anilist.co/activity/404863302) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 21](https://anilist.co/activity/404661989) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 <!-- anilist_activity ends -->
 
 </details>
