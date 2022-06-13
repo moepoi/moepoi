@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/405859770) of [Heibai Wushuang 3](https://anilist.co/anime/126350)
 * [watched episode 1 - 11](https://anilist.co/activity/405859749) of [Heibai Wushuang 3](https://anilist.co/anime/126350)
 * [watched episode 8](https://anilist.co/activity/405813056) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
-* [watched episode 11](https://anilist.co/activity/405582227) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 <!-- anilist_activity ends -->
 
 </details>
