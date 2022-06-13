@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 114](https://anilist.co/activity/405870118) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [completed None](https://anilist.co/activity/405868463) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
 * [watched episode 101](https://anilist.co/activity/405863220) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [completed None](https://anilist.co/activity/405859770) of [Heibai Wushuang 3](https://anilist.co/anime/126350)
 * [watched episode 1 - 11](https://anilist.co/activity/405859749) of [Heibai Wushuang 3](https://anilist.co/anime/126350)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/405500331) of [Shishang Zui Qiang Nan Zhujue](https://anilist.co/anime/149810)
 * [watched episode 10](https://anilist.co/activity/405497747) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 8 - 10](https://anilist.co/activity/405407900) of [Date A Live IV](https://anilist.co/anime/116605)
-* [watched episode 239](https://anilist.co/activity/405351571) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 8](https://anilist.co/activity/405337954) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
 <!-- anilist_activity ends -->
 
 </details>
