@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/405859770) of [Heibai Wushuang 3](https://anilist.co/anime/126350)
+* [watched episode 1 - 11](https://anilist.co/activity/405859749) of [Heibai Wushuang 3](https://anilist.co/anime/126350)
 * [watched episode 8](https://anilist.co/activity/405813056) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
 * [watched episode 11](https://anilist.co/activity/405582227) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 * [watched episode 5](https://anilist.co/activity/405500331) of [Shishang Zui Qiang Nan Zhujue](https://anilist.co/anime/149810)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 239](https://anilist.co/activity/405351571) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 8](https://anilist.co/activity/405337954) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
 * [watched episode 8](https://anilist.co/activity/405320260) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
-* [watched episode 10](https://anilist.co/activity/405113547) of [SPY×FAMILY](https://anilist.co/anime/140960)
-* [watched episode 8](https://anilist.co/activity/404995728) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 <!-- anilist_activity ends -->
 
 </details>
