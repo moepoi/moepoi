@@ -35,14 +35,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 13](https://anilist.co/activity/406286272) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
+* [watched episode 240](https://anilist.co/activity/406284076) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [plans to watch None](https://anilist.co/activity/405897844) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 216](https://anilist.co/activity/405897327) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 114](https://anilist.co/activity/405870118) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [completed None](https://anilist.co/activity/405868463) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
 * [watched episode 101](https://anilist.co/activity/405863220) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [completed None](https://anilist.co/activity/405859770) of [Heibai Wushuang 3](https://anilist.co/anime/126350)
-* [watched episode 1 - 11](https://anilist.co/activity/405859749) of [Heibai Wushuang 3](https://anilist.co/anime/126350)
-* [watched episode 8](https://anilist.co/activity/405813056) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
 <!-- anilist_activity ends -->
 
 </details>
