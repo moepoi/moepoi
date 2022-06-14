@@ -35,14 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/406592560) of [Quanzhi Fashi 5](https://anilist.co/anime/122671)
+* [plans to watch None](https://anilist.co/activity/406592148) of [Quanzhi Gaoshou 3](https://anilist.co/anime/137735)
+* [plans to watch None](https://anilist.co/activity/406591838) of [Mo Zhuang Chuanshuo](https://anilist.co/anime/137665)
+* [completed None](https://anilist.co/activity/406590661) of [Xingchen Bian: Po Tian Mi Ju](https://anilist.co/anime/137738)
+* [watched episode 1 - 15](https://anilist.co/activity/406590642) of [Xingchen Bian: Po Tian Mi Ju](https://anilist.co/anime/137738)
 * [completed None](https://anilist.co/activity/406367128) of [Xingchen Bian: Xichen Yao Hai](https://anilist.co/anime/122652)
 * [watched episode 1 - 11](https://anilist.co/activity/406367106) of [Xingchen Bian: Xichen Yao Hai](https://anilist.co/anime/122652)
 * [watched episode 9](https://anilist.co/activity/406330830) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 188](https://anilist.co/activity/406297620) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 13](https://anilist.co/activity/406286272) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
-* [watched episode 240](https://anilist.co/activity/406284076) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [plans to watch None](https://anilist.co/activity/405897844) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
-* [watched episode 216](https://anilist.co/activity/405897327) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
