@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/406897788) of [Shishang Zui Qiang Nan Zhujue](https://anilist.co/anime/149810)
+* [watched episode 9](https://anilist.co/activity/406895496) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 11](https://anilist.co/activity/406857927) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 14](https://anilist.co/activity/406754954) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 * [watched episode 68](https://anilist.co/activity/406754906) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/406591838) of [Mo Zhuang Chuanshuo](https://anilist.co/anime/137665)
 * [completed None](https://anilist.co/activity/406590661) of [Xingchen Bian: Po Tian Mi Ju](https://anilist.co/anime/137738)
 * [watched episode 1 - 15](https://anilist.co/activity/406590642) of [Xingchen Bian: Po Tian Mi Ju](https://anilist.co/anime/137738)
-* [completed None](https://anilist.co/activity/406367128) of [Xingchen Bian: Xichen Yao Hai](https://anilist.co/anime/122652)
-* [watched episode 1 - 11](https://anilist.co/activity/406367106) of [Xingchen Bian: Xichen Yao Hai](https://anilist.co/anime/122652)
 <!-- anilist_activity ends -->
 
 </details>
