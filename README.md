@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/407350069) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 * [watched episode 217](https://anilist.co/activity/407187488) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/407184525) of [Tian Huang](https://anilist.co/anime/122520)
 * [watched episode 6 - 79](https://anilist.co/activity/407184511) of [Tian Huang](https://anilist.co/anime/122520)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/406857927) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 * [watched episode 14](https://anilist.co/activity/406754954) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 * [watched episode 68](https://anilist.co/activity/406754906) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [completed None](https://anilist.co/activity/406592560) of [Quanzhi Fashi 5](https://anilist.co/anime/122671)
 <!-- anilist_activity ends -->
 
 </details>
