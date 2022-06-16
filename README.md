@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/407121522) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 6](https://anilist.co/activity/406897788) of [Shishang Zui Qiang Nan Zhujue](https://anilist.co/anime/149810)
 * [watched episode 9](https://anilist.co/activity/406895496) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 11](https://anilist.co/activity/406857927) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/406592148) of [Quanzhi Gaoshou 3](https://anilist.co/anime/137735)
 * [plans to watch None](https://anilist.co/activity/406591838) of [Mo Zhuang Chuanshuo](https://anilist.co/anime/137665)
 * [completed None](https://anilist.co/activity/406590661) of [Xingchen Bian: Po Tian Mi Ju](https://anilist.co/anime/137738)
-* [watched episode 1 - 15](https://anilist.co/activity/406590642) of [Xingchen Bian: Po Tian Mi Ju](https://anilist.co/anime/137738)
 <!-- anilist_activity ends -->
 
 </details>
