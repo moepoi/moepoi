@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 189](https://anilist.co/activity/407673907) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 37](https://anilist.co/activity/407666333) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [plans to watch None](https://anilist.co/activity/407634706) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
 * [plans to watch None](https://anilist.co/activity/407634605) of [Isekai Shoukan wa Nidome desu ](https://anilist.co/anime/140754)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/407633051) of [Hyouken no Majutsushi ga Sekai wo Suberu](https://anilist.co/anime/148116)
 * [plans to watch None](https://anilist.co/activity/407630747) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
 * [completed None](https://anilist.co/activity/407627761) of [Feng Qi Luoyang: Shen Ji Shaonian](https://anilist.co/anime/134089)
-* [watched episode 1 - 15](https://anilist.co/activity/407627742) of [Feng Qi Luoyang: Shen Ji Shaonian](https://anilist.co/anime/134089)
 <!-- anilist_activity ends -->
 
 </details>
