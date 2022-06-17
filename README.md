@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/407633051) of [Hyouken no Majutsushi ga Sekai wo Suberu](https://anilist.co/anime/148116)
+* [plans to watch None](https://anilist.co/activity/407630747) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
+* [completed None](https://anilist.co/activity/407627761) of [Feng Qi Luoyang: Shen Ji Shaonian](https://anilist.co/anime/134089)
+* [watched episode 1 - 15](https://anilist.co/activity/407627742) of [Feng Qi Luoyang: Shen Ji Shaonian](https://anilist.co/anime/134089)
 * [watched episode 21](https://anilist.co/activity/407357860) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 11](https://anilist.co/activity/407350069) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 * [watched episode 217](https://anilist.co/activity/407187488) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/407184525) of [Tian Huang](https://anilist.co/anime/122520)
 * [watched episode 6 - 79](https://anilist.co/activity/407184511) of [Tian Huang](https://anilist.co/anime/122520)
 * [watched episode 11](https://anilist.co/activity/407121522) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
-* [watched episode 6](https://anilist.co/activity/406897788) of [Shishang Zui Qiang Nan Zhujue](https://anilist.co/anime/149810)
-* [watched episode 9](https://anilist.co/activity/406895496) of [Jian Xian Zaici](https://anilist.co/anime/149701)
-* [watched episode 11](https://anilist.co/activity/406857927) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
-* [watched episode 14](https://anilist.co/activity/406754954) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 <!-- anilist_activity ends -->
 
 </details>
