@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 22](https://anilist.co/activity/407687035) of [Zhu Tian Ji](https://anilist.co/anime/129243)
+* [watched episode 14](https://anilist.co/activity/407680263) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
+* [watched episode 115](https://anilist.co/activity/407678195) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 102](https://anilist.co/activity/407676651) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 189](https://anilist.co/activity/407673907) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 37](https://anilist.co/activity/407666333) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [plans to watch None](https://anilist.co/activity/407634706) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
 * [plans to watch None](https://anilist.co/activity/407634605) of [Isekai Shoukan wa Nidome desu ](https://anilist.co/anime/140754)
 * [plans to watch None](https://anilist.co/activity/407634514) of [Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/anime/146954)
 * [plans to watch None](https://anilist.co/activity/407634003) of [Enen no Shouboutai: San no Shou](https://anilist.co/anime/149118)
-* [plans to watch None](https://anilist.co/activity/407633859) of [Jujutsu Kaisen 2nd Season](https://anilist.co/anime/145064)
-* [plans to watch None](https://anilist.co/activity/407633051) of [Hyouken no Majutsushi ga Sekai wo Suberu](https://anilist.co/anime/148116)
-* [plans to watch None](https://anilist.co/activity/407630747) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
-* [completed None](https://anilist.co/activity/407627761) of [Feng Qi Luoyang: Shen Ji Shaonian](https://anilist.co/anime/134089)
 <!-- anilist_activity ends -->
 
 </details>
