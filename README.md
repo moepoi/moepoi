@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/407634706) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
+* [plans to watch None](https://anilist.co/activity/407634605) of [Isekai Shoukan wa Nidome desu ](https://anilist.co/anime/140754)
+* [plans to watch None](https://anilist.co/activity/407634514) of [Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/anime/146954)
+* [plans to watch None](https://anilist.co/activity/407634003) of [Enen no Shouboutai: San no Shou](https://anilist.co/anime/149118)
+* [plans to watch None](https://anilist.co/activity/407633859) of [Jujutsu Kaisen 2nd Season](https://anilist.co/anime/145064)
 * [plans to watch None](https://anilist.co/activity/407633051) of [Hyouken no Majutsushi ga Sekai wo Suberu](https://anilist.co/anime/148116)
 * [plans to watch None](https://anilist.co/activity/407630747) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
 * [completed None](https://anilist.co/activity/407627761) of [Feng Qi Luoyang: Shen Ji Shaonian](https://anilist.co/anime/134089)
 * [watched episode 1 - 15](https://anilist.co/activity/407627742) of [Feng Qi Luoyang: Shen Ji Shaonian](https://anilist.co/anime/134089)
 * [watched episode 21](https://anilist.co/activity/407357860) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
-* [watched episode 11](https://anilist.co/activity/407350069) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
-* [watched episode 217](https://anilist.co/activity/407187488) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [completed None](https://anilist.co/activity/407184525) of [Tian Huang](https://anilist.co/anime/122520)
-* [watched episode 6 - 79](https://anilist.co/activity/407184511) of [Tian Huang](https://anilist.co/anime/122520)
-* [watched episode 11](https://anilist.co/activity/407121522) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 <!-- anilist_activity ends -->
 
 </details>
