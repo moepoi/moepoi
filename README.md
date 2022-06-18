@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/408205359) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Zoku-hen)](https://anilist.co/anime/139825)
+* [plans to watch None](https://anilist.co/activity/408204662) of [Maburaho](https://anilist.co/anime/193)
 * [completed None](https://anilist.co/activity/408179911) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
 * [watched episode 1 - 11](https://anilist.co/activity/408179889) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
 * [watched episode 37](https://anilist.co/activity/408148920) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/408084043) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
 * [watched episode 69](https://anilist.co/activity/408080209) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 10](https://anilist.co/activity/407693667) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
-* [watched episode 36](https://anilist.co/activity/407689221) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
-* [watched episode 22](https://anilist.co/activity/407687035) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 <!-- anilist_activity ends -->
 
 </details>
