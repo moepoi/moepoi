@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/408179911) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
+* [watched episode 1 - 11](https://anilist.co/activity/408179889) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
 * [watched episode 37](https://anilist.co/activity/408148920) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 10](https://anilist.co/activity/408145640) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 29](https://anilist.co/activity/408090780) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/407693667) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 36](https://anilist.co/activity/407689221) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 22](https://anilist.co/activity/407687035) of [Zhu Tian Ji](https://anilist.co/anime/129243)
-* [watched episode 14](https://anilist.co/activity/407680263) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
-* [watched episode 115](https://anilist.co/activity/407678195) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
