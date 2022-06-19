@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 9](https://anilist.co/activity/408507155) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [plans to watch None](https://anilist.co/activity/408205359) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Zoku-hen)](https://anilist.co/anime/139825)
 * [plans to watch None](https://anilist.co/activity/408204662) of [Maburaho](https://anilist.co/anime/193)
 * [completed None](https://anilist.co/activity/408179911) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 29](https://anilist.co/activity/408090780) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 5](https://anilist.co/activity/408084043) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
 * [watched episode 69](https://anilist.co/activity/408080209) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 10](https://anilist.co/activity/407693667) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 <!-- anilist_activity ends -->
 
 </details>
