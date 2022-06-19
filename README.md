@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 9](https://anilist.co/activity/408667377) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
+* [watched episode 241](https://anilist.co/activity/408667297) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 11](https://anilist.co/activity/408536660) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 9](https://anilist.co/activity/408507155) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [plans to watch None](https://anilist.co/activity/408205359) of [Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Zoku-hen)](https://anilist.co/anime/139825)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 11](https://anilist.co/activity/408179889) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
 * [watched episode 37](https://anilist.co/activity/408148920) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 10](https://anilist.co/activity/408145640) of [Jian Xian Zaici](https://anilist.co/anime/149701)
-* [watched episode 29](https://anilist.co/activity/408090780) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 5](https://anilist.co/activity/408084043) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
 <!-- anilist_activity ends -->
 
 </details>
