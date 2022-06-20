@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/409021280) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
 * [watched episode 9](https://anilist.co/activity/408667377) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
 * [watched episode 241](https://anilist.co/activity/408667297) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 11](https://anilist.co/activity/408536660) of [SPY×FAMILY](https://anilist.co/anime/140960)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/408179911) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
 * [watched episode 1 - 11](https://anilist.co/activity/408179889) of [Kono Minikuku mo Utsukushii Sekai](https://anilist.co/anime/146)
 * [watched episode 37](https://anilist.co/activity/408148920) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
-* [watched episode 10](https://anilist.co/activity/408145640) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 <!-- anilist_activity ends -->
 
 </details>
