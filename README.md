@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 70](https://anilist.co/activity/410047738) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 15](https://anilist.co/activity/410043784) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 * [watched episode 4](https://anilist.co/activity/409820488) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 15](https://anilist.co/activity/409817629) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 9](https://anilist.co/activity/409177254) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
 * [watched episode 1 - 3](https://anilist.co/activity/409172630) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 218](https://anilist.co/activity/409167541) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 11](https://anilist.co/activity/409093678) of [Date A Live IV](https://anilist.co/anime/116605)
 <!-- anilist_activity ends -->
 
 </details>
