@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 9](https://anilist.co/activity/410069260) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
 * [plans to watch None](https://anilist.co/activity/410060728) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 * [completed None](https://anilist.co/activity/410059700) of [Yuusha, Yamemasu](https://anilist.co/anime/140457)
 * [watched episode 70](https://anilist.co/activity/410047738) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/409813820) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 242](https://anilist.co/activity/409809094) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 190](https://anilist.co/activity/409805173) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 9](https://anilist.co/activity/409177254) of [Fanren Xiu Xian Zhuan: Zai Bie Tiannan](https://anilist.co/anime/149071)
 <!-- anilist_activity ends -->
 
 </details>
