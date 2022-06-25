@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 30](https://anilist.co/activity/411657255) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
+* [watched episode 71](https://anilist.co/activity/411657084) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 11](https://anilist.co/activity/410970694) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 22](https://anilist.co/activity/410965197) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 23](https://anilist.co/activity/410961500) of [Zhu Tian Ji](https://anilist.co/anime/129243)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/410789317) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 * [watched episode 219](https://anilist.co/activity/410778527) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/410482473) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
-* [watched episode 11](https://anilist.co/activity/410259285) of [Jian Xian Zaici](https://anilist.co/anime/149701)
-* [watched episode 9](https://anilist.co/activity/410069260) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
 <!-- anilist_activity ends -->
 
 </details>
