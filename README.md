@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 22](https://anilist.co/activity/410965197) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 23](https://anilist.co/activity/410961500) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 38](https://anilist.co/activity/410958187) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
-* [completed None](https://anilist.co/activity/410789317) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
 <!-- anilist_activity ends -->
 
 </details>
