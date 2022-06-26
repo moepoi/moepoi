@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/411914011) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
+* [watched episode 1 - 4](https://anilist.co/activity/411900596) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
+* [watched episode 6](https://anilist.co/activity/411893174) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
 * [watched episode 30](https://anilist.co/activity/411657255) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 71](https://anilist.co/activity/411657084) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 11](https://anilist.co/activity/410970694) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
@@ -42,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 23](https://anilist.co/activity/410961500) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 38](https://anilist.co/activity/410958187) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [completed None](https://anilist.co/activity/410789317) of [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://anilist.co/anime/132474)
-* [watched episode 219](https://anilist.co/activity/410778527) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [completed None](https://anilist.co/activity/410482473) of [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://anilist.co/anime/130586)
 <!-- anilist_activity ends -->
 
 </details>
