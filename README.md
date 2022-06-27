@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 220](https://anilist.co/activity/412514713) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [completed None](https://anilist.co/activity/412512111) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
+* [watched episode 11](https://anilist.co/activity/412512101) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 12](https://anilist.co/activity/412493396) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 5](https://anilist.co/activity/412493289) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 16](https://anilist.co/activity/412490978) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
@@ -42,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 104 - 105](https://anilist.co/activity/412478102) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 243](https://anilist.co/activity/412171032) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 10](https://anilist.co/activity/412167893) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
-* [watched episode 10](https://anilist.co/activity/411914011) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
-* [watched episode 1 - 4](https://anilist.co/activity/411900596) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
 <!-- anilist_activity ends -->
 
 </details>
