@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 117 - 118](https://anilist.co/activity/412480267) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 104 - 105](https://anilist.co/activity/412478102) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 243](https://anilist.co/activity/412171032) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 10](https://anilist.co/activity/412167893) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
 * [watched episode 10](https://anilist.co/activity/411914011) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/411893174) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
 * [watched episode 30](https://anilist.co/activity/411657255) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 71](https://anilist.co/activity/411657084) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 11](https://anilist.co/activity/410970694) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
-* [watched episode 22](https://anilist.co/activity/410965197) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 <!-- anilist_activity ends -->
 
 </details>
