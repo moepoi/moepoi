@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/412951462) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 1 - 2](https://anilist.co/activity/412942667) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 16 - 17](https://anilist.co/activity/412934057) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
-* [watched episode 220](https://anilist.co/activity/412514713) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
