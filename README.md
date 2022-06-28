@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 191](https://anilist.co/activity/413041416) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 244](https://anilist.co/activity/413031945) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/412951462) of [SPY×FAMILY](https://anilist.co/anime/140960)
 * [watched episode 1 - 2](https://anilist.co/activity/412942667) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/412512111) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 11](https://anilist.co/activity/412512101) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 12](https://anilist.co/activity/412493396) of [Jian Xian Zaici](https://anilist.co/anime/149701)
-* [watched episode 5](https://anilist.co/activity/412493289) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 <!-- anilist_activity ends -->
 
 </details>
