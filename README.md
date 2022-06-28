@@ -35,15 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/412951462) of [SPY×FAMILY](https://anilist.co/anime/140960)
+* [watched episode 1 - 2](https://anilist.co/activity/412942667) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
+* [watched episode 16 - 17](https://anilist.co/activity/412934057) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 220](https://anilist.co/activity/412514713) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [completed None](https://anilist.co/activity/412512111) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 11](https://anilist.co/activity/412512101) of [Koi wa Sekai Seifuku no Ato de](https://anilist.co/anime/132010)
 * [watched episode 12](https://anilist.co/activity/412493396) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 5](https://anilist.co/activity/412493289) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
-* [watched episode 16](https://anilist.co/activity/412490978) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 117 - 118](https://anilist.co/activity/412480267) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 104 - 105](https://anilist.co/activity/412478102) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 243](https://anilist.co/activity/412171032) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
