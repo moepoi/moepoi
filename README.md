@@ -35,14 +35,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/413480543) of [Maburaho](https://anilist.co/anime/193)
+* [watched episode 1 - 23](https://anilist.co/activity/413480529) of [Maburaho](https://anilist.co/anime/193)
 * [plans to watch None](https://anilist.co/activity/413055547) of [Date A Live V](https://anilist.co/anime/151380)
 * [completed None](https://anilist.co/activity/413055440) of [Date A Live IV](https://anilist.co/anime/116605)
 * [watched episode 11](https://anilist.co/activity/413046009) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 191](https://anilist.co/activity/413041416) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 244](https://anilist.co/activity/413031945) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [completed None](https://anilist.co/activity/412951462) of [SPY×FAMILY](https://anilist.co/anime/140960)
-* [watched episode 1 - 2](https://anilist.co/activity/412942667) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 16 - 17](https://anilist.co/activity/412934057) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 <!-- anilist_activity ends -->
 
 </details>
