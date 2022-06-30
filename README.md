@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 12](https://anilist.co/activity/413981110) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 16](https://anilist.co/activity/413488859) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 * [watched episode 72](https://anilist.co/activity/413484182) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [completed None](https://anilist.co/activity/413480543) of [Maburaho](https://anilist.co/anime/193)
 <!-- anilist_activity ends -->
 
 </details>
