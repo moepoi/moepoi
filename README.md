@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/414208589) of [Kawaii dake ja Nai Shikimori-san](https://anilist.co/anime/127911)
 * [watched episode 23](https://anilist.co/activity/414200567) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 13](https://anilist.co/activity/414000964) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 5](https://anilist.co/activity/413986251) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 16](https://anilist.co/activity/413488859) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 * [watched episode 72](https://anilist.co/activity/413484182) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [completed None](https://anilist.co/activity/413480543) of [Maburaho](https://anilist.co/anime/193)
-* [watched episode 1 - 23](https://anilist.co/activity/413480529) of [Maburaho](https://anilist.co/anime/193)
 <!-- anilist_activity ends -->
 
 </details>
