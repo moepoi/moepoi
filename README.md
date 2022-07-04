@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/416072700) of [Engage Kiss](https://anilist.co/anime/146625)
 * [watched episode 1](https://anilist.co/activity/416060113) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 6 - 7](https://anilist.co/activity/415873755) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 222](https://anilist.co/activity/415871342) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/415734310) of [Ore Dake Level Up na Ken](https://anilist.co/anime/151807)
 * [watched episode 3](https://anilist.co/activity/415527269) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 11](https://anilist.co/activity/415431199) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
-* [watched episode 245](https://anilist.co/activity/415420181) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
