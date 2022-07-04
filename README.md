@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6 - 7](https://anilist.co/activity/415873755) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
+* [watched episode 222](https://anilist.co/activity/415871342) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [watched episode 120](https://anilist.co/activity/415868883) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 107](https://anilist.co/activity/415866194) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 1 - 2](https://anilist.co/activity/415759318) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [plans to watch None](https://anilist.co/activity/415734310) of [Ore Dake Level Up na Ken](https://anilist.co/anime/151807)
@@ -42,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/415431199) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
 * [watched episode 245](https://anilist.co/activity/415420181) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 11](https://anilist.co/activity/415287675) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
-* [watched episode 31](https://anilist.co/activity/415104725) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 14](https://anilist.co/activity/415098729) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 <!-- anilist_activity ends -->
 
 </details>
