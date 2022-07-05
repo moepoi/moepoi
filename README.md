@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/416407321) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 6 - 8](https://anilist.co/activity/416393059) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 194](https://anilist.co/activity/416373536) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 246](https://anilist.co/activity/416363388) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/416060113) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 222](https://anilist.co/activity/415871342) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 120](https://anilist.co/activity/415868883) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 107](https://anilist.co/activity/415866194) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
