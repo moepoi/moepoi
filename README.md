@@ -44,7 +44,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 120](https://anilist.co/activity/415868883) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 107](https://anilist.co/activity/415866194) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 1 - 2](https://anilist.co/activity/415759318) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [plans to watch None](https://anilist.co/activity/415734310) of [Ore Dake Level Up na Ken](https://anilist.co/anime/151807)
+* [plans to watch None](https://anilist.co/activity/415734310) of [Ore dake Level Up na Ken](https://anilist.co/anime/151807)
 <!-- anilist_activity ends -->
 
 </details>
