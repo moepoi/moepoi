@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 74](https://anilist.co/activity/416890314) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [completed None](https://anilist.co/activity/416886996) of [Magikano](https://anilist.co/anime/576)
 * [watched episode 1 - 12](https://anilist.co/activity/416886964) of [Magikano](https://anilist.co/anime/576)
 * [watched episode 1](https://anilist.co/activity/416604539) of [Overlord IV](https://anilist.co/anime/133844)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 246](https://anilist.co/activity/416363388) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1 - 2](https://anilist.co/activity/416343279) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
 * [watched episode 19](https://anilist.co/activity/416335082) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
-* [watched episode 1](https://anilist.co/activity/416072700) of [Engage Kiss](https://anilist.co/anime/146625)
 <!-- anilist_activity ends -->
 
 </details>
