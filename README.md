@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/416886996) of [Magikano](https://anilist.co/anime/576)
+* [watched episode 1 - 12](https://anilist.co/activity/416886964) of [Magikano](https://anilist.co/anime/576)
 * [watched episode 1](https://anilist.co/activity/416604539) of [Overlord IV](https://anilist.co/anime/133844)
 * [completed None](https://anilist.co/activity/416407321) of [Xun Jian](https://anilist.co/anime/133866)
 * [watched episode 6 - 8](https://anilist.co/activity/416393059) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 2](https://anilist.co/activity/416343279) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
 * [watched episode 19](https://anilist.co/activity/416335082) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 1](https://anilist.co/activity/416072700) of [Engage Kiss](https://anilist.co/anime/146625)
-* [watched episode 1](https://anilist.co/activity/416060113) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
-* [watched episode 222](https://anilist.co/activity/415871342) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
