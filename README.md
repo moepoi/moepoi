@@ -35,9 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 13 - 14](https://anilist.co/activity/417617704) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [completed None](https://anilist.co/activity/417610012) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 223](https://anilist.co/activity/417417137) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 13](https://anilist.co/activity/417355428) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 15](https://anilist.co/activity/417341748) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 1](https://anilist.co/activity/417159976) of [Isekai Meikyuu de Harem wo](https://anilist.co/anime/127090)
 * [watched episode 1](https://anilist.co/activity/417148407) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
