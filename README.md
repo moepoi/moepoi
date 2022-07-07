@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 13](https://anilist.co/activity/417355428) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
+* [watched episode 15](https://anilist.co/activity/417341748) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 1](https://anilist.co/activity/417159976) of [Isekai Meikyuu de Harem wo](https://anilist.co/anime/127090)
 * [watched episode 1](https://anilist.co/activity/417148407) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
 * [watched episode 1](https://anilist.co/activity/417114049) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/416886996) of [Magikano](https://anilist.co/anime/576)
 * [watched episode 1 - 12](https://anilist.co/activity/416886964) of [Magikano](https://anilist.co/anime/576)
 * [watched episode 1](https://anilist.co/activity/416604539) of [Overlord IV](https://anilist.co/anime/133844)
-* [completed None](https://anilist.co/activity/416407321) of [Xun Jian](https://anilist.co/anime/133866)
-* [watched episode 6 - 8](https://anilist.co/activity/416393059) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 <!-- anilist_activity ends -->
 
 </details>
