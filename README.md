@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 74](https://anilist.co/activity/416890314) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [completed None](https://anilist.co/activity/416886996) of [Magikano](https://anilist.co/anime/576)
 * [watched episode 1 - 12](https://anilist.co/activity/416886964) of [Magikano](https://anilist.co/anime/576)
-* [watched episode 1](https://anilist.co/activity/416604539) of [Overlord IV](https://anilist.co/anime/133844)
 <!-- anilist_activity ends -->
 
 </details>
