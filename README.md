@@ -35,15 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 195](https://anilist.co/activity/418100029) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 121](https://anilist.co/activity/418096563) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 20](https://anilist.co/activity/418093810) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
+* [watched episode 25](https://anilist.co/activity/418090966) of [Zhu Tian Ji](https://anilist.co/anime/129243)
+* [watched episode 108](https://anilist.co/activity/418090913) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 1](https://anilist.co/activity/417655806) of [Isekai Ojisan](https://anilist.co/anime/135806)
 * [watched episode 13 - 14](https://anilist.co/activity/417617704) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [completed None](https://anilist.co/activity/417610012) of [Wan Yu Zhi Wang](https://anilist.co/anime/145824)
 * [watched episode 223](https://anilist.co/activity/417417137) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 15](https://anilist.co/activity/417341748) of [Jian Xian Zaici](https://anilist.co/anime/149701)
-* [watched episode 1](https://anilist.co/activity/417159976) of [Isekai Meikyuu de Harem wo](https://anilist.co/anime/127090)
-* [watched episode 1](https://anilist.co/activity/417148407) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
-* [watched episode 1](https://anilist.co/activity/417114049) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
-* [watched episode 17](https://anilist.co/activity/416901412) of [Tunshi Xingkong: Zhuanzhi Lingyun](https://anilist.co/anime/134283)
 <!-- anilist_activity ends -->
 
 </details>
