@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 247](https://anilist.co/activity/419116886) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 2](https://anilist.co/activity/418823851) of [Engage Kiss](https://anilist.co/anime/146625)
 * [watched episode 75](https://anilist.co/activity/418590674) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 32](https://anilist.co/activity/418587873) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 40](https://anilist.co/activity/418130329) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 195](https://anilist.co/activity/418100029) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 121](https://anilist.co/activity/418096563) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 20](https://anilist.co/activity/418093810) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 <!-- anilist_activity ends -->
 
 </details>
