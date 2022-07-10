@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 75](https://anilist.co/activity/418590674) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 32](https://anilist.co/activity/418587873) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 8](https://anilist.co/activity/418412410) of [Douluo Dalu: Fenghuo Buxi](https://anilist.co/anime/149799)
-* [watched episode 2](https://anilist.co/activity/418160467) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 <!-- anilist_activity ends -->
 
 </details>
