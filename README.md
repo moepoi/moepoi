@@ -35,15 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 197](https://anilist.co/activity/421481332) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 110](https://anilist.co/activity/421479154) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [completed None](https://anilist.co/activity/421476848) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 * [watched episode 41](https://anilist.co/activity/421473396) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 1 - 11](https://anilist.co/activity/421366587) of [Xian Wu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 1 - 13](https://anilist.co/activity/421155294) of [BASTARD!!: Ankoku no Hakaishin](https://anilist.co/anime/144677)
 * [watched episode 225](https://anilist.co/activity/420947616) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 15](https://anilist.co/activity/420945078) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 2](https://anilist.co/activity/420874861) of [Isekai Meikyuu de Harem wo](https://anilist.co/anime/127090)
-* [watched episode 2](https://anilist.co/activity/420864496) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
-* [plans to watch None](https://anilist.co/activity/420641631) of [Douluo Dalu: Benfu Qianxian](https://anilist.co/anime/152213)
-* [watched episode 2](https://anilist.co/activity/420641608) of [Douluo Dalu: Gui Zong Zhi Lu](https://anilist.co/anime/152212)
 <!-- anilist_activity ends -->
 
 </details>
