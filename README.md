@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 41](https://anilist.co/activity/421473396) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 1 - 11](https://anilist.co/activity/421366587) of [Xian Wu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 1 - 13](https://anilist.co/activity/421155294) of [BASTARD!!: Ankoku no Hakaishin](https://anilist.co/anime/144677)
 * [watched episode 225](https://anilist.co/activity/420947616) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/420864496) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
 * [plans to watch None](https://anilist.co/activity/420641631) of [Douluo Dalu: Benfu Qianxian](https://anilist.co/anime/152213)
 * [watched episode 2](https://anilist.co/activity/420641608) of [Douluo Dalu: Gui Zong Zhi Lu](https://anilist.co/anime/152212)
-* [completed None](https://anilist.co/activity/420641278) of [Douluo Dalu: Ayin Fuhuo](https://anilist.co/anime/152211)
 <!-- anilist_activity ends -->
 
 </details>
