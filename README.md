@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/421888388) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 * [watched episode 22](https://anilist.co/activity/421671819) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 1](https://anilist.co/activity/421656472) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 123](https://anilist.co/activity/421483172) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 41](https://anilist.co/activity/421473396) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 1 - 11](https://anilist.co/activity/421366587) of [Xian Wu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 1 - 13](https://anilist.co/activity/421155294) of [BASTARD!!: Ankoku no Hakaishin](https://anilist.co/anime/144677)
-* [watched episode 225](https://anilist.co/activity/420947616) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
