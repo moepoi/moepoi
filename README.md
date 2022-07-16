@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 33](https://anilist.co/activity/422022209) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
+* [watched episode 18](https://anilist.co/activity/422017473) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 1 - 2](https://anilist.co/activity/421970716) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 * [completed None](https://anilist.co/activity/421911486) of [Douluo Dalu: Gui Zong Zhi Lu](https://anilist.co/anime/152212)
 * [watched episode 77](https://anilist.co/activity/421903934) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/421656472) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 123](https://anilist.co/activity/421483172) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 197](https://anilist.co/activity/421481332) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 110](https://anilist.co/activity/421479154) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [completed None](https://anilist.co/activity/421476848) of [Zhu Tian Ji](https://anilist.co/anime/129243)
 <!-- anilist_activity ends -->
 
 </details>
