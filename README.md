@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 226](https://anilist.co/activity/423149472) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [watched episode 3](https://anilist.co/activity/423144259) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 3 - 4](https://anilist.co/activity/422922882) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [watched episode 124](https://anilist.co/activity/422922864) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 5](https://anilist.co/activity/422922164) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/422606250) of [Engage Kiss](https://anilist.co/anime/146625)
 * [watched episode 2](https://anilist.co/activity/422588998) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
 * [watched episode 249](https://anilist.co/activity/422579907) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 33](https://anilist.co/activity/422022209) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 18](https://anilist.co/activity/422017473) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 <!-- anilist_activity ends -->
 
 </details>
