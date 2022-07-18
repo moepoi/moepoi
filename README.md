@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 111](https://anilist.co/activity/422916817) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 3](https://anilist.co/activity/422841116) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [watched episode 3](https://anilist.co/activity/422606250) of [Engage Kiss](https://anilist.co/anime/146625)
 * [watched episode 2](https://anilist.co/activity/422588998) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 2](https://anilist.co/activity/421970716) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 * [completed None](https://anilist.co/activity/421911486) of [Douluo Dalu: Gui Zong Zhi Lu](https://anilist.co/anime/152212)
 * [watched episode 77](https://anilist.co/activity/421903934) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 3](https://anilist.co/activity/421888388) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 <!-- anilist_activity ends -->
 
 </details>
