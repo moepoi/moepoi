@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/423601099) of [Overlord IV](https://anilist.co/anime/133844)
 * [watched episode 11 - 12](https://anilist.co/activity/423415799) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 198](https://anilist.co/activity/423413775) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 250](https://anilist.co/activity/423411375) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 12](https://anilist.co/activity/423151688) of [Xian Wu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 226](https://anilist.co/activity/423149472) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 3](https://anilist.co/activity/423144259) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
-* [watched episode 3 - 4](https://anilist.co/activity/422922882) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 <!-- anilist_activity ends -->
 
 </details>
