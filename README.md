@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 23](https://anilist.co/activity/423341223) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
+* [watched episode 4](https://anilist.co/activity/423337003) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
 * [watched episode 12](https://anilist.co/activity/423151688) of [Xian Wu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 226](https://anilist.co/activity/423149472) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 3](https://anilist.co/activity/423144259) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/422922164) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 11](https://anilist.co/activity/422918599) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 111](https://anilist.co/activity/422916817) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 3](https://anilist.co/activity/422606250) of [Engage Kiss](https://anilist.co/anime/146625)
-* [watched episode 2](https://anilist.co/activity/422588998) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
 <!-- anilist_activity ends -->
 
 </details>
