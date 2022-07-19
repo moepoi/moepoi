@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4](https://anilist.co/activity/423337003) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
 * [watched episode 12](https://anilist.co/activity/423151688) of [Xian Wu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 226](https://anilist.co/activity/423149472) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 3](https://anilist.co/activity/423144259) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 <!-- anilist_activity ends -->
 
 </details>
