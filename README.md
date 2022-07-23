@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 79](https://anilist.co/activity/425361277) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
+* [watched episode 34](https://anilist.co/activity/425359646) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 13](https://anilist.co/activity/425109473) of [Xian Wu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 4](https://anilist.co/activity/425109446) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 * [watched episode 3](https://anilist.co/activity/425019603) of [Yofukashi no Uta](https://anilist.co/anime/141391)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 42](https://anilist.co/activity/424932809) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 125](https://anilist.co/activity/424924579) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 112](https://anilist.co/activity/424922350) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 1](https://anilist.co/activity/424676048) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
-* [watched episode 2](https://anilist.co/activity/424664710) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 <!-- anilist_activity ends -->
 
 </details>
