@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 228](https://anilist.co/activity/426389852) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 13](https://anilist.co/activity/426387354) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 113](https://anilist.co/activity/426345850) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 1 - 8](https://anilist.co/activity/426343406) of [Jidao Long Shen](https://anilist.co/anime/149095)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/426058349) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 13](https://anilist.co/activity/426048990) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 5](https://anilist.co/activity/426028302) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [plans to watch None](https://anilist.co/activity/425986517) of [Tantei wa mou, Shindeiru. Season 2](https://anilist.co/anime/152677)
 <!-- anilist_activity ends -->
 
 </details>
