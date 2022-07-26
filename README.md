@@ -35,10 +35,10 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6 - 13](https://anilist.co/activity/426879938) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
 * [watched episode 200](https://anilist.co/activity/426878089) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 9](https://anilist.co/activity/426844309) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 13 - 14](https://anilist.co/activity/426836397) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
-* [watched episode 6 - 12](https://anilist.co/activity/426815508) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
 * [watched episode 25](https://anilist.co/activity/426782498) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 5](https://anilist.co/activity/426643771) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
 * [watched episode 4](https://anilist.co/activity/426633758) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
