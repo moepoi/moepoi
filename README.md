@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/428941037) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 * [watched episode 26](https://anilist.co/activity/428493374) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 14](https://anilist.co/activity/428486703) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
-* [watched episode 114](https://anilist.co/activity/428308073) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
