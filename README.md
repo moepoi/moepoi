@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 115](https://anilist.co/activity/429854423) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 5](https://anilist.co/activity/429666672) of [Engage Kiss](https://anilist.co/anime/146625)
 * [watched episode 22](https://anilist.co/activity/429466080) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 1 - 3](https://anilist.co/activity/429460935) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/428961379) of [Douluo Dalu: Benfu Qianxian](https://anilist.co/anime/152213)
 * [watched episode 35](https://anilist.co/activity/428955150) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 10](https://anilist.co/activity/428948872) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 81](https://anilist.co/activity/428944751) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
