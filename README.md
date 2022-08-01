@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/429964915) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
 * [watched episode 5](https://anilist.co/activity/429949645) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 7](https://anilist.co/activity/429862421) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 128](https://anilist.co/activity/429858446) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
