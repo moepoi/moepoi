@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/430380027) of [Jidao Long Shen](https://anilist.co/anime/149095)
+* [watched episode 16](https://anilist.co/activity/430374729) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 202](https://anilist.co/activity/430372411) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 254](https://anilist.co/activity/430367827) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 6](https://anilist.co/activity/429964915) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 128](https://anilist.co/activity/429858446) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 15](https://anilist.co/activity/429856310) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [watched episode 115](https://anilist.co/activity/429854423) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 5](https://anilist.co/activity/429666672) of [Engage Kiss](https://anilist.co/anime/146625)
-* [watched episode 22](https://anilist.co/activity/429466080) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 <!-- anilist_activity ends -->
 
 </details>
