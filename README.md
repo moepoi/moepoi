@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 23](https://anilist.co/activity/431389565) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 4](https://anilist.co/activity/431344767) of [Shen Mu](https://anilist.co/anime/129251)
 * [watched episode 18](https://anilist.co/activity/431344751) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 14](https://anilist.co/activity/431127897) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 82](https://anilist.co/activity/430814978) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 5](https://anilist.co/activity/430488658) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
 * [watched episode 5](https://anilist.co/activity/430480175) of [Overlord IV](https://anilist.co/anime/133844)
-* [watched episode 11](https://anilist.co/activity/430380027) of [Jidao Long Shen](https://anilist.co/anime/149095)
 <!-- anilist_activity ends -->
 
 </details>
