@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 62](https://anilist.co/activity/431675594) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 203](https://anilist.co/activity/431675117) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 44](https://anilist.co/activity/431671877) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 15](https://anilist.co/activity/431577577) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
 * [plans to watch None](https://anilist.co/activity/431417548) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 23](https://anilist.co/activity/431389565) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 4](https://anilist.co/activity/431344767) of [Shen Mu](https://anilist.co/anime/129251)
 * [watched episode 18](https://anilist.co/activity/431344751) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
-* [watched episode 14](https://anilist.co/activity/431127897) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
-* [watched episode 5](https://anilist.co/activity/431127316) of [Isekai Meikyuu de Harem wo](https://anilist.co/anime/127090)
 <!-- anilist_activity ends -->
 
 </details>
