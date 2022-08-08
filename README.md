@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 17](https://anilist.co/activity/433348870) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
+* [watched episode 117](https://anilist.co/activity/433346501) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 6](https://anilist.co/activity/433331318) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 4](https://anilist.co/activity/432907280) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [watched episode 255](https://anilist.co/activity/432898770) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 36](https://anilist.co/activity/432364301) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 6](https://anilist.co/activity/432307516) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 * [watched episode 83](https://anilist.co/activity/432104444) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [completed None](https://anilist.co/activity/432102327) of [Douluo Dalu: Benfu Qianxian](https://anilist.co/anime/152213)
-* [watched episode 116](https://anilist.co/activity/431877436) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
