@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 24](https://anilist.co/activity/433359759) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 8](https://anilist.co/activity/433355109) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 117](https://anilist.co/activity/433346501) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 6](https://anilist.co/activity/433331318) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 <!-- anilist_activity ends -->
 
 </details>
