@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/433541652) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
 * [watched episode 24](https://anilist.co/activity/433359759) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 8](https://anilist.co/activity/433355109) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 117](https://anilist.co/activity/433346501) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
