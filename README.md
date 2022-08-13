@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/435337738) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
 * [watched episode 5](https://anilist.co/activity/435330555) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 7](https://anilist.co/activity/435320056) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 * [watched episode 6](https://anilist.co/activity/435107208) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 19](https://anilist.co/activity/435027105) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 45](https://anilist.co/activity/435022669) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 63 - 64](https://anilist.co/activity/435017662) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 205](https://anilist.co/activity/435013142) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
