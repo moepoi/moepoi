@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/435815786) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
+* [watched episode 25 - 26](https://anilist.co/activity/435808569) of [Jian Xian Zaici](https://anilist.co/anime/149701)
+* [watched episode 14](https://anilist.co/activity/435798294) of [Jidao Long Shen](https://anilist.co/anime/149095)
+* [watched episode 37](https://anilist.co/activity/435795609) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
+* [watched episode 1](https://anilist.co/activity/435791375) of [Douluo Dalu: Di Ying Laixi](https://anilist.co/anime/153424)
 * [watched episode 6](https://anilist.co/activity/435337738) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
 * [watched episode 5](https://anilist.co/activity/435330555) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 7](https://anilist.co/activity/435320056) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 * [watched episode 6](https://anilist.co/activity/435107208) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
 * [watched episode 5](https://anilist.co/activity/435038135) of [Shen Mu](https://anilist.co/anime/129251)
-* [watched episode 13](https://anilist.co/activity/435032846) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 22](https://anilist.co/activity/435031175) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
-* [watched episode 19](https://anilist.co/activity/435027105) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
-* [watched episode 45](https://anilist.co/activity/435022669) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
-* [watched episode 63 - 64](https://anilist.co/activity/435017662) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
