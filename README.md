@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 19](https://anilist.co/activity/436419970) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
+* [watched episode 119](https://anilist.co/activity/436418288) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 15 - 16](https://anilist.co/activity/436416345) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 9](https://anilist.co/activity/436049107) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 257](https://anilist.co/activity/435889358) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/435815786) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
 * [watched episode 25 - 26](https://anilist.co/activity/435808569) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 14](https://anilist.co/activity/435798294) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 37](https://anilist.co/activity/435795609) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 1](https://anilist.co/activity/435791375) of [Douluo Dalu: Di Ying Laixi](https://anilist.co/anime/153424)
 <!-- anilist_activity ends -->
 
 </details>
