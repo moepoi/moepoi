@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 15 - 16](https://anilist.co/activity/436416345) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 9](https://anilist.co/activity/436049107) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 257](https://anilist.co/activity/435889358) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 4](https://anilist.co/activity/435862006) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
 <!-- anilist_activity ends -->
 
 </details>
