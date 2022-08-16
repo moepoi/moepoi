@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 15](https://anilist.co/activity/437017027) of [Jidao Long Shen](https://anilist.co/anime/149095)
+* [completed None](https://anilist.co/activity/437012305) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [plans to watch None](https://anilist.co/activity/436958272) of [Wo Shi Da Shenxian 3](https://anilist.co/anime/153497)
 * [watched episode 84 - 85](https://anilist.co/activity/436911632) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 132](https://anilist.co/activity/436908587) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 258](https://anilist.co/activity/436838383) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 7 - 8](https://anilist.co/activity/436769539) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
 * [watched episode 7](https://anilist.co/activity/436573881) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
-* [watched episode 6 - 8](https://anilist.co/activity/436440065) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [watched episode 65](https://anilist.co/activity/436421544) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
