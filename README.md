@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 84 - 85](https://anilist.co/activity/436911632) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 132](https://anilist.co/activity/436908587) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 206](https://anilist.co/activity/436908302) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 258](https://anilist.co/activity/436838383) of [Wushen Zhuzai](https://anilist.co/anime/117168)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6 - 8](https://anilist.co/activity/436440065) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [watched episode 65](https://anilist.co/activity/436421544) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 19](https://anilist.co/activity/436419970) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
-* [watched episode 119](https://anilist.co/activity/436418288) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
