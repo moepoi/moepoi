@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 23](https://anilist.co/activity/437347152) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 84 - 86](https://anilist.co/activity/437342957) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 7](https://anilist.co/activity/437256597) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
 * [watched episode 7](https://anilist.co/activity/437053062) of [Overlord IV](https://anilist.co/anime/133844)
