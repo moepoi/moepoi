@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/437686346) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
 * [watched episode 1 - 3](https://anilist.co/activity/437488510) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 23](https://anilist.co/activity/437347152) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 84 - 86](https://anilist.co/activity/437342957) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/437012305) of [Jiandao Di Yi Xian](https://anilist.co/anime/137643)
 * [plans to watch None](https://anilist.co/activity/436958272) of [Wo Shi Da Shenxian 3](https://anilist.co/anime/153497)
 * [watched episode 132](https://anilist.co/activity/436908587) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 206](https://anilist.co/activity/436908302) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
