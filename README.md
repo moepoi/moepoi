@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/438144882) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
+* [watched episode 5](https://anilist.co/activity/438144741) of [Isekai Ojisan](https://anilist.co/anime/135806)
 * [watched episode 27](https://anilist.co/activity/437885289) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [plans to watch None](https://anilist.co/activity/437866955) of [One Punch Man 3](https://anilist.co/anime/153800)
 * [watched episode 6](https://anilist.co/activity/437865980) of [Shen Mu](https://anilist.co/anime/129251)
@@ -42,9 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/437686346) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
 * [watched episode 1 - 3](https://anilist.co/activity/437488510) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 23](https://anilist.co/activity/437347152) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
-* [watched episode 84 - 86](https://anilist.co/activity/437342957) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 7](https://anilist.co/activity/437256597) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
-* [watched episode 7](https://anilist.co/activity/437053062) of [Overlord IV](https://anilist.co/anime/133844)
 <!-- anilist_activity ends -->
 
 </details>
