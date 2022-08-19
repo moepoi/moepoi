@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/438144882) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 5](https://anilist.co/activity/438144741) of [Isekai Ojisan](https://anilist.co/anime/135806)
 * [watched episode 27](https://anilist.co/activity/437885289) of [Jian Xian Zaici](https://anilist.co/anime/149701)
-* [plans to watch None](https://anilist.co/activity/437866955) of [One Punch Man 3](https://anilist.co/anime/153800)
 <!-- anilist_activity ends -->
 
 </details>
