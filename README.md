@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 259](https://anilist.co/activity/439150037) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 6](https://anilist.co/activity/439149987) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [watched episode 9](https://anilist.co/activity/439082824) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [watched episode 17](https://anilist.co/activity/439076715) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 8](https://anilist.co/activity/439068299) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 38](https://anilist.co/activity/438801100) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 4 - 7](https://anilist.co/activity/438685894) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 * [watched episode 2](https://anilist.co/activity/438680201) of [Douluo Dalu: Di Ying Laixi](https://anilist.co/anime/153424)
-* [watched episode 87](https://anilist.co/activity/438674789) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 15 - 21](https://anilist.co/activity/438303280) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 <!-- anilist_activity ends -->
 
 </details>
