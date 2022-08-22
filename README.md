@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 259](https://anilist.co/activity/439150037) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 6](https://anilist.co/activity/439149987) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [watched episode 9](https://anilist.co/activity/439082824) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [watched episode 17](https://anilist.co/activity/439076715) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 <!-- anilist_activity ends -->
 
 </details>
