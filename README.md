@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 22](https://anilist.co/activity/440140864) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 208](https://anilist.co/activity/440105472) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 260](https://anilist.co/activity/440103141) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 9](https://anilist.co/activity/439963325) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/439697740) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 121](https://anilist.co/activity/439631037) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 6 - 8](https://anilist.co/activity/439385226) of [Engage Kiss](https://anilist.co/anime/146625)
-* [watched episode 16](https://anilist.co/activity/439272185) of [Jidao Long Shen](https://anilist.co/anime/149095)
 <!-- anilist_activity ends -->
 
 </details>
