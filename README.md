@@ -36,7 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- anilist_activity starts -->
 * [watched episode 6](https://anilist.co/activity/440820979) of [Isekai Ojisan](https://anilist.co/anime/135806)
-* [watched episode 8](https://anilist.co/activity/440811574) of [Mamahaha no Tsurego ga Moto Kano datta](https://anilist.co/anime/136934)
+* [watched episode 8](https://anilist.co/activity/440811574) of [Mamahaha no Tsurego ga Motokano datta](https://anilist.co/anime/136934)
 * [watched episode 24](https://anilist.co/activity/440556944) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 88](https://anilist.co/activity/440530004) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 8](https://anilist.co/activity/440264783) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
