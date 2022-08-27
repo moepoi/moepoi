@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 28](https://anilist.co/activity/441111449) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 7](https://anilist.co/activity/440971601) of [Shen Mu](https://anilist.co/anime/129251)
 * [watched episode 21](https://anilist.co/activity/440966187) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
-* [watched episode 6](https://anilist.co/activity/440820979) of [Isekai Ojisan](https://anilist.co/anime/135806)
 <!-- anilist_activity ends -->
 
 </details>
