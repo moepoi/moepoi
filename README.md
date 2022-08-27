@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 22](https://anilist.co/activity/441781403) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
+* [watched episode 39](https://anilist.co/activity/441779921) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 6](https://anilist.co/activity/441742241) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
 * [watched episode 6](https://anilist.co/activity/441729669) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 89](https://anilist.co/activity/441727653) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 9](https://anilist.co/activity/441677228) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 * [watched episode 122](https://anilist.co/activity/441327333) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 209](https://anilist.co/activity/441327273) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 135](https://anilist.co/activity/441300969) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 47](https://anilist.co/activity/441297028) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 <!-- anilist_activity ends -->
 
 </details>
