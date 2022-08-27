@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/441742241) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
 * [watched episode 6](https://anilist.co/activity/441729669) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 89](https://anilist.co/activity/441727653) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [completed None](https://anilist.co/activity/441725750) of [Douluo Dalu: Di Ying Laixi](https://anilist.co/anime/153424)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 209](https://anilist.co/activity/441327273) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 135](https://anilist.co/activity/441300969) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 47](https://anilist.co/activity/441297028) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
-* [watched episode 23](https://anilist.co/activity/441111584) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 <!-- anilist_activity ends -->
 
 </details>
