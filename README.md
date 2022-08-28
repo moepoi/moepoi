@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/442390644) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
+* [watched episode 24](https://anilist.co/activity/442390627) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 29](https://anilist.co/activity/442384730) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 11](https://anilist.co/activity/442335942) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 7](https://anilist.co/activity/442335885) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/441857121) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 18](https://anilist.co/activity/441849594) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 22](https://anilist.co/activity/441781403) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
-* [watched episode 39](https://anilist.co/activity/441779921) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 6](https://anilist.co/activity/441742241) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
 <!-- anilist_activity ends -->
 
 </details>
