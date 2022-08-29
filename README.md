@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/442817480) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
 * [watched episode 9](https://anilist.co/activity/442806401) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 10](https://anilist.co/activity/442698772) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [watched episode 136](https://anilist.co/activity/442691265) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 24](https://anilist.co/activity/442390627) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 29](https://anilist.co/activity/442384730) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 11](https://anilist.co/activity/442335942) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 7](https://anilist.co/activity/442335885) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 <!-- anilist_activity ends -->
 
 </details>
