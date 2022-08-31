@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 30](https://anilist.co/activity/443620980) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 9](https://anilist.co/activity/443538765) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
 * [watched episode 25](https://anilist.co/activity/443481424) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 90](https://anilist.co/activity/443481384) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -42,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/443399360) of [Strike the Blood FINAL](https://anilist.co/anime/136226)
 * [watched episode 3](https://anilist.co/activity/443399336) of [Strike the Blood FINAL](https://anilist.co/anime/136226)
 * [watched episode 9](https://anilist.co/activity/443241168) of [Overlord IV](https://anilist.co/anime/133844)
-* [watched episode 210](https://anilist.co/activity/443100322) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
