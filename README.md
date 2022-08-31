@@ -35,14 +35,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 25](https://anilist.co/activity/443481424) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
+* [watched episode 90](https://anilist.co/activity/443481384) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 19](https://anilist.co/activity/443420516) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [completed None](https://anilist.co/activity/443399360) of [Strike the Blood FINAL](https://anilist.co/anime/136226)
 * [watched episode 3](https://anilist.co/activity/443399336) of [Strike the Blood FINAL](https://anilist.co/anime/136226)
 * [watched episode 9](https://anilist.co/activity/443241168) of [Overlord IV](https://anilist.co/anime/133844)
 * [watched episode 210](https://anilist.co/activity/443100322) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 7](https://anilist.co/activity/443100292) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [watched episode 262](https://anilist.co/activity/443037554) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 18](https://anilist.co/activity/442989981) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 <!-- anilist_activity ends -->
 
 </details>
