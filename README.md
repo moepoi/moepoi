@@ -35,13 +35,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 8](https://anilist.co/activity/443989000) of [Shen Mu](https://anilist.co/anime/129251)
+* [watched episode 22](https://anilist.co/activity/443988941) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 7](https://anilist.co/activity/443809861) of [Isekai Ojisan](https://anilist.co/anime/135806)
 * [watched episode 9](https://anilist.co/activity/443685130) of [Mamahaha no Tsurego ga Motokano datta](https://anilist.co/anime/136934)
 * [watched episode 30](https://anilist.co/activity/443620980) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 9](https://anilist.co/activity/443538765) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
 * [watched episode 25](https://anilist.co/activity/443481424) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
-* [watched episode 90](https://anilist.co/activity/443481384) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 19](https://anilist.co/activity/443420516) of [Jidao Long Shen](https://anilist.co/anime/149095)
 <!-- anilist_activity ends -->
 
 </details>
