@@ -42,7 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 25](https://anilist.co/activity/443481424) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 90](https://anilist.co/activity/443481384) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 19](https://anilist.co/activity/443420516) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [completed None](https://anilist.co/activity/443399360) of [Strike the Blood FINAL](https://anilist.co/anime/136226)
 <!-- anilist_activity ends -->
 
 </details>
