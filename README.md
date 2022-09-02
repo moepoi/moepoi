@@ -35,14 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 25](https://anilist.co/activity/444318451) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
+* [watched episode 211](https://anilist.co/activity/444317019) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 124](https://anilist.co/activity/444316999) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 137](https://anilist.co/activity/444281570) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 48](https://anilist.co/activity/444279696) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 7](https://anilist.co/activity/444221401) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
 * [watched episode 8](https://anilist.co/activity/444221394) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 8](https://anilist.co/activity/443989000) of [Shen Mu](https://anilist.co/anime/129251)
 * [watched episode 22](https://anilist.co/activity/443988941) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
-* [watched episode 7](https://anilist.co/activity/443809861) of [Isekai Ojisan](https://anilist.co/anime/135806)
-* [watched episode 9](https://anilist.co/activity/443685130) of [Mamahaha no Tsurego ga Motokano datta](https://anilist.co/anime/136934)
 <!-- anilist_activity ends -->
 
 </details>
