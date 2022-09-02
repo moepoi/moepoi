@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/444221401) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
 * [watched episode 8](https://anilist.co/activity/444221394) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 8](https://anilist.co/activity/443989000) of [Shen Mu](https://anilist.co/anime/129251)
-* [watched episode 22](https://anilist.co/activity/443988941) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 <!-- anilist_activity ends -->
 
 </details>
