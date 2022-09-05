@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 9](https://anilist.co/activity/445731109) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 * [watched episode 10](https://anilist.co/activity/445601536) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 138](https://anilist.co/activity/445601504) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 125](https://anilist.co/activity/445601455) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 8](https://anilist.co/activity/445124710) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [watched episode 20](https://anilist.co/activity/444881818) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 1 - 9](https://anilist.co/activity/444812219) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [watched episode 31](https://anilist.co/activity/444766447) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 <!-- anilist_activity ends -->
 
 </details>
