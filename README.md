@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/446928422) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [watched episode 9](https://anilist.co/activity/446928377) of [Shen Mu](https://anilist.co/anime/129251)
+* [watched episode 23](https://anilist.co/activity/446928345) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 10](https://anilist.co/activity/446541288) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
 * [watched episode 32](https://anilist.co/activity/446536105) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 92](https://anilist.co/activity/446532782) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/446232919) of [Overlord IV](https://anilist.co/anime/133844)
 * [watched episode 12](https://anilist.co/activity/446184295) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 25](https://anilist.co/activity/446165633) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
-* [watched episode 21](https://anilist.co/activity/446146499) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 9](https://anilist.co/activity/446144032) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [watched episode 212](https://anilist.co/activity/446129365) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
