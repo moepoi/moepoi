@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/447041520) of [Mamahaha no Tsurego ga Motokano datta](https://anilist.co/anime/136934)
 * [watched episode 11](https://anilist.co/activity/446928422) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 9](https://anilist.co/activity/446928377) of [Shen Mu](https://anilist.co/anime/129251)
 * [watched episode 23](https://anilist.co/activity/446928345) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
@@ -43,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 92](https://anilist.co/activity/446532782) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 26](https://anilist.co/activity/446479628) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 10](https://anilist.co/activity/446232919) of [Overlord IV](https://anilist.co/anime/133844)
-* [watched episode 12](https://anilist.co/activity/446184295) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 25](https://anilist.co/activity/446165633) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
 <!-- anilist_activity ends -->
 
 </details>
