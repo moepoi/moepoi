@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 139](https://anilist.co/activity/447303980) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 49](https://anilist.co/activity/447302626) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 126](https://anilist.co/activity/447293853) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 9](https://anilist.co/activity/447222985) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 26 - 27](https://anilist.co/activity/447065518) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/446928422) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 9](https://anilist.co/activity/446928377) of [Shen Mu](https://anilist.co/anime/129251)
 * [watched episode 23](https://anilist.co/activity/446928345) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
-* [watched episode 10](https://anilist.co/activity/446541288) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
-* [watched episode 32](https://anilist.co/activity/446536105) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 <!-- anilist_activity ends -->
 
 </details>
