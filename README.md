@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 20](https://anilist.co/activity/448429454) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 12](https://anilist.co/activity/448331316) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [plans to watch None](https://anilist.co/activity/448318271) of [Arifureta Shokugyou de Sekai Saikyou 3rd Season](https://anilist.co/anime/154473)
 * [watched episode 10](https://anilist.co/activity/448278791) of [Yofukashi no Uta](https://anilist.co/anime/141391)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/448024508) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
 * [watched episode 22](https://anilist.co/activity/447814291) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 33](https://anilist.co/activity/447784357) of [Jian Xian Zaici](https://anilist.co/anime/149701)
-* [watched episode 10](https://anilist.co/activity/447784330) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 <!-- anilist_activity ends -->
 
 </details>
