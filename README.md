@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/448278791) of [Yofukashi no Uta](https://anilist.co/anime/141391)
+* [watched episode 13](https://anilist.co/activity/448278228) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
+* [watched episode 265](https://anilist.co/activity/448278110) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 9](https://anilist.co/activity/448278044) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [watched episode 10](https://anilist.co/activity/448024508) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
 * [watched episode 22](https://anilist.co/activity/447814291) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 33](https://anilist.co/activity/447784357) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 10](https://anilist.co/activity/447784330) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 41](https://anilist.co/activity/447784283) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 93](https://anilist.co/activity/447638956) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 2](https://anilist.co/activity/447636819) of [Douluo Dalu: Nu Shi Mo Zhan](https://anilist.co/anime/154150)
-* [watched episode 11](https://anilist.co/activity/447592331) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
-* [watched episode 213](https://anilist.co/activity/447438660) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 26](https://anilist.co/activity/447306462) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
 <!-- anilist_activity ends -->
 
 </details>
