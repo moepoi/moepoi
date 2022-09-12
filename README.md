@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 140](https://anilist.co/activity/448529527) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 127](https://anilist.co/activity/448529496) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 20](https://anilist.co/activity/448429454) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 12](https://anilist.co/activity/448331316) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [plans to watch None](https://anilist.co/activity/448318271) of [Arifureta Shokugyou de Sekai Saikyou 3rd Season](https://anilist.co/anime/154473)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 265](https://anilist.co/activity/448278110) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 9](https://anilist.co/activity/448278044) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [watched episode 10](https://anilist.co/activity/448024508) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
-* [watched episode 22](https://anilist.co/activity/447814291) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 33](https://anilist.co/activity/447784357) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 <!-- anilist_activity ends -->
 
 </details>
