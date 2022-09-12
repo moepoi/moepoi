@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 12](https://anilist.co/activity/448708038) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [watched episode 11](https://anilist.co/activity/448705036) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 140](https://anilist.co/activity/448529527) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 127](https://anilist.co/activity/448529496) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 20](https://anilist.co/activity/448429454) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/448278791) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 * [watched episode 13](https://anilist.co/activity/448278228) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 265](https://anilist.co/activity/448278110) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 9](https://anilist.co/activity/448278044) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [watched episode 10](https://anilist.co/activity/448024508) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
 <!-- anilist_activity ends -->
 
 </details>
