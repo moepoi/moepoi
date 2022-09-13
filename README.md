@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 11](https://anilist.co/activity/449124028) of [Overlord IV](https://anilist.co/anime/133844)
 * [watched episode 23](https://anilist.co/activity/449013576) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 11](https://anilist.co/activity/449010527) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [completed None](https://anilist.co/activity/448968323) of [Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita](https://anilist.co/anime/129192)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/448705036) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 140](https://anilist.co/activity/448529527) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 127](https://anilist.co/activity/448529496) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 20](https://anilist.co/activity/448429454) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 <!-- anilist_activity ends -->
 
 </details>
