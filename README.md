@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 28](https://anilist.co/activity/449274277) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
+* [watched episode 27](https://anilist.co/activity/449271655) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
+* [watched episode 11](https://anilist.co/activity/449268841) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
 * [watched episode 11](https://anilist.co/activity/449124028) of [Overlord IV](https://anilist.co/anime/133844)
 * [watched episode 23](https://anilist.co/activity/449013576) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 11](https://anilist.co/activity/449010527) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 214](https://anilist.co/activity/448966485) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 266](https://anilist.co/activity/448948959) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 12](https://anilist.co/activity/448708038) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [watched episode 11](https://anilist.co/activity/448705036) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
-* [watched episode 140](https://anilist.co/activity/448529527) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 127](https://anilist.co/activity/448529496) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
