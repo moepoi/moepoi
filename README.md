@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 11](https://anilist.co/activity/449268841) of [Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/anime/146210)
 * [watched episode 11](https://anilist.co/activity/449124028) of [Overlord IV](https://anilist.co/anime/133844)
 * [watched episode 23](https://anilist.co/activity/449013576) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 11](https://anilist.co/activity/449010527) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 <!-- anilist_activity ends -->
 
 </details>
