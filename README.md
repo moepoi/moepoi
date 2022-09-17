@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 42](https://anilist.co/activity/450714673) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 11](https://anilist.co/activity/450709314) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 * [watched episode 10](https://anilist.co/activity/450702299) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [plans to watch None](https://anilist.co/activity/450519799) of [Yuan Long 3](https://anilist.co/anime/141893)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/450480538) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 * [plans to watch None](https://anilist.co/activity/450473968) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
 * [watched episode 141](https://anilist.co/activity/450182899) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 50](https://anilist.co/activity/450180234) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 <!-- anilist_activity ends -->
 
 </details>
