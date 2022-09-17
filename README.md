@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 95](https://anilist.co/activity/450723743) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
+* [completed None](https://anilist.co/activity/450721307) of [Douluo Dalu: Nu Shi Mo Zhan](https://anilist.co/anime/154150)
 * [watched episode 42](https://anilist.co/activity/450714673) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 11](https://anilist.co/activity/450709314) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 * [watched episode 10](https://anilist.co/activity/450702299) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 215](https://anilist.co/activity/450497094) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 10](https://anilist.co/activity/450494852) of [Shen Mu](https://anilist.co/anime/129251)
 * [completed None](https://anilist.co/activity/450480538) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
-* [plans to watch None](https://anilist.co/activity/450473968) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
-* [watched episode 141](https://anilist.co/activity/450182899) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
