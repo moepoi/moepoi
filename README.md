@@ -35,15 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 28](https://anilist.co/activity/450499081) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
+* [watched episode 215](https://anilist.co/activity/450497094) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 10](https://anilist.co/activity/450494852) of [Shen Mu](https://anilist.co/anime/129251)
 * [completed None](https://anilist.co/activity/450480538) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 * [plans to watch None](https://anilist.co/activity/450473968) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
 * [watched episode 141](https://anilist.co/activity/450182899) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 50](https://anilist.co/activity/450180234) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 128](https://anilist.co/activity/450180220) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 24](https://anilist.co/activity/450180172) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
-* [watched episode 11](https://anilist.co/activity/449725129) of [Mamahaha no Tsurego ga Motokano datta](https://anilist.co/anime/136934)
-* [watched episode 34](https://anilist.co/activity/449444240) of [Jian Xian Zaici](https://anilist.co/anime/149701)
-* [watched episode 94](https://anilist.co/activity/449370305) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
