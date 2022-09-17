@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 29](https://anilist.co/activity/450733823) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
+* [watched episode 35](https://anilist.co/activity/450731034) of [Jian Xian Zaici](https://anilist.co/anime/149701)
+* [watched episode 12](https://anilist.co/activity/450726686) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 95](https://anilist.co/activity/450723743) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [completed None](https://anilist.co/activity/450721307) of [Douluo Dalu: Nu Shi Mo Zhan](https://anilist.co/anime/154150)
 * [watched episode 42](https://anilist.co/activity/450714673) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/450702299) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [plans to watch None](https://anilist.co/activity/450519799) of [Yuan Long 3](https://anilist.co/anime/141893)
 * [watched episode 28](https://anilist.co/activity/450499081) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
-* [watched episode 215](https://anilist.co/activity/450497094) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 10](https://anilist.co/activity/450494852) of [Shen Mu](https://anilist.co/anime/129251)
-* [completed None](https://anilist.co/activity/450480538) of [Kanojo, Okarishimasu 2](https://anilist.co/anime/124410)
 <!-- anilist_activity ends -->
 
 </details>
