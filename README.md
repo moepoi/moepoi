@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 10](https://anilist.co/activity/451008222) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
+* [plans to watch None](https://anilist.co/activity/451004513) of [Sono Bisque Doll wa Koi wo Suru (Zoku-hen)](https://anilist.co/anime/154768)
 * [watched episode 13](https://anilist.co/activity/450958299) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [watched episode 11](https://anilist.co/activity/450807552) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
 * [watched episode 13](https://anilist.co/activity/450737397) of [Wangu Shenhua](https://anilist.co/anime/153418)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 12](https://anilist.co/activity/450726686) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 95](https://anilist.co/activity/450723743) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [completed None](https://anilist.co/activity/450721307) of [Douluo Dalu: Nu Shi Mo Zhan](https://anilist.co/anime/154150)
-* [watched episode 42](https://anilist.co/activity/450714673) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 11](https://anilist.co/activity/450709314) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 <!-- anilist_activity ends -->
 
 </details>
