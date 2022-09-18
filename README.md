@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 14](https://anilist.co/activity/451016286) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
+* [watched episode 267](https://anilist.co/activity/451012716) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 24](https://anilist.co/activity/451010736) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 10](https://anilist.co/activity/451008222) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [plans to watch None](https://anilist.co/activity/451004513) of [Sono Bisque Doll wa Koi wo Suru (Zoku-hen)](https://anilist.co/anime/154768)
 * [watched episode 13](https://anilist.co/activity/450958299) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 13](https://anilist.co/activity/450737397) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 29](https://anilist.co/activity/450733823) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 35](https://anilist.co/activity/450731034) of [Jian Xian Zaici](https://anilist.co/anime/149701)
-* [watched episode 12](https://anilist.co/activity/450726686) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [watched episode 95](https://anilist.co/activity/450723743) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [completed None](https://anilist.co/activity/450721307) of [Douluo Dalu: Nu Shi Mo Zhan](https://anilist.co/anime/154150)
 <!-- anilist_activity ends -->
 
 </details>
