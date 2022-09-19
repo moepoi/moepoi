@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 142](https://anilist.co/activity/451491477) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 14](https://anilist.co/activity/451490202) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 30](https://anilist.co/activity/451472804) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 129](https://anilist.co/activity/451468344) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 14](https://anilist.co/activity/451016286) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 10](https://anilist.co/activity/451008222) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [plans to watch None](https://anilist.co/activity/451004513) of [Sono Bisque Doll wa Koi wo Suru (Zoku-hen)](https://anilist.co/anime/154768)
 * [watched episode 13](https://anilist.co/activity/450958299) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [watched episode 11](https://anilist.co/activity/450807552) of [Kuro no Shoukanshi](https://anilist.co/anime/145260)
-* [watched episode 13](https://anilist.co/activity/450737397) of [Wangu Shenhua](https://anilist.co/anime/153418)
 <!-- anilist_activity ends -->
 
 </details>
