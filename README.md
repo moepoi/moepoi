@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 25](https://anilist.co/activity/451959662) of [Jidao Long Shen](https://anilist.co/anime/149095)
+* [watched episode 13](https://anilist.co/activity/451957846) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [watched episode 216](https://anilist.co/activity/451956216) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 268](https://anilist.co/activity/451920584) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 12](https://anilist.co/activity/451656609) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 21](https://anilist.co/activity/451496194) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 14](https://anilist.co/activity/451490202) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 30](https://anilist.co/activity/451472804) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 129](https://anilist.co/activity/451468344) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 14](https://anilist.co/activity/451016286) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 267](https://anilist.co/activity/451012716) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 24](https://anilist.co/activity/451010736) of [Jidao Long Shen](https://anilist.co/anime/149095)
 <!-- anilist_activity ends -->
 
 </details>
