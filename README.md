@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 268](https://anilist.co/activity/451920584) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 12](https://anilist.co/activity/451656609) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 21](https://anilist.co/activity/451496194) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
-* [watched episode 142](https://anilist.co/activity/451491477) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
