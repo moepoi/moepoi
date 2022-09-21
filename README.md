@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/452481368) of [Jian Xian Zaici](https://anilist.co/anime/149701)
 * [watched episode 12](https://anilist.co/activity/452397069) of [Overlord IV](https://anilist.co/anime/133844)
 * [watched episode 96](https://anilist.co/activity/452397061) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 28](https://anilist.co/activity/452387839) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 216](https://anilist.co/activity/451956216) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 268](https://anilist.co/activity/451920584) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 12](https://anilist.co/activity/451656609) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
-* [watched episode 21](https://anilist.co/activity/451496194) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 <!-- anilist_activity ends -->
 
 </details>
