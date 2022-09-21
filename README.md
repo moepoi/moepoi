@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 12](https://anilist.co/activity/452397069) of [Overlord IV](https://anilist.co/anime/133844)
+* [watched episode 96](https://anilist.co/activity/452397061) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 28](https://anilist.co/activity/452387839) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 25](https://anilist.co/activity/451959662) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 13](https://anilist.co/activity/451957846) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 12](https://anilist.co/activity/451656609) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 * [watched episode 21](https://anilist.co/activity/451496194) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 142](https://anilist.co/activity/451491477) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 14](https://anilist.co/activity/451490202) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [watched episode 30](https://anilist.co/activity/451472804) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 <!-- anilist_activity ends -->
 
 </details>
