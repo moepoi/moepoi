@@ -108,7 +108,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Yuuko Yoshida](https://anilist.co/character/141461)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
 * [Ninym Ralei](https://anilist.co/character/206374)
-* [Arian Glenis Maple](https://anilist.co/character/194353)
+* [Ariane Glenys Maple](https://anilist.co/character/194353)
 * [Marin Kitagawa](https://anilist.co/character/133676)
 * [Roroa Amidonia](https://anilist.co/character/133342)
 * [Amalie](https://anilist.co/character/175297)
