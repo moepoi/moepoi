@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 270](https://anilist.co/activity/455073898) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 15](https://anilist.co/activity/455073874) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 14](https://anilist.co/activity/454998175) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [completed None](https://anilist.co/activity/454986492) of [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://anilist.co/anime/145545)
 <!-- anilist_activity ends -->
 
 </details>
