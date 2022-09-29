@@ -42,7 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 22](https://anilist.co/activity/455129969) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 218](https://anilist.co/activity/455086566) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [plans to watch None](https://anilist.co/activity/455083569) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
-* [watched episode 32](https://anilist.co/activity/455083499) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 <!-- anilist_activity ends -->
 
 </details>
