@@ -35,13 +35,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 33](https://anilist.co/activity/456034488) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
+* [watched episode 12](https://anilist.co/activity/456031747) of [Shen Mu](https://anilist.co/anime/129251)
 * [completed None](https://anilist.co/activity/455979998) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 17](https://anilist.co/activity/455979973) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 98](https://anilist.co/activity/455547849) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 29](https://anilist.co/activity/455546332) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [completed None](https://anilist.co/activity/455268351) of [Overlord IV](https://anilist.co/anime/133844)
-* [watched episode 27](https://anilist.co/activity/455135626) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 22](https://anilist.co/activity/455129969) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 <!-- anilist_activity ends -->
 
 </details>
