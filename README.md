@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 132](https://anilist.co/activity/456401512) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [watched episode 52](https://anilist.co/activity/456398687) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [completed None](https://anilist.co/activity/456343943) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
 * [watched episode 8 - 10](https://anilist.co/activity/456343938) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
 * [completed None](https://anilist.co/activity/456286585) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 12](https://anilist.co/activity/456031747) of [Shen Mu](https://anilist.co/anime/129251)
 * [completed None](https://anilist.co/activity/455979998) of [Shen Yin Wangzuo](https://anilist.co/anime/146409)
 * [watched episode 17](https://anilist.co/activity/455979973) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [watched episode 98](https://anilist.co/activity/455547849) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 29](https://anilist.co/activity/455546332) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 <!-- anilist_activity ends -->
 
 </details>
