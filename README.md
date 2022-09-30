@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/456343943) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
+* [watched episode 8 - 10](https://anilist.co/activity/456343938) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
 * [completed None](https://anilist.co/activity/456286585) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 * [watched episode 33](https://anilist.co/activity/456034488) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 12](https://anilist.co/activity/456031747) of [Shen Mu](https://anilist.co/anime/129251)
