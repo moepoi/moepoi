@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/457051674) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
+* [completed None](https://anilist.co/activity/457051581) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
+* [watched episode 44](https://anilist.co/activity/457049892) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
+* [watched episode 28](https://anilist.co/activity/457049811) of [Jidao Long Shen](https://anilist.co/anime/149095)
+* [watched episode 16](https://anilist.co/activity/457049724) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [watched episode 99](https://anilist.co/activity/457049665) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [plans to watch None](https://anilist.co/activity/456734070) of [Douluo Dalu: Tang Men Jueding](https://anilist.co/anime/155093)
 * [watched episode 1 - 2](https://anilist.co/activity/456734003) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
 * [completed None](https://anilist.co/activity/456409283) of [Yofukashi no Uta](https://anilist.co/anime/141391)
 * [watched episode 219](https://anilist.co/activity/456405502) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 145](https://anilist.co/activity/456403225) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 132](https://anilist.co/activity/456401512) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 52](https://anilist.co/activity/456398687) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
-* [completed None](https://anilist.co/activity/456343943) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
-* [watched episode 8 - 10](https://anilist.co/activity/456343938) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen](https://anilist.co/anime/129196)
-* [completed None](https://anilist.co/activity/456286585) of [Hataraku Maou-sama!!](https://anilist.co/anime/130592)
 <!-- anilist_activity ends -->
 
 </details>
