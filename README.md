@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/457450616) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
+* [watched episode 23](https://anilist.co/activity/457450602) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
+* [watched episode 16](https://anilist.co/activity/457449993) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
+* [watched episode 271](https://anilist.co/activity/457449885) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 12](https://anilist.co/activity/457449850) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [plans to watch None](https://anilist.co/activity/457051674) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [completed None](https://anilist.co/activity/457051581) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 * [watched episode 44](https://anilist.co/activity/457049892) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 28](https://anilist.co/activity/457049811) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 16](https://anilist.co/activity/457049724) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [watched episode 99](https://anilist.co/activity/457049665) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [plans to watch None](https://anilist.co/activity/456734070) of [Douluo Dalu: Tang Men Jueding](https://anilist.co/anime/155093)
-* [watched episode 1 - 2](https://anilist.co/activity/456734003) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
-* [completed None](https://anilist.co/activity/456409283) of [Yofukashi no Uta](https://anilist.co/anime/141391)
-* [watched episode 219](https://anilist.co/activity/456405502) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
