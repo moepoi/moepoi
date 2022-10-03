@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 34](https://anilist.co/activity/457871673) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
+* [watched episode 1](https://anilist.co/activity/457871586) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 18](https://anilist.co/activity/457788877) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 146](https://anilist.co/activity/457788854) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 133](https://anilist.co/activity/457788828) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 16](https://anilist.co/activity/457449993) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 271](https://anilist.co/activity/457449885) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 12](https://anilist.co/activity/457449850) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [plans to watch None](https://anilist.co/activity/457051674) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [completed None](https://anilist.co/activity/457051581) of [Wanmei Shijie 2](https://anilist.co/anime/137757)
 <!-- anilist_activity ends -->
 
 </details>
