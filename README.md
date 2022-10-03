@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/457889740) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 1](https://anilist.co/activity/457879444) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [watched episode 34](https://anilist.co/activity/457871673) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 1](https://anilist.co/activity/457871586) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/457450616) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 23](https://anilist.co/activity/457450602) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
 * [watched episode 16](https://anilist.co/activity/457449993) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 271](https://anilist.co/activity/457449885) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 <!-- anilist_activity ends -->
 
 </details>
