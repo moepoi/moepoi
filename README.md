@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 15](https://anilist.co/activity/458241558) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
+* [watched episode 17](https://anilist.co/activity/458235664) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [completed None](https://anilist.co/activity/458235503) of [Wushen Zhuzai](https://anilist.co/anime/117168)
 * [watched episode 1](https://anilist.co/activity/457889740) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 1](https://anilist.co/activity/457879444) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [watched episode 34](https://anilist.co/activity/457871673) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 18](https://anilist.co/activity/457788877) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 146](https://anilist.co/activity/457788854) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 133](https://anilist.co/activity/457788828) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [completed None](https://anilist.co/activity/457450616) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
-* [watched episode 23](https://anilist.co/activity/457450602) of [Kakkou no Iinazuke](https://anilist.co/anime/132052)
-* [watched episode 16](https://anilist.co/activity/457449993) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 <!-- anilist_activity ends -->
 
 </details>
