@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/458423394) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 * [watched episode 1](https://anilist.co/activity/458367047) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 220](https://anilist.co/activity/458344774) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 29](https://anilist.co/activity/458304059) of [Jidao Long Shen](https://anilist.co/anime/149095)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/457889740) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 1](https://anilist.co/activity/457879444) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [watched episode 34](https://anilist.co/activity/457871673) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 1](https://anilist.co/activity/457871586) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 <!-- anilist_activity ends -->
 
 </details>
