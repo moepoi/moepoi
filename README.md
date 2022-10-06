@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/459278057) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [watched episode 35](https://anilist.co/activity/459259341) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 19](https://anilist.co/activity/459201555) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [plans to watch None](https://anilist.co/activity/459155654) of [Shen Ji Long Wei 2](https://anilist.co/anime/155326)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/459025271) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 2](https://anilist.co/activity/459019511) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [plans to watch None](https://anilist.co/activity/458723446) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou Yakusai-hen](https://anilist.co/anime/155211)
-* [watched episode 100](https://anilist.co/activity/458683424) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
