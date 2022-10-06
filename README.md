@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 13](https://anilist.co/activity/459107021) of [Shen Mu](https://anilist.co/anime/129251)
+* [plans to watch None](https://anilist.co/activity/459106961) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [watched episode 1](https://anilist.co/activity/459033065) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 * [watched episode 1](https://anilist.co/activity/459025271) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 2](https://anilist.co/activity/459019511) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 30](https://anilist.co/activity/458683409) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 1](https://anilist.co/activity/458423394) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 * [watched episode 1](https://anilist.co/activity/458367047) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
-* [watched episode 220](https://anilist.co/activity/458344774) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 29](https://anilist.co/activity/458304059) of [Jidao Long Shen](https://anilist.co/anime/149095)
 <!-- anilist_activity ends -->
 
 </details>
