@@ -35,15 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/459504465) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
+* [watched episode 134](https://anilist.co/activity/459504162) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [watched episode 147](https://anilist.co/activity/459504116) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 1](https://anilist.co/activity/459278057) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [watched episode 35](https://anilist.co/activity/459259341) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 19](https://anilist.co/activity/459201555) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [plans to watch None](https://anilist.co/activity/459155654) of [Shen Ji Long Wei 2](https://anilist.co/anime/155326)
 * [watched episode 13](https://anilist.co/activity/459107021) of [Shen Mu](https://anilist.co/anime/129251)
 * [plans to watch None](https://anilist.co/activity/459106961) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [watched episode 1](https://anilist.co/activity/459033065) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
-* [watched episode 1](https://anilist.co/activity/459025271) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
-* [watched episode 2](https://anilist.co/activity/459019511) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 <!-- anilist_activity ends -->
 
 </details>
