@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 221](https://anilist.co/activity/459636138) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 1](https://anilist.co/activity/459504465) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [watched episode 134](https://anilist.co/activity/459504162) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 147](https://anilist.co/activity/459504116) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
