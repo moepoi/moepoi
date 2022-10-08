@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 18](https://anilist.co/activity/460059846) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [watched episode 30](https://anilist.co/activity/460059787) of [Jidao Long Shen](https://anilist.co/anime/149095)
+* [watched episode 2](https://anilist.co/activity/460056360) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [watched episode 3](https://anilist.co/activity/459915463) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
 * [watched episode 101](https://anilist.co/activity/459915453) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 45](https://anilist.co/activity/459915430) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
@@ -42,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/459504465) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [watched episode 134](https://anilist.co/activity/459504162) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 147](https://anilist.co/activity/459504116) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 1](https://anilist.co/activity/459278057) of [Futoku no Guild](https://anilist.co/anime/146233)
-* [watched episode 35](https://anilist.co/activity/459259341) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 <!-- anilist_activity ends -->
 
 </details>
