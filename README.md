@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 17](https://anilist.co/activity/460481764) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 1](https://anilist.co/activity/460442816) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [watched episode 13](https://anilist.co/activity/460331742) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [watched episode 2](https://anilist.co/activity/460284732) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 30](https://anilist.co/activity/460059787) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 2](https://anilist.co/activity/460056360) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [watched episode 3](https://anilist.co/activity/459915463) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
-* [watched episode 101](https://anilist.co/activity/459915453) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
