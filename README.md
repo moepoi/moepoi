@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 13](https://anilist.co/activity/460331742) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [watched episode 2](https://anilist.co/activity/460284732) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 2](https://anilist.co/activity/460284701) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 18](https://anilist.co/activity/460059846) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/459915463) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
 * [watched episode 101](https://anilist.co/activity/459915453) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 45](https://anilist.co/activity/459915430) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 221](https://anilist.co/activity/459636138) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
