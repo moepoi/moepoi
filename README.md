@@ -42,8 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/460284701) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 18](https://anilist.co/activity/460059846) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 30](https://anilist.co/activity/460059787) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 2](https://anilist.co/activity/460056360) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
-* [watched episode 3](https://anilist.co/activity/459915463) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
 <!-- anilist_activity ends -->
 
 </details>
