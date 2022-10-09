@@ -35,13 +35,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 36](https://anilist.co/activity/460608708) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 17](https://anilist.co/activity/460481764) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 1](https://anilist.co/activity/460442816) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [watched episode 13](https://anilist.co/activity/460331742) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [watched episode 2](https://anilist.co/activity/460284732) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 2](https://anilist.co/activity/460284701) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 18](https://anilist.co/activity/460059846) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [watched episode 30](https://anilist.co/activity/460059787) of [Jidao Long Shen](https://anilist.co/anime/149095)
 <!-- anilist_activity ends -->
 
 </details>
