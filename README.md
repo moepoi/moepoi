@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/460284732) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
+* [watched episode 2](https://anilist.co/activity/460284701) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 18](https://anilist.co/activity/460059846) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 30](https://anilist.co/activity/460059787) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 2](https://anilist.co/activity/460056360) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 101](https://anilist.co/activity/459915453) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 45](https://anilist.co/activity/459915430) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 221](https://anilist.co/activity/459636138) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 1](https://anilist.co/activity/459504465) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [watched episode 134](https://anilist.co/activity/459504162) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
