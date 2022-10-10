@@ -35,13 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 36](https://anilist.co/activity/460608708) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 17](https://anilist.co/activity/460481764) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 1](https://anilist.co/activity/460442816) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
-* [watched episode 13](https://anilist.co/activity/460331742) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [watched episode 2](https://anilist.co/activity/460284732) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
-* [watched episode 2](https://anilist.co/activity/460284701) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
-* [watched episode 18](https://anilist.co/activity/460059846) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [plans to watch None](https://anilist.co/activity/460881745) of [Shiro Seijo to Kuro Bokushi](https://anilist.co/anime/150972)
+* [plans to watch None](https://anilist.co/activity/460881678) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
+* [plans to watch None](https://anilist.co/activity/460881582) of [Black Clover: Mahou Tei no Ken](https://anilist.co/anime/131680)
+* [plans to watch None](https://anilist.co/activity/460877612) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
+* [plans to watch None](https://anilist.co/activity/460877553) of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850)
+* [plans to watch None](https://anilist.co/activity/460876942) of [Ayakashi Triangle](https://anilist.co/anime/142849)
+* [plans to watch None](https://anilist.co/activity/460876600) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
+* [plans to watch None](https://anilist.co/activity/460876346) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
+* [watched episode 16](https://anilist.co/activity/460876043) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
+* [watched episode 148](https://anilist.co/activity/460875829) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
