@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/460956736) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [plans to watch None](https://anilist.co/activity/460881745) of [Shiro Seijo to Kuro Bokushi](https://anilist.co/anime/150972)
 * [plans to watch None](https://anilist.co/activity/460881678) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
 * [plans to watch None](https://anilist.co/activity/460881582) of [Black Clover: Mahou Tei no Ken](https://anilist.co/anime/131680)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/460876600) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
 * [plans to watch None](https://anilist.co/activity/460876346) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 16](https://anilist.co/activity/460876043) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [watched episode 148](https://anilist.co/activity/460875829) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
