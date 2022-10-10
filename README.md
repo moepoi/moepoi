@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/460964823) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 1](https://anilist.co/activity/460956736) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [plans to watch None](https://anilist.co/activity/460881745) of [Shiro Seijo to Kuro Bokushi](https://anilist.co/anime/150972)
 * [plans to watch None](https://anilist.co/activity/460881678) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/460876942) of [Ayakashi Triangle](https://anilist.co/anime/142849)
 * [plans to watch None](https://anilist.co/activity/460876600) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
 * [plans to watch None](https://anilist.co/activity/460876346) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
-* [watched episode 16](https://anilist.co/activity/460876043) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 <!-- anilist_activity ends -->
 
 </details>
@@ -95,23 +95,23 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- favorites_characters starts -->
 * [Mukuro Hoshimiya](https://anilist.co/character/157109)
+* [Akari Watanabe](https://anilist.co/character/191672)
 * [Yor Forger](https://anilist.co/character/138102)
-* [Celia Claire](https://anilist.co/character/161678)
-* [Sayu Ogiwara](https://anilist.co/character/127925)
-* [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
+* [Chizuru Ichinose](https://anilist.co/character/128106)
+* [Celia Claire](https://anilist.co/character/161678)
 * [Kyouko Hori](https://anilist.co/character/66171)
 * [Nagisa Minase](https://anilist.co/character/162885)
-* [Ruka Sarashina](https://anilist.co/character/147005)
+* [Sayu Ogiwara](https://anilist.co/character/127925)
 * [Ravel Phenex](https://anilist.co/character/58341)
-* [Ziyu Zhou](https://anilist.co/character/234726)
 * [Kuon](https://anilist.co/character/126823)
+* [Ruka Sarashina](https://anilist.co/character/147005)
 * [Yuuko Yoshida](https://anilist.co/character/141461)
+* [Ziyu Zhou](https://anilist.co/character/234726)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
-* [Ninym Ralei](https://anilist.co/character/206374)
-* [Ariane Glenys Maple](https://anilist.co/character/194353)
-* [Marin Kitagawa](https://anilist.co/character/133676)
 * [Roroa Amidonia](https://anilist.co/character/133342)
+* [Ninym Ralei](https://anilist.co/character/206374)
+* [Marin Kitagawa](https://anilist.co/character/133676)
 * [Amalie](https://anilist.co/character/175297)
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
