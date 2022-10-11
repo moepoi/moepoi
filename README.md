@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 31](https://anilist.co/activity/461359311) of [Jidao Long Shen](https://anilist.co/anime/149095)
+* [watched episode 19](https://anilist.co/activity/461352807) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [watched episode 222](https://anilist.co/activity/461352745) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 1](https://anilist.co/activity/460964823) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 1](https://anilist.co/activity/460956736) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [plans to watch None](https://anilist.co/activity/460881745) of [Shiro Seijo to Kuro Bokushi](https://anilist.co/anime/150972)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/460881582) of [Black Clover: Mahou Tei no Ken](https://anilist.co/anime/131680)
 * [plans to watch None](https://anilist.co/activity/460877612) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
 * [plans to watch None](https://anilist.co/activity/460877553) of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850)
-* [plans to watch None](https://anilist.co/activity/460876942) of [Ayakashi Triangle](https://anilist.co/anime/142849)
-* [plans to watch None](https://anilist.co/activity/460876600) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
-* [plans to watch None](https://anilist.co/activity/460876346) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 <!-- anilist_activity ends -->
 
 </details>
