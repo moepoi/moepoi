@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/461549902) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 * [watched episode 31](https://anilist.co/activity/461359311) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 19](https://anilist.co/activity/461352807) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 222](https://anilist.co/activity/461352745) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/460881678) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
 * [plans to watch None](https://anilist.co/activity/460881582) of [Black Clover: Mahou Tei no Ken](https://anilist.co/anime/131680)
 * [plans to watch None](https://anilist.co/activity/460877612) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
-* [plans to watch None](https://anilist.co/activity/460877553) of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850)
 <!-- anilist_activity ends -->
 
 </details>
