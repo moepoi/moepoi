@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 31](https://anilist.co/activity/461937347) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 102](https://anilist.co/activity/461930839) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [plans to watch None](https://anilist.co/activity/461800819) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [plans to watch None](https://anilist.co/activity/461800619) of [Xingchen Bian 5](https://anilist.co/anime/153494)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/461799728) of [Gimai Seikatsu](https://anilist.co/anime/152681)
 * [plans to watch None](https://anilist.co/activity/461799381) of [Kanojo mo Kanojo 2nd Season](https://anilist.co/anime/154692)
 * [plans to watch None](https://anilist.co/activity/461799283) of [Renai Flops](https://anilist.co/anime/146676)
-* [plans to watch None](https://anilist.co/activity/461798986) of [Ookami to Koushinryou (Shinsaku Anime)](https://anilist.co/anime/145728)
 <!-- anilist_activity ends -->
 
 </details>
