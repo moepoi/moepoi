@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [watched episode 2](https://anilist.co/activity/461549902) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
-* [watched episode 31](https://anilist.co/activity/461359311) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 19](https://anilist.co/activity/461352807) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [watched episode 222](https://anilist.co/activity/461352745) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 1](https://anilist.co/activity/460964823) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
-* [watched episode 1](https://anilist.co/activity/460956736) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
-* [plans to watch None](https://anilist.co/activity/460881745) of [Shiro Seijo to Kuro Bokushi](https://anilist.co/anime/150972)
-* [plans to watch None](https://anilist.co/activity/460881678) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
-* [plans to watch None](https://anilist.co/activity/460881582) of [Black Clover: Mahou Tei no Ken](https://anilist.co/anime/131680)
-* [plans to watch None](https://anilist.co/activity/460877612) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
+* [plans to watch None](https://anilist.co/activity/461800819) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
+* [plans to watch None](https://anilist.co/activity/461800619) of [Xingchen Bian 5](https://anilist.co/anime/153494)
+* [plans to watch None](https://anilist.co/activity/461800582) of [Wu Dong Qiankun 4](https://anilist.co/anime/153495)
+* [plans to watch None](https://anilist.co/activity/461800121) of [Kami wa Game ni Ueteiru.](https://anilist.co/anime/144176)
+* [plans to watch None](https://anilist.co/activity/461799877) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
+* [plans to watch None](https://anilist.co/activity/461799728) of [Gimai Seikatsu](https://anilist.co/anime/152681)
+* [plans to watch None](https://anilist.co/activity/461799381) of [Kanojo mo Kanojo 2nd Season](https://anilist.co/anime/154692)
+* [plans to watch None](https://anilist.co/activity/461799283) of [Renai Flops](https://anilist.co/anime/146676)
+* [plans to watch None](https://anilist.co/activity/461798986) of [Ookami to Koushinryou (Shinsaku Anime)](https://anilist.co/anime/145728)
+* [plans to watch None](https://anilist.co/activity/461798481) of [Genshin](https://anilist.co/anime/154765)
 <!-- anilist_activity ends -->
 
 </details>
