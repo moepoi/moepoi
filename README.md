@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 37](https://anilist.co/activity/462614140) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 2](https://anilist.co/activity/462403009) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 21](https://anilist.co/activity/462391662) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 14](https://anilist.co/activity/462388521) of [Shen Mu](https://anilist.co/anime/129251)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 102](https://anilist.co/activity/461930839) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [plans to watch None](https://anilist.co/activity/461800819) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [plans to watch None](https://anilist.co/activity/461800619) of [Xingchen Bian 5](https://anilist.co/anime/153494)
-* [plans to watch None](https://anilist.co/activity/461800582) of [Wu Dong Qiankun 4](https://anilist.co/anime/153495)
 <!-- anilist_activity ends -->
 
 </details>
