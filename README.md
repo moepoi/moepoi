@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/462335126) of [Futoku no Guild](https://anilist.co/anime/146233)
+* [watched episode 3](https://anilist.co/activity/462335100) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 31](https://anilist.co/activity/461937347) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 102](https://anilist.co/activity/461930839) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [plans to watch None](https://anilist.co/activity/461800819) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/461800121) of [Kami wa Game ni Ueteiru.](https://anilist.co/anime/144176)
 * [plans to watch None](https://anilist.co/activity/461799877) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
 * [plans to watch None](https://anilist.co/activity/461799728) of [Gimai Seikatsu](https://anilist.co/anime/152681)
-* [plans to watch None](https://anilist.co/activity/461799381) of [Kanojo mo Kanojo 2nd Season](https://anilist.co/anime/154692)
-* [plans to watch None](https://anilist.co/activity/461799283) of [Renai Flops](https://anilist.co/anime/146676)
 <!-- anilist_activity ends -->
 
 </details>
