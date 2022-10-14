@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/462871265) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 * [watched episode 1](https://anilist.co/activity/462859955) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 223](https://anilist.co/activity/462831899) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 136](https://anilist.co/activity/462827412) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1](https://anilist.co/activity/462778371) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 * [watched episode 1](https://anilist.co/activity/462755901) of [Renai Flops](https://anilist.co/anime/146676)
 * [watched episode 37](https://anilist.co/activity/462614140) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 2](https://anilist.co/activity/462403009) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 <!-- anilist_activity ends -->
 
 </details>
