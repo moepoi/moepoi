@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/462778463) of [Urusei Yatsura (2022) 2nd Season](https://anilist.co/anime/155645)
+* [watched episode 1](https://anilist.co/activity/462778371) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 * [watched episode 1](https://anilist.co/activity/462755901) of [Renai Flops](https://anilist.co/anime/146676)
 * [watched episode 37](https://anilist.co/activity/462614140) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 2](https://anilist.co/activity/462403009) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/462335126) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [watched episode 3](https://anilist.co/activity/462335100) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 31](https://anilist.co/activity/461937347) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
-* [watched episode 102](https://anilist.co/activity/461930839) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [plans to watch None](https://anilist.co/activity/461800819) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 <!-- anilist_activity ends -->
 
 </details>
