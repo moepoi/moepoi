@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/463536802) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
 * [watched episode 103](https://anilist.co/activity/463529419) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 * [watched episode 32](https://anilist.co/activity/463526836) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 46](https://anilist.co/activity/463523038) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/462871265) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 * [watched episode 1](https://anilist.co/activity/462859955) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 223](https://anilist.co/activity/462831899) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 136](https://anilist.co/activity/462827412) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
