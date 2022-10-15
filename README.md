@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 103](https://anilist.co/activity/463529419) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
+* [watched episode 32](https://anilist.co/activity/463526836) of [Jidao Long Shen](https://anilist.co/anime/149095)
+* [watched episode 46](https://anilist.co/activity/463523038) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
+* [watched episode 3](https://anilist.co/activity/463516741) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 3](https://anilist.co/activity/463465682) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [watched episode 20](https://anilist.co/activity/463465596) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 2](https://anilist.co/activity/462871265) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 * [watched episode 1](https://anilist.co/activity/462859955) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 223](https://anilist.co/activity/462831899) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 136](https://anilist.co/activity/462827412) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 149](https://anilist.co/activity/462803682) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 2](https://anilist.co/activity/462802045) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [plans to watch None](https://anilist.co/activity/462778463) of [Urusei Yatsura (2022) 2nd Season](https://anilist.co/anime/155645)
-* [watched episode 1](https://anilist.co/activity/462778371) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 <!-- anilist_activity ends -->
 
 </details>
