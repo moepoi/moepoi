@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/463987021) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [watched episode 14](https://anilist.co/activity/463797209) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [completed None](https://anilist.co/activity/463536802) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
 * [watched episode 103](https://anilist.co/activity/463529419) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/463465682) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [watched episode 20](https://anilist.co/activity/463465596) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 2](https://anilist.co/activity/462871265) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
-* [watched episode 1](https://anilist.co/activity/462859955) of [Chainsaw Man](https://anilist.co/anime/127230)
 <!-- anilist_activity ends -->
 
 </details>
