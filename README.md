@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 230 - 252](https://anilist.co/activity/464466908) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 2](https://anilist.co/activity/464394761) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [plans to watch None](https://anilist.co/activity/464388457) of [Shen Mu 2](https://anilist.co/anime/155319)
 * [watched episode 150](https://anilist.co/activity/464315110) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 17](https://anilist.co/activity/464219334) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [watched episode 38](https://anilist.co/activity/464213509) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 18](https://anilist.co/activity/464210847) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 2](https://anilist.co/activity/464051357) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 <!-- anilist_activity ends -->
 
 </details>
