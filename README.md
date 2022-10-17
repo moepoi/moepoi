@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/464388457) of [Shen Mu 2](https://anilist.co/anime/155319)
 * [watched episode 150](https://anilist.co/activity/464315110) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 22](https://anilist.co/activity/464313494) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 137](https://anilist.co/activity/464311117) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 18](https://anilist.co/activity/464210847) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 2](https://anilist.co/activity/464051357) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 3](https://anilist.co/activity/464038654) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
-* [watched episode 1](https://anilist.co/activity/463987021) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 <!-- anilist_activity ends -->
 
 </details>
