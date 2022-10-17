@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 150](https://anilist.co/activity/464315110) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 22](https://anilist.co/activity/464313494) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [watched episode 137](https://anilist.co/activity/464311117) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 2](https://anilist.co/activity/464225483) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [watched episode 17](https://anilist.co/activity/464219334) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [watched episode 38](https://anilist.co/activity/464213509) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 2](https://anilist.co/activity/464051357) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 3](https://anilist.co/activity/464038654) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 1](https://anilist.co/activity/463987021) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [watched episode 14](https://anilist.co/activity/463797209) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [completed None](https://anilist.co/activity/463536802) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
-* [watched episode 103](https://anilist.co/activity/463529419) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
 <!-- anilist_activity ends -->
 
 </details>
