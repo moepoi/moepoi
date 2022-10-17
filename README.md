@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 2](https://anilist.co/activity/464225483) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
+* [watched episode 17](https://anilist.co/activity/464219334) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
+* [watched episode 38](https://anilist.co/activity/464213509) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
+* [watched episode 18](https://anilist.co/activity/464210847) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 2](https://anilist.co/activity/464051357) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 3](https://anilist.co/activity/464038654) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 1](https://anilist.co/activity/463987021) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [watched episode 14](https://anilist.co/activity/463797209) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [completed None](https://anilist.co/activity/463536802) of [Douluo Dalu: Ji Dong He Shan](https://anilist.co/anime/155092)
 * [watched episode 103](https://anilist.co/activity/463529419) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 32](https://anilist.co/activity/463526836) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 46](https://anilist.co/activity/463523038) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [watched episode 3](https://anilist.co/activity/463516741) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
-* [watched episode 3](https://anilist.co/activity/463465682) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 <!-- anilist_activity ends -->
 
 </details>
