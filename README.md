@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 224](https://anilist.co/activity/464805908) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 21](https://anilist.co/activity/464777990) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 2](https://anilist.co/activity/464775240) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [watched episode 230 - 252](https://anilist.co/activity/464466908) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 22](https://anilist.co/activity/464313494) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 137](https://anilist.co/activity/464311117) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 2](https://anilist.co/activity/464225483) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
-* [watched episode 17](https://anilist.co/activity/464219334) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 <!-- anilist_activity ends -->
 
 </details>
