@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 21](https://anilist.co/activity/464777990) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [watched episode 2](https://anilist.co/activity/464775240) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [watched episode 230 - 252](https://anilist.co/activity/464466908) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 2](https://anilist.co/activity/464394761) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [plans to watch None](https://anilist.co/activity/464388457) of [Shen Mu 2](https://anilist.co/anime/155319)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 137](https://anilist.co/activity/464311117) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 2](https://anilist.co/activity/464225483) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [watched episode 17](https://anilist.co/activity/464219334) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [watched episode 38](https://anilist.co/activity/464213509) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 18](https://anilist.co/activity/464210847) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 <!-- anilist_activity ends -->
 
 </details>
