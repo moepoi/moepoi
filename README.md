@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 39](https://anilist.co/activity/465759220) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
+* [watched episode 253](https://anilist.co/activity/465757760) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 23](https://anilist.co/activity/465756005) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 4](https://anilist.co/activity/465697526) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 15](https://anilist.co/activity/465684719) of [Shen Mu](https://anilist.co/anime/129251)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/465465981) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 32](https://anilist.co/activity/465254610) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [completed None](https://anilist.co/activity/465249064) of [Yao Shen Ji 5](https://anilist.co/anime/139986)
-* [watched episode 3](https://anilist.co/activity/464957754) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
-* [watched episode 33](https://anilist.co/activity/464864550) of [Jidao Long Shen](https://anilist.co/anime/149095)
 <!-- anilist_activity ends -->
 
 </details>
