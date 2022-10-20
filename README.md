@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/465697526) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 15](https://anilist.co/activity/465684719) of [Shen Mu](https://anilist.co/anime/129251)
 * [watched episode 2](https://anilist.co/activity/465487570) of [Renai Flops](https://anilist.co/anime/146676)
 * [watched episode 2](https://anilist.co/activity/465478159) of [Chainsaw Man](https://anilist.co/anime/127230)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/464957754) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 * [watched episode 33](https://anilist.co/activity/464864550) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 224](https://anilist.co/activity/464805908) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 21](https://anilist.co/activity/464777990) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 <!-- anilist_activity ends -->
 
 </details>
