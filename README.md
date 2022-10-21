@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 151](https://anilist.co/activity/466118792) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 3](https://anilist.co/activity/466116998) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
+* [watched episode 2](https://anilist.co/activity/466107058) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 * [watched episode 3](https://anilist.co/activity/466100705) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [watched episode 3](https://anilist.co/activity/465767021) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [watched episode 39](https://anilist.co/activity/465759220) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 23](https://anilist.co/activity/465756005) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 4](https://anilist.co/activity/465697526) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 15](https://anilist.co/activity/465684719) of [Shen Mu](https://anilist.co/anime/129251)
-* [watched episode 2](https://anilist.co/activity/465487570) of [Renai Flops](https://anilist.co/anime/146676)
-* [watched episode 2](https://anilist.co/activity/465478159) of [Chainsaw Man](https://anilist.co/anime/127230)
-* [watched episode 3](https://anilist.co/activity/465465981) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 <!-- anilist_activity ends -->
 
 </details>
