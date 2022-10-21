@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 138](https://anilist.co/activity/466224239) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [watched episode 225](https://anilist.co/activity/466224049) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 151](https://anilist.co/activity/466118792) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 3](https://anilist.co/activity/466116998) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 * [watched episode 2](https://anilist.co/activity/466107058) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 39](https://anilist.co/activity/465759220) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 253](https://anilist.co/activity/465757760) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 23](https://anilist.co/activity/465756005) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [watched episode 4](https://anilist.co/activity/465697526) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
-* [watched episode 15](https://anilist.co/activity/465684719) of [Shen Mu](https://anilist.co/anime/129251)
 <!-- anilist_activity ends -->
 
 </details>
