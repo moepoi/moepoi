@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/465767021) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [watched episode 39](https://anilist.co/activity/465759220) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 253](https://anilist.co/activity/465757760) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 23](https://anilist.co/activity/465756005) of [Wangu Shenhua](https://anilist.co/anime/153418)
 <!-- anilist_activity ends -->
 
 </details>
