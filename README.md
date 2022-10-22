@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/466516177) of [Douluo Dalu: Tang Men Jueding](https://anilist.co/anime/155093)
 * [watched episode 138](https://anilist.co/activity/466224239) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 225](https://anilist.co/activity/466224049) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 151](https://anilist.co/activity/466118792) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/466100705) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [watched episode 3](https://anilist.co/activity/465767021) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [watched episode 39](https://anilist.co/activity/465759220) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 253](https://anilist.co/activity/465757760) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
