@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/466721980) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
+* [watched episode 4](https://anilist.co/activity/466721948) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 1](https://anilist.co/activity/466516177) of [Douluo Dalu: Tang Men Jueding](https://anilist.co/anime/155093)
 * [watched episode 138](https://anilist.co/activity/466224239) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 225](https://anilist.co/activity/466224049) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/466116998) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 * [watched episode 2](https://anilist.co/activity/466107058) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 * [watched episode 3](https://anilist.co/activity/466100705) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [watched episode 3](https://anilist.co/activity/465767021) of [Futoku no Guild](https://anilist.co/anime/146233)
-* [watched episode 39](https://anilist.co/activity/465759220) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 <!-- anilist_activity ends -->
 
 </details>
