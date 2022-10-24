@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 254](https://anilist.co/activity/467568555) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [watched episode 24](https://anilist.co/activity/467566012) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 152](https://anilist.co/activity/467519353) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 139](https://anilist.co/activity/467519311) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 3](https://anilist.co/activity/467299214) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 19](https://anilist.co/activity/467280465) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 3](https://anilist.co/activity/467172541) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [watched episode 18](https://anilist.co/activity/467009346) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [watched episode 15](https://anilist.co/activity/467002703) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [watched episode 3](https://anilist.co/activity/466989036) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 <!-- anilist_activity ends -->
 
 </details>
