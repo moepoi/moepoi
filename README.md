@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/468619298) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 4](https://anilist.co/activity/468433834) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 * [watched episode 33](https://anilist.co/activity/468426209) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 226](https://anilist.co/activity/468075467) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4](https://anilist.co/activity/467641734) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 254](https://anilist.co/activity/467568555) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 24](https://anilist.co/activity/467566012) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [watched episode 152](https://anilist.co/activity/467519353) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
