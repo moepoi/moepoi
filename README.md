@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 255](https://anilist.co/activity/468929634) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [completed None](https://anilist.co/activity/468927117) of [Shen Mu](https://anilist.co/anime/129251)
 * [watched episode 25](https://anilist.co/activity/468840061) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 3](https://anilist.co/activity/468803199) of [Renai Flops](https://anilist.co/anime/146676)
 * [watched episode 5](https://anilist.co/activity/468637138) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4](https://anilist.co/activity/468433834) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 * [watched episode 33](https://anilist.co/activity/468426209) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 226](https://anilist.co/activity/468075467) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [watched episode 4](https://anilist.co/activity/468020209) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [watched episode 35](https://anilist.co/activity/467984117) of [Jidao Long Shen](https://anilist.co/anime/149095)
 <!-- anilist_activity ends -->
 
 </details>
