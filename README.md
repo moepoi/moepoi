@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 29](https://anilist.co/activity/469449522) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
+* [watched episode 227](https://anilist.co/activity/469446928) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 153](https://anilist.co/activity/469443768) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 140](https://anilist.co/activity/469441333) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 4](https://anilist.co/activity/469438200) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 3](https://anilist.co/activity/469227187) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 * [watched episode 1 - 28](https://anilist.co/activity/469032266) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [watched episode 41](https://anilist.co/activity/468931422) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 255](https://anilist.co/activity/468929634) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [completed None](https://anilist.co/activity/468927117) of [Shen Mu](https://anilist.co/anime/129251)
 <!-- anilist_activity ends -->
 
 </details>
