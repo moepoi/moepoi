@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/469227187) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 * [watched episode 1 - 28](https://anilist.co/activity/469032266) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [watched episode 41](https://anilist.co/activity/468931422) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 255](https://anilist.co/activity/468929634) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/468637138) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 3](https://anilist.co/activity/468628762) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 4](https://anilist.co/activity/468619298) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
-* [watched episode 4](https://anilist.co/activity/468433834) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 <!-- anilist_activity ends -->
 
 </details>
