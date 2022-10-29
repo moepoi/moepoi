@@ -43,8 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 4](https://anilist.co/activity/469238899) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [watched episode 4](https://anilist.co/activity/469233255) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 * [watched episode 3](https://anilist.co/activity/469227187) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
-* [watched episode 1 - 28](https://anilist.co/activity/469032266) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
-* [watched episode 41](https://anilist.co/activity/468931422) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 <!-- anilist_activity ends -->
 
 </details>
