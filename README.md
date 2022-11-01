@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1](https://anilist.co/activity/471169771) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [completed None](https://anilist.co/activity/471169465) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
+* [watched episode 27 - 51](https://anilist.co/activity/471169424) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 30](https://anilist.co/activity/471083646) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [watched episode 228](https://anilist.co/activity/471081250) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 37](https://anilist.co/activity/471079357) of [Jidao Long Shen](https://anilist.co/anime/149095)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/471062469) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 * [plans to watch None](https://anilist.co/activity/471062412) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [plans to watch None](https://anilist.co/activity/471061976) of [Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?](https://anilist.co/anime/156023)
-* [plans to watch None](https://anilist.co/activity/471061897) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-* [plans to watch None](https://anilist.co/activity/471061466) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
-* [plans to watch None](https://anilist.co/activity/471060535) of [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://anilist.co/anime/151384)
 <!-- anilist_activity ends -->
 
 </details>
