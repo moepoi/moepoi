@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 19](https://anilist.co/activity/471043516) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
+* [watched episode 25](https://anilist.co/activity/471037109) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [watched episode 6](https://anilist.co/activity/471037075) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [watched episode 1 - 42](https://anilist.co/activity/470818851) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 * [watched episode 26](https://anilist.co/activity/470636061) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 256](https://anilist.co/activity/470615480) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 141](https://anilist.co/activity/470602517) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 4](https://anilist.co/activity/470405332) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [watched episode 4](https://anilist.co/activity/470400366) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
-* [watched episode 42](https://anilist.co/activity/470326367) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 20](https://anilist.co/activity/470323380) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 5](https://anilist.co/activity/470125314) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 <!-- anilist_activity ends -->
 
 </details>
@@ -96,15 +96,15 @@ I'd like to do project that has relation to anime. :ghost:
 <!-- favorites_characters starts -->
 * [Mukuro Hoshimiya](https://anilist.co/character/157109)
 * [Akari Watanabe](https://anilist.co/character/191672)
-* [Yor Forger](https://anilist.co/character/138102)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
+* [Kuon](https://anilist.co/character/126823)
+* [Yor Forger](https://anilist.co/character/138102)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Celia Claire](https://anilist.co/character/161678)
 * [Kyouko Hori](https://anilist.co/character/66171)
 * [Nagisa Minase](https://anilist.co/character/162885)
 * [Sayu Ogiwara](https://anilist.co/character/127925)
 * [Ravel Phenex](https://anilist.co/character/58341)
-* [Kuon](https://anilist.co/character/126823)
 * [Ruka Sarashina](https://anilist.co/character/147005)
 * [Yuuko Yoshida](https://anilist.co/character/141461)
 * [Ziyu Zhou](https://anilist.co/character/234726)
