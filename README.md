@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 1 - 43](https://anilist.co/activity/471076597) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 * [plans to watch None](https://anilist.co/activity/471062469) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 * [plans to watch None](https://anilist.co/activity/471062412) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [plans to watch None](https://anilist.co/activity/471061976) of [Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?](https://anilist.co/anime/156023)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [plans to watch None](https://anilist.co/activity/471060316) of [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd Season](https://anilist.co/anime/156131)
 * [watched episode 19](https://anilist.co/activity/471043516) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [watched episode 25](https://anilist.co/activity/471037109) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [watched episode 6](https://anilist.co/activity/471037075) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 <!-- anilist_activity ends -->
 
 </details>
