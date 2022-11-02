@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7 - 38](https://anilist.co/activity/471590471) of [Xian Mu](https://anilist.co/anime/148334)
 * [watched episode 34](https://anilist.co/activity/471498165) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 5](https://anilist.co/activity/471442950) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 * [watched episode 1](https://anilist.co/activity/471169771) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 228](https://anilist.co/activity/471081250) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 37](https://anilist.co/activity/471079357) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 1 - 43](https://anilist.co/activity/471076597) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
-* [plans to watch None](https://anilist.co/activity/471062469) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 <!-- anilist_activity ends -->
 
 </details>
