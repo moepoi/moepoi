@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/471885955) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 4](https://anilist.co/activity/471719994) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 5](https://anilist.co/activity/471719836) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 7 - 38](https://anilist.co/activity/471590471) of [Xian Mu](https://anilist.co/anime/148334)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/471169465) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 27 - 51](https://anilist.co/activity/471169424) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 * [watched episode 30](https://anilist.co/activity/471083646) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
-* [watched episode 228](https://anilist.co/activity/471081250) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
