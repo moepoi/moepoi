@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/471931747) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 * [watched episode 27](https://anilist.co/activity/471926011) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 7 - 39](https://anilist.co/activity/471905709) of [Xian Mu](https://anilist.co/anime/148334)
 * [watched episode 257](https://anilist.co/activity/471903613) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/471719836) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 34](https://anilist.co/activity/471498165) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 5](https://anilist.co/activity/471442950) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
-* [watched episode 1](https://anilist.co/activity/471169771) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 <!-- anilist_activity ends -->
 
 </details>
