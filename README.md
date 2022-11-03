@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7 - 39](https://anilist.co/activity/471905709) of [Xian Mu](https://anilist.co/anime/148334)
+* [watched episode 257](https://anilist.co/activity/471903613) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 4](https://anilist.co/activity/471899631) of [Renai Flops](https://anilist.co/anime/146676)
 * [watched episode 6](https://anilist.co/activity/471885955) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 4](https://anilist.co/activity/471719994) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 5](https://anilist.co/activity/471719836) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
-* [watched episode 7 - 38](https://anilist.co/activity/471590471) of [Xian Mu](https://anilist.co/anime/148334)
 * [watched episode 34](https://anilist.co/activity/471498165) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 5](https://anilist.co/activity/471442950) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 * [watched episode 1](https://anilist.co/activity/471169771) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [completed None](https://anilist.co/activity/471169465) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
-* [watched episode 27 - 51](https://anilist.co/activity/471169424) of [Jiu Tian Xuan Di Jue 2](https://anilist.co/anime/148226)
 <!-- anilist_activity ends -->
 
 </details>
