@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/471994092) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
+* [watched episode 29 - 39](https://anilist.co/activity/471994077) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
 * [watched episode 5](https://anilist.co/activity/471931747) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 * [watched episode 27](https://anilist.co/activity/471926011) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 7 - 39](https://anilist.co/activity/471905709) of [Xian Mu](https://anilist.co/anime/148334)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/471885955) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 4](https://anilist.co/activity/471719994) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 5](https://anilist.co/activity/471719836) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
-* [watched episode 34](https://anilist.co/activity/471498165) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
-* [watched episode 5](https://anilist.co/activity/471442950) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 <!-- anilist_activity ends -->
 
 </details>
