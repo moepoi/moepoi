@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/472279243) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 * [watched episode 43](https://anilist.co/activity/472061802) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 5](https://anilist.co/activity/472059012) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [completed None](https://anilist.co/activity/471994092) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7 - 39](https://anilist.co/activity/471905709) of [Xian Mu](https://anilist.co/anime/148334)
 * [watched episode 257](https://anilist.co/activity/471903613) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 4](https://anilist.co/activity/471899631) of [Renai Flops](https://anilist.co/anime/146676)
-* [watched episode 6](https://anilist.co/activity/471885955) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 <!-- anilist_activity ends -->
 
 </details>
