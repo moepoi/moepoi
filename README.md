@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 31](https://anilist.co/activity/472492009) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
+* [watched episode 2](https://anilist.co/activity/472491085) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [watched episode 229](https://anilist.co/activity/472377495) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 142](https://anilist.co/activity/472347867) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 155](https://anilist.co/activity/472344738) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 43](https://anilist.co/activity/472061802) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 5](https://anilist.co/activity/472059012) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [completed None](https://anilist.co/activity/471994092) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
-* [watched episode 29 - 39](https://anilist.co/activity/471994077) of [Xing Wu Shen Jue 2](https://anilist.co/anime/150080)
-* [watched episode 5](https://anilist.co/activity/471931747) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
 <!-- anilist_activity ends -->
 
 </details>
