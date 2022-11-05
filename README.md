@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 38](https://anilist.co/activity/472718686) of [Jidao Long Shen](https://anilist.co/anime/149095)
+* [watched episode 26](https://anilist.co/activity/472718638) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 3](https://anilist.co/activity/472676305) of [Douluo Dalu: Tang Men Jueding](https://anilist.co/anime/155093)
 * [watched episode 31](https://anilist.co/activity/472492009) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [watched episode 2](https://anilist.co/activity/472491085) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 155](https://anilist.co/activity/472344738) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 5](https://anilist.co/activity/472344698) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [watched episode 4](https://anilist.co/activity/472279243) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
-* [watched episode 43](https://anilist.co/activity/472061802) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 5](https://anilist.co/activity/472059012) of [Futoku no Guild](https://anilist.co/anime/146233)
 <!-- anilist_activity ends -->
 
 </details>
