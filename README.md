@@ -35,6 +35,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 28](https://anilist.co/activity/473699786) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [watched episode 156](https://anilist.co/activity/473696635) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 143](https://anilist.co/activity/473694603) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 6](https://anilist.co/activity/473651916) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 5](https://anilist.co/activity/473441389) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 5](https://anilist.co/activity/473427431) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
@@ -42,9 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 40](https://anilist.co/activity/473416379) of [Xian Mu](https://anilist.co/anime/148334)
 * [watched episode 21](https://anilist.co/activity/473296853) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 5](https://anilist.co/activity/473292798) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
-* [watched episode 7](https://anilist.co/activity/473207787) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [watched episode 17](https://anilist.co/activity/473205880) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [watched episode 20](https://anilist.co/activity/472996782) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 <!-- anilist_activity ends -->
 
 </details>
