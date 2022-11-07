@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 3](https://anilist.co/activity/473763141) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [watched episode 258](https://anilist.co/activity/473761397) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 28](https://anilist.co/activity/473699786) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 156](https://anilist.co/activity/473696635) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 143](https://anilist.co/activity/473694603) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 5](https://anilist.co/activity/473427431) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [watched episode 44](https://anilist.co/activity/473422358) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 40](https://anilist.co/activity/473416379) of [Xian Mu](https://anilist.co/anime/148334)
-* [watched episode 21](https://anilist.co/activity/473296853) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
-* [watched episode 5](https://anilist.co/activity/473292798) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 <!-- anilist_activity ends -->
 
 </details>
