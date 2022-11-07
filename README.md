@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/473852994) of [Isekai Yakkyoku](https://anilist.co/anime/136707)
+* [watched episode 1 - 11](https://anilist.co/activity/473852968) of [Isekai Yakkyoku](https://anilist.co/anime/136707)
 * [watched episode 3](https://anilist.co/activity/473763141) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [watched episode 258](https://anilist.co/activity/473761397) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 28](https://anilist.co/activity/473699786) of [Wangu Shenhua](https://anilist.co/anime/153418)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/473651916) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 5](https://anilist.co/activity/473441389) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 5](https://anilist.co/activity/473427431) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
-* [watched episode 44](https://anilist.co/activity/473422358) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 40](https://anilist.co/activity/473416379) of [Xian Mu](https://anilist.co/anime/148334)
 <!-- anilist_activity ends -->
 
 </details>
