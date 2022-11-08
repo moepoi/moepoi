@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 27](https://anilist.co/activity/474119323) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [watched episode 8](https://anilist.co/activity/474117348) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [completed None](https://anilist.co/activity/473852994) of [Isekai Yakkyoku](https://anilist.co/anime/136707)
 * [watched episode 1 - 11](https://anilist.co/activity/473852968) of [Isekai Yakkyoku](https://anilist.co/anime/136707)
 * [watched episode 3](https://anilist.co/activity/473763141) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 156](https://anilist.co/activity/473696635) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 143](https://anilist.co/activity/473694603) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 6](https://anilist.co/activity/473651916) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
-* [watched episode 5](https://anilist.co/activity/473441389) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
-* [watched episode 5](https://anilist.co/activity/473427431) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 <!-- anilist_activity ends -->
 
 </details>
