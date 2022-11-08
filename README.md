@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 230](https://anilist.co/activity/474168477) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 27](https://anilist.co/activity/474119323) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 8](https://anilist.co/activity/474117348) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [completed None](https://anilist.co/activity/473852994) of [Isekai Yakkyoku](https://anilist.co/anime/136707)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 28](https://anilist.co/activity/473699786) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 156](https://anilist.co/activity/473696635) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 143](https://anilist.co/activity/473694603) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 6](https://anilist.co/activity/473651916) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 <!-- anilist_activity ends -->
 
 </details>
