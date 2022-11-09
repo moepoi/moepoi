@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/474760414) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [plans to watch None](https://anilist.co/activity/474731705) of [Tensei Shitara Slime Datta Ken 3rd Season](https://anilist.co/anime/156822)
 * [watched episode 5](https://anilist.co/activity/474612652) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 35](https://anilist.co/activity/474595257) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 39](https://anilist.co/activity/474215517) of [Jidao Long Shen](https://anilist.co/anime/149095)
 * [watched episode 230](https://anilist.co/activity/474168477) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 27](https://anilist.co/activity/474119323) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [watched episode 8](https://anilist.co/activity/474117348) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 <!-- anilist_activity ends -->
 
 </details>
