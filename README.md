@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 5](https://anilist.co/activity/474612652) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 35](https://anilist.co/activity/474595257) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 6](https://anilist.co/activity/474364206) of [Shinobi no Ittoki](https://anilist.co/anime/145604)
 * [watched episode 45](https://anilist.co/activity/474243413) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 27](https://anilist.co/activity/474119323) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 8](https://anilist.co/activity/474117348) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [completed None](https://anilist.co/activity/473852994) of [Isekai Yakkyoku](https://anilist.co/anime/136707)
-* [watched episode 1 - 11](https://anilist.co/activity/473852968) of [Isekai Yakkyoku](https://anilist.co/anime/136707)
 <!-- anilist_activity ends -->
 
 </details>
