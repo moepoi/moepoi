@@ -35,16 +35,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 4](https://anilist.co/activity/475519639) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [watched episode 231](https://anilist.co/activity/475519530) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [watched episode 144](https://anilist.co/activity/475519470) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [watched episode 157](https://anilist.co/activity/475519394) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 5](https://anilist.co/activity/475402859) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 * [watched episode 6](https://anilist.co/activity/475395715) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [watched episode 45](https://anilist.co/activity/475168817) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 29](https://anilist.co/activity/475104430) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [watched episode 259](https://anilist.co/activity/475102330) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [watched episode 6](https://anilist.co/activity/475094955) of [Futoku no Guild](https://anilist.co/anime/146233)
-* [watched episode 6](https://anilist.co/activity/475057106) of [Mob Psycho 100 III](https://anilist.co/anime/140439)
-* [watched episode 1 - 2](https://anilist.co/activity/475051943) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [watched episode 7](https://anilist.co/activity/475019846) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
-* [watched episode 5](https://anilist.co/activity/474789010) of [Renai Flops](https://anilist.co/anime/146676)
 <!-- anilist_activity ends -->
 
 </details>
