@@ -35,15 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 9](https://anilist.co/activity/476234408) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [watched episode 18](https://anilist.co/activity/476234390) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
+* [completed None](https://anilist.co/activity/476233900) of [Kao Ni La! Zhanshen Xitong ](https://anilist.co/anime/141881)
+* [watched episode 1 - 15](https://anilist.co/activity/476233879) of [Kao Ni La! Zhanshen Xitong ](https://anilist.co/anime/141881)
 * [watched episode 6](https://anilist.co/activity/475916493) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [watched episode 7](https://anilist.co/activity/475908961) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [watched episode 7](https://anilist.co/activity/475908943) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [watched episode 46](https://anilist.co/activity/475796154) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 * [watched episode 28](https://anilist.co/activity/475771924) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [completed None](https://anilist.co/activity/475769943) of [Jidao Long Shen](https://anilist.co/anime/149095)
-* [watched episode 50](https://anilist.co/activity/475753698) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
-* [completed None](https://anilist.co/activity/475736344) of [Douluo Dalu: Tang Men Jueding](https://anilist.co/anime/155093)
-* [watched episode 33](https://anilist.co/activity/475543524) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 <!-- anilist_activity ends -->
 
 </details>
