@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 50](https://anilist.co/activity/475753698) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [completed None](https://anilist.co/activity/475736344) of [Douluo Dalu: Tang Men Jueding](https://anilist.co/anime/155093)
 * [watched episode 33](https://anilist.co/activity/475543524) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
-* [watched episode 4](https://anilist.co/activity/475519639) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 <!-- anilist_activity ends -->
 
 </details>
