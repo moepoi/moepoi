@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/476611433) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 7](https://anilist.co/activity/476374270) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 46](https://anilist.co/activity/476347429) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 21](https://anilist.co/activity/476299074) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 18](https://anilist.co/activity/476234390) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [completed None](https://anilist.co/activity/476233900) of [Kao Ni La! Zhanshen Xitong ](https://anilist.co/anime/141881)
 * [watched episode 1 - 15](https://anilist.co/activity/476233879) of [Kao Ni La! Zhanshen Xitong ](https://anilist.co/anime/141881)
-* [watched episode 6](https://anilist.co/activity/475916493) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 <!-- anilist_activity ends -->
 
 </details>
