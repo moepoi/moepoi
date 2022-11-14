@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/476656062) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [watched episode 158](https://anilist.co/activity/476653912) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 145](https://anilist.co/activity/476651723) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 6](https://anilist.co/activity/476611433) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 7](https://anilist.co/activity/476374270) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 22](https://anilist.co/activity/476283934) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [watched episode 9](https://anilist.co/activity/476234408) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [watched episode 18](https://anilist.co/activity/476234390) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [completed None](https://anilist.co/activity/476233900) of [Kao Ni La! Zhanshen Xitong ](https://anilist.co/anime/141881)
-* [watched episode 1 - 15](https://anilist.co/activity/476233879) of [Kao Ni La! Zhanshen Xitong ](https://anilist.co/anime/141881)
 <!-- anilist_activity ends -->
 
 </details>
