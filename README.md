@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/476771718) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [completed None](https://anilist.co/activity/476679893) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [paused watching None](https://anilist.co/activity/476671093) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
 * [watched episode 5](https://anilist.co/activity/476670809) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/476611433) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 7](https://anilist.co/activity/476374270) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 46](https://anilist.co/activity/476347429) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
-* [watched episode 21](https://anilist.co/activity/476299074) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 <!-- anilist_activity ends -->
 
 </details>
