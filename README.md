@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/477699949) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 36](https://anilist.co/activity/477512292) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 34](https://anilist.co/activity/477179391) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [watched episode 47](https://anilist.co/activity/477179147) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/476771718) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [completed None](https://anilist.co/activity/476679893) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [paused watching None](https://anilist.co/activity/476671093) of [Qi Jie Diyi Xian](https://anilist.co/anime/139170)
-* [watched episode 5](https://anilist.co/activity/476670809) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 <!-- anilist_activity ends -->
 
 </details>
