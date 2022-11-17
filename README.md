@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 36](https://anilist.co/activity/477512292) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 34](https://anilist.co/activity/477179391) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [watched episode 47](https://anilist.co/activity/477179147) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
-* [watched episode 232](https://anilist.co/activity/477087747) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
