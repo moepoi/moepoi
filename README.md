@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 6](https://anilist.co/activity/477877594) of [Renai Flops](https://anilist.co/anime/146676)
+* [watched episode 8](https://anilist.co/activity/477851682) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 6](https://anilist.co/activity/477708733) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 7](https://anilist.co/activity/477699949) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 36](https://anilist.co/activity/477512292) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 232](https://anilist.co/activity/477087747) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 29](https://anilist.co/activity/477064501) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 10](https://anilist.co/activity/477062613) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [watched episode 6](https://anilist.co/activity/476771718) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
-* [completed None](https://anilist.co/activity/476679893) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
