@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 159](https://anilist.co/activity/478925229) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 233](https://anilist.co/activity/478923247) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 146](https://anilist.co/activity/478920532) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 1 - 20](https://anilist.co/activity/478908625) of [Yi Nian Yongheng: Chuancheng Pian](https://anilist.co/anime/137742)
 * [completed None](https://anilist.co/activity/478704135) of [Yi Nian Yongheng](https://anilist.co/anime/110595)
@@ -42,8 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 7](https://anilist.co/activity/478140230) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [watched episode 3](https://anilist.co/activity/477918840) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [watched episode 6](https://anilist.co/activity/477877594) of [Renai Flops](https://anilist.co/anime/146676)
-* [watched episode 8](https://anilist.co/activity/477851682) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
-* [watched episode 6](https://anilist.co/activity/477708733) of [Chainsaw Man](https://anilist.co/anime/127230)
 <!-- anilist_activity ends -->
 
 </details>
