@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 48](https://anilist.co/activity/478939848) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
+* [watched episode 30](https://anilist.co/activity/478937049) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 51](https://anilist.co/activity/478933787) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
 * [watched episode 6](https://anilist.co/activity/478928750) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [watched episode 159](https://anilist.co/activity/478925229) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -43,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 1 - 20](https://anilist.co/activity/478908625) of [Yi Nian Yongheng: Chuancheng Pian](https://anilist.co/anime/137742)
 * [completed None](https://anilist.co/activity/478704135) of [Yi Nian Yongheng](https://anilist.co/anime/110595)
 * [watched episode 1 - 51](https://anilist.co/activity/478704117) of [Yi Nian Yongheng](https://anilist.co/anime/110595)
-* [watched episode 7](https://anilist.co/activity/478140230) of [Futoku no Guild](https://anilist.co/anime/146233)
 <!-- anilist_activity ends -->
 
 </details>
