@@ -35,6 +35,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 146](https://anilist.co/activity/478920532) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 1 - 20](https://anilist.co/activity/478908625) of [Yi Nian Yongheng: Chuancheng Pian](https://anilist.co/anime/137742)
 * [completed None](https://anilist.co/activity/478704135) of [Yi Nian Yongheng](https://anilist.co/anime/110595)
 * [watched episode 1 - 51](https://anilist.co/activity/478704117) of [Yi Nian Yongheng](https://anilist.co/anime/110595)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/477877594) of [Renai Flops](https://anilist.co/anime/146676)
 * [watched episode 8](https://anilist.co/activity/477851682) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [watched episode 6](https://anilist.co/activity/477708733) of [Chainsaw Man](https://anilist.co/anime/127230)
-* [watched episode 7](https://anilist.co/activity/477699949) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 <!-- anilist_activity ends -->
 
 </details>
