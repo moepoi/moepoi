@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 35](https://anilist.co/activity/478949653) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
+* [watched episode 1](https://anilist.co/activity/478946504) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
 * [watched episode 48](https://anilist.co/activity/478939848) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 * [watched episode 30](https://anilist.co/activity/478937049) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 51](https://anilist.co/activity/478933787) of [Bing Huo Mo Chu](https://anilist.co/anime/129245)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 233](https://anilist.co/activity/478923247) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [watched episode 146](https://anilist.co/activity/478920532) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 1 - 20](https://anilist.co/activity/478908625) of [Yi Nian Yongheng: Chuancheng Pian](https://anilist.co/anime/137742)
-* [completed None](https://anilist.co/activity/478704135) of [Yi Nian Yongheng](https://anilist.co/anime/110595)
-* [watched episode 1 - 51](https://anilist.co/activity/478704117) of [Yi Nian Yongheng](https://anilist.co/anime/110595)
 <!-- anilist_activity ends -->
 
 </details>
