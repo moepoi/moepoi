@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 6](https://anilist.co/activity/478957210) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 * [watched episode 35](https://anilist.co/activity/478949653) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [watched episode 1](https://anilist.co/activity/478946504) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
-* [watched episode 48](https://anilist.co/activity/478939848) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 <!-- anilist_activity ends -->
 
 </details>
