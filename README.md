@@ -35,15 +35,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [completed None](https://anilist.co/activity/479605987) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
+* [watched episode 47](https://anilist.co/activity/479605930) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
+* [watched episode 160](https://anilist.co/activity/479602672) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [watched episode 147](https://anilist.co/activity/479598491) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [watched episode 7](https://anilist.co/activity/479366074) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [watched episode 7](https://anilist.co/activity/479366018) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [watched episode 11](https://anilist.co/activity/479242537) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [watched episode 8](https://anilist.co/activity/479129358) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [watched episode 22](https://anilist.co/activity/479122350) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [watched episode 19](https://anilist.co/activity/479115398) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [watched episode 8](https://anilist.co/activity/479108953) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
-* [watched episode 8](https://anilist.co/activity/478964818) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 <!-- anilist_activity ends -->
 
 </details>
