@@ -35,6 +35,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [plans to watch None](https://anilist.co/activity/480019146) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
+* [watched episode 7](https://anilist.co/activity/480018895) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [watched episode 12](https://anilist.co/activity/479983493) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [watched episode 31](https://anilist.co/activity/479981921) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [watched episode 23](https://anilist.co/activity/479625465) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [completed None](https://anilist.co/activity/479605987) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 47](https://anilist.co/activity/479605930) of [Xianwu Cangqiong](https://anilist.co/anime/151511)
 * [watched episode 160](https://anilist.co/activity/479602672) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 147](https://anilist.co/activity/479598491) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 7](https://anilist.co/activity/479366074) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 <!-- anilist_activity ends -->
 
 </details>
