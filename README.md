@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/480598329) of [Chainsaw Man](https://anilist.co/anime/127230)
+* [watched episode 8](https://anilist.co/activity/480598195) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 37](https://anilist.co/activity/480401889) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [watched episode 41 - 42](https://anilist.co/activity/480394799) of [Xian Mu](https://anilist.co/anime/148334)
 * [watched episode 36](https://anilist.co/activity/480389576) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 234](https://anilist.co/activity/480384478) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [plans to watch None](https://anilist.co/activity/480019146) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
 * [watched episode 7](https://anilist.co/activity/480018895) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
-* [watched episode 12](https://anilist.co/activity/479983493) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [watched episode 31](https://anilist.co/activity/479981921) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 <!-- anilist_activity ends -->
 
 </details>
