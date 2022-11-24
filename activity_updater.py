@@ -1,6 +1,4 @@
 from python_graphql_client import GraphqlClient
-import requests
-import json
 import pathlib
 import re
 import os
@@ -257,33 +255,11 @@ def fetch_activity(oauth_token, userId):
             pass
     return results
 
-def share_activity(token, text, visibility):
-    try:
-        url = "https://moe.onl/api/notes/create"
-
-        payload = json.dumps({
-          "i": token,
-          "text": text,
-          "visibility": visibility
-        })
-        headers = {
-          'Content-Type': 'application/json'
-        }
-
-        requests.request("POST", url, headers=headers, data=payload)
-    except Exception as e:
-        print (e)
-
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
     # List Activity
     data = fetch_activity(TOKEN, userId=161753)
-    if data[0]['progress'] != None:
-        share_text = f"{data[0]['status']} {data[0]['progress']} of [{data[0]['title']}]({data[0]['url']})"
-    else:
-        share_text = f"{data[0]['status']} [{data[0]['title']}]({data[0]['url']})"
-    share_activity(SHARE_TOKEN, share_text, "public")
     res = "\n".join(
         [
             "* [{status} {progress}]({activity_url}) of [{title}]({url})".format(**x)
