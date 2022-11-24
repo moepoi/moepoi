@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [watched episode 7](https://anilist.co/activity/480792688) of [Renai Flops](https://anilist.co/anime/146676)
 * [watched episode 7](https://anilist.co/activity/480598329) of [Chainsaw Man](https://anilist.co/anime/127230)
 * [watched episode 8](https://anilist.co/activity/480598195) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [watched episode 37](https://anilist.co/activity/480401889) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [watched episode 49](https://anilist.co/activity/480386791) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 * [watched episode 234](https://anilist.co/activity/480384478) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [plans to watch None](https://anilist.co/activity/480019146) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
-* [watched episode 7](https://anilist.co/activity/480018895) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 <!-- anilist_activity ends -->
 
 </details>
