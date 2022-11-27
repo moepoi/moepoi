@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 13](https://anilist.co/activity/482047616) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 9](https://anilist.co/activity/481834099) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [Watched episode 9](https://anilist.co/activity/481754035) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [Watched episode 2](https://anilist.co/activity/481628680) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 37](https://anilist.co/activity/481255809) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [Watched episode 235](https://anilist.co/activity/481254162) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 7](https://anilist.co/activity/481238318) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
-* [Watched episode 161](https://anilist.co/activity/481238040) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
