@@ -42,7 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 24](https://anilist.co/activity/482504610) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [Watched episode 149](https://anilist.co/activity/482500437) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 8](https://anilist.co/activity/482449457) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
-* [Watched episode 8](https://anilist.co/activity/482263216) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 <!-- anilist_activity ends -->
 
 </details>
