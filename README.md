@@ -41,7 +41,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 8](https://anilist.co/activity/482667883) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [Watched episode 1 - 9](https://anilist.co/activity/482651452) of [Changye Kaituozhe](https://anilist.co/anime/141861)
 * [Watched episode 9](https://anilist.co/activity/482577910) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 162](https://anilist.co/activity/482528639) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
