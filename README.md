@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 8](https://anilist.co/activity/482449457) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [Watched episode 8](https://anilist.co/activity/482263216) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [Watched episode 23](https://anilist.co/activity/482235966) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
-* [Watched episode 9](https://anilist.co/activity/482053379) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 <!-- anilist_activity ends -->
 
 </details>
