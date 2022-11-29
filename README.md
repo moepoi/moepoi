@@ -40,8 +40,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1 - 9](https://anilist.co/activity/482967134) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 * [Watched episode 50 - 51](https://anilist.co/activity/482964313) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 * [Watched episode 236](https://anilist.co/activity/482961709) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 33](https://anilist.co/activity/482939317) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 14](https://anilist.co/activity/482936352) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 <!-- anilist_activity ends -->
 
 </details>
