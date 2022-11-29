@@ -36,10 +36,10 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1 - 20](https://anilist.co/activity/483109685) of [Zhu Xian](https://anilist.co/anime/122509)
 * [Watched episode 38](https://anilist.co/activity/482971123) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [Watched episode 1 - 9](https://anilist.co/activity/482967134) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 * [Watched episode 50 - 51](https://anilist.co/activity/482964313) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
-* [Watched episode 236](https://anilist.co/activity/482961709) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
