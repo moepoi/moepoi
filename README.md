@@ -36,8 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 14](https://anilist.co/activity/482936352) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 50](https://anilist.co/activity/482675171) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
-* [Watched episode 8](https://anilist.co/activity/482672256) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 <!-- anilist_activity ends -->
 
 </details>
