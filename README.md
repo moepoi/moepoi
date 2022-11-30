@@ -38,7 +38,6 @@ I'd like to do project that has relation to anime. :ghost:
 <!-- anilist_activity starts -->
 * [Watched episode 1 - 20](https://anilist.co/activity/483109685) of [Zhu Xian](https://anilist.co/anime/122509)
 * [Watched episode 38](https://anilist.co/activity/482971123) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
-* [Watched episode 1 - 9](https://anilist.co/activity/482967134) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 <!-- anilist_activity ends -->
 
 </details>
