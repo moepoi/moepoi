@@ -40,7 +40,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 10](https://anilist.co/activity/483729178) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [Watched episode 9](https://anilist.co/activity/483580807) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [Watched episode 8](https://anilist.co/activity/483580779) of [Chainsaw Man](https://anilist.co/anime/127230)
-* [Watched episode 43 - 44](https://anilist.co/activity/483444507) of [Xian Mu](https://anilist.co/anime/148334)
 <!-- anilist_activity ends -->
 
 </details>
