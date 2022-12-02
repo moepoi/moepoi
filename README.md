@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/484324205) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Completed None](https://anilist.co/activity/484276676) of [Zuihou De Zhaohuan Shi](https://anilist.co/anime/114108)
 * [Watched episode 1 - 11](https://anilist.co/activity/484276655) of [Zuihou De Zhaohuan Shi](https://anilist.co/anime/114108)
 * [Watched episode 10](https://anilist.co/activity/484216082) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 237](https://anilist.co/activity/484212777) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 150](https://anilist.co/activity/484187269) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 8](https://anilist.co/activity/484182933) of [Renai Flops](https://anilist.co/anime/146676)
-* [Watched episode 9](https://anilist.co/activity/484182838) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 <!-- anilist_activity ends -->
 
 </details>
