@@ -37,7 +37,6 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- anilist_activity starts -->
 * [Plans to watch None](https://anilist.co/activity/484324205) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
-* [Completed None](https://anilist.co/activity/484276676) of [Zuihou De Zhaohuan Shi](https://anilist.co/anime/114108)
 <!-- anilist_activity ends -->
 
 </details>
