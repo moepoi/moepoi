@@ -40,7 +40,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/484276676) of [Zuihou De Zhaohuan Shi](https://anilist.co/anime/114108)
 * [Watched episode 1 - 11](https://anilist.co/activity/484276655) of [Zuihou De Zhaohuan Shi](https://anilist.co/anime/114108)
 * [Watched episode 10](https://anilist.co/activity/484216082) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 163](https://anilist.co/activity/484214162) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
