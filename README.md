@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 10](https://anilist.co/activity/484748494) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [Watched episode 10](https://anilist.co/activity/484738061) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 <!-- anilist_activity ends -->
 
