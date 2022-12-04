@@ -42,7 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 3](https://anilist.co/activity/484979607) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
 * [Watched episode 52](https://anilist.co/activity/484763258) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 * [Watched episode 34](https://anilist.co/activity/484759908) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 10](https://anilist.co/activity/484756744) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 <!-- anilist_activity ends -->
 
 </details>
