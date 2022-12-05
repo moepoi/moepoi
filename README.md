@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 9](https://anilist.co/activity/485302637) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [Watched episode 10](https://anilist.co/activity/485298002) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [Watched episode 9](https://anilist.co/activity/485284432) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
-* [Watched episode 25](https://anilist.co/activity/485270508) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 <!-- anilist_activity ends -->
 
 </details>
