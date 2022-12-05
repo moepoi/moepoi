@@ -42,7 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 164](https://anilist.co/activity/485509972) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 151](https://anilist.co/activity/485506838) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 9](https://anilist.co/activity/485449278) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
-* [Watched episode 9](https://anilist.co/activity/485302637) of [Futoku no Guild](https://anilist.co/anime/146233)
 <!-- anilist_activity ends -->
 
 </details>
