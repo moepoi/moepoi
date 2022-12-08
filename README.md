@@ -40,7 +40,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 23](https://anilist.co/activity/486786383) of [Yi Nian Yongheng: Chuancheng Pian](https://anilist.co/anime/137742)
 * [Watched episode 11](https://anilist.co/activity/486754510) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 * [Watched episode 10](https://anilist.co/activity/486754459) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
-* [Watched episode 39](https://anilist.co/activity/486355205) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 <!-- anilist_activity ends -->
 
 </details>
