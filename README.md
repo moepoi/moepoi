@@ -36,9 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 11](https://anilist.co/activity/486754510) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
+* [Watched episode 10](https://anilist.co/activity/486754459) of [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/anime/130298)
 * [Watched episode 39](https://anilist.co/activity/486355205) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
-* [Watched episode 11](https://anilist.co/activity/485967925) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
-* [Watched episode 10](https://anilist.co/activity/485967831) of [Changye Kaituozhe](https://anilist.co/anime/141861)
 <!-- anilist_activity ends -->
 
 </details>
