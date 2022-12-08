@@ -39,7 +39,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 39](https://anilist.co/activity/486355205) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [Watched episode 11](https://anilist.co/activity/485967925) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 * [Watched episode 10](https://anilist.co/activity/485967831) of [Changye Kaituozhe](https://anilist.co/anime/141861)
-* [Watched episode 40](https://anilist.co/activity/485967830) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 <!-- anilist_activity ends -->
 
 </details>
