@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 11](https://anilist.co/activity/487665870) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
 * [Watched episode 53](https://anilist.co/activity/487580529) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 * [Watched episode 10](https://anilist.co/activity/487558389) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [Watched episode 35](https://anilist.co/activity/487550772) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 12](https://anilist.co/activity/487528720) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 * [Watched episode 4](https://anilist.co/activity/487513300) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
 * [Watched episode 1 - 7](https://anilist.co/activity/487388591) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
-* [Watched episode 9](https://anilist.co/activity/487361838) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
 <!-- anilist_activity ends -->
 
 </details>
