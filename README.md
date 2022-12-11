@@ -36,11 +36,11 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 11](https://anilist.co/activity/488191752) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [Watched episode 22](https://anilist.co/activity/488170220) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [Watched episode 16](https://anilist.co/activity/487967845) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 25](https://anilist.co/activity/487776473) of [Utawarerumono: Futari no Hakuoro](https://anilist.co/anime/112640)
 * [Watched episode 10](https://anilist.co/activity/487767489) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
-* [Watched episode 11](https://anilist.co/activity/487767443) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 <!-- anilist_activity ends -->
 
 </details>
