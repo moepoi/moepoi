@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 53](https://anilist.co/activity/487580529) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 * [Watched episode 10](https://anilist.co/activity/487558389) of [Futoku no Guild](https://anilist.co/anime/146233)
 * [Watched episode 35](https://anilist.co/activity/487550772) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 3](https://anilist.co/activity/487548791) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 <!-- anilist_activity ends -->
 
 </details>
