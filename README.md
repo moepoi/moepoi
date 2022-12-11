@@ -41,7 +41,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 10](https://anilist.co/activity/487767489) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
 * [Watched episode 11](https://anilist.co/activity/487767443) of [Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau](https://anilist.co/anime/150695)
 * [Watched episode 11](https://anilist.co/activity/487665870) of [Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.](https://anilist.co/anime/145815)
-* [Watched episode 53](https://anilist.co/activity/487580529) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
 <!-- anilist_activity ends -->
 
 </details>
