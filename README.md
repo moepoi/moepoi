@@ -41,7 +41,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 13](https://anilist.co/activity/488527511) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [Watched episode 153](https://anilist.co/activity/488460937) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 9](https://anilist.co/activity/488419036) of [Renai Flops](https://anilist.co/anime/146676)
-* [Watched episode 10](https://anilist.co/activity/488418992) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 <!-- anilist_activity ends -->
 
 </details>
