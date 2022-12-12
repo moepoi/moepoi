@@ -36,12 +36,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 166](https://anilist.co/activity/488527528) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 13](https://anilist.co/activity/488527511) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [Watched episode 153](https://anilist.co/activity/488460937) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 9](https://anilist.co/activity/488419036) of [Renai Flops](https://anilist.co/anime/146676)
 * [Watched episode 10](https://anilist.co/activity/488418992) of [Fuufu Ijou, Koibito Miman.](https://anilist.co/anime/141949)
 * [Watched episode 11](https://anilist.co/activity/488191752) of [SPY×FAMILY Part 2](https://anilist.co/anime/142838)
 * [Watched episode 22](https://anilist.co/activity/488170220) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [Watched episode 16](https://anilist.co/activity/487967845) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 <!-- anilist_activity ends -->
 
 </details>
