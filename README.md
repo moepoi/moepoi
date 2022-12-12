@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 10](https://anilist.co/activity/488598486) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 * [Watched episode 166](https://anilist.co/activity/488527528) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 13](https://anilist.co/activity/488527511) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [Watched episode 153](https://anilist.co/activity/488460937) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
