@@ -118,7 +118,8 @@ I'd like to do project that has relation to anime. :ghost:
 
 Feel free to contact me :yum:
 <br><br>
-[<img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea">](https://t.me/moepoi)
-[<img src="https://img.shields.io/badge/LinkedIn-moepoi-informational">](https://linkedin.com/in/moepoi)
-[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:moe@chocola.dev)
-[<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://moepoi.dev)
+<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
+<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
+<a href="mailto:moe@chocola.dev"><img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange"></a>
+<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
