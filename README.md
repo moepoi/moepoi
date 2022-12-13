@@ -36,12 +36,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/488927935) of [Benriya Saitou-san, Isekai ni Iku](https://anilist.co/anime/144092)
+* [Watched episode 42](https://anilist.co/activity/488925873) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [Watched episode 13](https://anilist.co/activity/488919946) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 * [Watched episode 239](https://anilist.co/activity/488917052) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 36](https://anilist.co/activity/488903482) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 21](https://anilist.co/activity/488900566) of [Zhu Xian](https://anilist.co/anime/122509)
 * [Watched episode 17](https://anilist.co/activity/488863944) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 10](https://anilist.co/activity/488598486) of [Peter Grill to Kenja no Jikan: Super Extra](https://anilist.co/anime/141400)
 <!-- anilist_activity ends -->
 
 </details>
