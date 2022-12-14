@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 40](https://anilist.co/activity/489314550) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [Watched episode 261 - 268](https://anilist.co/activity/489045889) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Completed None](https://anilist.co/activity/489045238) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [Watched episode 54](https://anilist.co/activity/489041228) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 42](https://anilist.co/activity/488925873) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
 * [Watched episode 13](https://anilist.co/activity/488919946) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 * [Watched episode 239](https://anilist.co/activity/488917052) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 36](https://anilist.co/activity/488903482) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 <!-- anilist_activity ends -->
 
 </details>
