@@ -42,8 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 261 - 268](https://anilist.co/activity/489045889) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Completed None](https://anilist.co/activity/489045238) of [Shen Ji Long Wei](https://anilist.co/anime/129250)
 * [Watched episode 54](https://anilist.co/activity/489041228) of [Wo Kao Chongzhi Dang Wudi](https://anilist.co/anime/147212)
-* [Watched episode 1 - 12](https://anilist.co/activity/489034525) of [Xing Yu Siwan Nian](https://anilist.co/anime/137704)
-* [Plans to watch None](https://anilist.co/activity/488927935) of [Benriya Saitou-san, Isekai ni Iku](https://anilist.co/anime/144092)
 <!-- anilist_activity ends -->
 
 </details>
