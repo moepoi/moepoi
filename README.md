@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 43](https://anilist.co/activity/490249375) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
+* [Watched episode 8](https://anilist.co/activity/490247346) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
 * [Watched episode 14](https://anilist.co/activity/490180763) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [Watched episode 167](https://anilist.co/activity/490180736) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 11](https://anilist.co/activity/490180724) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
@@ -44,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/490117585) of [Shuumatsu no Valkyrie II](https://anilist.co/anime/138056)
 * [Completed None](https://anilist.co/activity/490022862) of [Shuumatsu no Valkyrie](https://anilist.co/anime/127399)
 * [Watched episode 1 - 11](https://anilist.co/activity/490022835) of [Shuumatsu no Valkyrie](https://anilist.co/anime/127399)
-* [Watched episode 269](https://anilist.co/activity/489938726) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
