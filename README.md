@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 240](https://anilist.co/activity/490180695) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 154](https://anilist.co/activity/490180681) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Plans to watch None](https://anilist.co/activity/490117585) of [Shuumatsu no Valkyrie II](https://anilist.co/anime/138056)
-* [Completed None](https://anilist.co/activity/490022862) of [Shuumatsu no Valkyrie](https://anilist.co/anime/127399)
 <!-- anilist_activity ends -->
 
 </details>
