@@ -36,14 +36,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 14](https://anilist.co/activity/490180763) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [Watched episode 167](https://anilist.co/activity/490180736) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 11](https://anilist.co/activity/490180724) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
+* [Watched episode 240](https://anilist.co/activity/490180695) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 154](https://anilist.co/activity/490180681) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Plans to watch None](https://anilist.co/activity/490117585) of [Shuumatsu no Valkyrie II](https://anilist.co/anime/138056)
 * [Completed None](https://anilist.co/activity/490022862) of [Shuumatsu no Valkyrie](https://anilist.co/anime/127399)
 * [Watched episode 1 - 11](https://anilist.co/activity/490022835) of [Shuumatsu no Valkyrie](https://anilist.co/anime/127399)
 * [Watched episode 269](https://anilist.co/activity/489938726) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 11](https://anilist.co/activity/489937589) of [Futoku no Guild](https://anilist.co/anime/146233)
-* [Watched episode 31 - 39](https://anilist.co/activity/489928530) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 7](https://anilist.co/activity/489746880) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [Watched episode 10](https://anilist.co/activity/489698654) of [Renai Flops](https://anilist.co/anime/146676)
 <!-- anilist_activity ends -->
 
 </details>
