@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/490117585) of [Shuumatsu no Valkyrie II](https://anilist.co/anime/138056)
 * [Completed None](https://anilist.co/activity/490022862) of [Shuumatsu no Valkyrie](https://anilist.co/anime/127399)
 * [Watched episode 1 - 11](https://anilist.co/activity/490022835) of [Shuumatsu no Valkyrie](https://anilist.co/anime/127399)
 * [Watched episode 269](https://anilist.co/activity/489938726) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -43,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 31 - 39](https://anilist.co/activity/489928530) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 7](https://anilist.co/activity/489746880) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [Watched episode 10](https://anilist.co/activity/489698654) of [Renai Flops](https://anilist.co/anime/146676)
-* [Completed None](https://anilist.co/activity/489690559) of [Tensei Shitara Ken Deshita](https://anilist.co/anime/139587)
 <!-- anilist_activity ends -->
 
 </details>
