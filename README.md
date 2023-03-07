@@ -36,15 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 10](https://anilist.co/activity/490254895) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
-* [Watched episode 43](https://anilist.co/activity/490249375) of [Xing Yuan Zhi Zhu](https://anilist.co/anime/141873)
-* [Watched episode 8](https://anilist.co/activity/490247346) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
-* [Watched episode 14](https://anilist.co/activity/490180763) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 167](https://anilist.co/activity/490180736) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 11](https://anilist.co/activity/490180724) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [Watched episode 240](https://anilist.co/activity/490180695) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 154](https://anilist.co/activity/490180681) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Plans to watch None](https://anilist.co/activity/490117585) of [Shuumatsu no Valkyrie II](https://anilist.co/anime/138056)
+* [Watched episode 37](https://anilist.co/activity/529057582) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
+* [Watched episode 41](https://anilist.co/activity/528964259) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 60](https://anilist.co/activity/528964185) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 9](https://anilist.co/activity/528736360) of [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://anilist.co/anime/142193)
+* [Watched episode 292](https://anilist.co/activity/528607267) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 37](https://anilist.co/activity/528607227) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [Watched episode 177](https://anilist.co/activity/528519205) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 190](https://anilist.co/activity/528519134) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Completed None](https://anilist.co/activity/528518713) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
+* [Watched episode 9](https://anilist.co/activity/528429737) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
 <!-- anilist_activity ends -->
 
 </details>
@@ -94,10 +95,12 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:girl: List Favorites Character</summary>
   
 <!-- favorites_characters starts -->
+* [Mahiru Shiina](https://anilist.co/character/195602)
 * [Akari Watanabe](https://anilist.co/character/191672)
 * [Mukuro Hoshimiya](https://anilist.co/character/157109)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
 * [Kuon](https://anilist.co/character/126823)
+* [Vladilena Milizé](https://anilist.co/character/141061)
 * [Yor Forger](https://anilist.co/character/138102)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Celia Claire](https://anilist.co/character/161678)
@@ -109,10 +112,8 @@ I'd like to do project that has relation to anime. :ghost:
 * [Yuuko Yoshida](https://anilist.co/character/141461)
 * [Ziyu Zhou](https://anilist.co/character/234726)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
-* [Roroa Amidonia](https://anilist.co/character/133342)
 * [Ninym Ralei](https://anilist.co/character/206374)
 * [Marin Kitagawa](https://anilist.co/character/133676)
-* [Amalie](https://anilist.co/character/175297)
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
 * [Miyuki Shiba](https://anilist.co/character/55741)
