@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 9](https://anilist.co/activity/529162562) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
 * [Watched episode 37](https://anilist.co/activity/529057582) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 * [Watched episode 41](https://anilist.co/activity/528964259) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 60](https://anilist.co/activity/528964185) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 177](https://anilist.co/activity/528519205) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 190](https://anilist.co/activity/528519134) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Completed None](https://anilist.co/activity/528518713) of [Mairimashita! Iruma-kun 3](https://anilist.co/anime/139092)
-* [Watched episode 9](https://anilist.co/activity/528429737) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
 <!-- anilist_activity ends -->
 
 </details>
