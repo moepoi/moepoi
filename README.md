@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 18](https://anilist.co/activity/529409260) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
 * [Watched episode 10](https://anilist.co/activity/529334563) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
 * [Watched episode 263](https://anilist.co/activity/529178987) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 9](https://anilist.co/activity/529162562) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 9](https://anilist.co/activity/528736360) of [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://anilist.co/anime/142193)
 * [Watched episode 292](https://anilist.co/activity/528607267) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 37](https://anilist.co/activity/528607227) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 177](https://anilist.co/activity/528519205) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
