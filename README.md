@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 17](https://anilist.co/activity/529970074) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 * [Watched episode 25](https://anilist.co/activity/529956400) of [Wangu Jian Shen](https://anilist.co/anime/129244)
 * [Watched episode 9](https://anilist.co/activity/529956362) of [Shixiong A Shixiong](https://anilist.co/anime/129238)
 * [Watched episode 293](https://anilist.co/activity/529956307) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/529411240) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [Watched episode 18](https://anilist.co/activity/529409260) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
 * [Watched episode 10](https://anilist.co/activity/529334563) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
-* [Watched episode 263](https://anilist.co/activity/529178987) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
