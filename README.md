@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 10](https://anilist.co/activity/530002067) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Yakusai-hen](https://anilist.co/anime/155211)
+* [Watched episode 10](https://anilist.co/activity/530001934) of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629)
+* [Watched episode 9](https://anilist.co/activity/530001762) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
 * [Watched episode 17](https://anilist.co/activity/529970074) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 * [Watched episode 25](https://anilist.co/activity/529956400) of [Wangu Jian Shen](https://anilist.co/anime/129244)
 * [Watched episode 9](https://anilist.co/activity/529956362) of [Shixiong A Shixiong](https://anilist.co/anime/129238)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/529858009) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
 * [Watched episode 19](https://anilist.co/activity/529857896) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [Completed None](https://anilist.co/activity/529585999) of [Suzume no Tojimari](https://anilist.co/anime/142770)
-* [Completed None](https://anilist.co/activity/529411240) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
-* [Watched episode 18](https://anilist.co/activity/529409260) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
-* [Watched episode 10](https://anilist.co/activity/529334563) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
 <!-- anilist_activity ends -->
 
 </details>
