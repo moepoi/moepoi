@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 25](https://anilist.co/activity/529956400) of [Wangu Jian Shen](https://anilist.co/anime/129244)
+* [Watched episode 9](https://anilist.co/activity/529956362) of [Shixiong A Shixiong](https://anilist.co/anime/129238)
+* [Watched episode 293](https://anilist.co/activity/529956307) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Completed None](https://anilist.co/activity/529858009) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
 * [Watched episode 19](https://anilist.co/activity/529857896) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [Completed None](https://anilist.co/activity/529585999) of [Suzume no Tojimari](https://anilist.co/anime/142770)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 18](https://anilist.co/activity/529409260) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
 * [Watched episode 10](https://anilist.co/activity/529334563) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
 * [Watched episode 263](https://anilist.co/activity/529178987) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 9](https://anilist.co/activity/529162562) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
-* [Watched episode 37](https://anilist.co/activity/529057582) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
-* [Watched episode 41](https://anilist.co/activity/528964259) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 <!-- anilist_activity ends -->
 
 </details>
