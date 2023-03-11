@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 10](https://anilist.co/activity/530002067) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Yakusai-hen](https://anilist.co/anime/155211)
-* [Watched episode 10](https://anilist.co/activity/530001934) of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629)
-* [Watched episode 9](https://anilist.co/activity/530001762) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
-* [Watched episode 17](https://anilist.co/activity/529970074) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
-* [Watched episode 25](https://anilist.co/activity/529956400) of [Wangu Jian Shen](https://anilist.co/anime/129244)
-* [Watched episode 9](https://anilist.co/activity/529956362) of [Shixiong A Shixiong](https://anilist.co/anime/129238)
-* [Watched episode 293](https://anilist.co/activity/529956307) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Completed None](https://anilist.co/activity/529858009) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
-* [Watched episode 19](https://anilist.co/activity/529857896) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [Completed None](https://anilist.co/activity/529585999) of [Suzume no Tojimari](https://anilist.co/anime/142770)
+* [Watched episode 10](https://anilist.co/activity/530647318) of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850)
+* [Watched episode 9](https://anilist.co/activity/530647267) of [Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/anime/146954)
+* [Watched episode 10](https://anilist.co/activity/530647098) of [Hyouken no Majutsushi ga Sekai wo Suberu](https://anilist.co/anime/148116)
+* [Watched episode 21](https://anilist.co/activity/530647059) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
+* [Watched episode 38](https://anilist.co/activity/530646708) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [Watched episode 264](https://anilist.co/activity/530646663) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 191](https://anilist.co/activity/530646622) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 178](https://anilist.co/activity/530646597) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 20](https://anilist.co/activity/530646566) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 23](https://anilist.co/activity/530646520) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 <!-- anilist_activity ends -->
 
 </details>
