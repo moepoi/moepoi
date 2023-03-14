@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 10](https://anilist.co/activity/531293443) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
-* [Watched episode 10](https://anilist.co/activity/531293427) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
-* [Watched episode 10](https://anilist.co/activity/531293411) of [Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life](https://anilist.co/anime/152523)
-* [Watched episode 10](https://anilist.co/activity/531293386) of [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://anilist.co/anime/152765)
-* [Watched episode 18](https://anilist.co/activity/531292803) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
-* [Watched episode 42](https://anilist.co/activity/531292724) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 35](https://anilist.co/activity/531292672) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [Watched episode 61](https://anilist.co/activity/531292536) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 16](https://anilist.co/activity/531292502) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
-* [Watched episode 17](https://anilist.co/activity/531292195) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
+* [Plans to watch None](https://anilist.co/activity/532103981) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
+* [Plans to watch None](https://anilist.co/activity/532103942) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
+* [Plans to watch None](https://anilist.co/activity/532103916) of [Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen](https://anilist.co/anime/162314)
+* [Plans to watch None](https://anilist.co/activity/532103898) of [Gekai Elise](https://anilist.co/anime/162144)
+* [Plans to watch None](https://anilist.co/activity/532103871) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
+* [Watched episode 10](https://anilist.co/activity/532103375) of [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://anilist.co/anime/142193)
+* [Watched episode 39](https://anilist.co/activity/532103168) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [Watched episode 294](https://anilist.co/activity/532103044) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 192](https://anilist.co/activity/532103000) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 179](https://anilist.co/activity/532102949) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
