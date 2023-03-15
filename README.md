@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 43](https://anilist.co/activity/532687482) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 39](https://anilist.co/activity/532687425) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
+* [Watched episode 62](https://anilist.co/activity/532687382) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 23 - 25](https://anilist.co/activity/532687308) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Plans to watch None](https://anilist.co/activity/532103981) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
 * [Plans to watch None](https://anilist.co/activity/532103942) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
 * [Plans to watch None](https://anilist.co/activity/532103916) of [Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen](https://anilist.co/anime/162314)
 * [Plans to watch None](https://anilist.co/activity/532103898) of [Gekai Elise](https://anilist.co/anime/162144)
 * [Plans to watch None](https://anilist.co/activity/532103871) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
 * [Watched episode 10](https://anilist.co/activity/532103375) of [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://anilist.co/anime/142193)
-* [Watched episode 39](https://anilist.co/activity/532103168) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 294](https://anilist.co/activity/532103044) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 192](https://anilist.co/activity/532103000) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 179](https://anilist.co/activity/532102949) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
