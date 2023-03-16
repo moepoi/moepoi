@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 11](https://anilist.co/activity/532991396) of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629)
+* [Watched episode 23 - 26](https://anilist.co/activity/532991159) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Watched episode 10](https://anilist.co/activity/532688075) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
 * [Watched episode 11](https://anilist.co/activity/532688028) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
 * [Watched episode 19](https://anilist.co/activity/532687580) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
@@ -43,9 +45,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 43](https://anilist.co/activity/532687482) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 39](https://anilist.co/activity/532687425) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
 * [Watched episode 62](https://anilist.co/activity/532687382) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 23 - 25](https://anilist.co/activity/532687308) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Plans to watch None](https://anilist.co/activity/532103981) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
-* [Plans to watch None](https://anilist.co/activity/532103942) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
 <!-- anilist_activity ends -->
 
 </details>
