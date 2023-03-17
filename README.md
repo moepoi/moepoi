@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 11](https://anilist.co/activity/532991396) of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629)
-* [Watched episode 23 - 26](https://anilist.co/activity/532991159) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
-* [Watched episode 10](https://anilist.co/activity/532688075) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
-* [Watched episode 11](https://anilist.co/activity/532688028) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
-* [Watched episode 19](https://anilist.co/activity/532687580) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
-* [Watched episode 265](https://anilist.co/activity/532687519) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 43](https://anilist.co/activity/532687482) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 39](https://anilist.co/activity/532687425) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
-* [Watched episode 62](https://anilist.co/activity/532687382) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Plans to watch None](https://anilist.co/activity/532103981) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
+* [Watched episode 11](https://anilist.co/activity/533593238) of [Hyouken no Majutsushi ga Sekai wo Suberu](https://anilist.co/anime/148116)
+* [Watched episode 22](https://anilist.co/activity/533593149) of [Urusei Yatsura (2022)](https://anilist.co/anime/143277)
+* [Completed None](https://anilist.co/activity/533593079) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Yakusai-hen](https://anilist.co/anime/155211)
+* [Watched episode 40](https://anilist.co/activity/533592806) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [Watched episode 266](https://anilist.co/activity/533592771) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 193](https://anilist.co/activity/533592731) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 21](https://anilist.co/activity/533592697) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 180](https://anilist.co/activity/533592655) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 24](https://anilist.co/activity/533592629) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
+* [Watched episode 19](https://anilist.co/activity/533592585) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 <!-- anilist_activity ends -->
 
 </details>
