@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 63](https://anilist.co/activity/536456544) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 11](https://anilist.co/activity/536456484) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
-* [Watched episode 194](https://anilist.co/activity/536456355) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 181](https://anilist.co/activity/536456311) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Watched episode 1 - 2](https://anilist.co/activity/536456103) of [Xianwu Dizun](https://anilist.co/anime/152889)
-* [Watched episode 17](https://anilist.co/activity/536455471) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
-* [Watched episode 40](https://anilist.co/activity/536455367) of [Wo Zai Xianjie Zheng Jifen](https://anilist.co/anime/155328)
-* [Watched episode 18](https://anilist.co/activity/536454851) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
-* [Plans to watch None](https://anilist.co/activity/534536668) of [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/anime/162804)
-* [Plans to watch None](https://anilist.co/activity/534536450) of [Kanojo, Okarishimasu: Date Movie](https://anilist.co/anime/162800)
+* [Completed None](https://anilist.co/activity/536460934) of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629)
+* [Completed None](https://anilist.co/activity/536460660) of [Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen](https://anilist.co/anime/139498)
+* [Watched episode 11](https://anilist.co/activity/536460070) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
+* [Watched episode 11](https://anilist.co/activity/536459929) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
+* [Watched episode 11](https://anilist.co/activity/536459825) of [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://anilist.co/anime/142193)
+* [Watched episode 11](https://anilist.co/activity/536459716) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
+* [Watched episode 11](https://anilist.co/activity/536459683) of [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://anilist.co/anime/152765)
+* [Watched episode 11](https://anilist.co/activity/536459574) of [Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life](https://anilist.co/anime/152523)
+* [Watched episode 11](https://anilist.co/activity/536459499) of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850)
+* [Watched episode 10](https://anilist.co/activity/536459426) of [Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/anime/146954)
 <!-- anilist_activity ends -->
 
 </details>
