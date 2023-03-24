@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/536633684) of [Hyouken no Majutsushi ga Sekai wo Suberu](https://anilist.co/anime/148116)
 * [Completed None](https://anilist.co/activity/536633658) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
 * [Completed None](https://anilist.co/activity/536460934) of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629)
-* [Completed None](https://anilist.co/activity/536460660) of [Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen](https://anilist.co/anime/139498)
 <!-- anilist_activity ends -->
 
 </details>
