@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 267 - 268](https://anilist.co/activity/536759162) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 41 - 42](https://anilist.co/activity/536759127) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [Watched episode 25](https://anilist.co/activity/536732054) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [Watched episode 22](https://anilist.co/activity/536732012) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
 * [Watched episode 181 - 182](https://anilist.co/activity/536731973) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/536633658) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
 * [Completed None](https://anilist.co/activity/536460934) of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629)
 * [Completed None](https://anilist.co/activity/536460660) of [Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen](https://anilist.co/anime/139498)
-* [Watched episode 11](https://anilist.co/activity/536460070) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
-* [Watched episode 11](https://anilist.co/activity/536459929) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
 <!-- anilist_activity ends -->
 
 </details>
