@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 25](https://anilist.co/activity/536732054) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
+* [Watched episode 22](https://anilist.co/activity/536732012) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 181 - 182](https://anilist.co/activity/536731973) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 194 - 195](https://anilist.co/activity/536731955) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Completed None](https://anilist.co/activity/536633684) of [Hyouken no Majutsushi ga Sekai wo Suberu](https://anilist.co/anime/148116)
 * [Completed None](https://anilist.co/activity/536633658) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
 * [Completed None](https://anilist.co/activity/536460934) of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629)
 * [Completed None](https://anilist.co/activity/536460660) of [Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen](https://anilist.co/anime/139498)
 * [Watched episode 11](https://anilist.co/activity/536460070) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
 * [Watched episode 11](https://anilist.co/activity/536459929) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
-* [Watched episode 11](https://anilist.co/activity/536459825) of [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://anilist.co/anime/142193)
-* [Watched episode 11](https://anilist.co/activity/536459716) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
-* [Watched episode 11](https://anilist.co/activity/536459683) of [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://anilist.co/anime/152765)
-* [Watched episode 11](https://anilist.co/activity/536459574) of [Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life](https://anilist.co/anime/152523)
 <!-- anilist_activity ends -->
 
 </details>
