@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/536633684) of [Hyouken no Majutsushi ga Sekai wo Suberu](https://anilist.co/anime/148116)
+* [Completed None](https://anilist.co/activity/536633658) of [Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu](https://anilist.co/anime/137909)
 * [Completed None](https://anilist.co/activity/536460934) of [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://anilist.co/anime/153629)
 * [Completed None](https://anilist.co/activity/536460660) of [Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen](https://anilist.co/anime/139498)
 * [Watched episode 11](https://anilist.co/activity/536460070) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 11](https://anilist.co/activity/536459716) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
 * [Watched episode 11](https://anilist.co/activity/536459683) of [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://anilist.co/anime/152765)
 * [Watched episode 11](https://anilist.co/activity/536459574) of [Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life](https://anilist.co/anime/152523)
-* [Watched episode 11](https://anilist.co/activity/536459499) of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850)
-* [Watched episode 10](https://anilist.co/activity/536459426) of [Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/anime/146954)
 <!-- anilist_activity ends -->
 
 </details>
