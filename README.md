@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/539688500) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
+* [Watched episode 22](https://anilist.co/activity/539687673) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
+* [Watched episode 299](https://anilist.co/activity/539687657) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 23](https://anilist.co/activity/539687602) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
+* [Watched episode 19](https://anilist.co/activity/539687477) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
 * [Completed None](https://anilist.co/activity/538745003) of [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://anilist.co/anime/142193)
 * [Watched episode 269](https://anilist.co/activity/538744803) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 65 - 66](https://anilist.co/activity/538744746) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 46 - 47](https://anilist.co/activity/538744709) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 12](https://anilist.co/activity/538744675) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
-* [Watched episode 43](https://anilist.co/activity/538744634) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 5 - 6](https://anilist.co/activity/538302924) of [Ayakashi Triangle](https://anilist.co/anime/142849)
-* [Completed None](https://anilist.co/activity/538302824) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken](https://anilist.co/anime/143338)
-* [Completed None](https://anilist.co/activity/538302759) of [Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life](https://anilist.co/anime/152523)
-* [Completed None](https://anilist.co/activity/538302724) of [Isekai Nonbiri Nouka](https://anilist.co/anime/146850)
 <!-- anilist_activity ends -->
 
 </details>
