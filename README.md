@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 8 - 11](https://anilist.co/activity/539923832) of [Buddy Daddies](https://anilist.co/anime/155907)
+* [Watched episode 30](https://anilist.co/activity/539923429) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
+* [Watched episode 23](https://anilist.co/activity/539923341) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
+* [Watched episode 12](https://anilist.co/activity/539923246) of [Shixiong A Shixiong](https://anilist.co/anime/129238)
 * [Completed None](https://anilist.co/activity/539688500) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
 * [Watched episode 22](https://anilist.co/activity/539687673) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [Watched episode 299](https://anilist.co/activity/539687657) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 23](https://anilist.co/activity/539687602) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
 * [Watched episode 19](https://anilist.co/activity/539687477) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
 * [Completed None](https://anilist.co/activity/538745003) of [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://anilist.co/anime/142193)
-* [Watched episode 269](https://anilist.co/activity/538744803) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 65 - 66](https://anilist.co/activity/538744746) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 46 - 47](https://anilist.co/activity/538744709) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 12](https://anilist.co/activity/538744675) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
 <!-- anilist_activity ends -->
 
 </details>
