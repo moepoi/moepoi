@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 270](https://anilist.co/activity/540182453) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 23](https://anilist.co/activity/540182430) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 44](https://anilist.co/activity/540182370) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [Watched episode 197](https://anilist.co/activity/540182327) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 184](https://anilist.co/activity/540182296) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 26](https://anilist.co/activity/540182265) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [Watched episode 8 - 11](https://anilist.co/activity/539923832) of [Buddy Daddies](https://anilist.co/anime/155907)
 * [Watched episode 30](https://anilist.co/activity/539923429) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Watched episode 23](https://anilist.co/activity/539923341) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 * [Watched episode 12](https://anilist.co/activity/539923246) of [Shixiong A Shixiong](https://anilist.co/anime/129238)
-* [Completed None](https://anilist.co/activity/539688500) of [Tondemo Skill de Isekai Hourou Meshi](https://anilist.co/anime/156067)
-* [Watched episode 22](https://anilist.co/activity/539687673) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [Watched episode 299](https://anilist.co/activity/539687657) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 23](https://anilist.co/activity/539687602) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
-* [Watched episode 19](https://anilist.co/activity/539687477) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
-* [Completed None](https://anilist.co/activity/538745003) of [Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀](https://anilist.co/anime/142193)
 <!-- anilist_activity ends -->
 
 </details>
