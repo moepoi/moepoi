@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 270](https://anilist.co/activity/540182453) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 23](https://anilist.co/activity/540182430) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
-* [Watched episode 44](https://anilist.co/activity/540182370) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 197](https://anilist.co/activity/540182327) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 184](https://anilist.co/activity/540182296) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Watched episode 26](https://anilist.co/activity/540182265) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [Watched episode 8 - 11](https://anilist.co/activity/539923832) of [Buddy Daddies](https://anilist.co/anime/155907)
-* [Watched episode 30](https://anilist.co/activity/539923429) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
-* [Watched episode 23](https://anilist.co/activity/539923341) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
-* [Watched episode 12](https://anilist.co/activity/539923246) of [Shixiong A Shixiong](https://anilist.co/anime/129238)
+* [Completed None](https://anilist.co/activity/541584098) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
+* [Completed None](https://anilist.co/activity/541584014) of [Buddy Daddies](https://anilist.co/anime/155907)
+* [Completed None](https://anilist.co/activity/541583787) of [Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/anime/146954)
+* [Watched episode 37](https://anilist.co/activity/541583712) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
+* [Watched episode 31](https://anilist.co/activity/541583347) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
+* [Watched episode 24](https://anilist.co/activity/541583263) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
+* [Watched episode 4](https://anilist.co/activity/541583182) of [Xianwu Dizun](https://anilist.co/anime/152889)
+* [Watched episode 48](https://anilist.co/activity/541583133) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 67](https://anilist.co/activity/541583035) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 19](https://anilist.co/activity/541583005) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 <!-- anilist_activity ends -->
 
 </details>
