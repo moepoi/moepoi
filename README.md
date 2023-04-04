@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/542373414) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
+* [Watched episode 1](https://anilist.co/activity/542373226) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
+* [Watched episode 271](https://anilist.co/activity/542372133) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 68](https://anilist.co/activity/542372019) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 49](https://anilist.co/activity/542371962) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 13](https://anilist.co/activity/542371889) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
+* [Watched episode 198](https://anilist.co/activity/542371813) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 45](https://anilist.co/activity/542371594) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [Watched episode 300](https://anilist.co/activity/542064741) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 185](https://anilist.co/activity/542064604) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Watched episode 37 - 38](https://anilist.co/activity/541586926) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [Watched episode 1](https://anilist.co/activity/541586654) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
-* [Completed None](https://anilist.co/activity/541584098) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
-* [Completed None](https://anilist.co/activity/541584014) of [Buddy Daddies](https://anilist.co/anime/155907)
-* [Completed None](https://anilist.co/activity/541583787) of [Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/anime/146954)
-* [Watched episode 31](https://anilist.co/activity/541583347) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
-* [Watched episode 24](https://anilist.co/activity/541583263) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
-* [Watched episode 4](https://anilist.co/activity/541583182) of [Xianwu Dizun](https://anilist.co/anime/152889)
 <!-- anilist_activity ends -->
 
 </details>
