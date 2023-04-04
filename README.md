@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 300](https://anilist.co/activity/542064741) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 185](https://anilist.co/activity/542064604) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 37 - 38](https://anilist.co/activity/541586926) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [Watched episode 1](https://anilist.co/activity/541586654) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
 * [Completed None](https://anilist.co/activity/541584098) of [Saikyou Onmyouji no Isekai Tenseiki](https://anilist.co/anime/144553)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 31](https://anilist.co/activity/541583347) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Watched episode 24](https://anilist.co/activity/541583263) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 * [Watched episode 4](https://anilist.co/activity/541583182) of [Xianwu Dizun](https://anilist.co/anime/152889)
-* [Watched episode 48](https://anilist.co/activity/541583133) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 67](https://anilist.co/activity/541583035) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 <!-- anilist_activity ends -->
 
 </details>
