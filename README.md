@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1 - 41](https://anilist.co/activity/542725695) of [Wan Jie Zhizun](https://anilist.co/anime/157181)
+* [Watched episode 25](https://anilist.co/activity/542725082) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
 * [Watched episode 1](https://anilist.co/activity/542373414) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
 * [Watched episode 1](https://anilist.co/activity/542373226) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
 * [Watched episode 271](https://anilist.co/activity/542372133) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 13](https://anilist.co/activity/542371889) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
 * [Watched episode 198](https://anilist.co/activity/542371813) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 45](https://anilist.co/activity/542371594) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 300](https://anilist.co/activity/542064741) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 185](https://anilist.co/activity/542064604) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
