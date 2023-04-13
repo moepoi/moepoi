@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/546766070) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
 * [Watched episode 1](https://anilist.co/activity/546765824) of [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754)
 * [Watched episode 2](https://anilist.co/activity/546765385) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
-* [Watched episode 2](https://anilist.co/activity/546765358) of [Jigokuraku](https://anilist.co/anime/128893)
 <!-- anilist_activity ends -->
 
 </details>
