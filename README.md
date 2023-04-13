@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 61 - 73](https://anilist.co/activity/546800391) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Plans to watch None](https://anilist.co/activity/546780782) of [Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen](https://anilist.co/anime/163076)
 * [Plans to watch None](https://anilist.co/activity/546780616) of [Kikansha no Mahou wa Tokubetsu desu](https://anilist.co/anime/163142)
 * [Watched episode 1](https://anilist.co/activity/546766464) of [Otonari ni Ginga](https://anilist.co/anime/148098)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 2](https://anilist.co/activity/546765385) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
 * [Watched episode 2](https://anilist.co/activity/546765358) of [Jigokuraku](https://anilist.co/anime/128893)
 * [Watched episode 2](https://anilist.co/activity/546765350) of [Yamada-kun to Lv999 no Koi wo Suru](https://anilist.co/anime/154965)
-* [Watched episode 2](https://anilist.co/activity/546765306) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
 <!-- anilist_activity ends -->
 
 </details>
