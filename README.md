@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/546780782) of [Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen](https://anilist.co/anime/163076)
+* [Plans to watch None](https://anilist.co/activity/546780616) of [Kikansha no Mahou wa Tokubetsu desu](https://anilist.co/anime/163142)
 * [Watched episode 1](https://anilist.co/activity/546766464) of [Otonari ni Ginga](https://anilist.co/anime/148098)
 * [Watched episode 1 - 2](https://anilist.co/activity/546766200) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
 * [Watched episode 1](https://anilist.co/activity/546766070) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 2](https://anilist.co/activity/546765358) of [Jigokuraku](https://anilist.co/anime/128893)
 * [Watched episode 2](https://anilist.co/activity/546765350) of [Yamada-kun to Lv999 no Koi wo Suru](https://anilist.co/anime/154965)
 * [Watched episode 2](https://anilist.co/activity/546765306) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
-* [Watched episode 2](https://anilist.co/activity/546765265) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
-* [Watched episode 26 - 27](https://anilist.co/activity/546765002) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 <!-- anilist_activity ends -->
 
 </details>
