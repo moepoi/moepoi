@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/546780782) of [Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen](https://anilist.co/anime/163076)
 * [Plans to watch None](https://anilist.co/activity/546780616) of [Kikansha no Mahou wa Tokubetsu desu](https://anilist.co/anime/163142)
 * [Watched episode 1](https://anilist.co/activity/546766464) of [Otonari ni Ginga](https://anilist.co/anime/148098)
-* [Watched episode 1 - 2](https://anilist.co/activity/546766200) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
 <!-- anilist_activity ends -->
 
 </details>
