@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 99 - 259](https://anilist.co/activity/546762413) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [Watched episode 26](https://anilist.co/activity/546761789) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
+* [Watched episode 302 - 303](https://anilist.co/activity/546761767) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 24](https://anilist.co/activity/546761659) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
+* [Watched episode 20 - 21](https://anilist.co/activity/546761523) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
 * [Watched episode 61 - 72](https://anilist.co/activity/546759931) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 20](https://anilist.co/activity/546759322) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
 * [Watched episode 27](https://anilist.co/activity/546759307) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
 * [Watched episode 273](https://anilist.co/activity/546759249) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 70](https://anilist.co/activity/546759203) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 50](https://anilist.co/activity/546759097) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 14](https://anilist.co/activity/546759041) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
-* [Watched episode 47](https://anilist.co/activity/546759002) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 200](https://anilist.co/activity/546758966) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 187](https://anilist.co/activity/546758954) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
