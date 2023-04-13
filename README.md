@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 99 - 259](https://anilist.co/activity/546762413) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 26](https://anilist.co/activity/546761789) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
-* [Watched episode 302 - 303](https://anilist.co/activity/546761767) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 24](https://anilist.co/activity/546761659) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [Watched episode 20 - 21](https://anilist.co/activity/546761523) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
-* [Watched episode 61 - 72](https://anilist.co/activity/546759931) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 27](https://anilist.co/activity/546759307) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
-* [Watched episode 273](https://anilist.co/activity/546759249) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 70](https://anilist.co/activity/546759203) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 50](https://anilist.co/activity/546759097) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 1](https://anilist.co/activity/546766464) of [Otonari ni Ginga](https://anilist.co/anime/148098)
+* [Watched episode 1 - 2](https://anilist.co/activity/546766200) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
+* [Watched episode 1](https://anilist.co/activity/546766070) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
+* [Watched episode 1](https://anilist.co/activity/546765824) of [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754)
+* [Watched episode 2](https://anilist.co/activity/546765385) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
+* [Watched episode 2](https://anilist.co/activity/546765358) of [Jigokuraku](https://anilist.co/anime/128893)
+* [Watched episode 2](https://anilist.co/activity/546765350) of [Yamada-kun to Lv999 no Koi wo Suru](https://anilist.co/anime/154965)
+* [Watched episode 2](https://anilist.co/activity/546765306) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
+* [Watched episode 2](https://anilist.co/activity/546765265) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
+* [Watched episode 26 - 27](https://anilist.co/activity/546765002) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 <!-- anilist_activity ends -->
 
 </details>
