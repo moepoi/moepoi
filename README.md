@@ -36,13 +36,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/547265281) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
+* [Watched episode 25](https://anilist.co/activity/547264461) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 48](https://anilist.co/activity/547264187) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [Watched episode 274](https://anilist.co/activity/547264152) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 201](https://anilist.co/activity/547264117) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 188](https://anilist.co/activity/547264098) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 28](https://anilist.co/activity/547264045) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [Watched episode 1 - 2](https://anilist.co/activity/546962579) of [Dr. STONE: NEW WORLD](https://anilist.co/anime/131518)
-* [Completed None](https://anilist.co/activity/546962386) of [Dr. STONE: Ryuusui](https://anilist.co/anime/142876)
-* [Watched episode 33 - 34](https://anilist.co/activity/546962053) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
-* [Watched episode 43 - 44](https://anilist.co/activity/546836850) of [Wan Jie Zhizun](https://anilist.co/anime/157181)
-* [Watched episode 61 - 73](https://anilist.co/activity/546800391) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Plans to watch None](https://anilist.co/activity/546780782) of [Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen](https://anilist.co/anime/163076)
-* [Plans to watch None](https://anilist.co/activity/546780616) of [Kikansha no Mahou wa Tokubetsu desu](https://anilist.co/anime/163142)
 <!-- anilist_activity ends -->
 
 </details>
