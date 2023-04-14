@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 61 - 73](https://anilist.co/activity/546800391) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Plans to watch None](https://anilist.co/activity/546780782) of [Akuyaku Reijou Level 99: Watashi wa Ura Boss desu ga Maou de wa Arimasen](https://anilist.co/anime/163076)
 * [Plans to watch None](https://anilist.co/activity/546780616) of [Kikansha no Mahou wa Tokubetsu desu](https://anilist.co/anime/163142)
-* [Watched episode 1](https://anilist.co/activity/546766464) of [Otonari ni Ginga](https://anilist.co/anime/148098)
 <!-- anilist_activity ends -->
 
 </details>
