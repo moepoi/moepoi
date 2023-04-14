@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 201](https://anilist.co/activity/547264117) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 188](https://anilist.co/activity/547264098) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 28](https://anilist.co/activity/547264045) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [Watched episode 1 - 2](https://anilist.co/activity/546962579) of [Dr. STONE: NEW WORLD](https://anilist.co/anime/131518)
 <!-- anilist_activity ends -->
 
 </details>
