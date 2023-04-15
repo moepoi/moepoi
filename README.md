@@ -42,7 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/547741363) of [Douluo Dalu: Jilang Zhi Zhan](https://anilist.co/anime/163818)
 * [Completed None](https://anilist.co/activity/547741204) of [Douluo Dalu: Shenhai Mojing](https://anilist.co/anime/163797)
 * [Completed None](https://anilist.co/activity/547740834) of [Douluo Dalu: Tianshi Jianglin](https://anilist.co/anime/163784)
-* [Completed None](https://anilist.co/activity/547740593) of [Douluo Dalu: Senlin Shou Ying](https://anilist.co/anime/163783)
 <!-- anilist_activity ends -->
 
 </details>
