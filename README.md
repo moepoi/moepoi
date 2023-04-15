@@ -36,12 +36,12 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 28](https://anilist.co/activity/547738247) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
+* [Watched episode 22](https://anilist.co/activity/547738158) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
 * [Watched episode 1](https://anilist.co/activity/547265281) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
 * [Watched episode 25](https://anilist.co/activity/547264461) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
 * [Watched episode 48](https://anilist.co/activity/547264187) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [Watched episode 274](https://anilist.co/activity/547264152) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 201](https://anilist.co/activity/547264117) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 188](https://anilist.co/activity/547264098) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
