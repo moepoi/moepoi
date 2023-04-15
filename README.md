@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/547740593) of [Douluo Dalu: Senlin Shou Ying](https://anilist.co/anime/163783)
 * [Completed None](https://anilist.co/activity/547740322) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
 * [Watched episode 53 - 57](https://anilist.co/activity/547739356) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
-* [Watched episode 261](https://anilist.co/activity/547738652) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
