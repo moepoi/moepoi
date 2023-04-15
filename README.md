@@ -36,13 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/547743824) of [Douluo Dalu: Tang Sancheng Shen](https://anilist.co/anime/163825)
+* [Completed None](https://anilist.co/activity/547743124) of [Douluo Dalu: Qi Qing Kaoyan](https://anilist.co/anime/163823)
+* [Completed None](https://anilist.co/activity/547741760) of [Douluo Dalu: Haishen Chuancheng](https://anilist.co/anime/163821)
+* [Completed None](https://anilist.co/activity/547741363) of [Douluo Dalu: Jilang Zhi Zhan](https://anilist.co/anime/163818)
+* [Completed None](https://anilist.co/activity/547741204) of [Douluo Dalu: Shenhai Mojing](https://anilist.co/anime/163797)
 * [Completed None](https://anilist.co/activity/547740834) of [Douluo Dalu: Tianshi Jianglin](https://anilist.co/anime/163784)
 * [Completed None](https://anilist.co/activity/547740593) of [Douluo Dalu: Senlin Shou Ying](https://anilist.co/anime/163783)
 * [Completed None](https://anilist.co/activity/547740322) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
 * [Watched episode 53 - 57](https://anilist.co/activity/547739356) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [Watched episode 261](https://anilist.co/activity/547738652) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 28](https://anilist.co/activity/547738247) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
-* [Watched episode 22](https://anilist.co/activity/547738158) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
 <!-- anilist_activity ends -->
 
 </details>
