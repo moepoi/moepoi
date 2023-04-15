@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/547741204) of [Douluo Dalu: Shenhai Mojing](https://anilist.co/anime/163797)
 * [Completed None](https://anilist.co/activity/547740834) of [Douluo Dalu: Tianshi Jianglin](https://anilist.co/anime/163784)
 * [Completed None](https://anilist.co/activity/547740593) of [Douluo Dalu: Senlin Shou Ying](https://anilist.co/anime/163783)
-* [Completed None](https://anilist.co/activity/547740322) of [Douluo Dalu: Zhan Gu Zan Yie](https://anilist.co/anime/157127)
 <!-- anilist_activity ends -->
 
 </details>
