@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 189](https://anilist.co/activity/548842029) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Plans to watch None](https://anilist.co/activity/548785108) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
 * [Completed None](https://anilist.co/activity/548784829) of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821)
-* [Watched episode 1 - 11](https://anilist.co/activity/548784791) of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821)
 <!-- anilist_activity ends -->
 
 </details>
