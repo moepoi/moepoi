@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/548785108) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
 * [Completed None](https://anilist.co/activity/548784829) of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821)
 * [Watched episode 1 - 11](https://anilist.co/activity/548784791) of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821)
-* [Watched episode 40](https://anilist.co/activity/548783645) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 <!-- anilist_activity ends -->
 
 </details>
