@@ -36,10 +36,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Plans to watch None](https://anilist.co/activity/547743824) of [Douluo Dalu: Tang Sancheng Shen](https://anilist.co/anime/163825)
-* [Completed None](https://anilist.co/activity/547743124) of [Douluo Dalu: Qi Qing Kaoyan](https://anilist.co/anime/163823)
-* [Completed None](https://anilist.co/activity/547741760) of [Douluo Dalu: Haishen Chuancheng](https://anilist.co/anime/163821)
-* [Completed None](https://anilist.co/activity/547741363) of [Douluo Dalu: Jilang Zhi Zhan](https://anilist.co/anime/163818)
+* [Watched episode 35](https://anilist.co/activity/548782196) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
+* [Watched episode 45](https://anilist.co/activity/548782155) of [Wan Jie Zhizun](https://anilist.co/anime/157181)
+* [Watched episode 28](https://anilist.co/activity/548782104) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
+* [Watched episode 52](https://anilist.co/activity/548782037) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 262](https://anilist.co/activity/548781965) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [Watched episode 6](https://anilist.co/activity/548781907) of [Xianwu Dizun](https://anilist.co/anime/152889)
+* [Watched episode 21](https://anilist.co/activity/548781837) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
+* [Watched episode 71](https://anilist.co/activity/548781758) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 <!-- anilist_activity ends -->
 
 </details>
