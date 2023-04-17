@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 2](https://anilist.co/activity/548842304) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
+* [Watched episode 74](https://anilist.co/activity/548842122) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [Watched episode 202](https://anilist.co/activity/548842051) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 189](https://anilist.co/activity/548842029) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Plans to watch None](https://anilist.co/activity/548785108) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
 * [Completed None](https://anilist.co/activity/548784829) of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821)
 * [Watched episode 1 - 11](https://anilist.co/activity/548784791) of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821)
 * [Watched episode 40](https://anilist.co/activity/548783645) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [Watched episode 3](https://anilist.co/activity/548782827) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
 * [Watched episode 2](https://anilist.co/activity/548782760) of [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754)
-* [Watched episode 3](https://anilist.co/activity/548782677) of [Yamada-kun to Lv999 no Koi wo Suru](https://anilist.co/anime/154965)
-* [Watched episode 2](https://anilist.co/activity/548782652) of [Otonari ni Ginga](https://anilist.co/anime/148098)
-* [Watched episode 35](https://anilist.co/activity/548782196) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
-* [Watched episode 45](https://anilist.co/activity/548782155) of [Wan Jie Zhizun](https://anilist.co/anime/157181)
 <!-- anilist_activity ends -->
 
 </details>
