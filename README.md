@@ -43,7 +43,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 304](https://anilist.co/activity/548954720) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 2](https://anilist.co/activity/548842304) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
 * [Watched episode 74](https://anilist.co/activity/548842122) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 202](https://anilist.co/activity/548842051) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
