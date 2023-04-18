@@ -36,11 +36,13 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1 - 2](https://anilist.co/activity/549484978) of [MASHLE](https://anilist.co/anime/151801)
+* [Watched episode 275](https://anilist.co/activity/549484559) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 72](https://anilist.co/activity/549484521) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 53](https://anilist.co/activity/549484488) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 15](https://anilist.co/activity/549484462) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
+* [Watched episode 49](https://anilist.co/activity/549484417) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 * [Watched episode 3](https://anilist.co/activity/549315918) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
-* [Watched episode 2](https://anilist.co/activity/549315836) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
-* [Watched episode 3](https://anilist.co/activity/549315763) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
-* [Watched episode 1 - 2](https://anilist.co/activity/548955102) of [Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita](https://anilist.co/anime/146234)
-* [Watched episode 304](https://anilist.co/activity/548954720) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
