@@ -41,8 +41,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 3](https://anilist.co/activity/549315763) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
 * [Watched episode 1 - 2](https://anilist.co/activity/548955102) of [Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita](https://anilist.co/anime/146234)
 * [Watched episode 304](https://anilist.co/activity/548954720) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 2](https://anilist.co/activity/548842304) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
-* [Watched episode 74](https://anilist.co/activity/548842122) of [Wangu Shenhua](https://anilist.co/anime/153418)
 <!-- anilist_activity ends -->
 
 </details>
