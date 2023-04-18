@@ -42,7 +42,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 53](https://anilist.co/activity/549484488) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 15](https://anilist.co/activity/549484462) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
 * [Watched episode 49](https://anilist.co/activity/549484417) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 3](https://anilist.co/activity/549315918) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
 <!-- anilist_activity ends -->
 
 </details>
