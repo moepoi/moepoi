@@ -36,14 +36,14 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 3](https://anilist.co/activity/549315918) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
+* [Watched episode 2](https://anilist.co/activity/549315836) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
+* [Watched episode 3](https://anilist.co/activity/549315763) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
 * [Watched episode 1 - 2](https://anilist.co/activity/548955102) of [Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita](https://anilist.co/anime/146234)
 * [Watched episode 304](https://anilist.co/activity/548954720) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 2](https://anilist.co/activity/548842304) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
 * [Watched episode 74](https://anilist.co/activity/548842122) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 202](https://anilist.co/activity/548842051) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 189](https://anilist.co/activity/548842029) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Plans to watch None](https://anilist.co/activity/548785108) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
-* [Completed None](https://anilist.co/activity/548784829) of [Sugar Apple Fairy Tale](https://anilist.co/anime/139821)
 <!-- anilist_activity ends -->
 
 </details>
