@@ -41,7 +41,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 72](https://anilist.co/activity/549484521) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 53](https://anilist.co/activity/549484488) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 15](https://anilist.co/activity/549484462) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
-* [Watched episode 49](https://anilist.co/activity/549484417) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
 <!-- anilist_activity ends -->
 
 </details>
