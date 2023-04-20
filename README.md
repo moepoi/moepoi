@@ -38,7 +38,6 @@ I'd like to do project that has relation to anime. :ghost:
 <!-- anilist_activity starts -->
 * [Watched episode 1 - 2](https://anilist.co/activity/549484978) of [MASHLE](https://anilist.co/anime/151801)
 * [Watched episode 275](https://anilist.co/activity/549484559) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 72](https://anilist.co/activity/549484521) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 <!-- anilist_activity ends -->
 
 </details>
