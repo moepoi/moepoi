@@ -95,6 +95,7 @@ I'd like to do project that has relation to anime. :ghost:
 * [Yor Forger](https://anilist.co/character/138102)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Celia Claire](https://anilist.co/character/161678)
+* [Yuzuriha](https://anilist.co/character/137270)
 * [Kyouko Hori](https://anilist.co/character/66171)
 * [Nagisa Minase](https://anilist.co/character/162885)
 * [Sayu Ogiwara](https://anilist.co/character/127925)
@@ -109,7 +110,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Holo](https://anilist.co/character/7373)
 * [Ayako Kuroba](https://anilist.co/character/200612)
 * [Nepgear](https://anilist.co/character/49927)
-* [Yuzuriha](https://anilist.co/character/137270)
 <!-- favorites_characters ends -->
 
 </details>
