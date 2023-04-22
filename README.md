@@ -107,9 +107,9 @@ I'd like to do project that has relation to anime. :ghost:
 * [Marin Kitagawa](https://anilist.co/character/133676)
 * [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
-* [Miyuki Shiba](https://anilist.co/character/55741)
 * [Ayako Kuroba](https://anilist.co/character/200612)
 * [Nepgear](https://anilist.co/character/49927)
+* [Yuzuriha](https://anilist.co/character/137270)
 <!-- favorites_characters ends -->
 
 </details>
