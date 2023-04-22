@@ -36,7 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 1 - 2](https://anilist.co/activity/549484978) of [MASHLE](https://anilist.co/anime/151801)
+
 <!-- anilist_activity ends -->
 
 </details>
