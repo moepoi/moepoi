@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 4 - 6](https://anilist.co/activity/559337946) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
-* [Watched episode 3 - 5](https://anilist.co/activity/559337872) of [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754)
-* [Watched episode 3 - 5](https://anilist.co/activity/559337793) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
-* [Watched episode 4 - 6](https://anilist.co/activity/559337723) of [Yamada-kun to Lv999 no Koi wo Suru](https://anilist.co/anime/154965)
-* [Watched episode 3 - 5](https://anilist.co/activity/559337638) of [Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita](https://anilist.co/anime/146234)
-* [Watched episode 3 - 5](https://anilist.co/activity/559337571) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
-* [Watched episode 3 - 5](https://anilist.co/activity/559337509) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
-* [Watched episode 3 - 5](https://anilist.co/activity/559337452) of [Dr. STONE: NEW WORLD](https://anilist.co/anime/131518)
-* [Watched episode 4 - 6](https://anilist.co/activity/559337362) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
-* [Watched episode 3 - 6](https://anilist.co/activity/559337287) of [Jigokuraku](https://anilist.co/anime/128893)
+* [Completed None](https://anilist.co/activity/559341852) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
+* [Watched episode 1 - 12](https://anilist.co/activity/559341834) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
+* [Completed None](https://anilist.co/activity/559341671) of [Shi Yi Chang'an: Mingyue Ji Shi You](https://anilist.co/anime/114117)
+* [Watched episode 1 - 11](https://anilist.co/activity/559341659) of [Shi Yi Chang'an: Mingyue Ji Shi You](https://anilist.co/anime/114117)
+* [Watched episode 10 - 11](https://anilist.co/activity/559341105) of [Xingchen Bian: An Xing Jie Pian](https://anilist.co/anime/153494)
+* [Completed None](https://anilist.co/activity/559340434) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
+* [Watched episode 58](https://anilist.co/activity/559339286) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
+* [Completed None](https://anilist.co/activity/559338951) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
+* [Completed None](https://anilist.co/activity/559338261) of [Wan Jie Zhizun](https://anilist.co/anime/157181)
+* [Watched episode 46 - 49](https://anilist.co/activity/559338132) of [Wan Jie Zhizun](https://anilist.co/anime/157181)
 <!-- anilist_activity ends -->
 
 </details>
