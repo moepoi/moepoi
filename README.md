@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 41 - 43](https://anilist.co/activity/559335115) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [Watched episode 29 - 34](https://anilist.co/activity/559335034) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
-* [Watched episode 73 - 78](https://anilist.co/activity/559334879) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 22 - 24](https://anilist.co/activity/559334736) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
-* [Watched episode 263 - 268](https://anilist.co/activity/559334420) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 7 - 9](https://anilist.co/activity/559334328) of [Xianwu Dizun](https://anilist.co/anime/152889)
-* [Watched episode 29 - 34](https://anilist.co/activity/559333870) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
-* [Watched episode 54 - 59](https://anilist.co/activity/559333664) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 50 - 55](https://anilist.co/activity/559333544) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 190 - 195](https://anilist.co/activity/559333193) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 4 - 6](https://anilist.co/activity/559337946) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
+* [Watched episode 3 - 5](https://anilist.co/activity/559337872) of [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754)
+* [Watched episode 3 - 5](https://anilist.co/activity/559337793) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
+* [Watched episode 4 - 6](https://anilist.co/activity/559337723) of [Yamada-kun to Lv999 no Koi wo Suru](https://anilist.co/anime/154965)
+* [Watched episode 3 - 5](https://anilist.co/activity/559337638) of [Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita](https://anilist.co/anime/146234)
+* [Watched episode 3 - 5](https://anilist.co/activity/559337571) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
+* [Watched episode 3 - 5](https://anilist.co/activity/559337509) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
+* [Watched episode 3 - 5](https://anilist.co/activity/559337452) of [Dr. STONE: NEW WORLD](https://anilist.co/anime/131518)
+* [Watched episode 4 - 6](https://anilist.co/activity/559337362) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
+* [Watched episode 3 - 6](https://anilist.co/activity/559337287) of [Jigokuraku](https://anilist.co/anime/128893)
 <!-- anilist_activity ends -->
 
 </details>
