@@ -96,8 +96,9 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- favorites_characters starts -->
 * [Mahiru Shiina](https://anilist.co/character/195602)
-* [Akari Watanabe](https://anilist.co/character/191672)
+* [Loo](https://anilist.co/character/293202)
 * [Mukuro Hoshimiya](https://anilist.co/character/157109)
+* [Akari Watanabe](https://anilist.co/character/191672)
 * [Misaki Shokuhou](https://anilist.co/character/40136)
 * [Kuon](https://anilist.co/character/126823)
 * [Vladilena Milizé](https://anilist.co/character/141061)
@@ -109,7 +110,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Nagisa Minase](https://anilist.co/character/162885)
 * [Sayu Ogiwara](https://anilist.co/character/127925)
 * [Ravel Phenex](https://anilist.co/character/58341)
-* [Ruka Sarashina](https://anilist.co/character/147005)
 * [Yuuko Yoshida](https://anilist.co/character/141461)
 * [Ziyu Zhou](https://anilist.co/character/234726)
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
