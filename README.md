@@ -36,7 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-
+* [Watched episode 41 - 43](https://anilist.co/activity/559335115) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
+* [Watched episode 29 - 34](https://anilist.co/activity/559335034) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
+* [Watched episode 73 - 78](https://anilist.co/activity/559334879) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 22 - 24](https://anilist.co/activity/559334736) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
+* [Watched episode 263 - 268](https://anilist.co/activity/559334420) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [Watched episode 7 - 9](https://anilist.co/activity/559334328) of [Xianwu Dizun](https://anilist.co/anime/152889)
+* [Watched episode 29 - 34](https://anilist.co/activity/559333870) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
+* [Watched episode 54 - 59](https://anilist.co/activity/559333664) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 50 - 55](https://anilist.co/activity/559333544) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [Watched episode 190 - 195](https://anilist.co/activity/559333193) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
