@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1 - 6](https://anilist.co/activity/559770400) of [Aishang Ta De Liyou](https://anilist.co/anime/156111)
+* [Watched episode 1 - 2](https://anilist.co/activity/559768097) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Completed None](https://anilist.co/activity/559341852) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
 * [Watched episode 1 - 12](https://anilist.co/activity/559341834) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
 * [Completed None](https://anilist.co/activity/559341671) of [Shi Yi Chang'an: Mingyue Ji Shi You](https://anilist.co/anime/114117)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/559340434) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [Watched episode 58](https://anilist.co/activity/559339286) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 * [Completed None](https://anilist.co/activity/559338951) of [Wo Jian Qile Yi Di Shuxing](https://anilist.co/anime/137685)
-* [Completed None](https://anilist.co/activity/559338261) of [Wan Jie Zhizun](https://anilist.co/anime/157181)
-* [Watched episode 46 - 49](https://anilist.co/activity/559338132) of [Wan Jie Zhizun](https://anilist.co/anime/157181)
 <!-- anilist_activity ends -->
 
 </details>
