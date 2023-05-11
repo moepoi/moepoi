@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 6](https://anilist.co/activity/560496371) of [Dr. STONE: NEW WORLD](https://anilist.co/anime/131518)
+* [Watched episode 81](https://anilist.co/activity/560496338) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [Watched episode 35](https://anilist.co/activity/560496266) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 * [Watched episode 311](https://anilist.co/activity/560254859) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 6](https://anilist.co/activity/560231500) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
 * [Watched episode 28](https://anilist.co/activity/560231468) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 269](https://anilist.co/activity/560231235) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 25](https://anilist.co/activity/560231191) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
 * [Watched episode 1 - 2](https://anilist.co/activity/559781184) of [Bu Mie Shen Wang](https://anilist.co/anime/129246)
-* [Watched episode 1 - 6](https://anilist.co/activity/559770400) of [Aishang Ta De Liyou](https://anilist.co/anime/156111)
-* [Watched episode 1 - 2](https://anilist.co/activity/559768097) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
-* [Completed None](https://anilist.co/activity/559341852) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
 <!-- anilist_activity ends -->
 
 </details>
