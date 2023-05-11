@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 6](https://anilist.co/activity/560231500) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
+* [Watched episode 28](https://anilist.co/activity/560231468) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [Watched episode 42](https://anilist.co/activity/560231273) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Watched episode 269](https://anilist.co/activity/560231235) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 25](https://anilist.co/activity/560231191) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1 - 2](https://anilist.co/activity/559768097) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Completed None](https://anilist.co/activity/559341852) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
 * [Watched episode 1 - 12](https://anilist.co/activity/559341834) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
-* [Completed None](https://anilist.co/activity/559341671) of [Shi Yi Chang'an: Mingyue Ji Shi You](https://anilist.co/anime/114117)
-* [Watched episode 1 - 11](https://anilist.co/activity/559341659) of [Shi Yi Chang'an: Mingyue Ji Shi You](https://anilist.co/anime/114117)
 <!-- anilist_activity ends -->
 
 </details>
