@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 311](https://anilist.co/activity/560254859) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 6](https://anilist.co/activity/560231500) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
 * [Watched episode 28](https://anilist.co/activity/560231468) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [Watched episode 42](https://anilist.co/activity/560231273) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1 - 6](https://anilist.co/activity/559770400) of [Aishang Ta De Liyou](https://anilist.co/anime/156111)
 * [Watched episode 1 - 2](https://anilist.co/activity/559768097) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Completed None](https://anilist.co/activity/559341852) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
-* [Watched episode 1 - 12](https://anilist.co/activity/559341834) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
 <!-- anilist_activity ends -->
 
 </details>
