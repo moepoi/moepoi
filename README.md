@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 42](https://anilist.co/activity/560231273) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
+* [Watched episode 269](https://anilist.co/activity/560231235) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [Watched episode 25](https://anilist.co/activity/560231191) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
 * [Watched episode 1 - 2](https://anilist.co/activity/559781184) of [Bu Mie Shen Wang](https://anilist.co/anime/129246)
 * [Watched episode 1 - 6](https://anilist.co/activity/559770400) of [Aishang Ta De Liyou](https://anilist.co/anime/156111)
 * [Watched episode 1 - 2](https://anilist.co/activity/559768097) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1 - 12](https://anilist.co/activity/559341834) of [Shi Yi Chang'an: Mingyue Ji Shi You 2](https://anilist.co/anime/131475)
 * [Completed None](https://anilist.co/activity/559341671) of [Shi Yi Chang'an: Mingyue Ji Shi You](https://anilist.co/anime/114117)
 * [Watched episode 1 - 11](https://anilist.co/activity/559341659) of [Shi Yi Chang'an: Mingyue Ji Shi You](https://anilist.co/anime/114117)
-* [Watched episode 10 - 11](https://anilist.co/activity/559341105) of [Xingchen Bian: An Xing Jie Pian](https://anilist.co/anime/153494)
-* [Completed None](https://anilist.co/activity/559340434) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
-* [Watched episode 58](https://anilist.co/activity/559339286) of [Tunshi Xingkong 2](https://anilist.co/anime/134283)
 <!-- anilist_activity ends -->
 
 </details>
