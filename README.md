@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 42](https://anilist.co/activity/560231273) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Watched episode 269](https://anilist.co/activity/560231235) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 25](https://anilist.co/activity/560231191) of [Yi Nian Yongheng: Hezong Pian](https://anilist.co/anime/153496)
-* [Watched episode 1 - 2](https://anilist.co/activity/559781184) of [Bu Mie Shen Wang](https://anilist.co/anime/129246)
 <!-- anilist_activity ends -->
 
 </details>
