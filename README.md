@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 7](https://anilist.co/activity/563299923) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
 * [Watched episode 6](https://anilist.co/activity/563299891) of [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754)
 * [Watched episode 6](https://anilist.co/activity/563299866) of [Otonari ni Ginga](https://anilist.co/anime/148098)
-* [Watched episode 7](https://anilist.co/activity/563299843) of [Jigokuraku](https://anilist.co/anime/128893)
 <!-- anilist_activity ends -->
 
 </details>
