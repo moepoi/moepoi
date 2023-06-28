@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 2](https://anilist.co/activity/583031012) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
-* [Completed None](https://anilist.co/activity/583030704) of [Douluo Dalu: Shuang Shen Zhi Zhan](https://anilist.co/anime/165680)
-* [Completed None](https://anilist.co/activity/583030412) of [Douluo Dalu: Wan Xian Geng Xin](https://anilist.co/anime/165679)
-* [Completed None](https://anilist.co/activity/583030182) of [Douluo Dalu: Tang Sancheng Shen](https://anilist.co/anime/163825)
-* [Completed None](https://anilist.co/activity/583029418) of [Otonari ni Ginga](https://anilist.co/anime/148098)
-* [Completed None](https://anilist.co/activity/583029192) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
-* [Completed None](https://anilist.co/activity/583028982) of [Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita](https://anilist.co/anime/146234)
-* [Completed None](https://anilist.co/activity/583028711) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
-* [Completed None](https://anilist.co/activity/583028201) of [Dr. STONE: NEW WORLD](https://anilist.co/anime/131518)
-* [Completed None](https://anilist.co/activity/583027266) of [Tayutama: Kiss on my Deity](https://anilist.co/anime/5734)
+* [Watched episode 20](https://anilist.co/activity/583035815) of [Aishang Ta De Liyou](https://anilist.co/anime/156111)
+* [Watched episode 35](https://anilist.co/activity/583035464) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 209](https://anilist.co/activity/583035404) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 222](https://anilist.co/activity/583035319) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 295](https://anilist.co/activity/583035259) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 38](https://anilist.co/activity/583035191) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
+* [Watched episode 16](https://anilist.co/activity/583035133) of [Xianwu Zhuan](https://anilist.co/anime/152889)
+* [Watched episode 11](https://anilist.co/activity/583035083) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
+* [Watched episode 92](https://anilist.co/activity/583035004) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 35](https://anilist.co/activity/583034879) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 <!-- anilist_activity ends -->
 
 </details>
