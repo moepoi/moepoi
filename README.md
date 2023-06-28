@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Plans to watch None](https://anilist.co/activity/583053806) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
-* [Completed None](https://anilist.co/activity/583053517) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
-* [Completed None](https://anilist.co/activity/583053360) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
-* [Completed None](https://anilist.co/activity/583053188) of [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754)
-* [Completed None](https://anilist.co/activity/583053076) of [Yamada-kun to Lv999 no Koi wo Suru](https://anilist.co/anime/154965)
-* [Completed None](https://anilist.co/activity/583052755) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
-* [Completed None](https://anilist.co/activity/583052499) of [Kubo-san wa Mob wo Yurusanai](https://anilist.co/anime/148969)
-* [Watched episode 12](https://anilist.co/activity/583052194) of [VINLAND SAGA](https://anilist.co/anime/101348)
-* [Paused watching 13](https://anilist.co/activity/583052126) of [VINLAND SAGA](https://anilist.co/anime/101348)
-* [Completed None](https://anilist.co/activity/583049333) of [Tunshi Xingkong 3](https://anilist.co/anime/166218)
+* [Plans to watch None](https://anilist.co/activity/583063402) of [Xiuxianzhe Dazhan Chaonengli](https://anilist.co/anime/155304)
+* [Plans to watch None](https://anilist.co/activity/583063327) of [Wangu Xie Di](https://anilist.co/anime/155323)
+* [Plans to watch None](https://anilist.co/activity/583063288) of [Gaishi Dizun](https://anilist.co/anime/155321)
+* [Plans to watch None](https://anilist.co/activity/583062786) of [Bu Si Bu Mie](https://anilist.co/anime/156088)
+* [Plans to watch None](https://anilist.co/activity/583062638) of [Yong Sheng: Shi Nian Zhi Yue](https://anilist.co/anime/156099)
+* [Plans to watch None](https://anilist.co/activity/583062549) of [Wanmei Zhizun](https://anilist.co/anime/156102)
+* [Plans to watch None](https://anilist.co/activity/583062527) of [Xin Yichang Shengwu Jianwen Lu: Xu](https://anilist.co/anime/156104)
+* [Plans to watch None](https://anilist.co/activity/583062453) of [Kui Cheng Shoufu Cong Youxi Kaishi](https://anilist.co/anime/156112)
+* [Plans to watch None](https://anilist.co/activity/583061408) of [Sousei no Aquarion: Myth of Emotions](https://anilist.co/anime/162921)
+* [Plans to watch None](https://anilist.co/activity/583061155) of [Maou 2099](https://anilist.co/anime/163135)
 <!-- anilist_activity ends -->
 
 </details>
