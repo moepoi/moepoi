@@ -36,16 +36,15 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 23](https://anilist.co/activity/583044711) of [Yishi Du Zun](https://anilist.co/anime/166223)
+* [Watched episode 11](https://anilist.co/activity/583044005) of [Zhe Tian](https://anilist.co/anime/137671)
+* [Watched episode 55](https://anilist.co/activity/583043339) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
+* [Watched episode 41](https://anilist.co/activity/583042943) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 39](https://anilist.co/activity/583042480) of [Dan Dao Zongshi](https://anilist.co/anime/165526)
+* [Watched episode 17](https://anilist.co/activity/583041838) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
+* [Completed None](https://anilist.co/activity/583041621) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
+* [Watched episode 22](https://anilist.co/activity/583041041) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 * [Watched episode 5](https://anilist.co/activity/583039964) of [Quanzhi Fashi 6](https://anilist.co/anime/137726)
-* [Watched episode 31](https://anilist.co/activity/583039101) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
-* [Watched episode 11](https://anilist.co/activity/583038517) of [MASHLE](https://anilist.co/anime/151801)
-* [Watched episode 18](https://anilist.co/activity/583038414) of [Xingchen Bian: An Xing Jie Pian](https://anilist.co/anime/153494)
-* [Watched episode 94](https://anilist.co/activity/583038263) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 283](https://anilist.co/activity/583037984) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 34](https://anilist.co/activity/583037745) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [Watched episode 16](https://anilist.co/activity/583037372) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
-* [Watched episode 324](https://anilist.co/activity/583036965) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 48](https://anilist.co/activity/583036868) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 <!-- anilist_activity ends -->
 
 </details>
