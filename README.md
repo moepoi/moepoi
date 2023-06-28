@@ -36,15 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 23](https://anilist.co/activity/583044711) of [Yishi Du Zun](https://anilist.co/anime/166223)
-* [Watched episode 11](https://anilist.co/activity/583044005) of [Zhe Tian](https://anilist.co/anime/137671)
-* [Watched episode 55](https://anilist.co/activity/583043339) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
-* [Watched episode 41](https://anilist.co/activity/583042943) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 39](https://anilist.co/activity/583042480) of [Dan Dao Zongshi](https://anilist.co/anime/165526)
-* [Watched episode 17](https://anilist.co/activity/583041838) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
-* [Completed None](https://anilist.co/activity/583041621) of [Jiu Tian Xuan Di Jue 3](https://anilist.co/anime/155327)
-* [Watched episode 22](https://anilist.co/activity/583041041) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
-* [Watched episode 5](https://anilist.co/activity/583039964) of [Quanzhi Fashi 6](https://anilist.co/anime/137726)
+* [Plans to watch None](https://anilist.co/activity/583053806) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
+* [Completed None](https://anilist.co/activity/583053517) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
+* [Completed None](https://anilist.co/activity/583053360) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
+* [Completed None](https://anilist.co/activity/583053188) of [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754)
+* [Completed None](https://anilist.co/activity/583053076) of [Yamada-kun to Lv999 no Koi wo Suru](https://anilist.co/anime/154965)
+* [Completed None](https://anilist.co/activity/583052755) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
+* [Completed None](https://anilist.co/activity/583052499) of [Kubo-san wa Mob wo Yurusanai](https://anilist.co/anime/148969)
+* [Watched episode 12](https://anilist.co/activity/583052194) of [VINLAND SAGA](https://anilist.co/anime/101348)
+* [Paused watching 13](https://anilist.co/activity/583052126) of [VINLAND SAGA](https://anilist.co/anime/101348)
+* [Completed None](https://anilist.co/activity/583049333) of [Tunshi Xingkong 3](https://anilist.co/anime/166218)
 <!-- anilist_activity ends -->
 
 </details>
