@@ -36,15 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 7](https://anilist.co/activity/563300410) of [Kubo-san wa Mob wo Yurusanai](https://anilist.co/anime/148969)
-* [Watched episode 12](https://anilist.co/activity/563300228) of [Xingchen Bian: An Xing Jie Pian](https://anilist.co/anime/153494)
-* [Watched episode 44](https://anilist.co/activity/563300105) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [Watched episode 7](https://anilist.co/activity/563300027) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://anilist.co/anime/153845)
-* [Watched episode 7](https://anilist.co/activity/563299992) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
-* [Watched episode 6](https://anilist.co/activity/563299970) of [Kanojo ga Koushaku-tei ni Itta Riyuu](https://anilist.co/anime/151847)
-* [Watched episode 7](https://anilist.co/activity/563299923) of [Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito](https://anilist.co/anime/153332)
-* [Watched episode 6](https://anilist.co/activity/563299891) of [Isekai Shoukan wa Nidome desu](https://anilist.co/anime/140754)
-* [Watched episode 6](https://anilist.co/activity/563299866) of [Otonari ni Ginga](https://anilist.co/anime/148098)
+* [Watched episode 2](https://anilist.co/activity/583031012) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
+* [Completed None](https://anilist.co/activity/583030704) of [Douluo Dalu: Shuang Shen Zhi Zhan](https://anilist.co/anime/165680)
+* [Completed None](https://anilist.co/activity/583030412) of [Douluo Dalu: Wan Xian Geng Xin](https://anilist.co/anime/165679)
+* [Completed None](https://anilist.co/activity/583030182) of [Douluo Dalu: Tang Sancheng Shen](https://anilist.co/anime/163825)
+* [Completed None](https://anilist.co/activity/583029418) of [Otonari ni Ginga](https://anilist.co/anime/148098)
+* [Completed None](https://anilist.co/activity/583029192) of [Isekai wa Smartphone to Tomo ni. 2](https://anilist.co/anime/147571)
+* [Completed None](https://anilist.co/activity/583028982) of [Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita](https://anilist.co/anime/146234)
+* [Completed None](https://anilist.co/activity/583028711) of [Yuusha ga Shinda!](https://anilist.co/anime/148109)
+* [Completed None](https://anilist.co/activity/583028201) of [Dr. STONE: NEW WORLD](https://anilist.co/anime/131518)
+* [Completed None](https://anilist.co/activity/583027266) of [Tayutama: Kiss on my Deity](https://anilist.co/anime/5734)
 <!-- anilist_activity ends -->
 
 </details>
