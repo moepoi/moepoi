@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/584098206) of [MASHLE](https://anilist.co/anime/151801)
 * [Plans to watch None](https://anilist.co/activity/584032936) of [MASHLE 2nd Season](https://anilist.co/anime/166610)
 * [Watched episode 1 - 3](https://anilist.co/activity/584031383) of [Da Zhuzai](https://anilist.co/anime/134088)
 * [Watched episode 296](https://anilist.co/activity/584011019) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 35](https://anilist.co/activity/583846673) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [Watched episode 39](https://anilist.co/activity/583840518) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [Watched episode 22 - 23](https://anilist.co/activity/583572161) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
-* [Watched episode 55 - 56](https://anilist.co/activity/583572095) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 <!-- anilist_activity ends -->
 
 </details>
