@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 296](https://anilist.co/activity/584011019) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 223](https://anilist.co/activity/584010973) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 36](https://anilist.co/activity/584010883) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
 * [Watched episode 210](https://anilist.co/activity/584010823) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 35](https://anilist.co/activity/583846673) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 55 - 56](https://anilist.co/activity/583572095) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Watched episode 49](https://anilist.co/activity/583572021) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
 * [Watched episode 95](https://anilist.co/activity/583571950) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 325](https://anilist.co/activity/583571894) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Plans to watch None](https://anilist.co/activity/583063402) of [Xiuxianzhe Dazhan Chaonengli](https://anilist.co/anime/155304)
 <!-- anilist_activity ends -->
 
 </details>
