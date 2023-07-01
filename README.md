@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 17](https://anilist.co/activity/584399405) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
+* [Watched episode 36](https://anilist.co/activity/584399378) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [Watched episode 3](https://anilist.co/activity/584309181) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 * [Watched episode 42](https://anilist.co/activity/584309152) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 93](https://anilist.co/activity/584309114) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 18](https://anilist.co/activity/584308922) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Completed None](https://anilist.co/activity/584098206) of [MASHLE](https://anilist.co/anime/151801)
 * [Plans to watch None](https://anilist.co/activity/584032936) of [MASHLE 2nd Season](https://anilist.co/anime/166610)
-* [Watched episode 1 - 3](https://anilist.co/activity/584031383) of [Da Zhuzai](https://anilist.co/anime/134088)
-* [Watched episode 296](https://anilist.co/activity/584011019) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
