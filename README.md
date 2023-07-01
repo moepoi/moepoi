@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 3](https://anilist.co/activity/584309181) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
+* [Watched episode 42](https://anilist.co/activity/584309152) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 93](https://anilist.co/activity/584309114) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 50](https://anilist.co/activity/584309068) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
+* [Watched episode 6](https://anilist.co/activity/584308979) of [Quanzhi Fashi 6](https://anilist.co/anime/137726)
+* [Watched episode 18](https://anilist.co/activity/584308922) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Completed None](https://anilist.co/activity/584098206) of [MASHLE](https://anilist.co/anime/151801)
 * [Plans to watch None](https://anilist.co/activity/584032936) of [MASHLE 2nd Season](https://anilist.co/anime/166610)
 * [Watched episode 1 - 3](https://anilist.co/activity/584031383) of [Da Zhuzai](https://anilist.co/anime/134088)
 * [Watched episode 296](https://anilist.co/activity/584011019) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 223](https://anilist.co/activity/584010973) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 36](https://anilist.co/activity/584010883) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
-* [Watched episode 210](https://anilist.co/activity/584010823) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Watched episode 35](https://anilist.co/activity/583846673) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [Watched episode 39](https://anilist.co/activity/583840518) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [Watched episode 22 - 23](https://anilist.co/activity/583572161) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 <!-- anilist_activity ends -->
 
 </details>
