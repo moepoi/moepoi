@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/584757923) of [Jigokuraku 2nd Season](https://anilist.co/anime/166613)
 * [Watched episode 17](https://anilist.co/activity/584399405) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 36](https://anilist.co/activity/584399378) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [Watched episode 3](https://anilist.co/activity/584309181) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 6](https://anilist.co/activity/584308979) of [Quanzhi Fashi 6](https://anilist.co/anime/137726)
 * [Watched episode 18](https://anilist.co/activity/584308922) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Completed None](https://anilist.co/activity/584098206) of [MASHLE](https://anilist.co/anime/151801)
-* [Plans to watch None](https://anilist.co/activity/584032936) of [MASHLE 2nd Season](https://anilist.co/anime/166610)
 <!-- anilist_activity ends -->
 
 </details>
