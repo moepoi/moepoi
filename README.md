@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/585415884) of [Jigokuraku](https://anilist.co/anime/128893)
+* [Completed None](https://anilist.co/activity/585415851) of [Dan Dao Zongshi](https://anilist.co/anime/165526)
+* [Watched episode 326](https://anilist.co/activity/585415642) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 224](https://anilist.co/activity/585415610) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 211](https://anilist.co/activity/585415570) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 51](https://anilist.co/activity/585387579) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [Watched episode 1](https://anilist.co/activity/585387168) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
 * [Watched episode 1](https://anilist.co/activity/585387125) of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391)
 * [Watched episode 57](https://anilist.co/activity/585385948) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Completed None](https://anilist.co/activity/585385824) of [Aishang Ta De Liyou](https://anilist.co/anime/156111)
-* [Watched episode 21](https://anilist.co/activity/585385749) of [Aishang Ta De Liyou](https://anilist.co/anime/156111)
-* [Watched episode 24](https://anilist.co/activity/585385565) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
-* [Watched episode 50](https://anilist.co/activity/585385491) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
-* [Watched episode 24](https://anilist.co/activity/585385405) of [Yishi Du Zun](https://anilist.co/anime/166223)
-* [Watched episode 17](https://anilist.co/activity/585385318) of [Xianwu Zhuan](https://anilist.co/anime/152889)
 <!-- anilist_activity ends -->
 
 </details>
