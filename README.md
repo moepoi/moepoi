@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/585964870) of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836)
+* [Watched episode 1](https://anilist.co/activity/585964865) of [Okashi na Tensei](https://anilist.co/anime/153339)
 * [Watched episode 37](https://anilist.co/activity/585945478) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [Watched episode 75](https://anilist.co/activity/585945463) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 94](https://anilist.co/activity/585945430) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/585899168) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
 * [Watched episode 19](https://anilist.co/activity/585623820) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Watched episode 96](https://anilist.co/activity/585623660) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Completed None](https://anilist.co/activity/585415884) of [Jigokuraku](https://anilist.co/anime/128893)
-* [Completed None](https://anilist.co/activity/585415851) of [Dan Dao Zongshi](https://anilist.co/anime/165526)
 <!-- anilist_activity ends -->
 
 </details>
