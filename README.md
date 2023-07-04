@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/585899176) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
+* [Watched episode 1](https://anilist.co/activity/585899168) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
 * [Watched episode 19](https://anilist.co/activity/585623820) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Watched episode 96](https://anilist.co/activity/585623660) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Completed None](https://anilist.co/activity/585415884) of [Jigokuraku](https://anilist.co/anime/128893)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 224](https://anilist.co/activity/585415610) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 211](https://anilist.co/activity/585415570) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 51](https://anilist.co/activity/585387579) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
-* [Watched episode 1](https://anilist.co/activity/585387168) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
-* [Watched episode 1](https://anilist.co/activity/585387125) of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391)
 <!-- anilist_activity ends -->
 
 </details>
