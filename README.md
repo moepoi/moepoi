@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/587242197) of [Kaminaki Sekai no Kamisama Katsudou](https://anilist.co/anime/148048)
 * [Watched episode 36](https://anilist.co/activity/587158155) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [Watched episode 25](https://anilist.co/activity/587158110) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 * [Watched episode 51](https://anilist.co/activity/587158040) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 25](https://anilist.co/activity/586684018) of [Yishi Du Zun](https://anilist.co/anime/166223)
 * [Watched episode 285](https://anilist.co/activity/586683902) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 12](https://anilist.co/activity/586464179) of [Zhe Tian](https://anilist.co/anime/137671)
-* [Watched episode 17](https://anilist.co/activity/586464057) of [Yi Nian Yongheng: Ni Zhan Pian](https://anilist.co/anime/166284)
 <!-- anilist_activity ends -->
 
 </details>
