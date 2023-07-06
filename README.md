@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 36](https://anilist.co/activity/587158155) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
+* [Watched episode 25](https://anilist.co/activity/587158110) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
+* [Watched episode 51](https://anilist.co/activity/587158040) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
+* [Watched episode 327](https://anilist.co/activity/587157994) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 97](https://anilist.co/activity/587157936) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [Watched episode 58](https://anilist.co/activity/587157892) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Watched episode 25](https://anilist.co/activity/586684018) of [Yishi Du Zun](https://anilist.co/anime/166223)
 * [Watched episode 285](https://anilist.co/activity/586683902) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 12](https://anilist.co/activity/586464179) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 17](https://anilist.co/activity/586464057) of [Yi Nian Yongheng: Ni Zhan Pian](https://anilist.co/anime/166284)
-* [Watched episode 18](https://anilist.co/activity/586463964) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
-* [Watched episode 51](https://anilist.co/activity/586463935) of [Yao Shen Ji 7](https://anilist.co/anime/159582)
-* [Watched episode 1](https://anilist.co/activity/586381628) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
-* [Watched episode 1 - 2](https://anilist.co/activity/586055253) of [Okashi na Tensei](https://anilist.co/anime/153339)
-* [Watched episode 43](https://anilist.co/activity/586054846) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 297](https://anilist.co/activity/586054793) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
