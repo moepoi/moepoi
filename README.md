@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 2](https://anilist.co/activity/588823592) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
 * [Plans to watch None](https://anilist.co/activity/588809537) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Plans to watch None](https://anilist.co/activity/588809379) of [Henjin no Salad Bowl](https://anilist.co/anime/166828)
 * [Plans to watch None](https://anilist.co/activity/588809282) of [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://anilist.co/anime/166873)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/588806028) of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465)
 * [Watched episode 2](https://anilist.co/activity/588805871) of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391)
 * [Watched episode 59](https://anilist.co/activity/588803254) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
-* [Watched episode 26](https://anilist.co/activity/588803150) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 <!-- anilist_activity ends -->
 
 </details>
