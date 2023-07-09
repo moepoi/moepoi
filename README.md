@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/588883356) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
 * [Watched episode 1](https://anilist.co/activity/588839864) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
 * [Watched episode 2](https://anilist.co/activity/588823592) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
 * [Plans to watch None](https://anilist.co/activity/588809537) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/588806356) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
 * [Watched episode 1 - 2](https://anilist.co/activity/588806259) of [Liar Liar](https://anilist.co/anime/131863)
 * [Watched episode 1](https://anilist.co/activity/588806028) of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465)
-* [Watched episode 2](https://anilist.co/activity/588805871) of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391)
 <!-- anilist_activity ends -->
 
 </details>
