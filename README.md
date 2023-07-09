@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/588809537) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
+* [Plans to watch None](https://anilist.co/activity/588809379) of [Henjin no Salad Bowl](https://anilist.co/anime/166828)
+* [Plans to watch None](https://anilist.co/activity/588809282) of [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://anilist.co/anime/166873)
+* [Completed None](https://anilist.co/activity/588808563) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
+* [Watched episode 1](https://anilist.co/activity/588806356) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
+* [Watched episode 1 - 2](https://anilist.co/activity/588806259) of [Liar Liar](https://anilist.co/anime/131863)
+* [Watched episode 1](https://anilist.co/activity/588806028) of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465)
+* [Watched episode 2](https://anilist.co/activity/588805871) of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391)
 * [Watched episode 59](https://anilist.co/activity/588803254) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
 * [Watched episode 26](https://anilist.co/activity/588803150) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
-* [Watched episode 26](https://anilist.co/activity/588803120) of [Yishi Du Zun](https://anilist.co/anime/166223)
-* [Completed None](https://anilist.co/activity/588803005) of [Jian Yu Chuanqi 2](https://anilist.co/anime/147133)
-* [Watched episode 18](https://anilist.co/activity/588802896) of [Xianwu Zhuan](https://anilist.co/anime/152889)
-* [Watched episode 76](https://anilist.co/activity/588802724) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 286](https://anilist.co/activity/588802630) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 44](https://anilist.co/activity/588802545) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 4](https://anilist.co/activity/588802445) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
-* [Watched episode 19](https://anilist.co/activity/588802387) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 <!-- anilist_activity ends -->
 
 </details>
