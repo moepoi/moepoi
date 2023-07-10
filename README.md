@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1 - 2](https://anilist.co/activity/589150213) of [Yong Sheng: Shi Nian Zhi Yue](https://anilist.co/anime/156099)
+* [Watched episode 226](https://anilist.co/activity/589149777) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 213](https://anilist.co/activity/589149768) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 1](https://anilist.co/activity/589069880) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
 * [Watched episode 1](https://anilist.co/activity/589047374) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
 * [Watched episode 1](https://anilist.co/activity/588898571) of [Temple](https://anilist.co/anime/160447)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/588839864) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
 * [Watched episode 2](https://anilist.co/activity/588823592) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
 * [Plans to watch None](https://anilist.co/activity/588809537) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
-* [Plans to watch None](https://anilist.co/activity/588809379) of [Henjin no Salad Bowl](https://anilist.co/anime/166828)
-* [Plans to watch None](https://anilist.co/activity/588809282) of [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://anilist.co/anime/166873)
-* [Completed None](https://anilist.co/activity/588808563) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 <!-- anilist_activity ends -->
 
 </details>
