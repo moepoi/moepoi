@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/589047374) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
 * [Watched episode 1](https://anilist.co/activity/588898571) of [Temple](https://anilist.co/anime/160447)
 * [Watched episode 1](https://anilist.co/activity/588883356) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
 * [Watched episode 1](https://anilist.co/activity/588839864) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/588809282) of [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://anilist.co/anime/166873)
 * [Completed None](https://anilist.co/activity/588808563) of [Dou Po Cangqiong: Nian Fan](https://anilist.co/anime/137728)
 * [Watched episode 1](https://anilist.co/activity/588806356) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
-* [Watched episode 1 - 2](https://anilist.co/activity/588806259) of [Liar Liar](https://anilist.co/anime/131863)
 <!-- anilist_activity ends -->
 
 </details>
