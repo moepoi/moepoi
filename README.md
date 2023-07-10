@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 21](https://anilist.co/activity/589258777) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
+* [Watched episode 328](https://anilist.co/activity/589258711) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 98](https://anilist.co/activity/589258673) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 1 - 6](https://anilist.co/activity/589195031) of [Shi Fang Jian Sheng](https://anilist.co/anime/153478)
 * [Watched episode 1 - 2](https://anilist.co/activity/589150213) of [Yong Sheng: Shi Nian Zhi Yue](https://anilist.co/anime/156099)
 * [Watched episode 226](https://anilist.co/activity/589149777) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/589069880) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
 * [Watched episode 1](https://anilist.co/activity/589047374) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
 * [Watched episode 1](https://anilist.co/activity/588898571) of [Temple](https://anilist.co/anime/160447)
-* [Watched episode 1](https://anilist.co/activity/588883356) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
-* [Watched episode 1](https://anilist.co/activity/588839864) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
-* [Watched episode 2](https://anilist.co/activity/588823592) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
 <!-- anilist_activity ends -->
 
 </details>
