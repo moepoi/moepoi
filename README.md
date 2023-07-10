@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1 - 6](https://anilist.co/activity/589195031) of [Shi Fang Jian Sheng](https://anilist.co/anime/153478)
 * [Watched episode 1 - 2](https://anilist.co/activity/589150213) of [Yong Sheng: Shi Nian Zhi Yue](https://anilist.co/anime/156099)
 * [Watched episode 226](https://anilist.co/activity/589149777) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 213](https://anilist.co/activity/589149768) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/588883356) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
 * [Watched episode 1](https://anilist.co/activity/588839864) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
 * [Watched episode 2](https://anilist.co/activity/588823592) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
-* [Plans to watch None](https://anilist.co/activity/588809537) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 <!-- anilist_activity ends -->
 
 </details>
