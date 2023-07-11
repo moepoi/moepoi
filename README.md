@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 2](https://anilist.co/activity/589706059) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
+* [Watched episode 2](https://anilist.co/activity/589705872) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
+* [Watched episode 3](https://anilist.co/activity/589705704) of [Okashi na Tensei](https://anilist.co/anime/153339)
+* [Watched episode 39](https://anilist.co/activity/589705279) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
+* [Watched episode 45](https://anilist.co/activity/589705197) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 96](https://anilist.co/activity/589705189) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 77](https://anilist.co/activity/589705141) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 20](https://anilist.co/activity/589705109) of [Xingchen Bian: An Xing Jie Pian](https://anilist.co/anime/153494)
 * [Watched episode 1 - 2](https://anilist.co/activity/589309700) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
 * [Watched episode 21](https://anilist.co/activity/589258777) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
-* [Watched episode 328](https://anilist.co/activity/589258711) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 98](https://anilist.co/activity/589258673) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 1 - 6](https://anilist.co/activity/589195031) of [Shi Fang Jian Sheng](https://anilist.co/anime/153478)
-* [Watched episode 1 - 2](https://anilist.co/activity/589150213) of [Yong Sheng: Shi Nian Zhi Yue](https://anilist.co/anime/156099)
-* [Watched episode 226](https://anilist.co/activity/589149777) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 213](https://anilist.co/activity/589149768) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Watched episode 1](https://anilist.co/activity/589047374) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
-* [Watched episode 1](https://anilist.co/activity/588898571) of [Temple](https://anilist.co/anime/160447)
 <!-- anilist_activity ends -->
 
 </details>
