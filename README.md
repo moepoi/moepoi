@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 2](https://anilist.co/activity/590197261) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
+* [Watched episode 2](https://anilist.co/activity/590197199) of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836)
+* [Watched episode 287](https://anilist.co/activity/590196653) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [Watched episode 13](https://anilist.co/activity/590196614) of [Zhe Tian](https://anilist.co/anime/137671)
+* [Watched episode 299](https://anilist.co/activity/590196473) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 2](https://anilist.co/activity/589706059) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
 * [Watched episode 2](https://anilist.co/activity/589705872) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
 * [Watched episode 3](https://anilist.co/activity/589705704) of [Okashi na Tensei](https://anilist.co/anime/153339)
 * [Watched episode 39](https://anilist.co/activity/589705279) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [Watched episode 45](https://anilist.co/activity/589705197) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 96](https://anilist.co/activity/589705189) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 77](https://anilist.co/activity/589705141) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 20](https://anilist.co/activity/589705109) of [Xingchen Bian: An Xing Jie Pian](https://anilist.co/anime/153494)
-* [Watched episode 1 - 2](https://anilist.co/activity/589309700) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
-* [Watched episode 21](https://anilist.co/activity/589258777) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 <!-- anilist_activity ends -->
 
 </details>
