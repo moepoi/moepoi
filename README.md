@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/590306671) of [Yi Nian Yongheng: Ni Zhan Pian](https://anilist.co/anime/166284)
+* [Watched episode 27](https://anilist.co/activity/590306572) of [Yishi Du Zun](https://anilist.co/anime/166223)
 * [Watched episode 1 - 3](https://anilist.co/activity/590253168) of [Duo Xuan Shi](https://anilist.co/anime/137676)
 * [Watched episode 20](https://anilist.co/activity/590209702) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 2](https://anilist.co/activity/590197261) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 13](https://anilist.co/activity/590196614) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 299](https://anilist.co/activity/590196473) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 2](https://anilist.co/activity/589706059) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
-* [Watched episode 2](https://anilist.co/activity/589705872) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
-* [Watched episode 3](https://anilist.co/activity/589705704) of [Okashi na Tensei](https://anilist.co/anime/153339)
 <!-- anilist_activity ends -->
 
 </details>
