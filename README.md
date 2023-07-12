@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 20](https://anilist.co/activity/590209702) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 2](https://anilist.co/activity/590197261) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
 * [Watched episode 2](https://anilist.co/activity/590197199) of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836)
 * [Watched episode 287](https://anilist.co/activity/590196653) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 2](https://anilist.co/activity/589705872) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
 * [Watched episode 3](https://anilist.co/activity/589705704) of [Okashi na Tensei](https://anilist.co/anime/153339)
 * [Watched episode 39](https://anilist.co/activity/589705279) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
-* [Watched episode 45](https://anilist.co/activity/589705197) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 <!-- anilist_activity ends -->
 
 </details>
