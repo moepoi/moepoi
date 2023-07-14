@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 214](https://anilist.co/activity/591236141) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Completed None](https://anilist.co/activity/591233093) of [Shuumatsu no Valkyrie II Part 2](https://anilist.co/anime/165356)
+* [Watched episode 1 - 4](https://anilist.co/activity/591233003) of [Shuumatsu no Valkyrie II Part 2](https://anilist.co/anime/165356)
+* [Watched episode 38](https://anilist.co/activity/591232941) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 5](https://anilist.co/activity/591232882) of [Da Zhuzai](https://anilist.co/anime/134088)
+* [Watched episode 41](https://anilist.co/activity/591232771) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
 * [Watched episode 1](https://anilist.co/activity/591201074) of [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168)
-* [Watched episode 1 - 3](https://anilist.co/activity/591200849) of [Shuumatsu no Valkyrie II Part 2](https://anilist.co/anime/165356)
 * [Completed None](https://anilist.co/activity/591200423) of [Shuumatsu no Valkyrie II](https://anilist.co/anime/138056)
 * [Watched episode 27](https://anilist.co/activity/591200011) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 * [Watched episode 99](https://anilist.co/activity/591199935) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 329](https://anilist.co/activity/591199877) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 37](https://anilist.co/activity/591199853) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [Completed None](https://anilist.co/activity/591199554) of [Fangyu Quan Kai](https://anilist.co/anime/159453)
-* [Completed None](https://anilist.co/activity/590306671) of [Yi Nian Yongheng: Ni Zhan Pian](https://anilist.co/anime/166284)
-* [Watched episode 27](https://anilist.co/activity/590306572) of [Yishi Du Zun](https://anilist.co/anime/166223)
 <!-- anilist_activity ends -->
 
 </details>
