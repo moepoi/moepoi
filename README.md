@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 32 - 35](https://anilist.co/activity/591339316) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
+* [Watched episode 300](https://anilist.co/activity/591338366) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 22](https://anilist.co/activity/591338317) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
+* [Watched episode 227](https://anilist.co/activity/591338232) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 214](https://anilist.co/activity/591236141) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Completed None](https://anilist.co/activity/591233093) of [Shuumatsu no Valkyrie II Part 2](https://anilist.co/anime/165356)
 * [Watched episode 1 - 4](https://anilist.co/activity/591233003) of [Shuumatsu no Valkyrie II Part 2](https://anilist.co/anime/165356)
 * [Watched episode 38](https://anilist.co/activity/591232941) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
 * [Watched episode 5](https://anilist.co/activity/591232882) of [Da Zhuzai](https://anilist.co/anime/134088)
 * [Watched episode 41](https://anilist.co/activity/591232771) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [Watched episode 1](https://anilist.co/activity/591201074) of [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168)
-* [Completed None](https://anilist.co/activity/591200423) of [Shuumatsu no Valkyrie II](https://anilist.co/anime/138056)
-* [Watched episode 27](https://anilist.co/activity/591200011) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
-* [Watched episode 99](https://anilist.co/activity/591199935) of [Wangu Shenhua](https://anilist.co/anime/153418)
 <!-- anilist_activity ends -->
 
 </details>
