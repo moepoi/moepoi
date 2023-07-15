@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 32 - 35](https://anilist.co/activity/591339316) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
-* [Watched episode 300](https://anilist.co/activity/591338366) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 22](https://anilist.co/activity/591338317) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
-* [Watched episode 227](https://anilist.co/activity/591338232) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 214](https://anilist.co/activity/591236141) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Completed None](https://anilist.co/activity/591233093) of [Shuumatsu no Valkyrie II Part 2](https://anilist.co/anime/165356)
-* [Watched episode 1 - 4](https://anilist.co/activity/591233003) of [Shuumatsu no Valkyrie II Part 2](https://anilist.co/anime/165356)
-* [Watched episode 38](https://anilist.co/activity/591232941) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
-* [Watched episode 5](https://anilist.co/activity/591232882) of [Da Zhuzai](https://anilist.co/anime/134088)
-* [Watched episode 41](https://anilist.co/activity/591232771) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
+* [Watched episode 2](https://anilist.co/activity/592000531) of [Temple](https://anilist.co/anime/160447)
+* [Watched episode 3](https://anilist.co/activity/592000449) of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391)
+* [Watched episode 3](https://anilist.co/activity/592000331) of [Liar Liar](https://anilist.co/anime/131863)
+* [Watched episode 2](https://anilist.co/activity/592000271) of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465)
+* [Watched episode 2](https://anilist.co/activity/592000024) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
+* [Watched episode 46](https://anilist.co/activity/591999562) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 21](https://anilist.co/activity/591999418) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
+* [Watched episode 40](https://anilist.co/activity/591999253) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
+* [Watched episode 97](https://anilist.co/activity/591999187) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 5](https://anilist.co/activity/591999038) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 <!-- anilist_activity ends -->
 
 </details>
