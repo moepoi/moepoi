@@ -96,6 +96,7 @@ I'd like to do project that has relation to anime. :ghost:
   
 <!-- favorites_characters starts -->
 * [Mahiru Shiina](https://anilist.co/character/195602)
+* [Mini Yaemori](https://anilist.co/character/153703)
 * [Loo](https://anilist.co/character/293202)
 * [Mukuro Hoshimiya](https://anilist.co/character/157109)
 * [Akari Watanabe](https://anilist.co/character/191672)
@@ -105,7 +106,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Yor Forger](https://anilist.co/character/138102)
 * [Chizuru Ichinose](https://anilist.co/character/128106)
 * [Celia Claire](https://anilist.co/character/161678)
-* [Yuzuriha](https://anilist.co/character/137270)
 * [Kyouko Hori](https://anilist.co/character/66171)
 * [Nagisa Minase](https://anilist.co/character/162885)
 * [Sayu Ogiwara](https://anilist.co/character/127925)
@@ -115,10 +115,10 @@ I'd like to do project that has relation to anime. :ghost:
 * [Angelina Kudou Shields](https://anilist.co/character/128377)
 * [Ninym Ralei](https://anilist.co/character/206374)
 * [Marin Kitagawa](https://anilist.co/character/133676)
-* [Jibril](https://anilist.co/character/87887)
 * [Holo](https://anilist.co/character/7373)
 * [Ayako Kuroba](https://anilist.co/character/200612)
 * [Nepgear](https://anilist.co/character/49927)
+* [Jibril](https://anilist.co/character/87887)
 <!-- favorites_characters ends -->
 
 </details>
