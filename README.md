@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 2](https://anilist.co/activity/593388817) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
+* [Watched episode 2](https://anilist.co/activity/593388776) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
+* [Watched episode 3](https://anilist.co/activity/593388065) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
+* [Watched episode 3](https://anilist.co/activity/593388005) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
+* [Watched episode 4](https://anilist.co/activity/593387959) of [Okashi na Tensei](https://anilist.co/anime/153339)
+* [Watched episode 3](https://anilist.co/activity/593387922) of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836)
+* [Watched episode 2](https://anilist.co/activity/593387705) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
+* [Watched episode 3](https://anilist.co/activity/593387618) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
 * [Watched episode 78 - 79](https://anilist.co/activity/593387133) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 41](https://anilist.co/activity/593386925) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
-* [Watched episode 98](https://anilist.co/activity/593386890) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 4](https://anilist.co/activity/593386849) of [Duo Xuan Shi](https://anilist.co/anime/137676)
-* [Watched episode 21](https://anilist.co/activity/593386636) of [Xingchen Bian: An Xing Jie Pian](https://anilist.co/anime/153494)
-* [Watched episode 23](https://anilist.co/activity/593386548) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
-* [Watched episode 100](https://anilist.co/activity/593386486) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 330](https://anilist.co/activity/593386450) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 228](https://anilist.co/activity/593386438) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 215](https://anilist.co/activity/593386414) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
