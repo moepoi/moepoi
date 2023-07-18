@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 3 - 13](https://anilist.co/activity/593657479) of [Bu Mie Shen Wang](https://anilist.co/anime/129246)
+* [Watched episode 301](https://anilist.co/activity/593656849) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 47](https://anilist.co/activity/593656794) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 2](https://anilist.co/activity/593388817) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
 * [Watched episode 2](https://anilist.co/activity/593388776) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
 * [Watched episode 3](https://anilist.co/activity/593388065) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 4](https://anilist.co/activity/593387959) of [Okashi na Tensei](https://anilist.co/anime/153339)
 * [Watched episode 3](https://anilist.co/activity/593387922) of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836)
 * [Watched episode 2](https://anilist.co/activity/593387705) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
-* [Watched episode 3](https://anilist.co/activity/593387618) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
-* [Watched episode 78 - 79](https://anilist.co/activity/593387133) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 41](https://anilist.co/activity/593386925) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 <!-- anilist_activity ends -->
 
 </details>
