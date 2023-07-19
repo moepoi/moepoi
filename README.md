@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 3](https://anilist.co/activity/594147177) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
+* [Watched episode 29](https://anilist.co/activity/594147141) of [Yishi Du Zun](https://anilist.co/anime/166223)
 * [Watched episode 22](https://anilist.co/activity/593882093) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 288 - 289](https://anilist.co/activity/593881994) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 14](https://anilist.co/activity/593881908) of [Zhe Tian](https://anilist.co/anime/137671)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 47](https://anilist.co/activity/593656794) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 2](https://anilist.co/activity/593388817) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
 * [Watched episode 2](https://anilist.co/activity/593388776) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
-* [Watched episode 3](https://anilist.co/activity/593388065) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
-* [Watched episode 3](https://anilist.co/activity/593388005) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
 <!-- anilist_activity ends -->
 
 </details>
