@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 101](https://anilist.co/activity/594507729) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [Watched episode 29](https://anilist.co/activity/594507703) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
+* [Watched episode 331](https://anilist.co/activity/594507649) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 38](https://anilist.co/activity/594507622) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
 * [Watched episode 3](https://anilist.co/activity/594147177) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
 * [Watched episode 29](https://anilist.co/activity/594147141) of [Yishi Du Zun](https://anilist.co/anime/166223)
 * [Watched episode 22](https://anilist.co/activity/593882093) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 288 - 289](https://anilist.co/activity/593881994) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 14](https://anilist.co/activity/593881908) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 3 - 13](https://anilist.co/activity/593657479) of [Bu Mie Shen Wang](https://anilist.co/anime/129246)
-* [Watched episode 301](https://anilist.co/activity/593656849) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 47](https://anilist.co/activity/593656794) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 2](https://anilist.co/activity/593388817) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
-* [Watched episode 2](https://anilist.co/activity/593388776) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
 <!-- anilist_activity ends -->
 
 </details>
