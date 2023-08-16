@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 6](https://anilist.co/activity/607507035) of [Temple](https://anilist.co/anime/160447)
 * [Watched episode 7](https://anilist.co/activity/607506759) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
 * [Watched episode 7](https://anilist.co/activity/607506676) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
 * [Watched episode 8](https://anilist.co/activity/607506638) of [Okashi na Tensei](https://anilist.co/anime/153339)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 6](https://anilist.co/activity/607506480) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
 * [Watched episode 3](https://anilist.co/activity/607506397) of [Shinigami Bocchan to Kuro Maid 2nd Season](https://anilist.co/anime/139435)
 * [Watched episode 7](https://anilist.co/activity/607506189) of [Liar Liar](https://anilist.co/anime/131863)
-* [Watched episode 6](https://anilist.co/activity/607506150) of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465)
 <!-- anilist_activity ends -->
 
 </details>
