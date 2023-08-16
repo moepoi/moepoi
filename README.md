@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 309](https://anilist.co/activity/607504364) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 55](https://anilist.co/activity/607504173) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 49](https://anilist.co/activity/607503866) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
-* [Watched episode 106](https://anilist.co/activity/607503743) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 8](https://anilist.co/activity/607503691) of [Duo Xuan Shi](https://anilist.co/anime/137676)
-* [Watched episode 87](https://anilist.co/activity/607503638) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 108](https://anilist.co/activity/607503595) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 338](https://anilist.co/activity/607503540) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 236](https://anilist.co/activity/607503465) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 223](https://anilist.co/activity/607503420) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 7](https://anilist.co/activity/607506759) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
+* [Watched episode 7](https://anilist.co/activity/607506676) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
+* [Watched episode 8](https://anilist.co/activity/607506638) of [Okashi na Tensei](https://anilist.co/anime/153339)
+* [Watched episode 7](https://anilist.co/activity/607506598) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
+* [Watched episode 7](https://anilist.co/activity/607506569) of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836)
+* [Watched episode 6](https://anilist.co/activity/607506520) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
+* [Watched episode 6](https://anilist.co/activity/607506480) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
+* [Watched episode 3](https://anilist.co/activity/607506397) of [Shinigami Bocchan to Kuro Maid 2nd Season](https://anilist.co/anime/139435)
+* [Watched episode 7](https://anilist.co/activity/607506189) of [Liar Liar](https://anilist.co/anime/131863)
+* [Watched episode 6](https://anilist.co/activity/607506150) of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465)
 <!-- anilist_activity ends -->
 
 </details>
