@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 42](https://anilist.co/activity/607501819) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
-* [Watched episode 9](https://anilist.co/activity/607501692) of [Da Zhuzai](https://anilist.co/anime/134088)
-* [Watched episode 45](https://anilist.co/activity/607501611) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
-* [Watched episode 41](https://anilist.co/activity/607501418) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
-* [Completed None](https://anilist.co/activity/607500369) of [Xingchen Bian: An Xing Jie Pian](https://anilist.co/anime/153494)
-* [Watched episode 22 - 27](https://anilist.co/activity/607500344) of [Xingchen Bian: An Xing Jie Pian](https://anilist.co/anime/153494)
-* [Plans to watch None](https://anilist.co/activity/607500272) of [Quanzhi Fashi Special: Shenmi Weituo](https://anilist.co/anime/168081)
-* [Completed None](https://anilist.co/activity/607500135) of [Quanzhi Fashi 6](https://anilist.co/anime/137726)
-* [Watched episode 11](https://anilist.co/activity/607500111) of [Quanzhi Fashi 6](https://anilist.co/anime/137726)
-* [Watched episode 2](https://anilist.co/activity/595368407) of [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168)
+* [Watched episode 309](https://anilist.co/activity/607504364) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 55](https://anilist.co/activity/607504173) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 49](https://anilist.co/activity/607503866) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
+* [Watched episode 106](https://anilist.co/activity/607503743) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 8](https://anilist.co/activity/607503691) of [Duo Xuan Shi](https://anilist.co/anime/137676)
+* [Watched episode 87](https://anilist.co/activity/607503638) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 108](https://anilist.co/activity/607503595) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [Watched episode 338](https://anilist.co/activity/607503540) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 236](https://anilist.co/activity/607503465) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 223](https://anilist.co/activity/607503420) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
