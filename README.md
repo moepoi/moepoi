@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/628835522) of [Temple](https://anilist.co/anime/160447)
+* [Completed None](https://anilist.co/activity/628835430) of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391)
+* [Completed None](https://anilist.co/activity/628835287) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
+* [Completed None](https://anilist.co/activity/628834956) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://anilist.co/anime/130588)
+* [Completed None](https://anilist.co/activity/628834739) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
+* [Completed None](https://anilist.co/activity/628834530) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
+* [Completed None](https://anilist.co/activity/628833806) of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465)
+* [Completed None](https://anilist.co/activity/628833647) of [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168)
+* [Watched episode 1 - 3](https://anilist.co/activity/628833506) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
 * [Watched episode 58](https://anilist.co/activity/628832806) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
-* [Completed None](https://anilist.co/activity/628832502) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
-* [Watched episode 11](https://anilist.co/activity/628832390) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
-* [Watched episode 10](https://anilist.co/activity/628832349) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
-* [Completed None](https://anilist.co/activity/628832227) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
-* [Dropped None](https://anilist.co/activity/628832119) of [Shinigami Bocchan to Kuro Maid 2nd Season](https://anilist.co/anime/139435)
-* [Paused watching None](https://anilist.co/activity/628832085) of [Sugar Apple Fairy Tale Part 2](https://anilist.co/anime/163079)
-* [Completed None](https://anilist.co/activity/628832017) of [Liar Liar](https://anilist.co/anime/131863)
-* [Completed None](https://anilist.co/activity/628831897) of [Okashi na Tensei](https://anilist.co/anime/153339)
-* [Completed None](https://anilist.co/activity/628831776) of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836)
 <!-- anilist_activity ends -->
 
 </details>
