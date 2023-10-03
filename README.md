@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/628830893) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
+* [Watched episode 323](https://anilist.co/activity/628830689) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Completed None](https://anilist.co/activity/628830613) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 120](https://anilist.co/activity/628830233) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Completed None](https://anilist.co/activity/628830136) of [Duo Xuan Shi](https://anilist.co/anime/137676)
+* [Watched episode 101](https://anilist.co/activity/628829864) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 39](https://anilist.co/activity/628829117) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
+* [Watched episode 122](https://anilist.co/activity/628828856) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 352](https://anilist.co/activity/628828778) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 1 - 4](https://anilist.co/activity/628828655) of [Xian Ni](https://anilist.co/anime/137653)
-* [Watched episode 1 - 14](https://anilist.co/activity/628828361) of [Mo Zhuang Chuanshuo](https://anilist.co/anime/137665)
-* [Watched episode 250](https://anilist.co/activity/628828125) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 237](https://anilist.co/activity/628827912) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Watched episode 50](https://anilist.co/activity/628827835) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
-* [Completed None](https://anilist.co/activity/628827636) of [Xianwu Zhuan](https://anilist.co/anime/152889)
-* [Watched episode 1 - 34](https://anilist.co/activity/628827324) of [Jian Gu](https://anilist.co/anime/166327)
-* [Watched episode 1 - 14](https://anilist.co/activity/628826786) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
-* [Watched episode 20](https://anilist.co/activity/628826345) of [Gaishi Dizun](https://anilist.co/anime/155321)
 <!-- anilist_activity ends -->
 
 </details>
