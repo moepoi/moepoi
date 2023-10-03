@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 6](https://anilist.co/activity/607507035) of [Temple](https://anilist.co/anime/160447)
-* [Watched episode 7](https://anilist.co/activity/607506759) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
-* [Watched episode 7](https://anilist.co/activity/607506676) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
-* [Watched episode 8](https://anilist.co/activity/607506638) of [Okashi na Tensei](https://anilist.co/anime/153339)
-* [Watched episode 7](https://anilist.co/activity/607506598) of [Masamune-kun no Revenge R](https://anilist.co/anime/146953)
-* [Watched episode 7](https://anilist.co/activity/607506569) of [Lv1 Maou to One Room Yuusha](https://anilist.co/anime/146836)
-* [Watched episode 6](https://anilist.co/activity/607506520) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
-* [Watched episode 6](https://anilist.co/activity/607506480) of [Eiyuu Kyoushitsu](https://anilist.co/anime/139606)
-* [Watched episode 3](https://anilist.co/activity/607506397) of [Shinigami Bocchan to Kuro Maid 2nd Season](https://anilist.co/anime/139435)
-* [Watched episode 7](https://anilist.co/activity/607506189) of [Liar Liar](https://anilist.co/anime/131863)
+* [Watched episode 49](https://anilist.co/activity/628823893) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 16](https://anilist.co/activity/628823836) of [Da Zhuzai](https://anilist.co/anime/134088)
+* [Completed None](https://anilist.co/activity/628823702) of [Wanmei Shijie 3](https://anilist.co/anime/155222)
+* [Watched episode 24](https://anilist.co/activity/628823242) of [Zhe Tian](https://anilist.co/anime/137671)
+* [Watched episode 46](https://anilist.co/activity/628823145) of [Shen Yin Wangzuo 2](https://anilist.co/anime/153499)
+* [Completed None](https://anilist.co/activity/628822731) of [Zhen Yang Wushen](https://anilist.co/anime/155302)
+* [Watched episode 1 - 13](https://anilist.co/activity/628822711) of [Zhen Yang Wushen](https://anilist.co/anime/155302)
+* [Completed None](https://anilist.co/activity/628821931) of [Shi Fang Jian Sheng](https://anilist.co/anime/153478)
+* [Completed None](https://anilist.co/activity/628821617) of [Yong Sheng: Shi Nian Zhi Yue](https://anilist.co/anime/156099)
+* [Completed None](https://anilist.co/activity/628821406) of [Yishi Du Zun](https://anilist.co/anime/166223)
 <!-- anilist_activity ends -->
 
 </details>
