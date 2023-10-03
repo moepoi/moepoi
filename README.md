@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1 - 2](https://anilist.co/activity/628838059) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
+* [Plans to watch None](https://anilist.co/activity/628837100) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
+* [Plans to watch None](https://anilist.co/activity/628837065) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
+* [Plans to watch None](https://anilist.co/activity/628836936) of [Boushoku no Berserk](https://anilist.co/anime/156039)
+* [Plans to watch None](https://anilist.co/activity/628836788) of [Kusuriya no Hitorigoto](https://anilist.co/anime/161645)
+* [Dropped None](https://anilist.co/activity/628836168) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
 * [Completed None](https://anilist.co/activity/628835522) of [Temple](https://anilist.co/anime/160447)
 * [Completed None](https://anilist.co/activity/628835430) of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391)
 * [Completed None](https://anilist.co/activity/628835287) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
 * [Completed None](https://anilist.co/activity/628834956) of [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://anilist.co/anime/130588)
-* [Completed None](https://anilist.co/activity/628834739) of [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://anilist.co/anime/146065)
-* [Completed None](https://anilist.co/activity/628834530) of [Yumemiru Danshi wa Genjitsushugisha](https://anilist.co/anime/157397)
-* [Completed None](https://anilist.co/activity/628833806) of [Level 1 dakedo Unique Skill de Saikyou desu](https://anilist.co/anime/148465)
-* [Completed None](https://anilist.co/activity/628833647) of [Hataraku Maou-sama!! 2nd Season](https://anilist.co/anime/155168)
-* [Watched episode 1 - 3](https://anilist.co/activity/628833506) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
-* [Watched episode 58](https://anilist.co/activity/628832806) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
 <!-- anilist_activity ends -->
 
 </details>
