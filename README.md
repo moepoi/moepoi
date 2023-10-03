@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 58 - 59](https://anilist.co/activity/628856059) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
 * [Watched episode 1 - 16](https://anilist.co/activity/628847846) of [Cang Yuan Tu](https://anilist.co/anime/155244)
 * [Watched episode 1 - 2](https://anilist.co/activity/628838059) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
 * [Plans to watch None](https://anilist.co/activity/628837100) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Dropped None](https://anilist.co/activity/628836168) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
 * [Completed None](https://anilist.co/activity/628835522) of [Temple](https://anilist.co/anime/160447)
 * [Completed None](https://anilist.co/activity/628835430) of [Jitsu wa Ore, Saikyou Deshita?](https://anilist.co/anime/154391)
-* [Completed None](https://anilist.co/activity/628835287) of [Kanojo, Okarishimasu 3rd Season](https://anilist.co/anime/154745)
 <!-- anilist_activity ends -->
 
 </details>
