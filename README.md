@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 36 - 37](https://anilist.co/activity/629213595) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
+* [Watched episode 24 - 25](https://anilist.co/activity/629213543) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 1 - 33](https://anilist.co/activity/628884755) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 1 - 2](https://anilist.co/activity/628883960) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
 * [Watched episode 58 - 59](https://anilist.co/activity/628856059) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/628837100) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 * [Plans to watch None](https://anilist.co/activity/628837065) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
 * [Plans to watch None](https://anilist.co/activity/628836936) of [Boushoku no Berserk](https://anilist.co/anime/156039)
-* [Plans to watch None](https://anilist.co/activity/628836788) of [Kusuriya no Hitorigoto](https://anilist.co/anime/161645)
-* [Dropped None](https://anilist.co/activity/628836168) of [Nanatsu no Maken ga Shihai Suru](https://anilist.co/anime/142598)
 <!-- anilist_activity ends -->
 
 </details>
