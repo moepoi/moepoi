@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/629232830) of [Seijo no Maryoku wa Bannou desu Season 2](https://anilist.co/anime/146206)
 * [Watched episode 310 - 311](https://anilist.co/activity/629227411) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 36 - 37](https://anilist.co/activity/629213595) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 24 - 25](https://anilist.co/activity/629213543) of [Zhe Tian](https://anilist.co/anime/137671)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1 - 16](https://anilist.co/activity/628847846) of [Cang Yuan Tu](https://anilist.co/anime/155244)
 * [Watched episode 1 - 2](https://anilist.co/activity/628838059) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
 * [Plans to watch None](https://anilist.co/activity/628837100) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
-* [Plans to watch None](https://anilist.co/activity/628837065) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
 <!-- anilist_activity ends -->
 
 </details>
