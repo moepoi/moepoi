@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 310 - 311](https://anilist.co/activity/629227411) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 36 - 37](https://anilist.co/activity/629213595) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 24 - 25](https://anilist.co/activity/629213543) of [Zhe Tian](https://anilist.co/anime/137671)
-* [Watched episode 1 - 33](https://anilist.co/activity/628884755) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 <!-- anilist_activity ends -->
 
 </details>
