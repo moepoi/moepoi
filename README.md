@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/629329069) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
+* [Watched episode 11](https://anilist.co/activity/629329062) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
 * [Watched episode 1](https://anilist.co/activity/629246719) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 * [Watched episode 1](https://anilist.co/activity/629238362) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 1](https://anilist.co/activity/629232830) of [Seijo no Maryoku wa Bannou desu Season 2](https://anilist.co/anime/146206)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 24 - 25](https://anilist.co/activity/629213543) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 1 - 33](https://anilist.co/activity/628884755) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 1 - 2](https://anilist.co/activity/628883960) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
-* [Watched episode 58 - 59](https://anilist.co/activity/628856059) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
-* [Watched episode 1 - 16](https://anilist.co/activity/628847846) of [Cang Yuan Tu](https://anilist.co/anime/155244)
 <!-- anilist_activity ends -->
 
 </details>
