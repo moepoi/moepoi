@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/629423932) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
 * [Completed None](https://anilist.co/activity/629329069) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
 * [Watched episode 11](https://anilist.co/activity/629329062) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
 * [Watched episode 1](https://anilist.co/activity/629246719) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 36 - 37](https://anilist.co/activity/629213595) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 24 - 25](https://anilist.co/activity/629213543) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 1 - 33](https://anilist.co/activity/628884755) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
-* [Watched episode 1 - 2](https://anilist.co/activity/628883960) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
 <!-- anilist_activity ends -->
 
 </details>
