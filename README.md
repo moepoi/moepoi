@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/629612501) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
+* [Watched episode 12](https://anilist.co/activity/629612495) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
 * [Watched episode 1](https://anilist.co/activity/629423932) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
 * [Completed None](https://anilist.co/activity/629329069) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
 * [Watched episode 11](https://anilist.co/activity/629329062) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/629238362) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 1](https://anilist.co/activity/629232830) of [Seijo no Maryoku wa Bannou desu Season 2](https://anilist.co/anime/146206)
 * [Watched episode 310 - 311](https://anilist.co/activity/629227411) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 36 - 37](https://anilist.co/activity/629213595) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
-* [Watched episode 24 - 25](https://anilist.co/activity/629213543) of [Zhe Tian](https://anilist.co/anime/137671)
 <!-- anilist_activity ends -->
 
 </details>
