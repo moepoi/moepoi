@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 353](https://anilist.co/activity/629677656) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Completed None](https://anilist.co/activity/629612501) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
 * [Watched episode 12](https://anilist.co/activity/629612495) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
 * [Watched episode 1](https://anilist.co/activity/629423932) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/629246719) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 * [Watched episode 1](https://anilist.co/activity/629238362) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 1](https://anilist.co/activity/629232830) of [Seijo no Maryoku wa Bannou desu Season 2](https://anilist.co/anime/146206)
-* [Watched episode 310 - 311](https://anilist.co/activity/629227411) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
