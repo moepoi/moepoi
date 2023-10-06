@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1 - 13](https://anilist.co/activity/630084107) of [Long Shidai](https://anilist.co/anime/166323)
 * [Watched episode 1](https://anilist.co/activity/630077864) of [Wanmei Shijie 4](https://anilist.co/anime/168131)
 * [Watched episode 50](https://anilist.co/activity/630077618) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
 * [Watched episode 17](https://anilist.co/activity/630077581) of [Da Zhuzai](https://anilist.co/anime/134088)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 21](https://anilist.co/activity/629811298) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 51](https://anilist.co/activity/629811241) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 * [Watched episode 353](https://anilist.co/activity/629677656) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Completed None](https://anilist.co/activity/629612501) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
 <!-- anilist_activity ends -->
 
 </details>
