@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 2](https://anilist.co/activity/630306656) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 * [Watched episode 1](https://anilist.co/activity/630297948) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
 * [Watched episode 1 - 4](https://anilist.co/activity/630213038) of [Emo Faze](https://anilist.co/anime/137666)
 * [Watched episode 40](https://anilist.co/activity/630191479) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1 - 13](https://anilist.co/activity/630084107) of [Long Shidai](https://anilist.co/anime/166323)
 * [Watched episode 1](https://anilist.co/activity/630077864) of [Wanmei Shijie 4](https://anilist.co/anime/168131)
 * [Watched episode 50](https://anilist.co/activity/630077618) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
-* [Watched episode 17](https://anilist.co/activity/630077581) of [Da Zhuzai](https://anilist.co/anime/134088)
 <!-- anilist_activity ends -->
 
 </details>
