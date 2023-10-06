@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 3](https://anilist.co/activity/630063981) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Watched episode 17](https://anilist.co/activity/629821236) of [Cang Yuan Tu](https://anilist.co/anime/155244)
 * [Watched episode 123](https://anilist.co/activity/629814140) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 21](https://anilist.co/activity/629811298) of [Gaishi Dizun](https://anilist.co/anime/155321)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Completed None](https://anilist.co/activity/629612501) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
 * [Watched episode 12](https://anilist.co/activity/629612495) of [Suki na Ko ga Megane wo Wasureta](https://anilist.co/anime/160188)
 * [Watched episode 1](https://anilist.co/activity/629423932) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
-* [Completed None](https://anilist.co/activity/629329069) of [Uchi no Kaisha no Chiisai Senpai no Hanashi](https://anilist.co/anime/155730)
 <!-- anilist_activity ends -->
 
 </details>
