@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 34](https://anilist.co/activity/630653222) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 70](https://anilist.co/activity/630650724) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 15](https://anilist.co/activity/630649653) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 59](https://anilist.co/activity/630552628) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 17](https://anilist.co/activity/630505256) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 * [Watched episode 5](https://anilist.co/activity/630499023) of [Nitian Xie Shen (2023)](https://anilist.co/anime/134095)
 * [Watched episode 1](https://anilist.co/activity/630358806) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-* [Watched episode 1](https://anilist.co/activity/630348174) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
 <!-- anilist_activity ends -->
 
 </details>
