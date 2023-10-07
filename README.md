@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 70](https://anilist.co/activity/630650724) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 15](https://anilist.co/activity/630649653) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 59](https://anilist.co/activity/630552628) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [Completed None](https://anilist.co/activity/630519150) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
 * [Watched episode 38](https://anilist.co/activity/630518938) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 5](https://anilist.co/activity/630499023) of [Nitian Xie Shen (2023)](https://anilist.co/anime/134095)
 * [Watched episode 1](https://anilist.co/activity/630358806) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
 * [Watched episode 1](https://anilist.co/activity/630348174) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
-* [Watched episode 1](https://anilist.co/activity/630336113) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
-* [Completed None](https://anilist.co/activity/630335907) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 <!-- anilist_activity ends -->
 
 </details>
