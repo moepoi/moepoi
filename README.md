@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/630519150) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
+* [Watched episode 38](https://anilist.co/activity/630518938) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 121](https://anilist.co/activity/630507452) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 17](https://anilist.co/activity/630505256) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 * [Watched episode 5](https://anilist.co/activity/630499023) of [Nitian Xie Shen (2023)](https://anilist.co/anime/134095)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/630336113) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
 * [Completed None](https://anilist.co/activity/630335907) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
 * [Watched episode 2](https://anilist.co/activity/630306656) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
-* [Watched episode 1](https://anilist.co/activity/630297948) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
-* [Watched episode 1 - 4](https://anilist.co/activity/630213038) of [Emo Faze](https://anilist.co/anime/137666)
 <!-- anilist_activity ends -->
 
 </details>
