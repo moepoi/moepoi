@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 59](https://anilist.co/activity/630552628) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [Completed None](https://anilist.co/activity/630519150) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
 * [Watched episode 38](https://anilist.co/activity/630518938) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 121](https://anilist.co/activity/630507452) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/630348174) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
 * [Watched episode 1](https://anilist.co/activity/630336113) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
 * [Completed None](https://anilist.co/activity/630335907) of [Tate no Yuusha no Nariagari Season 2](https://anilist.co/anime/111321)
-* [Watched episode 2](https://anilist.co/activity/630306656) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 <!-- anilist_activity ends -->
 
 </details>
