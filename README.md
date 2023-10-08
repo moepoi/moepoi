@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 52](https://anilist.co/activity/631023615) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
+* [Watched episode 22](https://anilist.co/activity/631023107) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 312](https://anilist.co/activity/630998228) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 1](https://anilist.co/activity/630985688) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
 * [Watched episode 102](https://anilist.co/activity/630985557) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 34](https://anilist.co/activity/630653222) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 70](https://anilist.co/activity/630650724) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 15](https://anilist.co/activity/630649653) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
-* [Watched episode 59](https://anilist.co/activity/630552628) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
-* [Completed None](https://anilist.co/activity/630519150) of [Bai Lian Feisheng Lu](https://anilist.co/anime/166217)
 <!-- anilist_activity ends -->
 
 </details>
