@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/631271525) of [Goblin Slayer II](https://anilist.co/anime/129188)
 * [Completed None](https://anilist.co/activity/631259904) of [Goblin Slayer: GOBLIN'S CROWN](https://anilist.co/anime/108623)
 * [Watched episode 2](https://anilist.co/activity/631233164) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 1](https://anilist.co/activity/631232631) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 52](https://anilist.co/activity/631023615) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 * [Watched episode 22](https://anilist.co/activity/631023107) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 312](https://anilist.co/activity/630998228) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 1](https://anilist.co/activity/630985688) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
 <!-- anilist_activity ends -->
 
 </details>
