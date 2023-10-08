@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 15 - 16](https://anilist.co/activity/631108603) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 52](https://anilist.co/activity/631023615) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 * [Watched episode 22](https://anilist.co/activity/631023107) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 312](https://anilist.co/activity/630998228) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/630938231) of [Kikansha no Mahou wa Tokubetsu desu](https://anilist.co/anime/163142)
 * [Watched episode 34](https://anilist.co/activity/630653222) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 70](https://anilist.co/activity/630650724) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 15](https://anilist.co/activity/630649653) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 <!-- anilist_activity ends -->
 
 </details>
