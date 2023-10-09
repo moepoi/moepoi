@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/631482062) of [Megami no Café Terrace](https://anilist.co/anime/154412)
+* [Plans to watch None](https://anilist.co/activity/631481686) of [Megami no Café Terrace 2nd Season](https://anilist.co/anime/166477)
+* [Plans to watch None](https://anilist.co/activity/631481505) of [Tomodachi no Imouto ga Ore ni dake Uzai](https://anilist.co/anime/129195)
 * [Watched episode 1](https://anilist.co/activity/631271525) of [Goblin Slayer II](https://anilist.co/anime/129188)
 * [Completed None](https://anilist.co/activity/631259904) of [Goblin Slayer: GOBLIN'S CROWN](https://anilist.co/anime/108623)
 * [Watched episode 2](https://anilist.co/activity/631233164) of [Boushoku no Berserk](https://anilist.co/anime/156039)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 4](https://anilist.co/activity/631232159) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Plans to watch None](https://anilist.co/activity/631153921) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season](https://anilist.co/anime/170019)
 * [Watched episode 15 - 16](https://anilist.co/activity/631108603) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
-* [Watched episode 52](https://anilist.co/activity/631023615) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
-* [Watched episode 22](https://anilist.co/activity/631023107) of [Gaishi Dizun](https://anilist.co/anime/155321)
-* [Watched episode 312](https://anilist.co/activity/630998228) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 <!-- anilist_activity ends -->
 
 </details>
