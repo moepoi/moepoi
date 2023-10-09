@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/631484091) of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927)
+* [Plans to watch None](https://anilist.co/activity/631483943) of [Rekishi ni Nokoru Akujo ni Naruzo](https://anilist.co/anime/168139)
+* [Plans to watch None](https://anilist.co/activity/631483789) of [Naze Boku no Sekai wo Daremo Oboeteinai no ka?](https://anilist.co/anime/167419)
+* [Plans to watch None](https://anilist.co/activity/631483705) of [Koi wa Futago de Warikirenai](https://anilist.co/anime/167144)
+* [Plans to watch None](https://anilist.co/activity/631483504) of [Jii-san Baa-san Wakagaeru](https://anilist.co/anime/168138)
+* [Plans to watch None](https://anilist.co/activity/631483378) of [Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru](https://anilist.co/anime/168374)
+* [Plans to watch None](https://anilist.co/activity/631483046) of [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season](https://anilist.co/anime/169579)
+* [Plans to watch None](https://anilist.co/activity/631482793) of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/anime/164244)
 * [Completed None](https://anilist.co/activity/631482062) of [Megami no Café Terrace](https://anilist.co/anime/154412)
 * [Plans to watch None](https://anilist.co/activity/631481686) of [Megami no Café Terrace 2nd Season](https://anilist.co/anime/166477)
-* [Plans to watch None](https://anilist.co/activity/631481505) of [Tomodachi no Imouto ga Ore ni dake Uzai](https://anilist.co/anime/129195)
-* [Watched episode 1](https://anilist.co/activity/631271525) of [Goblin Slayer II](https://anilist.co/anime/129188)
-* [Completed None](https://anilist.co/activity/631259904) of [Goblin Slayer: GOBLIN'S CROWN](https://anilist.co/anime/108623)
-* [Watched episode 2](https://anilist.co/activity/631233164) of [Boushoku no Berserk](https://anilist.co/anime/156039)
-* [Watched episode 1](https://anilist.co/activity/631232631) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
-* [Watched episode 4](https://anilist.co/activity/631232159) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
-* [Plans to watch None](https://anilist.co/activity/631153921) of [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season](https://anilist.co/anime/170019)
-* [Watched episode 15 - 16](https://anilist.co/activity/631108603) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 <!-- anilist_activity ends -->
 
 </details>
