@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 252](https://anilist.co/activity/631540138) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 239](https://anilist.co/activity/631540124) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 1 - 5](https://anilist.co/activity/631523288) of [Sousou no Frieren](https://anilist.co/anime/154587)
 * [Plans to watch None](https://anilist.co/activity/631484091) of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927)
 * [Plans to watch None](https://anilist.co/activity/631483943) of [Rekishi ni Nokoru Akujo ni Naruzo](https://anilist.co/anime/168139)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/631483504) of [Jii-san Baa-san Wakagaeru](https://anilist.co/anime/168138)
 * [Plans to watch None](https://anilist.co/activity/631483378) of [Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru](https://anilist.co/anime/168374)
 * [Plans to watch None](https://anilist.co/activity/631483046) of [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season](https://anilist.co/anime/169579)
-* [Plans to watch None](https://anilist.co/activity/631482793) of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/anime/164244)
-* [Completed None](https://anilist.co/activity/631482062) of [Megami no Café Terrace](https://anilist.co/anime/154412)
 <!-- anilist_activity ends -->
 
 </details>
