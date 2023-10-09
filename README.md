@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1](https://anilist.co/activity/631632574) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
 * [Watched episode 5](https://anilist.co/activity/631626867) of [Xian Ni](https://anilist.co/anime/137653)
 * [Watched episode 41](https://anilist.co/activity/631568997) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Watched episode 354](https://anilist.co/activity/631568960) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1 - 5](https://anilist.co/activity/631523288) of [Sousou no Frieren](https://anilist.co/anime/154587)
 * [Plans to watch None](https://anilist.co/activity/631484091) of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927)
 * [Plans to watch None](https://anilist.co/activity/631483943) of [Rekishi ni Nokoru Akujo ni Naruzo](https://anilist.co/anime/168139)
-* [Plans to watch None](https://anilist.co/activity/631483789) of [Naze Boku no Sekai wo Daremo Oboeteinai no ka?](https://anilist.co/anime/167419)
 <!-- anilist_activity ends -->
 
 </details>
