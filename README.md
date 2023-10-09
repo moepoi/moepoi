@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 1 - 5](https://anilist.co/activity/631523288) of [Sousou no Frieren](https://anilist.co/anime/154587)
 * [Plans to watch None](https://anilist.co/activity/631484091) of [One Room, Hi Atari Futsuu, Tenshi Tsuki.](https://anilist.co/anime/169927)
 * [Plans to watch None](https://anilist.co/activity/631483943) of [Rekishi ni Nokoru Akujo ni Naruzo](https://anilist.co/anime/168139)
 * [Plans to watch None](https://anilist.co/activity/631483789) of [Naze Boku no Sekai wo Daremo Oboeteinai no ka?](https://anilist.co/anime/167419)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/631483046) of [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season](https://anilist.co/anime/169579)
 * [Plans to watch None](https://anilist.co/activity/631482793) of [Oroka na Tenshi wa Akuma to Odoru](https://anilist.co/anime/164244)
 * [Completed None](https://anilist.co/activity/631482062) of [Megami no Café Terrace](https://anilist.co/anime/154412)
-* [Plans to watch None](https://anilist.co/activity/631481686) of [Megami no Café Terrace 2nd Season](https://anilist.co/anime/166477)
 <!-- anilist_activity ends -->
 
 </details>
