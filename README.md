@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 124](https://anilist.co/activity/631556850) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 252](https://anilist.co/activity/631540138) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 239](https://anilist.co/activity/631540124) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 1 - 5](https://anilist.co/activity/631523288) of [Sousou no Frieren](https://anilist.co/anime/154587)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/631483705) of [Koi wa Futago de Warikirenai](https://anilist.co/anime/167144)
 * [Plans to watch None](https://anilist.co/activity/631483504) of [Jii-san Baa-san Wakagaeru](https://anilist.co/anime/168138)
 * [Plans to watch None](https://anilist.co/activity/631483378) of [Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimamana Hanayome Seikatsu wo Mankitsu Suru](https://anilist.co/anime/168374)
-* [Plans to watch None](https://anilist.co/activity/631483046) of [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season](https://anilist.co/anime/169579)
 <!-- anilist_activity ends -->
 
 </details>
