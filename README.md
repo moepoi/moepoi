@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 3](https://anilist.co/activity/632186560) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
+* [Watched episode 2](https://anilist.co/activity/632186540) of [Seijo no Maryoku wa Bannou desu Season 2](https://anilist.co/anime/146206)
+* [Watched episode 35](https://anilist.co/activity/632186163) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
+* [Watched episode 4](https://anilist.co/activity/632186030) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
 * [Watched episode 71](https://anilist.co/activity/632133050) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 325](https://anilist.co/activity/632132980) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 3](https://anilist.co/activity/632132938) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
 * [Watched episode 122](https://anilist.co/activity/632132890) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 103](https://anilist.co/activity/632132819) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 3](https://anilist.co/activity/632132767) of [Tunshi Xingkong 4](https://anilist.co/anime/166219)
-* [Watched episode 1](https://anilist.co/activity/631632574) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
-* [Watched episode 5](https://anilist.co/activity/631626867) of [Xian Ni](https://anilist.co/anime/137653)
-* [Watched episode 41](https://anilist.co/activity/631568997) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
-* [Watched episode 354](https://anilist.co/activity/631568960) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
