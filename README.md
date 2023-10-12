@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 53](https://anilist.co/activity/632884370) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 * [Watched episode 18](https://anilist.co/activity/632853578) of [Cang Yuan Tu](https://anilist.co/anime/155244)
 * [Watched episode 125](https://anilist.co/activity/632853559) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 2](https://anilist.co/activity/632603013) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 26](https://anilist.co/activity/632399967) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 3](https://anilist.co/activity/632186560) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
 * [Watched episode 2](https://anilist.co/activity/632186540) of [Seijo no Maryoku wa Bannou desu Season 2](https://anilist.co/anime/146206)
-* [Watched episode 35](https://anilist.co/activity/632186163) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 <!-- anilist_activity ends -->
 
 </details>
