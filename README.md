@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 51](https://anilist.co/activity/633255940) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 18](https://anilist.co/activity/633255906) of [Da Zhuzai](https://anilist.co/anime/134088)
+* [Watched episode 2](https://anilist.co/activity/633255842) of [Wanmei Shijie 4](https://anilist.co/anime/168131)
 * [Watched episode 5](https://anilist.co/activity/632932358) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Watched episode 355](https://anilist.co/activity/632932304) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 53](https://anilist.co/activity/632884370) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 125](https://anilist.co/activity/632853559) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 2](https://anilist.co/activity/632603013) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
 * [Watched episode 2](https://anilist.co/activity/632602934) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-* [Watched episode 39](https://anilist.co/activity/632466196) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
-* [Watched episode 313](https://anilist.co/activity/632466189) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 26](https://anilist.co/activity/632399967) of [Zhe Tian](https://anilist.co/anime/137671)
 <!-- anilist_activity ends -->
 
 </details>
