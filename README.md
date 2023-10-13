@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 14](https://anilist.co/activity/633362887) of [Long Shidai](https://anilist.co/anime/166323)
+* [Watched episode 5](https://anilist.co/activity/633362859) of [Emo Faze](https://anilist.co/anime/137666)
+* [Watched episode 253](https://anilist.co/activity/633362757) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 326](https://anilist.co/activity/633306123) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 240](https://anilist.co/activity/633306117) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 51](https://anilist.co/activity/633255940) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 2](https://anilist.co/activity/633255842) of [Wanmei Shijie 4](https://anilist.co/anime/168131)
 * [Watched episode 5](https://anilist.co/activity/632932358) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Watched episode 355](https://anilist.co/activity/632932304) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 53](https://anilist.co/activity/632884370) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
-* [Watched episode 18](https://anilist.co/activity/632853578) of [Cang Yuan Tu](https://anilist.co/anime/155244)
-* [Watched episode 125](https://anilist.co/activity/632853559) of [Wangu Shenhua](https://anilist.co/anime/153418)
 <!-- anilist_activity ends -->
 
 </details>
