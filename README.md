@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 2](https://anilist.co/activity/633677412) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
 * [Watched episode 2](https://anilist.co/activity/633670912) of [Goblin Slayer II](https://anilist.co/anime/129188)
 * [Watched episode 18](https://anilist.co/activity/633664152) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 * [Watched episode 72](https://anilist.co/activity/633656172) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 42](https://anilist.co/activity/633375810) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Watched episode 14](https://anilist.co/activity/633362887) of [Long Shidai](https://anilist.co/anime/166323)
 * [Watched episode 5](https://anilist.co/activity/633362859) of [Emo Faze](https://anilist.co/anime/137666)
-* [Watched episode 253](https://anilist.co/activity/633362757) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 <!-- anilist_activity ends -->
 
 </details>
