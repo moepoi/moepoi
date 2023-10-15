@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/634201014) of [Qing Lian Jian Xian Zhuan](https://anilist.co/anime/166221)
 * [Watched episode 17 - 18](https://anilist.co/activity/634144259) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 314](https://anilist.co/activity/634128121) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 104](https://anilist.co/activity/634108431) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1](https://anilist.co/activity/633763368) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
 * [Plans to watch None](https://anilist.co/activity/633742587) of [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (Shin Anime)](https://anilist.co/anime/170110)
 * [Watched episode 3](https://anilist.co/activity/633702927) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
-* [Watched episode 60](https://anilist.co/activity/633693054) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 <!-- anilist_activity ends -->
 
 </details>
