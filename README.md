@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 14](https://anilist.co/activity/634106683) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
+* [Watched episode 2](https://anilist.co/activity/634106610) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
 * [Watched episode 36](https://anilist.co/activity/633871685) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 17](https://anilist.co/activity/633871665) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 1](https://anilist.co/activity/633763368) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 60](https://anilist.co/activity/633693054) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [Watched episode 40](https://anilist.co/activity/633693039) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 6](https://anilist.co/activity/633685957) of [Sousou no Frieren](https://anilist.co/anime/154587)
-* [Watched episode 2](https://anilist.co/activity/633677412) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
-* [Watched episode 2](https://anilist.co/activity/633670912) of [Goblin Slayer II](https://anilist.co/anime/129188)
 <!-- anilist_activity ends -->
 
 </details>
