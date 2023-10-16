@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 356](https://anilist.co/activity/634691798) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 6](https://anilist.co/activity/634652061) of [Xian Ni](https://anilist.co/anime/137653)
 * [Watched episode 43](https://anilist.co/activity/634638574) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Watched episode 241](https://anilist.co/activity/634611171) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 6](https://anilist.co/activity/634259277) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Watched episode 23 - 24](https://anilist.co/activity/634256566) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Plans to watch None](https://anilist.co/activity/634240408) of [Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru](https://anilist.co/anime/169582)
-* [Plans to watch None](https://anilist.co/activity/634240314) of [Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru](https://anilist.co/anime/169581)
 <!-- anilist_activity ends -->
 
 </details>
