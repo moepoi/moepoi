@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 241](https://anilist.co/activity/634611171) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 254](https://anilist.co/activity/634609219) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 3](https://anilist.co/activity/634363011) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 2](https://anilist.co/activity/634362972) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/634240314) of [Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru](https://anilist.co/anime/169581)
 * [Plans to watch None](https://anilist.co/activity/634240240) of [Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://anilist.co/anime/169580)
 * [Plans to watch None](https://anilist.co/activity/634240109) of [Zhu Xian 2](https://anilist.co/anime/168132)
-* [Plans to watch None](https://anilist.co/activity/634239998) of [Yi Nian Yongheng 3](https://anilist.co/anime/168104)
 <!-- anilist_activity ends -->
 
 </details>
