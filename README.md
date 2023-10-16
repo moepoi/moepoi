@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 43](https://anilist.co/activity/634638574) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Watched episode 241](https://anilist.co/activity/634611171) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 254](https://anilist.co/activity/634609219) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 3](https://anilist.co/activity/634363011) of [Boushoku no Berserk](https://anilist.co/anime/156039)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/634240408) of [Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru](https://anilist.co/anime/169582)
 * [Plans to watch None](https://anilist.co/activity/634240314) of [Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru](https://anilist.co/anime/169581)
 * [Plans to watch None](https://anilist.co/activity/634240240) of [Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://anilist.co/anime/169580)
-* [Plans to watch None](https://anilist.co/activity/634240109) of [Zhu Xian 2](https://anilist.co/anime/168132)
 <!-- anilist_activity ends -->
 
 </details>
