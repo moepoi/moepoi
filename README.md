@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 4](https://anilist.co/activity/635520924) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
+* [Watched episode 27](https://anilist.co/activity/635520857) of [Zhe Tian](https://anilist.co/anime/137671)
+* [Watched episode 41](https://anilist.co/activity/635520679) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
+* [Watched episode 315](https://anilist.co/activity/635520649) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 37](https://anilist.co/activity/635372084) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 4](https://anilist.co/activity/635064365) of [Tunshi Xingkong 4](https://anilist.co/anime/166219)
 * [Watched episode 105](https://anilist.co/activity/635064293) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 124](https://anilist.co/activity/635064250) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 73](https://anilist.co/activity/635064179) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 4](https://anilist.co/activity/635064104) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
-* [Watched episode 327](https://anilist.co/activity/635064051) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Watched episode 126](https://anilist.co/activity/634748617) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 356](https://anilist.co/activity/634691798) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 6](https://anilist.co/activity/634652061) of [Xian Ni](https://anilist.co/anime/137653)
 <!-- anilist_activity ends -->
 
 </details>
