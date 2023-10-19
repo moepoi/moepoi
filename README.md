@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 3](https://anilist.co/activity/636034612) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
 * [Watched episode 2](https://anilist.co/activity/636018679) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
 * [Watched episode 127](https://anilist.co/activity/636018650) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 25](https://anilist.co/activity/636018624) of [Gaishi Dizun](https://anilist.co/anime/155321)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 15](https://anilist.co/activity/635907995) of [Long Shidai](https://anilist.co/anime/166323)
 * [Plans to watch None](https://anilist.co/activity/635819341) of [Unnamed Memory](https://anilist.co/anime/158709)
 * [Watched episode 3](https://anilist.co/activity/635689520) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
-* [Watched episode 5](https://anilist.co/activity/635670246) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
 <!-- anilist_activity ends -->
 
 </details>
