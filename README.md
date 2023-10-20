@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 4](https://anilist.co/activity/636370938) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
+* [Watched episode 6](https://anilist.co/activity/636370792) of [Emo Faze](https://anilist.co/anime/137666)
+* [Watched episode 44](https://anilist.co/activity/636370763) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
+* [Watched episode 328](https://anilist.co/activity/636370704) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 255](https://anilist.co/activity/636370676) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 242](https://anilist.co/activity/636370655) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Completed None](https://anilist.co/activity/636370615) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
+* [Watched episode 19](https://anilist.co/activity/636370576) of [Da Zhuzai](https://anilist.co/anime/134088)
+* [Watched episode 3](https://anilist.co/activity/636370538) of [Wanmei Shijie 4](https://anilist.co/anime/168131)
 * [Watched episode 3](https://anilist.co/activity/636034612) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-* [Watched episode 2](https://anilist.co/activity/636018679) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
-* [Watched episode 127](https://anilist.co/activity/636018650) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 25](https://anilist.co/activity/636018624) of [Gaishi Dizun](https://anilist.co/anime/155321)
-* [Watched episode 7](https://anilist.co/activity/635946471) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
-* [Watched episode 19](https://anilist.co/activity/635908044) of [Cang Yuan Tu](https://anilist.co/anime/155244)
-* [Watched episode 357](https://anilist.co/activity/635908013) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 15](https://anilist.co/activity/635907995) of [Long Shidai](https://anilist.co/anime/166323)
-* [Plans to watch None](https://anilist.co/activity/635819341) of [Unnamed Memory](https://anilist.co/anime/158709)
-* [Watched episode 3](https://anilist.co/activity/635689520) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
 <!-- anilist_activity ends -->
 
 </details>
