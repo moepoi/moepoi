@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 7](https://anilist.co/activity/636745036) of [Sousou no Frieren](https://anilist.co/anime/154587)
+* [Watched episode 3](https://anilist.co/activity/636744941) of [Goblin Slayer II](https://anilist.co/anime/129188)
 * [Watched episode 74](https://anilist.co/activity/636732566) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 42](https://anilist.co/activity/636732536) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 61](https://anilist.co/activity/636732517) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 7](https://anilist.co/activity/636652893) of [Nitian Xie Shen (2023)](https://anilist.co/anime/134095)
 * [Watched episode 2 - 3](https://anilist.co/activity/636646328) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
 * [Watched episode 3](https://anilist.co/activity/636646129) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
-* [Watched episode 3](https://anilist.co/activity/636646044) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
-* [Watched episode 4](https://anilist.co/activity/636370938) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 <!-- anilist_activity ends -->
 
 </details>
