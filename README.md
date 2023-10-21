@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 2 - 3](https://anilist.co/activity/636646328) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
+* [Watched episode 3](https://anilist.co/activity/636646129) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
+* [Watched episode 3](https://anilist.co/activity/636646044) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
 * [Watched episode 4](https://anilist.co/activity/636370938) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 * [Watched episode 6](https://anilist.co/activity/636370792) of [Emo Faze](https://anilist.co/anime/137666)
 * [Watched episode 44](https://anilist.co/activity/636370763) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 255](https://anilist.co/activity/636370676) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 242](https://anilist.co/activity/636370655) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Completed None](https://anilist.co/activity/636370615) of [Bai Lian Cheng Shen](https://anilist.co/anime/150950)
-* [Watched episode 19](https://anilist.co/activity/636370576) of [Da Zhuzai](https://anilist.co/anime/134088)
-* [Watched episode 3](https://anilist.co/activity/636370538) of [Wanmei Shijie 4](https://anilist.co/anime/168131)
-* [Watched episode 3](https://anilist.co/activity/636034612) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
 <!-- anilist_activity ends -->
 
 </details>
