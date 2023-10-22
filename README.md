@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 4](https://anilist.co/activity/637369763) of [Boushoku no Berserk](https://anilist.co/anime/156039)
+* [Watched episode 3](https://anilist.co/activity/637369735) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
 * [Watched episode 19 - 20](https://anilist.co/activity/637348624) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 8](https://anilist.co/activity/637348602) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Watched episode 26](https://anilist.co/activity/637166357) of [Gaishi Dizun](https://anilist.co/anime/155321)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 15](https://anilist.co/activity/637101161) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
 * [Watched episode 38](https://anilist.co/activity/637101145) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 7](https://anilist.co/activity/636745036) of [Sousou no Frieren](https://anilist.co/anime/154587)
-* [Watched episode 3](https://anilist.co/activity/636744941) of [Goblin Slayer II](https://anilist.co/anime/129188)
-* [Watched episode 74](https://anilist.co/activity/636732566) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 <!-- anilist_activity ends -->
 
 </details>
