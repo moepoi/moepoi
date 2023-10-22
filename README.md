@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 26](https://anilist.co/activity/637166357) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 316](https://anilist.co/activity/637135623) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 106](https://anilist.co/activity/637103058) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 15](https://anilist.co/activity/637101161) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 3](https://anilist.co/activity/636744941) of [Goblin Slayer II](https://anilist.co/anime/129188)
 * [Watched episode 74](https://anilist.co/activity/636732566) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 42](https://anilist.co/activity/636732536) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
-* [Watched episode 61](https://anilist.co/activity/636732517) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 <!-- anilist_activity ends -->
 
 </details>
