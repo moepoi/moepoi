@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 7](https://anilist.co/activity/637685990) of [Xian Ni](https://anilist.co/anime/137653)
+* [Watched episode 358](https://anilist.co/activity/637685832) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 256](https://anilist.co/activity/637685816) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 243](https://anilist.co/activity/637685779) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 4](https://anilist.co/activity/637369763) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 3](https://anilist.co/activity/637369735) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
 * [Watched episode 19 - 20](https://anilist.co/activity/637348624) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 8](https://anilist.co/activity/637348602) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Watched episode 26](https://anilist.co/activity/637166357) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 316](https://anilist.co/activity/637135623) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 106](https://anilist.co/activity/637103058) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 15](https://anilist.co/activity/637101161) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
-* [Watched episode 38](https://anilist.co/activity/637101145) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
-* [Watched episode 7](https://anilist.co/activity/636745036) of [Sousou no Frieren](https://anilist.co/anime/154587)
 <!-- anilist_activity ends -->
 
 </details>
