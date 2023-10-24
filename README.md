@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 5](https://anilist.co/activity/638066145) of [Tunshi Xingkong 4](https://anilist.co/anime/166219)
+* [Watched episode 329](https://anilist.co/activity/638066114) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 107](https://anilist.co/activity/638066078) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
+* [Watched episode 126](https://anilist.co/activity/638066058) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 128](https://anilist.co/activity/637741317) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 7](https://anilist.co/activity/637685990) of [Xian Ni](https://anilist.co/anime/137653)
 * [Watched episode 358](https://anilist.co/activity/637685832) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 256](https://anilist.co/activity/637685816) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 243](https://anilist.co/activity/637685779) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 4](https://anilist.co/activity/637369763) of [Boushoku no Berserk](https://anilist.co/anime/156039)
-* [Watched episode 3](https://anilist.co/activity/637369735) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
-* [Watched episode 19 - 20](https://anilist.co/activity/637348624) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
-* [Watched episode 8](https://anilist.co/activity/637348602) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
-* [Watched episode 26](https://anilist.co/activity/637166357) of [Gaishi Dizun](https://anilist.co/anime/155321)
 <!-- anilist_activity ends -->
 
 </details>
