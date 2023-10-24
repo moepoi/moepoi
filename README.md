@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 75](https://anilist.co/activity/638133102) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 45](https://anilist.co/activity/638133090) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Watched episode 5](https://anilist.co/activity/638072101) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
 * [Watched episode 5](https://anilist.co/activity/638066145) of [Tunshi Xingkong 4](https://anilist.co/anime/166219)
 * [Watched episode 329](https://anilist.co/activity/638066114) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 128](https://anilist.co/activity/637741317) of [Wangu Shenhua](https://anilist.co/anime/153418)
 * [Watched episode 7](https://anilist.co/activity/637685990) of [Xian Ni](https://anilist.co/anime/137653)
 * [Watched episode 358](https://anilist.co/activity/637685832) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 256](https://anilist.co/activity/637685816) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 243](https://anilist.co/activity/637685779) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 <!-- anilist_activity ends -->
 
 </details>
