@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/638502138) of [Saint Seiya](https://anilist.co/anime/1254)
+* [Dropped None](https://anilist.co/activity/638500559) of [Jian Gu](https://anilist.co/anime/166327)
+* [Watched episode 317](https://anilist.co/activity/638500339) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 6](https://anilist.co/activity/638483153) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
 * [Watched episode 43](https://anilist.co/activity/638483121) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 28](https://anilist.co/activity/638450613) of [Zhe Tian](https://anilist.co/anime/137671)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 5](https://anilist.co/activity/638141681) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
 * [Watched episode 75](https://anilist.co/activity/638133102) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 45](https://anilist.co/activity/638133090) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
-* [Watched episode 5](https://anilist.co/activity/638072101) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
-* [Watched episode 5](https://anilist.co/activity/638066145) of [Tunshi Xingkong 4](https://anilist.co/anime/166219)
-* [Watched episode 329](https://anilist.co/activity/638066114) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
