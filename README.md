@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 4](https://anilist.co/activity/638700664) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
+* [Watched episode 3](https://anilist.co/activity/638700640) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
 * [Completed None](https://anilist.co/activity/638502138) of [Saint Seiya](https://anilist.co/anime/1254)
 * [Dropped None](https://anilist.co/activity/638500559) of [Jian Gu](https://anilist.co/anime/166327)
 * [Watched episode 317](https://anilist.co/activity/638500339) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 28](https://anilist.co/activity/638450613) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 39](https://anilist.co/activity/638450585) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 5](https://anilist.co/activity/638141681) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
-* [Watched episode 75](https://anilist.co/activity/638133102) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 45](https://anilist.co/activity/638133090) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 <!-- anilist_activity ends -->
 
 </details>
