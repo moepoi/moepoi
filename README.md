@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 3](https://anilist.co/activity/639426820) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
+* [Watched episode 7](https://anilist.co/activity/639426758) of [Emo Faze](https://anilist.co/anime/137666)
+* [Watched episode 46](https://anilist.co/activity/639426743) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
+* [Watched episode 330](https://anilist.co/activity/639426699) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 257](https://anilist.co/activity/639426679) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
 * [Watched episode 244](https://anilist.co/activity/639270211) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 20](https://anilist.co/activity/639270202) of [Da Zhuzai](https://anilist.co/anime/134088)
 * [Watched episode 4](https://anilist.co/activity/639270151) of [Wanmei Shijie 4](https://anilist.co/anime/168131)
 * [Watched episode 9](https://anilist.co/activity/639270096) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Watched episode 16](https://anilist.co/activity/639270020) of [Long Shidai](https://anilist.co/anime/166323)
-* [Watched episode 129](https://anilist.co/activity/639269933) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 27](https://anilist.co/activity/639269893) of [Gaishi Dizun](https://anilist.co/anime/155321)
-* [Watched episode 4](https://anilist.co/activity/638892555) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-* [Watched episode 20](https://anilist.co/activity/638892519) of [Cang Yuan Tu](https://anilist.co/anime/155244)
-* [Watched episode 359](https://anilist.co/activity/638892396) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 <!-- anilist_activity ends -->
 
 </details>
