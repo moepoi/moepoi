@@ -36,6 +36,9 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Paused watching None](https://anilist.co/activity/639804967) of [Bu Mie Shen Wang](https://anilist.co/anime/129246)
+* [Watched episode 40](https://anilist.co/activity/639804765) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
+* [Watched episode 127](https://anilist.co/activity/639804546) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 76](https://anilist.co/activity/639699976) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 20](https://anilist.co/activity/639685867) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 * [Watched episode 11](https://anilist.co/activity/639685772) of [Dubu Wangu](https://anilist.co/anime/170561)
@@ -43,9 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 4](https://anilist.co/activity/639664834) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
 * [Watched episode 44](https://anilist.co/activity/639664812) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 8](https://anilist.co/activity/639649956) of [Nitian Xie Shen (2023)](https://anilist.co/anime/134095)
-* [Watched episode 62](https://anilist.co/activity/639649885) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
-* [Watched episode 3](https://anilist.co/activity/639426820) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
-* [Watched episode 7](https://anilist.co/activity/639426758) of [Emo Faze](https://anilist.co/anime/137666)
 <!-- anilist_activity ends -->
 
 </details>
