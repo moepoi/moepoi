@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 8](https://anilist.co/activity/639649956) of [Nitian Xie Shen (2023)](https://anilist.co/anime/134095)
+* [Watched episode 62](https://anilist.co/activity/639649885) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [Watched episode 3](https://anilist.co/activity/639426820) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
 * [Watched episode 7](https://anilist.co/activity/639426758) of [Emo Faze](https://anilist.co/anime/137666)
 * [Watched episode 46](https://anilist.co/activity/639426743) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 244](https://anilist.co/activity/639270211) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 20](https://anilist.co/activity/639270202) of [Da Zhuzai](https://anilist.co/anime/134088)
 * [Watched episode 4](https://anilist.co/activity/639270151) of [Wanmei Shijie 4](https://anilist.co/anime/168131)
-* [Watched episode 9](https://anilist.co/activity/639270096) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
-* [Watched episode 16](https://anilist.co/activity/639270020) of [Long Shidai](https://anilist.co/anime/166323)
 <!-- anilist_activity ends -->
 
 </details>
