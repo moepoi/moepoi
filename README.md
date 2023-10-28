@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 76](https://anilist.co/activity/639699976) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 20](https://anilist.co/activity/639685867) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 * [Watched episode 11](https://anilist.co/activity/639685772) of [Dubu Wangu](https://anilist.co/anime/170561)
 * [Watched episode 8](https://anilist.co/activity/639664886) of [Sousou no Frieren](https://anilist.co/anime/154587)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 62](https://anilist.co/activity/639649885) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 * [Watched episode 3](https://anilist.co/activity/639426820) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
 * [Watched episode 7](https://anilist.co/activity/639426758) of [Emo Faze](https://anilist.co/anime/137666)
-* [Watched episode 46](https://anilist.co/activity/639426743) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 <!-- anilist_activity ends -->
 
 </details>
