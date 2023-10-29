@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 21](https://anilist.co/activity/640151472) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
+* [Watched episode 28](https://anilist.co/activity/640151389) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 318](https://anilist.co/activity/640086545) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 4](https://anilist.co/activity/640083008) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
 * [Watched episode 16](https://anilist.co/activity/640082953) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 40](https://anilist.co/activity/639804765) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 127](https://anilist.co/activity/639804546) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 76](https://anilist.co/activity/639699976) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 20](https://anilist.co/activity/639685867) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
-* [Watched episode 11](https://anilist.co/activity/639685772) of [Dubu Wangu](https://anilist.co/anime/170561)
 <!-- anilist_activity ends -->
 
 </details>
