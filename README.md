@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 4](https://anilist.co/activity/640332139) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
+* [Watched episode 5](https://anilist.co/activity/640332009) of [Boushoku no Berserk](https://anilist.co/anime/156039)
+* [Watched episode 21 - 22](https://anilist.co/activity/640331846) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
+* [Watched episode 10](https://anilist.co/activity/640331810) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Watched episode 5](https://anilist.co/activity/640232412) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 * [Plans to watch None](https://anilist.co/activity/640231883) of [Tondemo Skill de Isekai Hourou Meshi 2nd Season](https://anilist.co/anime/170577)
 * [Watched episode 4](https://anilist.co/activity/640162129) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
-* [Watched episode 21](https://anilist.co/activity/640151472) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 28](https://anilist.co/activity/640151389) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 318](https://anilist.co/activity/640086545) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 4](https://anilist.co/activity/640083008) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
-* [Watched episode 16](https://anilist.co/activity/640082953) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
-* [Watched episode 108](https://anilist.co/activity/640082898) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Paused watching None](https://anilist.co/activity/639804967) of [Bu Mie Shen Wang](https://anilist.co/anime/129246)
 <!-- anilist_activity ends -->
 
 </details>
