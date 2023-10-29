@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 4](https://anilist.co/activity/640354805) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
+* [Watched episode 4](https://anilist.co/activity/640354733) of [Goblin Slayer II](https://anilist.co/anime/129188)
 * [Watched episode 4](https://anilist.co/activity/640332139) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
 * [Watched episode 5](https://anilist.co/activity/640332009) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 21 - 22](https://anilist.co/activity/640331846) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Plans to watch None](https://anilist.co/activity/640231883) of [Tondemo Skill de Isekai Hourou Meshi 2nd Season](https://anilist.co/anime/170577)
 * [Watched episode 4](https://anilist.co/activity/640162129) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
 * [Watched episode 28](https://anilist.co/activity/640151389) of [Gaishi Dizun](https://anilist.co/anime/155321)
-* [Watched episode 318](https://anilist.co/activity/640086545) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 4](https://anilist.co/activity/640083008) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
 <!-- anilist_activity ends -->
 
 </details>
