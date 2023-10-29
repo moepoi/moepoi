@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/640231883) of [Tondemo Skill de Isekai Hourou Meshi 2nd Season](https://anilist.co/anime/170577)
 * [Watched episode 4](https://anilist.co/activity/640162129) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
 * [Watched episode 21](https://anilist.co/activity/640151472) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 28](https://anilist.co/activity/640151389) of [Gaishi Dizun](https://anilist.co/anime/155321)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 108](https://anilist.co/activity/640082898) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Paused watching None](https://anilist.co/activity/639804967) of [Bu Mie Shen Wang](https://anilist.co/anime/129246)
 * [Watched episode 40](https://anilist.co/activity/639804765) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
-* [Watched episode 127](https://anilist.co/activity/639804546) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 <!-- anilist_activity ends -->
 
 </details>
