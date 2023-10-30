@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 8](https://anilist.co/activity/640597470) of [Xian Ni](https://anilist.co/anime/137653)
+* [Watched episode 245](https://anilist.co/activity/640597426) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 4](https://anilist.co/activity/640354805) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
 * [Watched episode 4](https://anilist.co/activity/640354733) of [Goblin Slayer II](https://anilist.co/anime/129188)
 * [Watched episode 4](https://anilist.co/activity/640332139) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 10](https://anilist.co/activity/640331810) of [Wan Jie Zhizun 2](https://anilist.co/anime/166410)
 * [Watched episode 5](https://anilist.co/activity/640232412) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 * [Plans to watch None](https://anilist.co/activity/640231883) of [Tondemo Skill de Isekai Hourou Meshi 2nd Season](https://anilist.co/anime/170577)
-* [Watched episode 4](https://anilist.co/activity/640162129) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
-* [Watched episode 28](https://anilist.co/activity/640151389) of [Gaishi Dizun](https://anilist.co/anime/155321)
 <!-- anilist_activity ends -->
 
 </details>
