@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 6](https://anilist.co/activity/641210664) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
+* [Watched episode 41](https://anilist.co/activity/641210600) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Paused watching None](https://anilist.co/activity/641077614) of [Mo Zhuang Chuanshuo](https://anilist.co/anime/137665)
 * [Paused watching None](https://anilist.co/activity/641077578) of [Kikansha no Mahou wa Tokubetsu desu](https://anilist.co/anime/163142)
 * [Watched episode 6](https://anilist.co/activity/641076895) of [Tunshi Xingkong 4](https://anilist.co/anime/166219)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 331](https://anilist.co/activity/641076526) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 6](https://anilist.co/activity/641076429) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
 * [Watched episode 128](https://anilist.co/activity/641076272) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
-* [Watched episode 109](https://anilist.co/activity/641076229) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 47](https://anilist.co/activity/640769618) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 <!-- anilist_activity ends -->
 
 </details>
