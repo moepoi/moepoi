@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Paused watching None](https://anilist.co/activity/641077614) of [Mo Zhuang Chuanshuo](https://anilist.co/anime/137665)
+* [Paused watching None](https://anilist.co/activity/641077578) of [Kikansha no Mahou wa Tokubetsu desu](https://anilist.co/anime/163142)
+* [Watched episode 6](https://anilist.co/activity/641076895) of [Tunshi Xingkong 4](https://anilist.co/anime/166219)
+* [Watched episode 12](https://anilist.co/activity/641076866) of [Dubu Wangu](https://anilist.co/anime/170561)
 * [Watched episode 77](https://anilist.co/activity/641076785) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 331](https://anilist.co/activity/641076526) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 * [Watched episode 6](https://anilist.co/activity/641076429) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
 * [Watched episode 128](https://anilist.co/activity/641076272) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
 * [Watched episode 109](https://anilist.co/activity/641076229) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 47](https://anilist.co/activity/640769618) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
-* [Watched episode 130](https://anilist.co/activity/640769549) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 360](https://anilist.co/activity/640769506) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 258](https://anilist.co/activity/640769441) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 8](https://anilist.co/activity/640597470) of [Xian Ni](https://anilist.co/anime/137653)
 <!-- anilist_activity ends -->
 
 </details>
