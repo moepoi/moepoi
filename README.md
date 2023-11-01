@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Completed None](https://anilist.co/activity/641488827) of [Tensei Shitara Slime Datta Ken: Coleus no Yume](https://anilist.co/anime/161802)
+* [Watched episode 1 - 2](https://anilist.co/activity/641488817) of [Tensei Shitara Slime Datta Ken: Coleus no Yume](https://anilist.co/anime/161802)
 * [Watched episode 29](https://anilist.co/activity/641462169) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 7](https://anilist.co/activity/641462161) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
 * [Watched episode 45](https://anilist.co/activity/641462099) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 6](https://anilist.co/activity/641210664) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
 * [Watched episode 41](https://anilist.co/activity/641210600) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Paused watching None](https://anilist.co/activity/641077614) of [Mo Zhuang Chuanshuo](https://anilist.co/anime/137665)
-* [Paused watching None](https://anilist.co/activity/641077578) of [Kikansha no Mahou wa Tokubetsu desu](https://anilist.co/anime/163142)
-* [Watched episode 6](https://anilist.co/activity/641076895) of [Tunshi Xingkong 4](https://anilist.co/anime/166219)
 <!-- anilist_activity ends -->
 
 </details>
