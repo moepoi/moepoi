@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 7](https://anilist.co/activity/641462161) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
 * [Watched episode 45](https://anilist.co/activity/641462099) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 319](https://anilist.co/activity/641462023) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 2 - 4](https://anilist.co/activity/641235376) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
 <!-- anilist_activity ends -->
 
 </details>
