@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 5](https://anilist.co/activity/642927593) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
 * [Watched episode 5](https://anilist.co/activity/642917558) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
 * [Watched episode 9](https://anilist.co/activity/642917497) of [Sousou no Frieren](https://anilist.co/anime/154587)
 * [Watched episode 5](https://anilist.co/activity/642917416) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 8](https://anilist.co/activity/642916536) of [Emo Faze](https://anilist.co/anime/137666)
 * [Watched episode 78](https://anilist.co/activity/642916463) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
 * [Watched episode 21](https://anilist.co/activity/642916401) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
-* [Watched episode 63](https://anilist.co/activity/642916285) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 <!-- anilist_activity ends -->
 
 </details>
