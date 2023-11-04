@@ -36,15 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 29](https://anilist.co/activity/642915496) of [Gaishi Dizun](https://anilist.co/anime/155321)
-* [Watched episode 361](https://anilist.co/activity/642915446) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Plans to watch None](https://anilist.co/activity/642733838) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V](https://anilist.co/anime/170732)
-* [Watched episode 21](https://anilist.co/activity/641808764) of [Cang Yuan Tu](https://anilist.co/anime/155244)
-* [Watched episode 19](https://anilist.co/activity/641781945) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
-* [Watched episode 5](https://anilist.co/activity/641563229) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-* [Watched episode 5](https://anilist.co/activity/641552625) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
-* [Completed None](https://anilist.co/activity/641488827) of [Tensei Shitara Slime Datta Ken: Coleus no Yume](https://anilist.co/anime/161802)
-* [Watched episode 1 - 2](https://anilist.co/activity/641488817) of [Tensei Shitara Slime Datta Ken: Coleus no Yume](https://anilist.co/anime/161802)
+* [Watched episode 5](https://anilist.co/activity/642917558) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
+* [Watched episode 9](https://anilist.co/activity/642917497) of [Sousou no Frieren](https://anilist.co/anime/154587)
+* [Watched episode 5](https://anilist.co/activity/642917416) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
+* [Watched episode 4](https://anilist.co/activity/642917301) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
+* [Watched episode 23](https://anilist.co/activity/642916784) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
+* [Watched episode 42](https://anilist.co/activity/642916766) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
+* [Watched episode 8](https://anilist.co/activity/642916536) of [Emo Faze](https://anilist.co/anime/137666)
+* [Watched episode 78](https://anilist.co/activity/642916463) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 21](https://anilist.co/activity/642916401) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
+* [Watched episode 63](https://anilist.co/activity/642916285) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
 <!-- anilist_activity ends -->
 
 </details>
