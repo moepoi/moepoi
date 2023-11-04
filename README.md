@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 29](https://anilist.co/activity/642915496) of [Gaishi Dizun](https://anilist.co/anime/155321)
+* [Watched episode 361](https://anilist.co/activity/642915446) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Plans to watch None](https://anilist.co/activity/642733838) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V](https://anilist.co/anime/170732)
 * [Watched episode 21](https://anilist.co/activity/641808764) of [Cang Yuan Tu](https://anilist.co/anime/155244)
 * [Watched episode 19](https://anilist.co/activity/641781945) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
@@ -43,8 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 5](https://anilist.co/activity/641552625) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
 * [Completed None](https://anilist.co/activity/641488827) of [Tensei Shitara Slime Datta Ken: Coleus no Yume](https://anilist.co/anime/161802)
 * [Watched episode 1 - 2](https://anilist.co/activity/641488817) of [Tensei Shitara Slime Datta Ken: Coleus no Yume](https://anilist.co/anime/161802)
-* [Watched episode 29](https://anilist.co/activity/641462169) of [Zhe Tian](https://anilist.co/anime/137671)
-* [Watched episode 7](https://anilist.co/activity/641462161) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
 <!-- anilist_activity ends -->
 
 </details>
