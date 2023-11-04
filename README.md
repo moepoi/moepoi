@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/642733838) of [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V](https://anilist.co/anime/170732)
 * [Watched episode 21](https://anilist.co/activity/641808764) of [Cang Yuan Tu](https://anilist.co/anime/155244)
 * [Watched episode 19](https://anilist.co/activity/641781945) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
 * [Watched episode 5](https://anilist.co/activity/641563229) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
@@ -44,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 1 - 2](https://anilist.co/activity/641488817) of [Tensei Shitara Slime Datta Ken: Coleus no Yume](https://anilist.co/anime/161802)
 * [Watched episode 29](https://anilist.co/activity/641462169) of [Zhe Tian](https://anilist.co/anime/137671)
 * [Watched episode 7](https://anilist.co/activity/641462161) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
-* [Watched episode 45](https://anilist.co/activity/641462099) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 <!-- anilist_activity ends -->
 
 </details>
