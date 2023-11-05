@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 6](https://anilist.co/activity/643315898) of [Boushoku no Berserk](https://anilist.co/anime/156039)
+* [Watched episode 5](https://anilist.co/activity/643315864) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
 * [Watched episode 5](https://anilist.co/activity/643261924) of [Goblin Slayer II](https://anilist.co/anime/129188)
 * [Watched episode 5](https://anilist.co/activity/643252470) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
 * [Watched episode 6](https://anilist.co/activity/643233622) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 20](https://anilist.co/activity/643094893) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
 * [Watched episode 110](https://anilist.co/activity/643094785) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 5](https://anilist.co/activity/642927593) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
-* [Watched episode 5](https://anilist.co/activity/642917558) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
-* [Watched episode 9](https://anilist.co/activity/642917497) of [Sousou no Frieren](https://anilist.co/anime/154587)
 <!-- anilist_activity ends -->
 
 </details>
