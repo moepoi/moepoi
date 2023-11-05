@@ -36,6 +36,8 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 23 - 24](https://anilist.co/activity/643323172) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
+* [Watched episode 29 - 30](https://anilist.co/activity/643323155) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 6](https://anilist.co/activity/643315898) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 5](https://anilist.co/activity/643315864) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
 * [Watched episode 5](https://anilist.co/activity/643261924) of [Goblin Slayer II](https://anilist.co/anime/129188)
@@ -44,8 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 17](https://anilist.co/activity/643094999) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
 * [Watched episode 320](https://anilist.co/activity/643094914) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
 * [Watched episode 20](https://anilist.co/activity/643094893) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
-* [Watched episode 110](https://anilist.co/activity/643094785) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
-* [Watched episode 5](https://anilist.co/activity/642927593) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
 <!-- anilist_activity ends -->
 
 </details>
