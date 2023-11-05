@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 5](https://anilist.co/activity/643252470) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
 * [Watched episode 6](https://anilist.co/activity/643233622) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
 * [Watched episode 17](https://anilist.co/activity/643094999) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
 * [Watched episode 320](https://anilist.co/activity/643094914) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 5](https://anilist.co/activity/642917558) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
 * [Watched episode 9](https://anilist.co/activity/642917497) of [Sousou no Frieren](https://anilist.co/anime/154587)
 * [Watched episode 5](https://anilist.co/activity/642917416) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
-* [Watched episode 4](https://anilist.co/activity/642917301) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
 <!-- anilist_activity ends -->
 
 </details>
