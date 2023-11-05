@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 17](https://anilist.co/activity/643094999) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
+* [Watched episode 320](https://anilist.co/activity/643094914) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [Watched episode 20](https://anilist.co/activity/643094893) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
+* [Watched episode 110](https://anilist.co/activity/643094785) of [Wushen Zhuzai: Da Wei Pian](https://anilist.co/anime/155723)
 * [Watched episode 5](https://anilist.co/activity/642927593) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
 * [Watched episode 5](https://anilist.co/activity/642917558) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
 * [Watched episode 9](https://anilist.co/activity/642917497) of [Sousou no Frieren](https://anilist.co/anime/154587)
 * [Watched episode 5](https://anilist.co/activity/642917416) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
 * [Watched episode 4](https://anilist.co/activity/642917301) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
 * [Watched episode 23](https://anilist.co/activity/642916784) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
-* [Watched episode 42](https://anilist.co/activity/642916766) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
-* [Watched episode 8](https://anilist.co/activity/642916536) of [Emo Faze](https://anilist.co/anime/137666)
-* [Watched episode 78](https://anilist.co/activity/642916463) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 21](https://anilist.co/activity/642916401) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
 <!-- anilist_activity ends -->
 
 </details>
