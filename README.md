@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 9](https://anilist.co/activity/643686713) of [Xian Ni](https://anilist.co/anime/137653)
+* [Watched episode 132](https://anilist.co/activity/643686595) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [Watched episode 362](https://anilist.co/activity/643686570) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [Watched episode 260](https://anilist.co/activity/643686522) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 247](https://anilist.co/activity/643686464) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
 * [Watched episode 23 - 24](https://anilist.co/activity/643323172) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
 * [Watched episode 29 - 30](https://anilist.co/activity/643323155) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 6](https://anilist.co/activity/643315898) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 5](https://anilist.co/activity/643315864) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
 * [Watched episode 5](https://anilist.co/activity/643261924) of [Goblin Slayer II](https://anilist.co/anime/129188)
-* [Watched episode 5](https://anilist.co/activity/643252470) of [Kanojo mo Kanojo Season 2](https://anilist.co/anime/154692)
-* [Watched episode 6](https://anilist.co/activity/643233622) of [Ojou to Banken-kun](https://anilist.co/anime/155527)
-* [Watched episode 17](https://anilist.co/activity/643094999) of [Dou Po Cangqiong: Nian Fan 2](https://anilist.co/anime/168163)
-* [Watched episode 320](https://anilist.co/activity/643094914) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 20](https://anilist.co/activity/643094893) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
 <!-- anilist_activity ends -->
 
 </details>
