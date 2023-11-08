@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 9](https://anilist.co/activity/643686713) of [Xian Ni](https://anilist.co/anime/137653)
-* [Watched episode 132](https://anilist.co/activity/643686595) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 362](https://anilist.co/activity/643686570) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 260](https://anilist.co/activity/643686522) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [Watched episode 247](https://anilist.co/activity/643686464) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [Watched episode 23 - 24](https://anilist.co/activity/643323172) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
-* [Watched episode 29 - 30](https://anilist.co/activity/643323155) of [Gaishi Dizun](https://anilist.co/anime/155321)
-* [Watched episode 6](https://anilist.co/activity/643315898) of [Boushoku no Berserk](https://anilist.co/anime/156039)
-* [Watched episode 5](https://anilist.co/activity/643315864) of [Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo](https://anilist.co/anime/162694)
-* [Watched episode 5](https://anilist.co/activity/643261924) of [Goblin Slayer II](https://anilist.co/anime/129188)
+* [Watched episode 7](https://anilist.co/activity/644498560) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
+* [Watched episode 5](https://anilist.co/activity/644498481) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
+* [Watched episode 30](https://anilist.co/activity/644498162) of [Zhe Tian](https://anilist.co/anime/137671)
+* [Watched episode 47](https://anilist.co/activity/644498143) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
+* [Watched episode 8](https://anilist.co/activity/644498035) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
+* [Watched episode 321](https://anilist.co/activity/644497997) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [Watched episode 43](https://anilist.co/activity/644497881) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
+* [Watched episode 14](https://anilist.co/activity/644497850) of [Dubu Wangu](https://anilist.co/anime/170561)
+* [Watched episode 79](https://anilist.co/activity/644497822) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 7](https://anilist.co/activity/644497789) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
 <!-- anilist_activity ends -->
 
 </details>
