@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 22](https://anilist.co/activity/644897985) of [Cang Yuan Tu](https://anilist.co/anime/155244)
+* [Watched episode 31](https://anilist.co/activity/644897955) of [Gaishi Dizun](https://anilist.co/anime/155321)
+* [Watched episode 133](https://anilist.co/activity/644897919) of [Wangu Shenhua](https://anilist.co/anime/153418)
+* [Watched episode 363](https://anilist.co/activity/644897894) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 6](https://anilist.co/activity/644809878) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
 * [Watched episode 21](https://anilist.co/activity/644627989) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
 * [Watched episode 49](https://anilist.co/activity/644504878) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
 * [Watched episode 7](https://anilist.co/activity/644498560) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
 * [Watched episode 5](https://anilist.co/activity/644498481) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
 * [Watched episode 30](https://anilist.co/activity/644498162) of [Zhe Tian](https://anilist.co/anime/137671)
-* [Watched episode 47](https://anilist.co/activity/644498143) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
-* [Watched episode 8](https://anilist.co/activity/644498035) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
-* [Watched episode 321](https://anilist.co/activity/644497997) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 43](https://anilist.co/activity/644497881) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 <!-- anilist_activity ends -->
 
 </details>
