@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 6](https://anilist.co/activity/644920566) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-* [Watched episode 22](https://anilist.co/activity/644897985) of [Cang Yuan Tu](https://anilist.co/anime/155244)
-* [Watched episode 31](https://anilist.co/activity/644897955) of [Gaishi Dizun](https://anilist.co/anime/155321)
-* [Watched episode 133](https://anilist.co/activity/644897919) of [Wangu Shenhua](https://anilist.co/anime/153418)
-* [Watched episode 363](https://anilist.co/activity/644897894) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [Watched episode 6](https://anilist.co/activity/644809878) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
-* [Watched episode 21](https://anilist.co/activity/644627989) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
-* [Watched episode 49](https://anilist.co/activity/644504878) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
-* [Watched episode 7](https://anilist.co/activity/644498560) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
-* [Watched episode 5](https://anilist.co/activity/644498481) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
+* [Watched episode 48](https://anilist.co/activity/645609231) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
+* [Watched episode 131](https://anilist.co/activity/645609217) of [Wan Jie Duzun 2](https://anilist.co/anime/153777)
+* [Watched episode 10](https://anilist.co/activity/645609199) of [Nitian Xie Shen (2023)](https://anilist.co/anime/134095)
+* [Watched episode 50](https://anilist.co/activity/645609152) of [Jiu Tian Xuan Di Jue 4](https://anilist.co/anime/166325)
+* [Watched episode 15](https://anilist.co/activity/645609111) of [Dubu Wangu](https://anilist.co/anime/170561)
+* [Watched episode 9](https://anilist.co/activity/645609095) of [Emo Faze](https://anilist.co/anime/137666)
+* [Watched episode 334](https://anilist.co/activity/645609063) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
+* [Watched episode 261](https://anilist.co/activity/645609022) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [Watched episode 248](https://anilist.co/activity/645608997) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [Watched episode 22](https://anilist.co/activity/645608969) of [Da Zhuzai](https://anilist.co/anime/134088)
 <!-- anilist_activity ends -->
 
 </details>
