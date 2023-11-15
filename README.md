@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Watched episode 7](https://anilist.co/activity/647505185) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
+* [Watched episode 7](https://anilist.co/activity/647505127) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
+* [Watched episode 8](https://anilist.co/activity/647505071) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
+* [Watched episode 7](https://anilist.co/activity/647505017) of [Boushoku no Berserk](https://anilist.co/anime/156039)
+* [Watched episode 6](https://anilist.co/activity/647504870) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
+* [Watched episode 6](https://anilist.co/activity/647504827) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
 * [Watched episode 22 - 23](https://anilist.co/activity/647504323) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
 * [Watched episode 49](https://anilist.co/activity/647504257) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
 * [Watched episode 45](https://anilist.co/activity/647504236) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
 * [Watched episode 9](https://anilist.co/activity/647504210) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
-* [Watched episode 322 - 323](https://anilist.co/activity/647504140) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
-* [Watched episode 31](https://anilist.co/activity/647503988) of [Zhe Tian](https://anilist.co/anime/137671)
-* [Watched episode 16](https://anilist.co/activity/647503931) of [Dubu Wangu](https://anilist.co/anime/170561)
-* [Watched episode 8](https://anilist.co/activity/647503913) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
-* [Watched episode 81](https://anilist.co/activity/647503874) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 335](https://anilist.co/activity/647503523) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
