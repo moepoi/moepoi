@@ -36,16 +36,16 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
-* [Watched episode 6](https://anilist.co/activity/645758041) of [Hametsu no Oukoku](https://anilist.co/anime/160900)
-* [Watched episode 6](https://anilist.co/activity/645757869) of [Tate no Yuusha no Nariagari Season 3](https://anilist.co/anime/111322)
-* [Watched episode 5](https://anilist.co/activity/645757775) of [Dr. STONE: NEW WORLD Part 2](https://anilist.co/anime/162670)
-* [Watched episode 25](https://anilist.co/activity/645757712) of [Wu Ying Sanqian Dao 2](https://anilist.co/anime/166588)
-* [Watched episode 80](https://anilist.co/activity/645757656) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
-* [Watched episode 44](https://anilist.co/activity/645757467) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
-* [Watched episode 10](https://anilist.co/activity/645609755) of [Sousou no Frieren](https://anilist.co/anime/154587)
-* [Watched episode 64](https://anilist.co/activity/645609445) of [Bing Huo Mo Chu 2](https://anilist.co/anime/155325)
-* [Watched episode 22](https://anilist.co/activity/645609349) of [Douluo Dalu 2: Jueshi Tangmen](https://anilist.co/anime/137683)
-* [Watched episode 48](https://anilist.co/activity/645609231) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
+* [Watched episode 22 - 23](https://anilist.co/activity/647504323) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
+* [Watched episode 49](https://anilist.co/activity/647504257) of [Zhenwu Dianfeng 2](https://anilist.co/anime/155322)
+* [Watched episode 45](https://anilist.co/activity/647504236) of [Wu Xing Zhan Shen](https://anilist.co/anime/166446)
+* [Watched episode 9](https://anilist.co/activity/647504210) of [Xiuluo Wu Shen](https://anilist.co/anime/137674)
+* [Watched episode 322 - 323](https://anilist.co/activity/647504140) of [Jueshi Wu Hun](https://anilist.co/anime/122521)
+* [Watched episode 31](https://anilist.co/activity/647503988) of [Zhe Tian](https://anilist.co/anime/137671)
+* [Watched episode 16](https://anilist.co/activity/647503931) of [Dubu Wangu](https://anilist.co/anime/170561)
+* [Watched episode 8](https://anilist.co/activity/647503913) of [Aoshi Jiu Chong Tian](https://anilist.co/anime/156075)
+* [Watched episode 81](https://anilist.co/activity/647503874) of [Lian Qi Shiwan Nian](https://anilist.co/anime/165524)
+* [Watched episode 335](https://anilist.co/activity/647503523) of [Ling Jian Zun 4](https://anilist.co/anime/120272)
 <!-- anilist_activity ends -->
 
 </details>
