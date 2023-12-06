@@ -36,6 +36,7 @@ I'd like to do project that has relation to anime. :ghost:
 <summary>:bar_chart: Recent Anilist Activity</summary>
   
 <!-- anilist_activity starts -->
+* [Plans to watch None](https://anilist.co/activity/656105379) of [Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season](https://anilist.co/anime/171110)
 * [Watched episode 23](https://anilist.co/activity/647759142) of [Cang Yuan Tu](https://anilist.co/anime/155244)
 * [Watched episode 32 - 33](https://anilist.co/activity/647759068) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 364 - 365](https://anilist.co/activity/647759051) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
@@ -45,7 +46,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 7](https://anilist.co/activity/647505017) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 6](https://anilist.co/activity/647504870) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
 * [Watched episode 6](https://anilist.co/activity/647504827) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
-* [Watched episode 22 - 23](https://anilist.co/activity/647504323) of [Honghuang Ling Zun](https://anilist.co/anime/170656)
 <!-- anilist_activity ends -->
 
 </details>
