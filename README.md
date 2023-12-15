@@ -45,7 +45,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 8](https://anilist.co/activity/647505071) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
 * [Watched episode 7](https://anilist.co/activity/647505017) of [Boushoku no Berserk](https://anilist.co/anime/156039)
 * [Watched episode 6](https://anilist.co/activity/647504870) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
-* [Watched episode 6](https://anilist.co/activity/647504827) of [Hikikomari Kyuuketsuki no Monmon](https://anilist.co/anime/159808)
 <!-- anilist_activity ends -->
 
 </details>
