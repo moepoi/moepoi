@@ -44,7 +44,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 7](https://anilist.co/activity/647505127) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
 * [Watched episode 8](https://anilist.co/activity/647505071) of [Seiken Gakuin no Maken Tsukai](https://anilist.co/anime/140501)
 * [Watched episode 7](https://anilist.co/activity/647505017) of [Boushoku no Berserk](https://anilist.co/anime/156039)
-* [Watched episode 6](https://anilist.co/activity/647504870) of [SPY×FAMILY Season 2](https://anilist.co/anime/158927)
 <!-- anilist_activity ends -->
 
 </details>
