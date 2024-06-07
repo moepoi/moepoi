@@ -41,7 +41,6 @@ I'd like to do project that has relation to anime. :ghost:
 * [Watched episode 32 - 33](https://anilist.co/activity/647759068) of [Gaishi Dizun](https://anilist.co/anime/155321)
 * [Watched episode 364 - 365](https://anilist.co/activity/647759051) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
 * [Watched episode 7](https://anilist.co/activity/647505185) of [Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu](https://anilist.co/anime/154214)
-* [Watched episode 7](https://anilist.co/activity/647505127) of [Kage no Jitsuryokusha ni Naritakute! 2nd season](https://anilist.co/anime/161964)
 <!-- anilist_activity ends -->
 
 </details>
